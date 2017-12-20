@@ -86,7 +86,7 @@ translate german day2_01_tig_802e162a:
 translate german day2_01_tig_26107995:
 
     # tig laugh_1 "\"All right, all right, come on.\" "
-    tig laugh_1 "\"Alles klar, alles klar. Komm schon.\" " 
+    tig laugh_1 "\"Alles klar. Komm schon.\" " 
 
 # game/script/03_day2.rpy:49
 translate german day2_01_tig_d9767d80:
@@ -117,129 +117,131 @@ translate german day2_01_tig_b553a230:
 
     # b "But right here, is a strong chest to lean against, while his fur warms me in the crisp spring morning. "
     # b "It's almost enough to forget the way he almost crushed me last night. "
-    b ""
+    b "Es ist genug, um beinahe zu vergessen die Art die er mich letzte Nacht beinahe zerdrückt hatte. "
 
 # game/script/03_day2.rpy:59
 translate german day2_01_tig_d6ccaa64:
 
     # avt "\"A-{w=0.5}All right. I'm fine. It's okay.\" "
-    avt ""
+    avt "\"S-{w=0.5}Schon gut. Mir geht es gut. Es ist okay.\" "
 
 # game/script/03_day2.rpy:61
 translate german day2_01_tig_e9b6f83b:
 
     # b "I gently push him away. "
-    b ""
+    b "Sachte stoße ich ihn von mir weg. "
 
 # game/script/03_day2.rpy:69
 translate german day2_01_tig_1fe9ed7a:
 
     # lpdcat confused "\"Aww... {w=0.5}What's going on, Liao?\" "
-    lpdcat confused ""
+    lpdcat confused "\"Uhm... {w=0.5}Was ist hier los, Liao?\" "
 
 # game/script/03_day2.rpy:71
 translate german day2_01_tig_2940c3f4:
 
     # b "Senpai sits up in his bed, looking sleepily. It seems like we just woke him up. "
-    b ""
+    b "Senpai setzt sich sich auf seinem Bett. Er sieht müde aus und es liegt wahrscheinlich daran, dass wir ihn gerade geweckt haben. "
 
 # game/script/03_day2.rpy:73
 translate german day2_01_tig_5ed12fbc:
 
     # lpdcat confused "\"What are you guys doing? You're so lovey-dovey.  Hell, what time is it...\" "
-    lpdcat confused ""
+    lpdcat confused "\"Was macht ihr da? Ihr seid so entzückend. Wartet mal, welche Uhrzeit haben wir...?\" "
 
 # game/script/03_day2.rpy:75
 translate german day2_01_tig_7f14f811:
 
     # b "Senpai looks for his mobile, and I pick up mine. "
-    b ""
+    b "Senpai sucht nach seinem Handy und nahm dann meinen. "
 
 # game/script/03_day2.rpy:77
 translate german day2_01_tig_f7f49483:
 
     # b "It's ten o'clock, wow... {w=0.5}I can't believe I woke up this late. I must have been exhausted last night. "
-    b ""
+    b "Es ist zehn Uhr morgens, wow... {w=0.5}Ich kann nicht glauben, dass ich so spät aufgestanden bin. Ich muss bestimmt ziemlich erschöpft gewesen sein letzte Nacht. "
 
 # game/script/03_day2.rpy:79
 translate german day2_01_tig_cfcf6aac:
 
     # avt "\"...Morning Senpai. It's ten o'clock.\" "
-    avt ""
+    avt "\"...Guten Morgen Senpai. Es ist zehn Uhr.\" "
 
 # game/script/03_day2.rpy:81
 translate german day2_01_tig_c71df00e:
 
     # lpdcat confused "\"Ten? That's early...{w=0.5} Let me get back to bed...\" "
-    lpdcat confused ""
+    lpdcat confused "\"Zehn? Das ist früh...{w=0.5} Lasst mich wieder ins Bett gehen...\" "
 
 # game/script/03_day2.rpy:94
 translate german day2_01_tig_59ece71f:
 
     # b "What?! I know a lot of people skip morning classes on Monday, but you can't say ten o'clock is \"early\"! "
-    b ""
+    b "Was?! Ich weiß viele Leute schwänzen den morgigen Unterricht am Montag, aber du kannst nicht sagen, dass zehn Uhr zu \"früh\" sei! "
 
 # game/script/03_day2.rpy:97
 translate german day2_01_tig_20834865:
 
     # avt "\"...Sleep until whenever you want, I'm gonna get up.\" "
-    avt ""
+    avt "\"...Schlafe lange, wann immer du willst. Ich werde aufstehen.\" "
 
 # game/script/03_day2.rpy:104
 translate german day2_01_tig_951e65bc:
 
     # b "the tiger moves out of the way to let me off the bed. Then I suddenly notice the leopard standing in front of my desk. "
     # b "When did he wake up? Why would he be staring at me like that? "
-    b ""
+    b "Der Tiger geht zur Seite, damit er mich von meinem Bett aufstehen lassen kann. Dann bemerke ich schließlich, dass der Nebelparder vor meinem Schreibtisch steht. "
+    b "Wann ist der denn bitte aufgestanden? Warum würde er so auf mich starren? "
 
 # game/script/03_day2.rpy:106
 translate german day2_01_tig_37d9d6a8:
 
     # avt "\"Uhh... {w=0.5}Morning.\" "
-    avt ""
+    avt "\"Umm... {w=0.5}Morgen.\" "
 
 # game/script/03_day2.rpy:111
 translate german day2_01_tig_5a3f878e:
 
     # lpd normal "\"Good morning.\" "
-    lpd normal ""
+    lpd normal "\"Guten Morgen.\" "
 
 # game/script/03_day2.rpy:114
 translate german day2_01_tig_33f58ee4:
 
     # tig normal "\"*cough* Good morning Liao.\" "
-    tig normal ""
+    tig normal "\"*hustet* Guten Morgen Liao.\" "
 
 # game/script/03_day2.rpy:118
 translate german day2_01_tig_2a843fce:
 
     # b "I just had to slap the tiger in the belly to get him to reply. It was pretty rude but damn, his rock-solid abs hurt my hand. "
-    b ""
+    b "Ich musste den Tiger auf den Bauch schlagen, um ihn daran zu erinnern. Es war ziemlich gemein, aber sein steinharter Waschbrettbauch tut verdammt meiner Hand weh. "
 
 # game/script/03_day2.rpy:120
 translate german day2_01_tig_8e9fa87f:
 
     # lpdcat none "Mmmm...{w=0.5} Five more pieces... "
-    lpdcat none ""
+    lpdcat none "Mmmm...{w=0.5} Noch fünf weitere Stücke... "
 
 # game/script/03_day2.rpy:122
 translate german day2_01_tig_c3c6844f:
 
     # b "What the hell is he dreaming about? "
-    b ""
+    b "Was zur Hölle träumt er denn gerade? "
 
 # game/script/03_day2.rpy:136
 translate german day2_01_lpd_78fc9f0d:
 
     # b "I turn myself over unconsciously. "
-    b ""
+    b "Ich drehe mich unbewusst um. "
 
 # game/script/03_day2.rpy:138
 translate german day2_01_lpd_f47aca0a:
 
     # b "It's a cold morning. Before opening my eyes, I curl up under my quilt and try to get closer to the wall. "
     # b "However, instead of the wall, I feel something soft. I try to push it away, but it keeps moving back. "
-    b ""
+    b "Es ist ein kalter Morgen. Bevor ich meine Augen öffnete, mache ich es mir gemütlich unter meiner Bettdecke und versuche näher an die Wand zu kommen. "
+    b "Wie auch immer, statt der Wand spüre ich irgendetwas Weiches. Ich versuche es wegzustoßen, aber es bewegt sich wieder zurück. "
 
 # game/script/03_day2.rpy:140
 translate german day2_01_lpd_430f85ee:
