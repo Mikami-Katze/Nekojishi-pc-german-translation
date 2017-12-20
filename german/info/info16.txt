@@ -1,6 +1,9 @@
-氣
+Chi
 
-　　「氣」是中國古代的哲學概念，指產生和構成天體萬物的基本元素。
-　　在概念上，萬事萬物的本質都是氣，但在用語習慣上，因為物質的部份可觸可見，大部分語言脈絡在使用「氣」的時候，指的都是「物理上不存在的部分」，或「不可見的部分」。中醫理論中的氣指維持生命活動的基本要素，而不同於人體的組織器官，便是一個很好的例子。
-　　本遊戲中，「氣」可以理解成「構成事物的能量」，可見的事物是由「氣」所構成，不可見的事物如神明、妖怪，一樣是「氣」所構成。可見的事物除了物質組成以外，仍然有一小部份不可見的氣存在於其中，只是相較於可見部份的能量，不可見部份的能量極其微小。有點像是食物的香味，就算香味被抽走了，對食物本身的影響也微乎其微。
-　　也因此，即使神明吸收了人類無法感知的氣，對物理世界的食物（也就是人類能感知到的氣）也不會造成什麼變化。
+Chi (lit. "breath", "air", or "gas") represents "material energy" in traditional Chinese culture.
+
+Simply speaking, Chi is believed to be an active principle forming a part of every living thing. However, in some theories, Chi is actually the basic substance that forms everything, which implies a traditional opinion in Chinese culture that everything has life.
+
+In this case, both "visible things" and "invisible things" are made of Chi. So are gods and spirits. But normally when people talk about Chi, they mean energies that imperceptible by humans.
+
+Therefore, when gods consume Chi from foods, ordinary people don't notice anything.
