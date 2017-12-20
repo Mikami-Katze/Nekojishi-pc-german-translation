@@ -30,7 +30,7 @@ translate german day2_01_tig_8b8ad312:
 translate german day2_01_tig_c7ad99e2:
 
     # b "I can't really enjoy the view while being suffocated. I muster the strength to move my head and tap on my guardian tiger's arm. "
-    b "Ich kann nicht wirklich die Ansicht genießen, wenn ich daran beginne zu ersticken. Ich sammle meine Kraft, um meinen Kopf zu bewegen und dem Wächtertiger gegen seinen Arm zuschlagen. "
+    b "Ich kann nicht wirklich die Ansicht genießen, wenn ich daran beginne zu ersticken. Ich sammle meine Kraft, um meinen Kopf zu bewegen und dem Wächtertiger gegen seinen Arm zuschlagen zu können. "
 
 # game/script/03_day2.rpy:18
 translate german day2_01_tig_9682e8a9:
@@ -92,7 +92,7 @@ translate german day2_01_tig_26107995:
 translate german day2_01_tig_d9767d80:
 
     # b "\"I cough while trying to control my breathing. Then the guardian tiger pulls me into his chest and pats me on the back.\" " with hshake
-    b "\"Ich huste währendessen ich versuche meinen Atem zu kontrollieren. Dann zieht mich der Wächtertiger zu sich an seine Bruste und klopft mir dann hinten auf den Nacken.\" " with hshake
+    b "\"Ich huste währendessen ich versuche meinen Atem zu kontrollieren. Dann zieht mich der Wächtertiger zu sich an seine Brust und klopft mir dann hinten auf den Nacken.\" " with hshake
 
 # game/script/03_day2.rpy:51
 translate german day2_01_tig_1f9ede78:
@@ -153,7 +153,7 @@ translate german day2_01_tig_5ed12fbc:
 translate german day2_01_tig_7f14f811:
 
     # b "Senpai looks for his mobile, and I pick up mine. "
-    b "Senpai sucht nach seinem Handy und nahm dann meinen. "
+    b "Senpai sucht nach seinem Handy und dann nahm ich meinen. "
 
 # game/script/03_day2.rpy:77
 translate german day2_01_tig_f7f49483:
@@ -215,7 +215,7 @@ translate german day2_01_tig_33f58ee4:
 translate german day2_01_tig_2a843fce:
 
     # b "I just had to slap the tiger in the belly to get him to reply. It was pretty rude but damn, his rock-solid abs hurt my hand. "
-    b "Ich musste den Tiger auf den Bauch schlagen, um ihn daran zu erinnern. Es war ziemlich gemein, aber sein steinharter Waschbrettbauch tut verdammt meiner Hand weh. "
+    b "Ich musste den Tiger auf den Bauch schlagen, um ihn daran zu erinnern. Es war ziemlich gemein, aber sein steinharter Waschbrettbauch tut meiner Hand verdammt weh. "
 
 # game/script/03_day2.rpy:120
 translate german day2_01_tig_8e9fa87f:
@@ -227,7 +227,7 @@ translate german day2_01_tig_8e9fa87f:
 translate german day2_01_tig_c3c6844f:
 
     # b "What the hell is he dreaming about? "
-    b "Was zur Hölle träumt er denn gerade? "
+    b "Was zur Hölle träumt er da gerade? "
 
 # game/script/03_day2.rpy:136
 translate german day2_01_lpd_78fc9f0d:
@@ -240,7 +240,7 @@ translate german day2_01_lpd_f47aca0a:
 
     # b "It's a cold morning. Before opening my eyes, I curl up under my quilt and try to get closer to the wall. "
     # b "However, instead of the wall, I feel something soft. I try to push it away, but it keeps moving back. "
-    b "Es ist ein kalter Morgen. Bevor ich meine Augen öffnete, mache ich es mir gemütlich unter meiner Bettdecke und versuche näher an die Wand zu kommen. "
+    b "Es ist ein kalter Morgen. Bevor ich meine Augen öffnete, mache ich es mir gemütlich unter meiner Bettdecke und versuche mich der Wand zu nähern. "
     b "Wie auch immer, statt der Wand spüre ich irgendetwas Weiches. Ich versuche es wegzustoßen, aber es bewegt sich wieder zurück. "
 
 # game/script/03_day2.rpy:140
