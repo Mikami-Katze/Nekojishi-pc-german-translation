@@ -74,43 +74,43 @@ translate german day2_01_tig_c566adb4:
 translate german day2_01_tig_4ec05a5a:
 
     # tig laugh_2 "\"I am so sorry. I forgot you can actually feel me now... {w=0.5}So I just laid down like usual.\" "
-    tig laugh_2 ""
+    tig laugh_2 "\"Ich entschuldige mich. Ich vergaß, dass du mich tatsächlich jetzt spüren kannst... {w=0.5}Also lag ich wie üblich so.\" "
 
 # game/script/03_day2.rpy:45
 translate german day2_01_tig_802e162a:
 
     # b "\"So he's' been sleeping on me all this time? Even if I couldn't feel him before, It's kind of a miracle that I'm not dead already!\" "
-    b ""
+    b "\"Also hat er die ganze Zeit auf mich geschlafen, auch wenn ich ihn vorhin nicht gespürt habe? Es ist eine Art Wunder, dass ich nicht schon längst tot bin.\" "
 
 # game/script/03_day2.rpy:47
 translate german day2_01_tig_26107995:
 
     # tig laugh_1 "\"All right, all right, come on.\" "
-    tig laugh_1 ""
+    tig laugh_1 "\"Alles klar, alles klar. Komm schon.\" " 
 
 # game/script/03_day2.rpy:49
 translate german day2_01_tig_d9767d80:
 
     # b "\"I cough while trying to control my breathing. Then the guardian tiger pulls me into his chest and pats me on the back.\" " with hshake
-    b "" with hshake
+    b "\"Ich huste währendessen ich versuche meinen Atem zu kontrollieren. Dann zieht mich der Wächtertiger zu sich an seine Bruste und klopft mir dann hinten auf den Nacken.\" " with hshake
 
 # game/script/03_day2.rpy:51
 translate german day2_01_tig_1f9ede78:
 
     # b "\"I feel like such a kid, the way he strokes the back of my neck with his fluffy hand.\" "
-    b ""
+    b "\" Ich fühle mich wie ein Kind, die Art wie er von hinten auf meinen Nacken klopft mit seiner flauschigen Hand.\" "
 
 # game/script/03_day2.rpy:53
 translate german day2_01_tig_c519f38b:
 
     # b "I take a deep breath. It's an exotic smell that melts into the atmosphere around his body. "
-    b ""
+    b "Ich atme tief ein. Es ist ein exotischer Duft, welches die Atmosphäre um seinen Körper herum zum Schmelzen bringt. "
 
 # game/script/03_day2.rpy:55
 translate german day2_01_tig_c547cd66:
 
     # b "So this is the smell of my guardian tiger? It's so incredible to think that he's standing in front of me when I know he doesn't physically exist. "
-    b ""
+    b "Also das ist der Geruch von meinem Wächtertiger? Es ist so unglaubhaft zu denken, dass er vor mir steht, wenn ich weiß, dass er physikalisch garnicht existiert. "
 
 # game/script/03_day2.rpy:57
 translate german day2_01_tig_b553a230:
