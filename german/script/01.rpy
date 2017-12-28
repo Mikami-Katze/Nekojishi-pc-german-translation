@@ -4,178 +4,179 @@
 translate german start_22088c7d:
 
     # b "With heavy footsteps I clamber up the staircase to my apartment, exhausted and out of breath. "
-    avt "Erschöpft und außer Atem steige ich die Treppen mit schweren Schritten hinauf zur meine Wohnung."
+    avt "Erschöpft und außer Atem steige ich mit schweren Schritten die Treppen hinauf zu meiner Wohnung."
 
 # game/script/01.rpy:676
 translate german start_962737b4:
 
     # b "Just a few more steps..."
-    b "Nur noch ein paar Schritte mehr..."
+    b "Nur noch ein paar Schritte..."
 
 # game/script/01.rpy:678
 translate german start_192da5bd:
 
     # b "Eventually I reach the top where my door greets me. With relief I drop my backpack to the floor and search for my keys. "
     # b "Hmm... {w=0.5}where are they? I reach into my jeans to no avail. Probably still in my bag then... "
-    b "Letzendlich schaffe ich es nach oben wo mich meine Tür begrüßt. Mit Erleichterung lasse ich meinen Rucksack auf dem Flur fallen und suche nach meinen Schlüsseln."
-    b "Hmm... {w=0.5}wo sind sie denn? Ich greife in meine Hosentaschen rein, jedoch ohne Erfolg. Wahrscheinlich sind sie noch in meinem Rucksack drinnen..."
+    b "Letzendlich schaffe ich es nach oben, wo mich meine Tür begrüßt. Mit Erleichterung lasse ich meinen Rucksack auf dem Flur fallen und suche nach meinem Schlüssel."
+    b "Hmm... {w=0.5}Wo sind sie denn? Ich greife in meine Hosentaschen, jedoch ohne Erfolg. Wahrscheinlich sind sie noch in meinem Rucksack..."
 
 # game/script/01.rpy:679
 translate german start_46435378:
 
     # b " Alright, that's it! "
-    b "In Ordnung, da ist mein Hausschlüssel!"
+    b "In Ordnung, da ist er!"
 
 # game/script/01.rpy:680
 translate german start_1df83b50:
 
     # b "Barely able to stay awake, I manage to unlock the door. Thankfully doing so without scraping the key all over the place. "
-    b "Kaum fähig wach zu bleiben, versuche ich die Tür aufzuschließen. Zum Glück ohne gegen das Schloß zu kratzen."
+    b "Kaum in der Lage wach zu bleiben, schaffe ich, die Tür aufzuschließen. Zum Glück, ohne gegen das Schloss zu kratzen."
 
 # game/script/01.rpy:681
 translate german start_c80771cd:
 
     # b "I've been so tired after the performance tonight. "
     # b "I stand there and close my eyes for a moment... They're too heavy to open. So for now,  I don't... "
-    b "Ich bin so müde nach der Performance von heute Abend."
-    b "Ich stehe da und schließe für einen Moment lang meine Augen... Sie sind so schwer zu öffnen. Also, für jetzt mache ich es nicht...
+    b "Ich bin so müde nach dem Auftritt von heute Abend."
+    b "Ich stehe da und schließe für einen Moment lang meine Augen... Sie sind so schwer zu öffnen. Also mach ich es erstmal nicht..."
 
 # game/script/01.rpy:682
 translate german start_4f25f75b:
 
     # b "Did the performance stress me out too much? "
-    b "Hat mich diese Performance von heute Abend so sehr gestresst? "
+    b "Hat mich der Auftritt so sehr gestresst?"
 
 # game/script/01.rpy:684
 translate german start_cbb76b19:
 
     # b "Everyone else was still there celebrating our success. But I had no other choice but to go home. "
-    b "Jeder andere war noch da und feierte unseren Erfolg. Aber ich hatte keine Wahl als nach Hause zu gehen."
+    b "Alle anderen waren noch da und feierten unseren Erfolg. Aber ich hatte keine Wahl, als nach Hause zu gehen."
 
 # game/script/01.rpy:685
 translate german start_2eb5e9db:
 
     # b "It sucks that I can't hang out with the crew after how well everything went tonight... "
     # b "The excitement in everyone's faces was heart-warming. Even if I only worked behind the scenes,  I could feel it too. "
-    b "Es nervt mich, dass ich nicht mit der Crew rumhängen kann, nachdem alles so gut lief heute Abend..."
-    b "Die Aufregung von jedermanns Gesicht war herzerwärmend. Auch wenn ich nur hinter den Kulissen getanzt habe, konnte ich es ebenso spüren."
+    b "Es nervt mich, dass ich nicht mit der Crew rumhängen kann, nachdem heute Abend alles so gut lief ..."
+    b "Die Aufregung in ihren Gesichtern war herzerwärmend. Auch wenn ich nur hinter den Kulissen getanzt habe, konnte ich es ebenso spüren."
 
 # game/script/01.rpy:686
 translate german start_cc6cf19b:
 
     # b "If only it didn't tire me out so much... {w=0.5}I could fall asleep any moment now. "
     # b "Luckily, my bed is merely a few steps ahead of me..."
-    b ""
-
+    b "Wenn es mich nur nicht so müde gemacht hätte... {w=0.5}Ich könnte jeden Moment einschlafen. "
+    b "Zum Glück ist mein Bett nur ein paar Schritte entfernt..." 
 # game/script/01.rpy:697
 translate german start_8f77473c:
 
     # b "Huh? Who's there? "
-    b ""
+    b "Hm? Wer ist das?"
 
 # game/script/01.rpy:705
 translate german start_b00429df:
 
     # b "I blink. "
-    b ""
+    b "Ich blinzle."
 
 # game/script/01.rpy:706
 translate german start_aad233e5:
 
     # b "What the?! On my bed, right now, there's a tiger sitting there! And he's reading one of my books! "
-    b ""
+    b "Was zur?! Auf meinem Bett sitzt ein Tiger! Und er liest einer meiner Bücher!"
 
 # game/script/01.rpy:707
 translate german start_edabf58d:
 
     # b "What... {w=0.5}What's happening? Am I hallucinating? What the hell is this?"
-    b ""
+    b "Was...{w=0.5}Was passiert hier? Halluziniere ich? Was zur Hölle geht ab?"
 
 # game/script/01.rpy:710
 translate german start_8e2b03de:
 
     # b "My grip loosens and my bag slips to the floor, landing with a thud. "
-    b ""
+    b "Mein Griff lockert sich und meine Tasche fällt geräuschvoll zu Boden. "
 
 # game/script/01.rpy:712
 translate german start_0a76f1c2:
 
     # avt "\"You... {w=0.5}You're...\" "
-    avt ""
+    avt "\"Du... {w=0.5}Du bist...\" "
 
 # game/script/01.rpy:714
 translate german start_af31c65b:
 
     # tig normal "\"Liao? Is there something wrong?...{w=0.5} Can you see me?\" "
-    tig normal ""
+    tig normal "\"Liao? Ist alles in Ordnung?...{w=0.5} Kannst du mich sehen?\" "
 
 # game/script/01.rpy:716
 translate german start_d82b9833:
 
     # b "He can talk?!{w=0.5} And he said Liao... he knows my name? "
-    b ""
+    b "Er kann sprechen?!{w=0.5} Und er hat Liao gesagt... Er kennt meinen Namen? "
 
 # game/script/01.rpy:718
 translate german start_4f48d8b9:
 
     # avt "\"You...{w=0.5} What are you? \" "
-    avt ""
+    avt "\"Du...{w=0.5} Was bist du? \" "
 
 # game/script/01.rpy:722
 translate german start_e46d3cda:
 
     # tig frown "\"How rude of you to ask  \"what\"  I am... {w=0.5}I am the {font=tl/None/NotoSansCJKtc-Bold.otf}guardian tiger{/font} of your family! Hmm... {w=0.5}you don't recognize me, do you?\" "
-    tig frown ""
+    tig frown "\"Wie unhöflich von dir zu fragen, \"was\" ich bin... {w=0.5} Ich bin der {font=tl/None/NotoSansCJKtc-Bold.otf}Wächter-Tiger{/font} deiner Familie! Hmm... {w=0.5}Du erkennst mich nicht wieder, oder?\" "
 
 # game/script/01.rpy:724
 translate german start_b2de64c5:
 
     # b "Guar... guardian tiger?     "
-    b ""
+    b "Wächt-... Wächter-Tiger?"
 
 # game/script/01.rpy:726
 translate german start_37a13961:
 
     # b "Well... {w=0.5}we do have a guardian tiger in my family. Actually... {w=0.5}I should say 'guardian tigers'. After all, I was born into a family of {font=tl/None/NotoSansCJKtc-Bold.otf}Jitong{/font}. But I've never seen a real guardian tiger before that's for sure!     "
-    b ""
+    b "Nun... {w=0.5}Wir haben einen Wächter-Tiger in meiner Familie. Eigentlich... {w=0.5}Ich sollte von mehreren 'Wächter-Tigern' sprechen. Immerhin bin ich der Sohn einer Familie von {font=tl/None/NotoSansCJKtc-Bold.otf}Jitong{/font}. Aber ich habe ganz sicher noch nie einen echten gesehen!"
 
 # game/script/01.rpy:727
 translate german start_5bd40f3a:
 
     # b "Sure, I've seen a lot of tiger statues, but a living, speaking, muscular guardian tiger?"
     # b "How is this even possible! Aren't guardian tigers considered gods? Even if they exist, they wouldn't be visible to naked eyes... {w=0.5}right? "
-    b ""
-
+    b "Ich meine, ich habe schon viele Tiger Statuen gesehen, aber ein lebendiger, sprechender, muskulöser Wächter-Tiger?"
+    b "Wie ist das überhaupt möglich? Sind Wächter-Tiger nicht wie Götter? Selbst wenn es sie wirklich gibt, wären sie für das bloße Auge unsichtbar... {w=0.5}oder? "
 # game/script/01.rpy:729
 translate german start_c8b200ac:
 
     # avt "\"Sorry, I don't recgonize you... \" "
-    avt ""
+    avt "\"Tut mir leid, aber ich kenne dich nicht...\" " 
 
 # game/script/01.rpy:731
 translate german start_b548db8d:
 
     # tig normal "\"But, how is it that you are able to see me all of a sudden? Such feats used to be beyond your spirit power.\" "
-    tig normal ""
+    tig normal "\"Aber, wie kann es sein, das du mich auf einmal sehen kannst? Solche Taten waren dir wegen deiner Geist-Kraft nicht möglich.\" "
 
 # game/script/01.rpy:733
 translate german start_943d416f:
 
     # avt "\"I'm just as confused as you are...\" "
-    avt ""
+    avt "\"ich bin genau so verwirrt wie du...\" "
 
 # game/script/01.rpy:735
 translate german start_50022975:
 
     # b "I really want to figure this out... {w=0.5}So he said he \"used to be invisible\"... "
     # b "Does that mean he's been here the whole time? "
-    b ""
+    b "Ich möchte das wirklich verstehen... {w=0.5} Er sagte, er \"war unsichtbar\"..."
+    b "Bedeutet das, dass er die ganze Zeit hier war? " 
 
 # game/script/01.rpy:736
 translate german start_c5bd6627:
 
     # b "Now that I think about it... I did bring a small tiger statue to Taipei. Could that be him? "
-    b ""
+    b "Jetzt, wo ich darüber nachdenke... Ich habe eine kleine Tiger Statue nach Tapei mitgebracht. Ist das er? " 
 
 # game/script/01.rpy:737
 translate german start_7a03bfc1:
@@ -183,19 +184,19 @@ translate german start_7a03bfc1:
     # b "Although I've been raised in family of Jitong mediums, this is the first time I've seen any spirits... "
     # b "So, if he's a real guardian tiger... How come I can see him all of a sudden? "
     # b "I can't believe this is happening to me! "
-    b ""
-
+    b "Obwohl ich in einer Familie von Jitong Medien aufgewachsen bin, ist das das erste Mal, das ich Geister sehe... "
+    b "Also, falls er ein echter Wächter-Tiger ist... Warum kann ich ihn auf einmal sehen? "
+    b "Ich kann nicht fassen, dass mir das hier passiert! "
 # game/script/01.rpy:739
 translate german start_22c914b4:
 
     # tig normal "\"Liao, did you not have that aboriginal dance performance today? Do you suppose something happened to you there?\" "
-    tig normal ""
-
+    tig normal "\"Liao, du hattest doch heute eine Aufführung? Glaubst du, dir könnte da etwas geschehen sein?"
 # game/script/01.rpy:741
 translate german start_c3ebe9e3:
 
     # avt "\"Ahh... {w=0.5}I don't know...\" "
-    avt ""
+    avt "\Ähh... {w=0.5}Ich weiß nicht...\" "
 
 # game/script/01.rpy:745
 translate german start_2ac158c9:
