@@ -5,335 +5,338 @@ translate german week1_01_16c1ee1c:
 
     # b "When I wake up the next day, I feel a similar warmth next to me."
     # b "Looks like the same big cat is sleeping next to me... "
-    b ""
-
+    b "Als ich am nächsten Tag wach wurde, spürte ich eine mir bekannte Wärme neben mir. "
+    b "Sieht immernoch nach der gleichen Katze aus, die neben mir schläft... "
 # game/script/04_week1.rpy:11
 translate german week1_01_b85d4f87:
 
     # b "I'm glad they didn't make a drama over it last night. "
     # b "It's about time for me to leave, so I get up out of bed and get ready to go to class... "
-    b ""
+    b "I bin froh dass sie die Nacht kein Drama daraus gemacht haben. "
+    b "Es wird Zeit für den Unterricht, also stehe ich auf und mache mich bereit..."
 
 # game/script/04_week1.rpy:18
 translate german week1_01_7109c66b:
 
     # tig normal "\"Liao, Wait a minute! You need to wear more. It's chilly outside today.\" "
-    tig normal ""
+    tig normal "\"Liao, warte kurz! Du musst dir mehr anziehen. Es ist Heute kühl draußen.\" "
 
 # game/script/04_week1.rpy:20
 translate german week1_01_268965a1:
 
     # avt "\"What? Nah, it's not necessary. I'll be fine with what I had on yesterday.\" "
-    avt ""
+    avt "\" Was? Nein, das ist nicht notwendig. Mir reicht das, was ich Gestern anhatte.\" "
 
 # game/script/04_week1.rpy:22
 translate german week1_01_e04c0e72:
 
     # tig frown "\"It is necessary, you went out past noon yesterday. It is much colder this morning.\" "
-    tig frown ""
+    tig frown "\"Es ist notwendig, du bist Gestern nachmittags losgegangen. Es ist viel kälter Morgens.\" "
 
 # game/script/04_week1.rpy:24
 translate german week1_01_f07976e9:
 
     # avt "\"Well... {w=0.5}I don't have to. Even Senpai is wearing even less than me.\" "
-    avt ""
+    avt "\"Nun... {w=0.5}Ich muss es nicht. Selbst Senpai trägt weniger als ich.\" "
 
 # game/script/04_week1.rpy:31
 translate german week1_01_579bfefc:
 
     # lpdcat normal "\"Yeah, Liao's right! We're young! We can handle the cold!\" "
-    lpdcat normal ""
+    lpdcat normal "\"Genau Liao! Wir sind jung! Wir kommen damit klar!\" "
 
 # game/script/04_week1.rpy:33
 translate german week1_01_d3ef246c:
 
     # tig frown "\"Huh- who cares about that kitten. Even with the power of a guardian tiger, he'll still catch a cold. But you're different from him, you're under my protection.\" "
-    tig frown ""
+    tig frown "\"Hö- wen interesiert das Kätzchen. Selbst mit der Kraft eines Wächtertigers wird er sich eine Erkältung holen. Aber du bist anders als er, du stehst unter meinem Schutz.\" "
 
 # game/script/04_week1.rpy:36
 translate german week1_01_ca5a034a:
 
     # lpdcat angry "\"Don't call me a kitten!\" " with vpunch
-    lpdcat angry "" with vpunch
+    lpdcat angry "\"Nenn mich nicht Kätzchen!\" " with vpunch
 
 # game/script/04_week1.rpy:38
 translate german week1_01_41bdf8f9:
 
     # avt "\"Well... {w=0.5}You're still with me right?\" "
-    avt ""
+    avt "\"Nun... {w=0.5}Du bist du schützt mich doch, oder?\" "
 
 # game/script/04_week1.rpy:40
 translate german week1_01_d52e19ac:
 
     # tig normal "\"Even if I may be able to protect you from catching a cold, but I can't make your body stronger.\" "
     # tig normal "\"Liao, you're a good kid, but a few more garments won't hurt.\" "
-    tig normal ""
+    tig normal "\"Selbst wenn ich dazu in der Lage wäre, kann ich deinen Körper nicht stärker machen.\" "
+    tig normal "\"Liao, du bist ein guter Junge, aber etwas mehr Kleidung würde nicht schaden.\" "
 
 # game/script/04_week1.rpy:42
 translate german week1_01_e9433691:
 
     # avt "\"Jeez, you don't need to treat me like a kid... {w=0.5}Fine, I'll put something on.\" "
-    avt ""
+    avt "\"Och man, du musst mich nicht wie ein Kind behandeln... {w=0.5}Schön, ich zieh mir noch was drüber.\" "
 
 # game/script/04_week1.rpy:50
 translate german week1_01_82b82f07:
 
     # b "I can't argue with him. So I end up putting on a thick coat over what I was going to wear. "
-    b ""
+    b "I kann nicht mit darum streiten. Also geb ich nach und ziehe mir eine dicke Jacke drüber. "
 
 # game/script/04_week1.rpy:52
 translate german week1_01_a2941021:
 
     # b "Even though I don't think it's necessary, the fur inside the coat makes me feel warm. I can already tell I'll be hot after walking in it for a while... "
-    b ""
+    b "Auch wenn ich nicht denke dass es notwendig ist, wärmt mich das Fell im Inneren der Jacke. Ich weis jetzt schon dass mir schnell darin heiß wird... "
 
 # game/script/04_week1.rpy:54
 translate german week1_01_62550607:
 
     # avt "\"OK, I'm heading out now.\" "
-    avt ""
+    avt "\"OK, ich mache mich nun los.\" "
 
 # game/script/04_week1.rpy:58
 translate german week1_01_c2d153be:
 
     # b "I grab my backpack and open the door. As you could guess, all three of the big cats follow suit."
-    b ""
+    b "Ich greife meinen Rucksack und öffne die Tür. Wie man sich denken konnte, folgen mir alle drei Katzen."
 
 # game/script/04_week1.rpy:64
 translate german week1_01_c35d05e6:
 
     # b "Once I made it to class, I sat down and things got started. At least the tiger and Leopard haven't got into any fights so far today. "
-    b ""
+    b "Als ich es zur Schule geschafft hatte, saß ich da und es ging los. Zumindest der Tiger und Leopard haben sich den Tag bisher noch keine Kämpfe geliefert."
 
 # game/script/04_week1.rpy:66
 translate german week1_01_18746a46:
 
     # b "Maybe my harsh words yesterday got through to them... The Guardian Tiger is sitting in the corner, looking grumpy. "
     # b "Yup, he may not be happy about it, but he's not planning a flight. "
-    b ""
+    b "Vielleicht haben sie meine strengen Worte Gestern ernst genommen... Der Wächtertiger sitzt in der Ecke und schaut mürrisch. "
 
 # game/script/04_week1.rpy:68
 translate german week1_01_8be4e828:
 
     # b "The Clouded Leopard sits next to me and fully concentrates on teacher's lecture. He's taking it more seriously than Senpai, who's just absorbed on his phone. "
-    b ""
+    b "Der Nebelparder sitzt neben mir und ist auf die Vorlesung des Lehrers fokussiert. Er nimmt die Sache ernster als Senpai, der nur in sein Smartphone vertieft ist. "
 
 # game/script/04_week1.rpy:70
 translate german week1_01_758ce164:
 
     # b "...I'm sure he wouldn't understand the lecture, so why is he's paying attention? "
-    b ""
+    b "...I bin mir sicher dass er die Vorlesung nicht verstehen würde, also warum achtet er darauf? "
 
 # game/script/04_week1.rpy:72
 translate german week1_01_f1b4ff92:
 
     # b "Maybe he's trying to learn some Mandarin from the lesson? "
-    b ""
+    b "Vielleicht versucht er etwas Mandarin zu verstehen? "
 
 # game/script/04_week1.rpy:74
 translate german week1_01_f72f9ca3:
 
     # b "That's not good... This is college level stuff, the words the teacher uses are way too advanced. I hope he's not learning some strange words from this... "
-    b ""
+    b "Das ist nicht gut... das ist College Zeug, die Wörter die der Lehrer verwendet sind viel zu fortgeschritten. Ich hoffe dass er keine komischen Wörter aufschnappt... "
 
 # game/script/04_week1.rpy:83
 translate german week1_01_cb76f767:
 
     # b "During the lunch break we head to the cafeteria. Even though Senpai is pushing me for lunch at a restaurant, I promised to get Guardian Tiger a hamburger today. "
-    b ""
+    b "Während der Essenspause gingen wir zur Cafeteria. Auch wenn Senpai mich fürs Essen in einem Restaurant drängt, habe ich dem Wächtertiger versprochen, ihm Heute einen Hamburger zu holen. "
 
 # game/script/04_week1.rpy:91
 translate german week1_01_64130389:
 
     # lpdcat wronged "\"I know some super fancy restaurants with hamburgers near the college though!\" "
-    lpdcat wronged ""
+    lpdcat wronged "\" Ich kenne aber einige superschicke Restaurants in der Nähe vom College!\" "
 
 # game/script/04_week1.rpy:93
 translate german week1_01_20b0b03f:
 
     # avt "\"Those are way too expensive! I'm a poor student here you know.\" "
-    avt ""
+    avt "\" Die sind viel zu teuer! Du weist dass ich ein armer Student bin.\" "
 
 # game/script/04_week1.rpy:96
 translate german week1_01_6badb2f5:
 
     # lpdcat wronged "\"But eating at the cafeteria isn't romantic at all...\" "
-    lpdcat wronged ""
+    lpdcat wronged "\"Aber in der Cafeteria essen gehen ist nicht wirklich romatisch...\" "
 
 # game/script/04_week1.rpy:98
 translate german week1_01_d311185b:
 
     # avt "\"I don't want anything romantic! Dining at fancy restaurants everyday is pretty weird to me.\" "
-    avt ""
+    avt "\"Ich will nichts Romantisches! Jeden Tag in schicken Restaurants Essen gehen ist ziemlich komisch für mich.\" "
 
 # game/script/04_week1.rpy:101
 translate german week1_01_64a9da35:
 
     # lpdcat "\"I mean... {w=0.5} You know, I'm not interested in anywhere \"fancy\", I just wanna go spend time with you somwhere nice.\" "
-    lpdcat wronged ""
+    lpdcat wronged "I mein... {w=0.5} Du weist, dass ich nicht an was \"schickes\" interessiert bin. Ich will einfach nur etwas Zeit mit dir verbringen, da wo es schön ist.\" "
 
 # game/script/04_week1.rpy:110
 translate german week1_01_ba4b93b4:
 
     # lpdcat cute "\"But at least just once. Have a date with me~\" "
-    lpdcat cute ""
+    lpdcat cute "\" Wenigstens einmal. Für ein Date mit mir~\" "
 
 # game/script/04_week1.rpy:112
 translate german week1_01_21d3e259:
 
     # avt "\"No.\" "
-    avt ""
+    avt "\"Nein.\" "
 
 # game/script/04_week1.rpy:114
 translate german week1_01_02b9a58f:
 
     # lpdcat cry_2 "\"Waaa- Liao you're bullying me again~\" "
-    lpdcat cry_2 ""
+    lpdcat cry_2 "\"Buhu- Liao du mobbst mich schon wieder~\" "
 
 # game/script/04_week1.rpy:116
 translate german week1_01_424392d7:
 
     # avt "\"How am I even bullying you.\" "
-    avt ""
+    avt "\"Wie mobbe ich dich denn bitte.\" "
 
 # game/script/04_week1.rpy:120
 translate german week1_01_e0b3d818:
 
     # b "Ignoring Senpai's complaints, I go and buy two hamburgers. "
-    b ""
+    b "Senpais Beschwerden ignorierend, ging ich und kaufte zwei Hamburger. "
 
 # game/script/04_week1.rpy:135
 translate german week1_01_305c0c5f:
 
     # lpd normal "\"......\" *stares at hamburger* "
-    lpd normal ""
+    lpd normal "\"......\" *starrt auf den Hamburger* "
 
 # game/script/04_week1.rpy:140
 translate german week1_01_b961379b:
 
     # tig gaze "\"So, this is a hamburger...\" "
-    tig gaze ""
+    tig gaze "\"So, das ist also ein Hamburger...\" "
 
 # game/script/04_week1.rpy:142
 translate german week1_01_08ea3393:
 
     # b "Was I just seeing things, or are their eyes glinting with desire? "
-    b ""
+    b "Sehe das nur ich, oder glitzern ihre Augen voller Begierde? "
 
 # game/script/04_week1.rpy:144
 translate german week1_01_9d8f7a13:
 
     # b "the tiger grabs the burger with his giant paws, the palms of which almost cover the whole thing. "
     # b "Then, in a single movement, he finishes the whole thing in one bite. "
-    b ""
+    b "Der Tiger greift den Burger mit seinen riesigen Pfoten, die Handflächen decken fast das ganze Ding ab. "
+    b "Dann, in einem einigen Moment, isst er ihn mit einem einzigen Bissen. "
 
 # game/script/04_week1.rpy:146
 translate german week1_01_776185b7:
 
     # tig laugh_2 "\"Hmm... Not bad! It works well with the bread even though there's not much meat in it.\" "
-    tig laugh_2 ""
+    tig laugh_2 "\"Hmm... nicht schlecht! Es schmeckt gut mit dem Brot, auch wenn nicht viel Fleisch drin ist.\" "
 
 # game/script/04_week1.rpy:150
 translate german week1_01_c4ebc325:
 
     # b "The Guardian Tiger licks his claws, it looks kinda scary... {w=0.5}I look back at the table, just to find the whole burger sitting there. "
-    b ""
+    b "Der Wächtertiger leckt seine Klauen, was etwas gruselig aussieht... {w=0.5}Ich schau zurück zum Tisch, wo der Burger immernoch liegt."
 
 # game/script/04_week1.rpy:152
 translate german week1_01_1b9fed31:
 
     # avt "\"Hmm- The hamburger's still here... \" "
-    avt ""
+    avt "\"Hmm- Der Hamburger ist immernoch da... \" "
 
 # game/script/04_week1.rpy:160
 translate german week1_01_5a6731b0:
 
     # lpdcat normal "\"Well as I said yesterday, gods only consume the 'Chi' within a food sacrifice. They don't eat the actual food, so this one is for you Liao.\" "
-    lpdcat normal ""
+    lpdcat normal "\"Naja, wie ich dir Gestern schon sagte: Götter essen nur das 'Chi' aus geopferter Nahrung. Sie essen es nicht wirklich, daher ist das hier für dich.\" "
 
 # game/script/04_week1.rpy:162
 translate german week1_01_100ce514:
 
     # b "\"So, Guardian Tiger just ate the 'Chi' inside the hamburger? I guess it makes no difference to me.\" "
-    b ""
+    b "\"Also hat der Wächtertiger nur das 'Chi' gegesssen? Denke das macht für mich keinen großen Unterschied.\" "
 
 # game/script/04_week1.rpy:164
 translate german week1_01_3cb6ce2e:
 
     # b "\"Even with Senpai's explanation. It's still hard to believe that burger just got split in two...\" "
-    b ""
+    b "\"Selbst mit Senpais Erklärung kann ich kaum glauben, dass der Burger zweigeteilt wurde...\" "
 
 # game/script/04_week1.rpy:166
 translate german week1_01_d4a355fd:
 
     # avt "\"That was only one burger though. Is that even enough for you Tiger?\" "
-    avt ""
+    avt "\"Das war nur ein Burger. Ist das überhaupt genug für den Tiger?\" "
 
 # game/script/04_week1.rpy:168
 translate german week1_01_da85e5a1:
 
     # b "\"Even though I'm worrying about him, I also couldn't eat any more myself. And the other one is for the leopard. Buying any more isn't feasible.\" "
-    b ""
+    b "\"Auch wenn ich mir Gedanken um ihn mache, ich könnte keinen weiteren mehr essen. Und der Andere ist für den Nebelparder. Noch mehr ist nicht machbar.\" "
 
 # game/script/04_week1.rpy:170
 translate german week1_01_3de6f728:
 
     # tig laugh_1 "\"Don't worry about it! I just wanted to know how it tasted, I wasn't hungry at all. Even if I where, you wouldn't be able to eat any more, would you now?\" "
-    tig laugh_1 ""
+    tig laugh_1 "\"Mach dir keine Sorgen! Ich wollte nur wissen, wie es schmeckt, ich war nicht mal hungrig. Selbst wenn ich es wäre, würdest du keinen weiteren mehr essen können, oder?\" "
 
 # game/script/04_week1.rpy:172
 translate german week1_01_b4835510:
 
     # avt "\"Yeah, pretty much...\" "
-    avt ""
+    avt "\"Ja, so ziemlich...\" "
 
 # game/script/04_week1.rpy:174
 translate german week1_01_680f94e1:
 
     # tig laugh_1 "\"Though if you want to give me another hamburger, you can give me the one that aborigine has.\" "
-    tig laugh_1 ""
+    tig laugh_1 "\"\" Aber wenn du mir noch einen geben willst, dann den, den der Ureinwohner hat.\" "
 
 # game/script/04_week1.rpy:182
 translate german week1_01_aaee063f:
 
     # b "Just as he says that the leopard grabs his burger in a hurry, ready to eat it at a moment's notice. "
-    b ""
+    b "In dem Moment wo er es sagte, griff der Nebelparder in Eile danach und aß ihn in einem kurzen Augenblick. "
 
 # game/script/04_week1.rpy:201
 translate german week1_01_cc901b43:
 
     # b "the leopard sneers right at Guardian Tiger. Tiger returns a contemptuous stare aimed straight at him. It seems like a fight could break out at any moment. "
-    b ""
+    b "Der Nebelparder spottete Richtung Wächtertiger. Tiger erwiderte mit einem verachteten Blick. Es scheint, als könnte jeden Moment ein Kampf losbrechen. "
 
 # game/script/04_week1.rpy:204
 translate german week1_01_1818d558:
 
     # avt "\"That's enough! I'll get you hamburgers tomorrow as well if you want them so much!\" "
-    avt ""
+    avt "\"Genug! I werde euch Morgen wieder Hamburger holen wenn ihr sie so gern wollt!\" "
 
 # game/script/04_week1.rpy:206
 translate german week1_01_084b49f3:
 
     # b "I interrupt them in an effort to avoid a fight. It seems to go over well enough... But, in the end, is it really the burgers they want or what? "
-    b ""
+    b "Ich unterbrach sie, um Schlimmeres zu verhindern. Es scheint gut geklappt zu haben... aber ging es am Ende wirklich nur um Hamburger? "
 
 # game/script/04_week1.rpy:220
 translate german week1_01_dd748630:
 
     # b "After class I show up with Senpai at dance club. As you could guess, us coming together caused an uproar. "
-    b ""
+    b "Nach Schulschluss erschien ich mit Senpai beim Tanzclub. Wie man sich denken konnte, sorgte unser Zusammensein für Unruhe. "
 
 # game/script/04_week1.rpy:222
 translate german week1_01_fe4c4753:
 
     # b "Now everyone's heard the rumor of me and Senpai being in love. I told Senpai to deny it, and to keep his distance, for both our sakes..."
-    b ""
+    b "Jeder bekam das Gerücht mit dass Senpai und Ich uns lieben würden. Ich sagte ihm dass er es abstreiten soll und hielt Abstand zu ihm..."
 
 # game/script/04_week1.rpy:224
 translate german week1_01_3f3649d4:
 
     # b "It took a bit of work though. He wouldn't agree until I threatened to kick him out. Thank god he did though, I can finally talk with my club mates. "
-    b ""
+    b "Es brauchte dennoch etwas Einsatz. Er würde nicht mitmachen, bis ich ihm mit Rauswurf drohte. Zum Glück tat er es dann doch und ich konnte endlich mit meinen Club-Kameraden reden. "
 
 # game/script/04_week1.rpy:226
 translate german week1_01_2285890a:
@@ -4996,4 +4999,3 @@ translate german strings:
     # old "Go with Tiger."
     old "陪虎爺出門"
     new ""
-
