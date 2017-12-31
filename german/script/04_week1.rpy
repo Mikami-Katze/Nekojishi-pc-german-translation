@@ -342,79 +342,79 @@ translate german week1_01_3f3649d4:
 translate german week1_01_2285890a:
 
     # b "Even then... I'm stilling asked about my relationship with Senpai. "
-    b ""
+    b "Aber selbst dann wurde ich immernoch nach meiner Beziehung mit Senpai gefragt. "
 
 # game/script/04_week1.rpy:232
 translate german week1_01_c5c2a5b9:
 
     # clubmate "\"So aren't you and Shu-Chi Senpai in love.\" "
-    clubmate ""
+    clubmate "\"Also sind Senpai und Du nicht verliebt ineinander?\" "
 
 # game/script/04_week1.rpy:234
 translate german week1_01_470f3b8c:
 
     # avt "\"Well, that's what Shu-Chi Senpai wants you to think...\" "
-    avt ""
+    avt "\"Naja, Senpai möchte dass du das denkst...ß" ""
 
 # game/script/04_week1.rpy:236
 translate german week1_01_d561cfd7:
 
     # clubmate "\"But for Shu-Chi to admit publicly that he loves someone, first time I've seen that. I just don't get the feeling that it's a joke, you know? It's ok if you two are in love though.\" "
-    clubmate ""
+    clubmate "\"Aber es ist das erste Mal dass ich sehe wie Shu-Chi Jemanden öffentlich seine Liebe gesteht. Ich denke nicht dass das ein Witz sein soll, weist du? Es wäre aber okay, wenn ihr Beide euch liebt.\" "
 
 # game/script/04_week1.rpy:238
 translate german week1_01_7e6bc4d7:
 
     # avt "\"The only thing that's true is that we're not a thing. I don't have to deny it any more than that, right?\" "
-    avt ""
+    avt "\"Das Einzige was wahr ist ist dass wir nicht zusammen sind. Ich muss das nicht weiter dementieren, okay?\" "
 
 # game/script/04_week1.rpy:240
 translate german week1_01_d2fdb7bb:
 
     # clubmate "\"Well, I still think it's suspicious. Why have you two been so close together then?\" "
-    clubmate ""
+    clubmate "\"Ich finds immernoch verdächtig. Warum seid ihr Beide dann so Enge miteinander?\" "
 
 # game/script/04_week1.rpy:242
 translate german week1_01_76ae5720:
 
     # avt "\"Ugh... I told you it's all Senpai who...\" "
-    avt ""
+    avt "\"Ugh... Ich sagte dir doch das Senapi das alles...\" "
 
 # game/script/04_week1.rpy:247
 translate german week1_01_9fcdc57e:
 
     # b "Being questioned like this, I can't focus on practice. I decide to take a break. I sit at the corner of the veranda and pretend I'm exhausted. "
-    b ""
+    b "Wenn ich so ausgefragt werde, kann ich mich nicht auf die Übung konzentrieren. Ich entscheide mich, eine Pause einzulegen. Ich setze mich in die Ecke der Verande und tue so, als wäre ich erschöpft. "
 
 # game/script/04_week1.rpy:254
 translate german week1_01_0dac62bb:
 
     # tig frown "\"Liao, would you like me to go beat that kitten for you?\" "
-    tig frown ""
+    tig frown "\"Liao, willst du dass ich das Kätzchen für dich verhaue?\" "
 
 # game/script/04_week1.rpy:256
 translate german week1_01_24430ea2:
 
     # avt "\"No thanks. It doesn't matter that much. Even if he's being annoying...\" "
-    avt ""
+    avt "\"Nein Danke. Es macht keinen großen Unterschied. Selbst wenn er nervt...\" "
 
 # game/script/04_week1.rpy:258
 translate german week1_01_35e60f7e:
 
     # b "That and I don't want to see them fight each other... I don't even want to think about what would happen if they got into a fight here. "
-    b ""
+    b "Dies und weil ich sie nicht kämpfen sehen will.. Ich will garnicht dran denken was passieren würde, wenn sie sich genau hier duellieren. "
 
 # game/script/04_week1.rpy:263
 translate german week1_01_70205b2e:
 
     # b "I look away to try to stop thinking about it. I look at the leopard, he's really into watching the club members dances. "
-    b ""
+    b "Ich schaue weg und versuche nicht weiter darüber nachzudenken. Ich schaue zum Nebelparder, der den Club-Mitgliedern wohl gern beim Tanzen zuschaut. "
 
 # game/script/04_week1.rpy:265
 translate german week1_01_288a4b48:
 
     # b "He's even moving his hands and fingers, imitating the movements. I figured he paid attention in class to learn Mandarin, but why would he want to learn how to dance? "
-    b ""
+    b "Er versucht sogar, ihre Bewegungen mit Händen und Fingern nachzumachen. Ich hab gesehen wie er in der Klasse versuchte, Mandarin zu lernen, aber warum würde er Tanzen lernen wollen? "
 
 # game/script/04_week1.rpy:267
 translate german week1_01_edc9f91c:
@@ -422,79 +422,81 @@ translate german week1_01_edc9f91c:
     # b "I end up sitting in the corner, watching other club members dance till the end of practice. "
     # b "When the club leader announces that we're free to go, everyone grabs their belongings and starts heading home, as do I... "
     # b "But suddenly Senpai comes up to me. "
-    b ""
+    b "Ich bleibe in der Ecke sitzen und schau den Anderen beim Tanzen zu, bis zum Ende der Übung. "
+    b "Als der Club-Leiter Bescheid gibt dass wir gegen können, schnappt sich Jeder seine Sachen und macht sich auf nach Hause, Ich ebenso... "
+    b "Aber plötzlich kommt Senpai zu mir rüber. "
 
 # game/script/04_week1.rpy:274
 translate german week1_01_5f4bfb0d:
 
     # lpdcat laugh "\"Hey Liao, let's go home together~\" "
-    lpdcat laugh ""
+    lpdcat laugh "\"Hey Liao, lass uns zusammen nach Hause gehn~\" "
 
 # game/script/04_week1.rpy:276
 translate german week1_01_b2f641d5:
 
     # avt "\"Senpai, I told you not to talk to me during practice didn't I?\" "
-    avt ""
+    avt "\"Senpai, ich sagte dir dass du nicht während der Übung mit mir sprechen sollst.\" "
 
 # game/script/04_week1.rpy:280
 translate german week1_01_2ed7db07:
 
     # lpdcat normal "\"Hey, that doesn't count now that it's over right?\" "
-    lpdcat normal ""
+    lpdcat normal "\"Hey, die Übung ist doch nun vorbei, oder?\" "
 
 # game/script/04_week1.rpy:282
 translate german week1_01_e22ff56c:
 
     # avt "\"You know how suspicious it looks if we're together like this.\" "
-    avt ""
+    avt "\"Du weist wie verdächtig das aussieht, wenn wir und so zeigen.\" "
 
 # game/script/04_week1.rpy:286
 translate german week1_01_843687ac:
 
     # lpdcat cute "\"Why does being suspicious matter if we really are together...\" "
-    lpdcat cute ""
+    lpdcat cute "\"Warum sollte das von Bedeutung sein wenn wir wirklich zusammen sind...\" "
 
 # game/script/04_week1.rpy:290
 translate german week1_01_c08e8115:
 
     # b "The Guardian Tiger sends a fierce glare Senpai's way. "
-    b ""
+    b "Der Wächtertiger war Senpai einen grimmigen Blick zu. "
 
 # game/script/04_week1.rpy:305
 translate german week1_01_69c75839:
 
     # lpdcat panic "\"Ah...hahaha, Just kidding... Well, I might as well go with you Liao. It's simpily just too much of a burden to open the door just for me, you know?\" "
-    lpdcat panic ""
+    lpdcat panic "\"Ah...hahaha, war nur ein Scherz... Nun, ich mag dennoch mit dir gehn Liao. Das dürfte doch kein Problem sein, oder?\" "
 
 # game/script/04_week1.rpy:307
 translate german week1_01_3c226421:
 
     # avt "\"Actually no, I don't know. It's simply just too easy for me to open the door for you.\" "
-    avt ""
+    avt "\"Eigentlich schon, ich weis nicht. Es wäre womöglich eins."
 
 # game/script/04_week1.rpy:313
 translate german week1_01_5219190c:
 
     # lpdcat panic "\"It... {w=0.5}It's ok to go home together! \" "
-    lpdcat panic ""
+    lpdcat panic "\"Es... {w=0.5}Es ist okay wenn wir zusammen Heim gehen! \" "
 
 # game/script/04_week1.rpy:315
 translate german week1_01_c58b3097:
 
     # avt "\"Senpai...\" "
-    avt ""
+    avt "\"Senpai...\" "
 
 # game/script/04_week1.rpy:317
 translate german week1_01_7f154c59:
 
     # b "As much as I want to refuse him, I also don't feel right letting his hopes down all the time. "
-    b ""
+    b "So sehr ich ihn auch abweisen möchte, so sehr mag ich ihn auch nicht enttäuschen. "
 
 # game/script/04_week1.rpy:319
 translate german week1_01_d0e94844:
 
     # b "Eventually, I end up going home together with Senpai."
-    b ""
+    b "Vielleicht bin ich am Ende mit ihm zusammen."
 
 # game/script/04_week1.rpy:332
 translate german week1_saturday_01_fc23985a:
@@ -502,628 +504,632 @@ translate german week1_saturday_01_fc23985a:
     # b "Finally, thanks to the \"help\" of the three big cats, I made it through a chaotic week. "
     # b "Even with all the drama they caused to begin with. After a few days everything has calmed down. "
     # b "For now, little by little, I'm getting used to being surrounded by them. "
-    b ""
-
+    b "Endlich habe ich die chaotische Woche hinter mir, dank der \"Hilfe\" von den drei Katzen. ""
+    b "Selbst mit dem ganzen Drama, den sie angefangen haben. Es wurde schon nach wenigen Tagen ruhiger. "
+    b "Nach und nach gewöhne ich mich nun daran, sie bei mir zu haben. "
 # game/script/04_week1.rpy:334
 translate german week1_saturday_01_ebf3fd5c:
 
     # b "Even so, all I want to do is take a good long break this weekend. But my serenity doesn't last long... "
-    b ""
+    b "Alles was ich will ist ein entspanntes Wochenende. Aber meine Ruhe währte nur kurz... "
 
 # game/script/04_week1.rpy:343
 translate german week1_saturday_01_cecde6c8:
 
     # lpdcat panic "\"Liao, will you go shopping with me?\" "
-    lpdcat panic ""
+    lpdcat panic "\"Liao, willst du mit mir shoppen geh\?" "
 
 # game/script/04_week1.rpy:350
 translate german week1_saturday_01_c23723f0:
 
     # tig normal "\"Liao, This weekend is a good opportunity to go to the appliance store even the bookstore. I'd like to see how far technology's progressed. Do you care to show me?\" "
-    tig normal ""
+    tig normal "\"Liao, dieses Wochenende wäre ein guter Zeitpunkt, den Elektroladen oder gar die Bücherei aufzusuchen. Ich würde gerne sehn, wie weit die Technik vorangeschritten ist. Magst du sie mir zeigen?\" "
 
 # game/script/04_week1.rpy:357
 translate german week1_saturday_01_8c24f9e7:
 
     # lpd obsessed "\"...{w=0.5} Keep me company.\" "
-    lpd obsessed ""
+    lpd obsessed "\"...{w=0.5} Leiste mir Gesellschaft.\" "
 
 # game/script/04_week1.rpy:361
 translate german week1_saturday_01_8129cab9:
 
     # b "Even just after waking up, these three are already arguing. And each one of them wants me to stay with them. "
-    b ""
+    b "So kurz nach dem Aufstehen fangen die Drei schon an zu streiten. Jeder möchte mich bei sich haben."
 
 # game/script/04_week1.rpy:363
 translate german week1_saturday_01_e998eb92:
 
     # b "Wait! Why is the leopard so involved in this? He wants me to go with him and he hasn't even told me his plans at all! "
-    b ""
+    b "Warte! Warum macht der Nebelparder da mit? Er will dass ich mit ihm gehe, aber sagt mir nicht mal, was sein Plan ist! "
 
 # game/script/04_week1.rpy:365
 translate german week1_saturday_01_07b418c0:
 
     # b "He probably doesn't know where he wants to go, but he still doesn't want to give up his chance to spend time with me... "
-    b ""
+    b "Er weis es womöglich selbst nicht, aber er mag die Chance nicht verpassen, mit mir Zeit zu verbringen... "
 
 # game/script/04_week1.rpy:367
 translate german week1_saturday_01_bba9cf42:
 
     # b "The other two are hard to refuse too. Though I'd prefer to stay at home and get some rest, I have no plans for today otherwise. So, what should I do? "
-    b ""
+    b "Den anderen Beiden kann ich aber auch schlecht 'Nein' sagen. Auch wenn ich es vorgezogen hätte Zuhause zu bleiben, habe ich nichts für Heute geplant. Also was soll ich machen? "
 
 # game/script/04_week1.rpy:400
 translate german week1_saturday_tig_45a2faf6:
 
     # avt "\"If I have to choose... {w=0.5}I'd like to spend time with the tiger.\" "
-    avt ""
+    avt "\"Ich entscheide mich dafür... {w=0.5}mit dem Tiger Zeit zu verbringen.\" "
 
 # game/script/04_week1.rpy:404
 translate german week1_saturday_tig_8f55bac8:
 
     # lpdcat not_reconcile "\"Awww- Fine! I'll let you have some time with him today, but Liao has to go out with me tomorrow!\" "
-    lpdcat not_reconcile ""
+    lpdcat not_reconcile "\"Awww- Fein! Ich lasse dir etwas Zeit mit ihm Heute, aber Liao muss dafür Morgen mit mir ausgehen!\" "
 
 # game/script/04_week1.rpy:408
 translate german week1_saturday_tig_9784b076:
 
     # lpd normal "\"Keep me company.\" "
-    lpd normal ""
+    lpd normal "\"Leiste mir Gesellschaft.\" "
 
 # game/script/04_week1.rpy:410
 translate german week1_saturday_tig_dc1838f1:
 
     # b "Senpai clenches his fists, and Leopard sends me a piercing glare. Why does this stuff always end up being so complicated... "
-    b ""
+    b "Senpai ballt seine Fäuste und der Nebelparder schaut mich durchdringend an. Warum muss sowas immer so kompliziert sein... "
 
 # game/script/04_week1.rpy:412
 translate german week1_saturday_tig_58aa91ec:
 
     # tig laugh_1 "\"Hmmm- Just ignore these losers. Or should I say, lost kittens.\" "
-    tig laugh_1 ""
+    tig laugh_1 "\"Hmmm- Ignorier einfach diese Verlierer. Oder sollte ich besser sagen: verlorenen Kätzchen.\" "
 
 # game/script/04_week1.rpy:417
 translate german week1_saturday_tig_0190c5dc:
 
     # lpdcat angry "\"Who the hell's a lost kitten! I don't see any kittens here!\" "
-    lpdcat angry ""
+    lpdcat angry "\"Wer zur Hölle ist denn ein verlorenes Kätzchen! Ich sehe keine Kätzchen hier!\" "
 
 # game/script/04_week1.rpy:419
 translate german week1_saturday_tig_a69b35d0:
 
     # avt "\"Anyway, Guardian Tiger, what kind of appliance store would you like to go to?\" "
-    avt ""
+    avt "\"Wie dem auch sei, Wächtertiger, in was für ein Elektroladen würdest du den gehen wollen\" "
 
 # game/script/04_week1.rpy:421
 translate german week1_saturday_tig_6bc329db:
 
     # tig normal "\"A store with plenty of devices. I'd like to see something amazing as a laptop or as wonderful as a smartphone.\" "
-    tig normal ""
+    tig normal "\"Einem Laden mit vielen Gerätschaften. Ich mag etwas so verblüffendes sehen wie einen Laptop oder sowas tolles wie ein Smartphone.\" "
 
 # game/script/04_week1.rpy:423
 translate german week1_saturday_tig_7039e536:
 
     # tig normal "\"You see, your computer used to amaze me. But when I see your smartphone, I cannot begin to image in the possibilities. Could anything else be so convenient?\" "
-    tig normal ""
+    tig normal "\"Dein Computer beeindruckt mich schon. Aber wenn ich dein Smartphone sehe, kann ich mir nicht vorstellen, wie viele Möglichkeiten sich dort bieten. Was könnte noch so praktisch sein?\" "
 
 # game/script/04_week1.rpy:426
 translate german week1_saturday_tig_9f67e062:
 
     # lpdcat pu "\"You're totally old school~ \" "
-    lpdcat pu ""
+    lpdcat pu "\"Du bist sowas von Old-School~\" "
 
 # game/script/04_week1.rpy:428
 translate german week1_saturday_tig_36064ca0:
 
     # tig frown "\"It's quite normal for me to not understand technology. After all, I'm not a human being.\" "
-    tig frown ""
+    tig frown "\"Für mich ist es ziemlich normal, keine Ahnung von Technik zu haben. Aber ich bin auch menschliches Wesen.\" "
 
 # game/script/04_week1.rpy:430
 translate german week1_saturday_tig_3b1b7ad9:
 
     # avt "\"Well, going to an appliance store wouldn't make much sense. You wouldn't even find a laptop there...\" "
-    avt ""
+    avt "\" Nun, dann würde ein Elektroladen wenig Sinn machen. Da würdest du nicht mal einen Laptop finden...\" "
 
 # game/script/04_week1.rpy:432
 translate german week1_saturday_tig_d839fcdc:
 
     # tig normal "\"Then where would one find some?\" "
-    tig normal ""
+    tig normal "\"Wo finden wir dann einen?\" "
 
 # game/script/04_week1.rpy:434
 translate german week1_saturday_tig_5554a968:
 
     # avt "\"Hmm, well I have some ideas. Anyway, let's get going.\" "
-    avt ""
+    avt "\"Hmm, ich hätte da ein paar Ideen. Machen wir uns los.\" "
 
 # game/script/04_week1.rpy:447
 translate german week1_02_tig_8a8292e8:
 
     # b "Though it's pretty far away from home, I catch a bus with Guardian Tiger and go to the department store."
-    b ""
+    b "Da ist sehr weit weg von meinem Zuhause ist, nehm ich zusammen mit dem Wächtertiger den Bus zu einem Kaufhaus. "
 
 # game/script/04_week1.rpy:449
 translate german week1_02_tig_d9118289:
 
     # b "There's a supermarket, a book store, several specially goods stores and a food court here. "
     # b "I should definitely go to the food court to get something good later... "
-    b ""
+    b "Hier gibt es einen Supermarkt, einen Buchladen, einige Sportgeschäfte und einen Food-Court. "
+    b "Ich sollte zu Letzterem unbedingt später noch hin, um mal was Ordentliches zu essen... "
 
 # game/script/04_week1.rpy:456
 translate german week1_02_tig_e73aaa01:
 
     # tig surprise "\"What's... {w=0.5}this? Is this an appliance store?\" "
-    tig surprise ""
+    tig surprise "\"Was ist... {w=0.5}das? Ist das ein Elektroladen?\" "
 
 # game/script/04_week1.rpy:458
 translate german week1_02_tig_8d13c8f0:
 
     # b "He asks a question just as we walk inside the department store. We're surrounded by clothes and expensive bags. There's clearly no appliances in sight. "
-    b ""
+    b "Er stellt schon Fragen als wir das Kaufhaus betreten. Wir sind umgeben von Kleidern und teueren Handtaschen. Hier sind sichtbar keine Geräte in Sicht. "
 
 # game/script/04_week1.rpy:460
 translate german week1_02_tig_47a9fdd3:
 
     # avt "\"Not quite, this is a department store. There are places here which sell appliances, smartphones, laptops and heaps of electronics. It's convenient.\" "
-    avt ""
+    avt "\"Nicht ganz, das hier ist ein Kaufhaus. Hier gibts Bereiche wo sie Geräte, Smartphones Laptops und haufenweise Technik verkaufen. Das kommt uns gelegen.\" "
 
 # game/script/04_week1.rpy:462
 translate german week1_02_tig_caafe79a:
 
     # tig surprise "\"Department store? {w=0.5}Well, I've heard of them before... So, so is this what a department store looks like?\" "
-    tig surprise ""
+    tig surprise "\"Kaufhaus? {w=0.5}Nun, ich habe mal davon gehört... so, so sieht also ein Kaufhaus aus?\" "
 
 # game/script/04_week1.rpy:464
 translate german week1_02_tig_aaa5ff64:
 
     # avt "\"Well department stores don't all took the same. Anyway, let's go to the supermarket.\" "
-    avt ""
+    avt "Naja, die sehen nicht alle gleich aus. Egal, lass uns in den Supermarkt gehn.\" "
 
 # game/script/04_week1.rpy:466
 translate german week1_02_tig_a7daf086:
 
     # b "As we get into the supermarket, we see lots of goods and produce on sale. the tiger wonders around intrigued. "
-    b ""
+    b "Als wir den Supermarkt betraten, sahen wir ein Menge Waren im Angebotself. Der Tiger schaut sich fasziniert um. "
 
 # game/script/04_week1.rpy:468
 translate german week1_02_tig_4b564d8f:
 
     # tig normal "\"...All this is very similar to the sacrifices I receive. It's quite the display.\" "
-    tig normal ""
+    tig normal "\"...das Alles ist den Opfergaben sehr ähnlich, die ich empfange. Es ist wie eine Ausstellung.\" "
 
 # game/script/04_week1.rpy:470
 translate german week1_02_tig_c157867f:
 
     # b "The Guardian Tiger points towards a pile of bulk goods. "
-    b ""
+    b "Der Wächtertiger zeigt auf einen Stapel an Waren. "
 
 # game/script/04_week1.rpy:472
 translate german week1_02_tig_9e279986:
 
     # tig normal "\"But the presentation is lacking, piling them up like this makes them look cheap.\" "
-    tig normal ""
+    tig normal "\"Aber an Präsentation mangelt es, sie so aufzustapeln lässt sich billig aussehen.\" "
 
 # game/script/04_week1.rpy:474
 translate german week1_02_tig_4482c75e:
 
     # avt "That's because they're bulk packs. Even if there's a lot, they're still expensive. "
-    avt ""
+    avt "Das liegt wohl daran dass sie Massenware sind. Selbst die Menge ist immernoch teuer. "
 
 # game/script/04_week1.rpy:476
 translate german week1_02_tig_978ce017:
 
     # tig normal "\"It's not that I'm questioning the generosity of my worshippers. It just seemed odd to me, I'll have you know.\" "
-    tig normal ""
+    tig normal "\"Es ist nicht so dass ich die Großzügigkeit meiner Verehrer in Frage stelle. Es ist für mich nur seltsam es nun zu wissen.\" "
 
 # game/script/04_week1.rpy:478
 translate german week1_02_tig_a590685d:
 
     # b "The Guardian Tiger tilts his head in thought. When we get around to the electronics section, he's clearly engrossed by the devices laid out before him. "
-    b ""
+    b "Der Wächtertiger senkt seinen Kopf in Gedanken. Als wir bei der Elektronik-Abteilung ankamen, war er deutlich in die Geräte vertieft, die vor ihm lagen. "
 
 # game/script/04_week1.rpy:480
 translate german week1_02_tig_ce19fadc:
 
     # tig surprise "\"So, these are all laptops?\" "
-    tig surprise ""
+    tig surprise "\"Sind das alle Laptops?\" "
 
 # game/script/04_week1.rpy:482
 translate german week1_02_tig_8700b0ac:
 
     # b "He begins to go around and inspect all of the different laptops and tablets. You can even see some of those newish convertible devices on display. "
     # b "To be honest, I'm not fully up to date on computers, so I go and try them out with him. "
-    b ""
+    b "Er fing an, um sie herum zu gehen und all die verschiedenen Laptops und Tablets zu begutachten. Man sieht sogar einige dieser neuartigen Convertibles auf der Auslage. "
+    b "Um ehrlich zu sein, bin ich auch nicht mehr auf dem aktuellsten Stand der Technik, also probierte ich sie mit ihm aus. "
 
 # game/script/04_week1.rpy:484
 translate german week1_02_tig_7a5e2cc9:
 
     # b "Every now and then, the tiger goes and picks up a laptop for a closer look. Even when I see the computer in his hand, it's also still on the table. "
-    b ""
+    b "Hier und da namen der Tiger sich einen Laptops und schaute ihn etwas genauer an. Er nahmen den Computer in seine Hand, aber er war trotzdem noch auf dem Tisch. "
 
 # game/script/04_week1.rpy:486
 translate german week1_02_tig_1521ba90:
 
     # avt "\"Tiger, I wanted to ask you this before. So, since you're holding that laptop right now, can you use it?\" "
-    avt ""
+    avt "\"Tiger, das wollte ich dich vorher noch fragen. Wo du jetzt den Laptop in der Hand hältst, kannst du ihn auch benutzen?\" "
 
 # game/script/04_week1.rpy:493
 translate german week1_02_tig_8dd50008:
 
     # tig normal "\"Oh using the laptop? Impossible. I can only touch the 'Chi' of the object, I can't affect the... {w=0.5}current or whatever's inside.\" "
-    tig normal ""
+    tig normal "\"Den Laptop verwenden? Unmöglich. Ich kann nur das 'Chi' des Objektes berühren aber ich kann nicht das... {w=0.5}Innere davon bedienen.\" "
 
 # game/script/04_week1.rpy:495
 translate german week1_02_tig_a5745ff8:
 
     # tig normal "\"If I had to, I could use my powers to turn on the power switch. Even then, I still wouldn't be able to use it.\" "
-    tig normal ""
+    tig normal "\"Wenn ich müsste, könnte ich meine Kräfte einsetzen um den Einschaltknopf zu betätigen. Aber selbst wäre ich nicht in der Lage, ihn zu benutzen.\" "
 
 # game/script/04_week1.rpy:497
 translate german week1_02_tig_0b77aa6f:
 
     # avt "\"Hmm... {w=0.5}What do you mean by \"powers\"?\" "
-    avt ""
+    avt "\"Hmm... {w=0.5}Was meinst du mit \"Kräfte\"?\" "
 
 # game/script/04_week1.rpy:499
 translate german week1_02_tig_1f72ac7f:
 
     # tig normal "\"Well, It is possible to move objects, there just isn't much precision. Meaning typing would be difficult.\" "
-    tig normal ""
+    tig normal "\"Naja, es ist mir möglich, Objekte zu bewegen, nur nicht wirklich präzise. Tippen wäre also schwierig.\" "
 
 # game/script/04_week1.rpy:503
 translate german week1_02_tig_fec8f2a9:
 
     # tig normal "\"Manipulating a smartphone is beyond me. I have no idea how to use that touchscreen thing people refer to.\" "
-    tig normal ""
+    tig normal "\"Ein Smartphone zu manipulieren wäre mir zuviel. Ich hab keine Idee wie ich diesen Touchscreen benutzen soll, wie ihn Menschen bedienen. "
 
 # game/script/04_week1.rpy:505
 translate german week1_02_tig_d05c46b4:
 
     # b "I'm not great with this stuff, but I sorta remember touchscreens work off static electricity or something similar... I think? But that explains why he can't use them. "
-    b ""
+    b "Ich kenn mich damit nicht so gut aus, aber ich erinnere mich, das Touchscreens mit so einer Art Elektrostatik arbeiten... oder so ähnlich. Aber das würde erklären, warum er es nicht bedienen kann. "
 
 # game/script/04_week1.rpy:507
 translate german week1_02_tig_620b352e:
 
     # avt "\"So... {w=0.5}if you can touch the keyboard, at the very least you could move a mouse, right? So with that, couldn't you use a computer anyway?\" "
-    avt ""
+    avt "\"Also... {w=0.5}wenn du die Tastatur bedienen kannst, kannst du doch zumindest auch eine Maus bewegen, oder? Könntest du damit nicht zumindest einen Computer bedienen?\" "
 
 # game/script/04_week1.rpy:509
 translate german week1_02_tig_dd0a89b6:
 
     # tig lift "\"Indeed, but since I can talk to you. Asking you to do my bidding directly is much easier, is it not?\" "
-    tig lift ""
+    tig lift "\"Durchaus, aber seit ich mit dir reden kann wäre es viel leichter es dich machen zu lassen, oder nicht?\" "
 
 # game/script/04_week1.rpy:511
 translate german week1_02_tig_d83827c2:
 
     # avt "\"...So you don't want to try it by yourself?\" "
-    avt ""
+    avt "\"...Also willst du es nicht mal selbst versuchen?\" "
 
 # game/script/04_week1.rpy:515
 translate german week1_02_tig_970d9b25:
 
     # tig normal "\"Using a computer? I don't really care for it. A smartphone, on the other hand, I would but I can't.\" "
-    tig normal ""
+    tig normal "\"Einen Computer zu bedienen? Das ist mir nicht so wichtig. Ein Smartphone dagegen würde mich reizen, aber das kann ich nicht.\" "
 
 # game/script/04_week1.rpy:517
 translate german week1_02_tig_3697b0f2:
 
     # tig normal "\"It's exhausting to use my powers to just to operate a computer. It's not worth the hassle.\" "
-    tig normal ""
+    tig normal "\"Es würde meine Kräfte schon erschöpfen, mit einem Computer zu arbeiten. Das ist die Mühe nicht wert.\" "
 
 # game/script/04_week1.rpy:519
 translate german week1_02_tig_a12b33cb:
 
     # avt "\"So your reason is just because you'd get too tired?\" "
-    avt ""
+    avt "\"Also ist der Grund dafür dass du davon zu müde wirst?\" "
 
 # game/script/04_week1.rpy:521
 translate german week1_02_tig_83b03e03:
 
     # tig frown "\"...Simply put, yes.\" "
-    tig frown ""
+    tig frown "\"...kurz gesagt, ja.\" "
 
 # game/script/04_week1.rpy:523
 translate german week1_02_tig_b66123ce:
 
     # avt "\"But, If you can't use them anyway...\" "
-    avt ""
+    avt "\"Aber wenn du sie eh nicht bedienen kannst...\" "
 
 # game/script/04_week1.rpy:528
 translate german week1_02_tig_5701b6ae:
 
     # b "the tiger is currently comparing the differences between two tablets. "
-    b ""
+    b "Der Tiger vergleicht gerade zwei Tablets miteinander. "
 
 # game/script/04_week1.rpy:532
 translate german week1_02_tig_fd2fd492:
 
     # avt "\"If you can't use them, why are you making effort to study them?!\" "
-    avt ""
+    avt "\"Wenn du sie nicht bedienen kannst, warum machst du dir dann die Mühe, sie zu studieren.?!\" "
 
 # game/script/04_week1.rpy:535
 translate german week1_02_tig_f6d37705:
 
     # tig normal "\"Hmm? It's to see how people communicate in this age. You're always messaging on your smartphone. That kitten especially. I have no idea what he is doing on it all day long.\" "
-    tig normal ""
+    tig normal "\"Hmm? Ich will wissen, wie die Menschen heutzutage miteinander kommunizieren. Du schreibst immer mit wem auf deinem Smartphone. Besonders das Kätzchen. Ich hab keine Ahnung, was er damit die ganze Zeit macht.\" "
 
 # game/script/04_week1.rpy:537
 translate german week1_02_tig_83c9fcc5:
 
     # avt "\"That's true... {w=0.5}So, does looking at us using our phones help at all?\" "
-    avt ""
+    avt "Das ist war... {w=0.5}Ehm, hilft es dir überhaupt uns dabei zuzusehen?\" "
 
 # game/script/04_week1.rpy:539
 translate german week1_02_tig_5daa2ff9:
 
     # tig frown "\"I don't know. I usually can't make sense of it. But, looking at all the technology here, I'm curious. What are the differences between each one?\" "
-    tig frown ""
+    tig frown "\"Ich weis es nicht. Ich kann mir daraus keinen Reim machen. Aber mich macht die ganze Technik hier neugierig. Was ist der Unterschied zwischen Jedem von ihnen?\" "
 
 # game/script/04_week1.rpy:541
 translate german week1_02_tig_8441f086:
 
     # avt "\"Well... {w=0.5}Let's see here...\" "
-    avt ""
+    avt "Nun...{w=0.5}schau mal hier...\" "
 
 # game/script/04_week1.rpy:543
 translate german week1_02_tig_0e04dfdd:
 
     # b "I try to explain the specifics to him as best as I can. But, I'm not really enough of a techie to explain the details. I basically just end up repeating the information on the product cards. "
-    b ""
+    b "Ich versuche ihm die Spezifikationen zu gut wie möglich zu erklären. Aber ich nicht wirklich gut darin, ihm die Details zu erklären. Am Ende gebe ich eigentlich nur die Informationen auf den Produkttafeln wieder. "
 
 # game/script/04_week1.rpy:545
 translate german week1_02_tig_bf193180:
 
     # b "As you'd expect, it doesn't help much because he already read them. Eventually, I just explain to him they're just machines and people communicate using software downloaded onto them. "
-    b ""
+    b "Wie man sich denken kann, hilft ihm das wenig, da er sich schon gelesen hat. Vielleicht sag ich ihm einfach dass es nur Maschinen sind und das Menschen mittels der runtergeladenen Software kommunizieren. "
 
 # game/script/04_week1.rpy:547
 translate german week1_02_tig_5d734714:
 
     # tig normal "\"Oh, so it's \"software\" on the phone? Alright. Let me see the contents of your phone.\" "
-    tig normal ""
+    tig normal "\"Oh, also da ist \"Software\" auf dem Handy? Okay. Lass mich den Inhalt deines Handys sehn.\" "
 
 # game/script/04_week1.rpy:549
 translate german week1_02_tig_150f2d49:
 
     # avt "\"...Can I refuse your request?\" "
-    avt "" with hshake
+    avt "\"...Ich glaube eher nicht.\" " with hshake
 
 # game/script/04_week1.rpy:553
 translate german week1_02_tig_c9c90f07:
 
     # tig normal "\"Whatever you have to hide, it doesn't matter. After all, I've seen everything to begin with.\" "
-    tig normal ""
+    tig normal "\"Du brauchst nichts zu verstecken, ich weis eh schon alles seit deiner Geburt."
 
 # game/script/04_week1.rpy:557
 translate german week1_02_tig_cbb4c975:
 
     # avt "\"I didn't know about it before. There's really embarrassing stuff on there you know.\" "
-    avt ""
+    avt "\"Das wusste ich vorher nicht. Da ist ziemlich peinliches Zeug drauf, weis du?\" "
 
 # game/script/04_week1.rpy:559
 translate german week1_02_tig_8b737318:
 
     # avt "\"If you do this to me... {w=0.5}It'd just be like a parent checking their kids diary. How shameful of you.\" "
-    avt ""
+    avt "\"Das ist wie... {w=0.5}Wie Eltern die dein Tagebuch lesen. Das ist beschämend.\" "
 
 # game/script/04_week1.rpy:561
 translate german week1_02_tig_9bb6787b:
 
     # tig normal "\"What's there to be shameful of？ Well... {w=0.5}Fine. Just tell me the operating procedures of the software.\" "
-    tig normal ""
+    tig normal "Wofür solltest du dich schämen?Nagut..{w=0.5}Sag mir wenigstens wie du mit der Software umgehst.\" "
 
 # game/script/04_week1.rpy:563
 translate german week1_02_tig_b9949fab:
 
     # avt "\"Hmmm... {w=0.5}Let me think for a second.\" "
-    avt ""
+    avt "\"Hmmm... {w=0.5}Lass mich kurz nachdenken.\" "
 
 # game/script/04_week1.rpy:568
 translate german week1_02_tig_a3df7bb5:
 
     # b "If I use my phone, he'll probably be able to see some of my chat history... Maybe if I can distract him... Wait! We're in the smartphone section, there's literally dozens of phones to use here! "
     # b "I mentally congratulate myself for my ingenious plan and go to use a display model for my demonstration. "
-    b ""
+    b "Wenn ich mein Handy benutze, wird er möglicherweise meinen Chatverlauf mitbekommen... Vielleicht kann ich ihn ablenken... warte! Wir sind hier in der Smartphone-Abteilung, hier liegen eine ganze Menge Handys rum! "
+    b "Ich beglückwünsche meinen Verstand für meine geniale Idee und nehme mir eines der Vorführmodelle. "
 
 # game/script/04_week1.rpy:570
 translate german week1_02_tig_1e5298eb:
 
     # avt "\"Firstly, did you know smartphones generally have one of two types of operating system? Each type can run different software from the other. Let me show you...\" "
-    avt ""
+    avt "\"Zuerst, wusstest du dass es allgemein zwei Arten von Betriebsystemen auf Smartphones gibt? Jede Art kann verschiedene Software ausführen. Ich zeigs dir...\" "
 
 # game/script/04_week1.rpy:572
 translate german week1_02_tig_7d67fe55:
 
     # b "In the process of introducing him to the operating systems of various phones, I also walk him through some of the basic software. "
-    b ""
+    b "Während ich ihm die Betriebsysteme einiger Handymodelle vorstelle, zeige ich ihm auch gleich ein ein paar Grundprogramme. "
 
 # game/script/04_week1.rpy:574
 translate german week1_02_tig_4b0c72d4:
 
     # b "Though I regularly use all this stuff. All this information is new to the tiger, who totally didn't understand how it worked until now. "
-    b ""
+    b "Auch wenn ich sie ständig nutze, ist das Alles völlig neu für den Tiger, der bisher nie verstand, wie ich damit arbeite. "
 
 # game/script/04_week1.rpy:576
 translate german week1_02_tig_96f94869:
 
     # b "We end up trying lot of phones. A clerk notices me and comes over to introduce some products. "
-    b ""
+    b "Wir probieren einige Handys aus. Ein Mitarbeiter bemerkt mich und kommt zu mir um die einige Produkte vorzustellen. "
 
 # game/script/04_week1.rpy:578
 translate german week1_02_tig_669f3954:
 
     # b "Since we're not here to buy anything, I have to decline their help and leave. Though the tiger wants to stay, he probably understands that I can't talk to him with the clerk watching us. "
-    b ""
+    b "Da wir aber nicht zum Kaufen hier sind, lehne ich seine Hilfe ab und gehe. Auch wenn Tiger gerne noch bleiben würde, versteht er wohl dass ich nicht mit ihm reden kann während der Typ uns zuschaut. "
 
 # game/script/04_week1.rpy:580
 translate german week1_02_tig_1f19cdc6:
 
     # b "For me, it's a good opportunity to change the subject. I'm relieved when I take us to the appliance section. Thank god I don't have to explain any more. "
-    b ""
+    b "Für mich ist das ein guter Zeitpunkt, das Thema zu wechseln. Ich bin erleichtert, als wir die Haushaltsgeräte-Abteilung erreichten. Zum Glück muss ich ihm nichts mehr erklären. "
 
 # game/script/04_week1.rpy:590
 translate german cg_01_52a02701:
 
     # b "Fortunately, The Guardian Tiger drops the phone topic for now and focuses on all the appliances around him. You can tell he enjoys just looking around here. "
-    b ""
+    b ""Glücklicherweise lässt der Wächtertiger das Thema fallen und schaut sich die Geräte um ihn herum an. Man sieht dass es ihm gefällt.
 
 # game/script/04_week1.rpy:592
 translate german cg_01_2be5ac11:
 
     # b "He ends up asking me what each one was for when he didn't recgonize it from back home. I end up having to explain kettles, heaters, and even air multiplier fans. Luckily, I already know enough about all this stuff. "
-    b ""
+    b "Er fragt mich nun, für was die Geräte alle gut sind, wenn er sich nicht von Zuhause aus wiedererkennt. Ich muss ihm Wasserkocher, Heizkörper und sogar Ventilatoren erklären. Zum Glück weis ich dazu auch was zu sagen. "
 
 # game/script/04_week1.rpy:599
 translate german cg_01_ce7cc852:
 
     # tig frown "\"What is this cylinder shaped container for?\" "
-    tig frown ""
+    tig frown "\"Was macht dieser zylindrisch geformte Container denn?\" "
 
 # game/script/04_week1.rpy:601
 translate german cg_01_4f4fcbca:
 
     # avt "\"It's called a water boiler, it heats up and boils water. Once the water boils, it turns off.\" "
-    avt ""
+    avt "\"Das ist ein Wasserkocher, er erhitzt wasser. Sobald das Wasser kocht, schaltet er sich aus.\"  "
 
 # game/script/04_week1.rpy:603
 translate german cg_01_c7433d6f:
 
     # tig normal "\"What is this? It appears to have lots of light bulbs.\" "
-    tig normal ""
+    tig normal "\"Was ist das? Es hat eine Menge Lichter.\"  "
 
 # game/script/04_week1.rpy:605
 translate german cg_01_ff6d767c:
 
     # avt "\"That's a heater. The lights produce heat when turned on. It's able to keep a room warm, even when it's cold outside. It's useful in winter, but I can't afford the electricity to run one.\" "
-    avt ""
+    avt "\" Das ist ein Heizkörper. Er leuchtet auf wenn er angeschaltet wird. Er hält den Raum warm, selbst wenn es Draußen kalt ist. Ist im Winter praktisch, aber ich kann mir den Strom nicht leisten, sowas zu betreiben.\" "
 
 # game/script/04_week1.rpy:607
 translate german cg_01_7641f367:
 
     # tig laugh_1 "\"I agree, it sounds very useful. With this you wouldn't catch a cold, would you Liao?\" "
-    tig laugh_1 ""
+    tig laugh_1 "\"Verstehe, klingt praktisch. Damit ziehst du dir keine Erklätung zu, oder Liao?\" "
 
 # game/script/04_week1.rpy:609
 translate german cg_01_6ee2a963:
 
     # avt "\"No need to worry about me. I have enough clothes to keep me warm.\" "
-    avt ""
+    avt "\"Mach dir um mich keine Sorgen. Ich habe genug Kleidung die mich warm hält.\" "
 
 # game/script/04_week1.rpy:611
 translate german cg_01_c1d5627b:
 
     # tig laugh_1 "\"Hmm? I understand. What is this strange circle for?\" "
-    tig laugh_1 ""
+    tig laugh_1 "\"Hmm? Verstehe. Was macht der komische Kreis da?\" "
 
 # game/script/04_week1.rpy:613
 translate german cg_01_34c3638f:
 
     # avt "\"This is... well it's called an air multiplier fan. I don't really understand how it works sadly.\" "
-    avt ""
+    avt "\"Das ist... nun das ist eine Art Ventilator. Ich weis leider nicht, wie er funktioniert.\" "
 
 # game/script/04_week1.rpy:615
 translate german cg_01_07951b83:
 
     # tig frown "\"A fan? What principle lets it produce wind without blades?\" "
-    tig frown ""
+    tig frown "\"Ein Ventilator? Wie macht er denn ohne Flügel Luft?\" "
 
 # game/script/04_week1.rpy:617
 translate german cg_01_af4a9214:
 
     # avt "\"I don't quite know. It pushes wind inside the ring to produce wind... I think. They don't need to be round either. See, that one's a rectangle.\" "
-    avt ""
+    avt "\"Ich weis es nicht genau. Es drückt Wind in den Ring und sorgt so für Wind... glaub ich. Sie müssen nicht rund sein. Hier, einer in Rechteck-Form.\" "
 
 # game/script/04_week1.rpy:619
 translate german cg_01_c5de402a:
 
     # avt "\"Honestly, I don't think it's much better than a normal fan.\" "
-    avt ""
+    avt "\"Ehrlich gesagt, weis ich nicht ob er so viel besser als ein normaler Ventilator ist.\" "
 
 # game/script/04_week1.rpy:623
 translate german cg_01_54e160ae:
 
     # tig frown "\"How amazing! How about this one?\" "
-    tig frown ""
+    tig frown "\"Unglaublich! Was ist mit dem da?\" "
 
 # game/script/04_week1.rpy:625
 translate german cg_01_0c6b5e3f:
 
     # b "Honestly, I thought he'd be more surprised to find out it was a fan... "
-    b ""
+    b "Ich hätte erwartet, dass es ihn mehr überrascht dass es ein Lüfter ist... "
 
 # game/script/04_week1.rpy:627
 translate german cg_01_a4862e1f:
 
     # avt "\"That's an induction cooktop.\" "
-    avt ""
+    avt "\"Das ist ein Induktionsherd.\" "
 
 # game/script/04_week1.rpy:633
 translate german cg_01_c9af8a7f:
 
     # tig normal "\"...cooktop? So you're telling me you can cook with this?\" "
-    tig normal ""
+    tig normal "\"...Herd? Soll das heißen dass man damit kochen kann?\" "
 
 # game/script/04_week1.rpy:635
 translate german cg_01_17f492b4:
 
     # avt "\"I know it looks really different from a gas stove. But yes, you can cook with it.\" "
-    avt ""
+    avt "\"Ich weis, es sieht ganz anders aus als ein Gasherd. Aber ja, damit kocht man.\" "
 
 # game/script/04_week1.rpy:637
 translate german cg_01_9282bf75:
 
     # avt "\"It's driven by electricity, so you don't need fuel and it can be much smaller.\" "
-    avt ""
+    avt "\"Er wird elektrisch betrieben. Daher braucht er keinen Brennstoff und kann deutlich kleiner ausfallen.\" "
 
 # game/script/04_week1.rpy:639
 translate german cg_01_5d2a9211:
 
     # avt "\"You see, if you put a pot on one of the circles. It heats up.\" "
-    avt ""
+    avt "\"Wenn du einen Topf auf einen der Kreise packst, erwärmt ersich.\" "
 
 # game/script/04_week1.rpy:641
 translate german cg_01_4c325e22:
 
     # b "the tiger moves around to look at the induction cooker from a variety of angles. His face showing intrigue. "
-    b ""
+    b "Der Tiger geht um den Induktionsherd, um ihn von verschiedenen Blickwinkeln aus zu begutachten. Er zeigt einen interessierten Gesichtsausdruck. "
 
 # game/script/04_week1.rpy:643
 translate german cg_01_54d31fe4:
 
     # tig frown "\"...Say, could you do a stir-fry on this?\" "
-    tig frown ""
+    tig frown "\"...Sag mir, kann man damit eine Gemüsepfanne machen?\" "
 
 # game/script/04_week1.rpy:645
 translate german cg_01_8e3148a2:
 
     # avt "\"Hmm... {w=0.5}This one probably can't. You could boil some food though.\" "
-    avt ""
+    avt "\"Hmm... {w=0.5}Der hier wohl nicht. Du kannst aber was damit kochen.\" "
 
 # game/script/04_week1.rpy:647
 translate german cg_01_0e1e7786:
 
     # b "Really, I don't know if it could do a stir-fry or not. It's not like I've used one before. ...Maybe, it might be possible. "
-    b ""
+    b "Ich weis ernsthaft nicht, ob man damit eine Gemüsepfanne machen kann. Ist nicht so als hätte ich keinen bisher genutzt. Vielleicht klappts ja... "
 
 # game/script/04_week1.rpy:649
 translate german cg_01_a9b67b0c:
 
     # tig frown "\"So, If it's only able to boil food? Why not just use a gas stove?\" "
-    tig frown ""
+    tig frown "\"Also kann man damit nur Essen kochen? Warum dann keinen Gasherd verwenden?\" "
 
 # game/script/04_week1.rpy:651
 translate german cg_01_2fa895d9:
 
     # avt "\"Because gas ones are inconvenient to use.\" "
-    avt ""
+    avt "\"Weil Gasherde nicht so schön zu handhaben sind.\" "
 
 # game/script/04_week1.rpy:653
 translate german cg_01_72c6a3bc:
 
     # avt "\"For example, I don't have a kitchen in my dorm. But, I can have a hot pot at home with this stove as long the meat and vegetables are prepared. Therefore, it's more convenient.\" "
-    avt ""
+    avt "Ich hab zum Beispiel keine Küche in meiner Studentenwohnung. Aber ich kann mir ein Fondue Zuhause machen solange Fleisch und Gemüse vorbereitet sind. Das geht ganz gut damit.\" "
 
 # game/script/04_week1.rpy:655
 translate german cg_01_d34167c9:
