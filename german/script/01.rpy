@@ -1,7 +1,8 @@
-﻿# TODO: Translation updated at 2017-11-29 21:34
+# TODO: Translation updated at 2017-11-29 21:34
 
 # game/script/01.rpy:674
-translate german start_22088c7d:
+translate test start_22088c7d:
+
 
     # b "With heavy footsteps I clamber up the staircase to my apartment, exhausted and out of breath. "
     avt "Erschöpft und außer Atem steige ich mit schweren Schritten die Treppen hinauf zu meiner Wohnung."
@@ -66,7 +67,7 @@ translate german start_cc6cf19b:
     # b "If only it didn't tire me out so much... {w=0.5}I could fall asleep any moment now. "
     # b "Luckily, my bed is merely a few steps ahead of me..."
     b "Wenn es mich nur nicht so müde gemacht hätte... {w=0.5}Ich könnte jeden Moment einschlafen. "
-    b "Zum Glück ist mein Bett nur ein paar Schritte entfernt..." 
+    b "Zum Glück ist mein Bett nur ein paar Schritte entfernt..."
 # game/script/01.rpy:697
 translate german start_8f77473c:
 
@@ -150,7 +151,7 @@ translate german start_5bd40f3a:
 translate german start_c8b200ac:
 
     # avt "\"Sorry, I don't recgonize you... \" "
-    avt "\"Tut mir leid, aber ich kenne dich nicht...\" " 
+    avt "\"Tut mir leid, aber ich kenne dich nicht...\" "
 
 # game/script/01.rpy:731
 translate german start_b548db8d:
@@ -170,13 +171,13 @@ translate german start_50022975:
     # b "I really want to figure this out... {w=0.5}So he said he \"used to be invisible\"... "
     # b "Does that mean he's been here the whole time? "
     b "Ich möchte das wirklich verstehen... {w=0.5} Er sagte, er \"war unsichtbar\"..."
-    b "Bedeutet das, dass er die ganze Zeit hier war? " 
+    b "Bedeutet das, dass er die ganze Zeit hier war? "
 
 # game/script/01.rpy:736
 translate german start_c5bd6627:
 
     # b "Now that I think about it... I did bring a small tiger statue to Taipei. Could that be him? "
-    b "Jetzt, wo ich darüber nachdenke... Ich habe eine kleine Tiger Statue nach Tapei mitgebracht. Ist das er? " 
+    b "Jetzt, wo ich darüber nachdenke... Ich habe eine kleine Tiger Statue nach Tapei mitgebracht. Ist das er? "
 
 # game/script/01.rpy:737
 translate german start_7a03bfc1:
@@ -2388,7 +2389,14 @@ translate german strings:
     old "怎麼辦，該讓誰一起睡床好呢？"
     new ""
 
+    # old "Guardian Tiger"
+    old "虎爺"
+    new ""
+
+    # old "Clouded Leopard"
+    old "雲豹"
+    new ""
+
     # old "Shu-Chi Senpai"
     old "書齊學長"
     new ""
-
