@@ -1,372 +1,387 @@
-﻿# TODO: Translation updated at 2017-11-29 21:34
+﻿# TODO: Translation updated at 2018-02-23 08:51
 
 # game/script/01.rpy:674
 translate german start_22088c7d:
 
-    # b "With heavy footsteps I clamber up the staircase to my apartment, exhausted and out of breath. "
+    # b "With heavy footsteps I clamber up the staircase to my apartment, exhausted and out of breath... "
     avt "Erschöpft und außer Atem steige ich mit schweren Schritten die Treppen hinauf zu meiner Wohnung."
 
 # game/script/01.rpy:676
 translate german start_962737b4:
 
-    # b "Just a few more steps..."
+    # b "Just a little bit further... "
     b "Nur noch ein paar Schritte..."
 
 # game/script/01.rpy:678
 translate german start_192da5bd:
 
-    # b "Eventually I reach the top where my door greets me. With relief I drop my backpack to the floor and search for my keys. "
-    # b "Hmm... {w=0.5}where are they? I reach into my jeans to no avail. Probably still in my bag then... "
+    # b "Eventually I reach the top, greeted by my door before me. "
+    # b "With a sigh of relief I drop my backpack to the floor and search for my keys. "
+    # b "Hmm... {w=0.5}where are they? {w=0.5}I reach into my jeans to no avail. "
+    # b "Probably still in my bag then... "
     b "Letzendlich schaffe ich es nach oben, wo mich meine Tür begrüßt. Mit Erleichterung lasse ich meinen Rucksack auf dem Flur fallen und suche nach meinem Schlüssel."
     b "Hmm... {w=0.5}Wo sind sie denn? Ich greife in meine Hosentaschen, jedoch ohne Erfolg. Wahrscheinlich sind sie noch in meinem Rucksack..."
+    b ""
 
 # game/script/01.rpy:679
 translate german start_46435378:
 
-    # b " Alright, that's it! "
+    # b "Oh hey! {w=0.5}Finally, there they are! "
     b "In Ordnung, da ist er!"
 
 # game/script/01.rpy:680
 translate german start_1df83b50:
 
-    # b "Barely able to stay awake, I manage to unlock the door. Thankfully doing so without scraping the key all over the place. "
+    # b "I take my new-found key and go to open the door... Or at least attempt to. "
+    # b "Urrrrgh— {w=0.5}I can barely keep my eyes open... "
+    # b "After a bit of effort I open the door. Thankfully doing so {i}without{/i} \ scraping the key all over the place. "
     b "Kaum in der Lage wach zu bleiben, schaffe ich, die Tür aufzuschließen. Zum Glück, ohne gegen das Schloss zu kratzen."
 
 # game/script/01.rpy:681
 translate german start_c80771cd:
 
-    # b "I've been so tired after the performance tonight. "
-    # b "I stand there and close my eyes for a moment... They're too heavy to open. So for now,  I don't... "
+    # b "God, I've just been this tired ever since we finished. I don't know what's gotten into \nme. "
+    # b "I stand there and close my eyes for a moment...{w=0.5} They're too heavy to open. {w=0.5}\nSo for now, I don't... "
     b "Ich bin so müde nach dem Auftritt von heute Abend."
     b "Ich stehe da und schließe für einen Moment lang meine Augen... Sie sind so schwer zu öffnen. Also mach ich es erstmal nicht..."
 
 # game/script/01.rpy:682
 translate german start_4f25f75b:
 
-    # b "Did the performance stress me out too much? "
+    # b "Maybe I'm just stressing over this too much? "
     b "Hat mich der Auftritt so sehr gestresst?"
 
 # game/script/01.rpy:684
 translate german start_cbb76b19:
 
-    # b "Everyone else was still there celebrating our success. But I had no other choice but to go home. "
+    # b "Everyone else would've still been there, celebrating the great show we just pulled off... and I had to leave them all behind. "
+    # b "I mean I {i}wanted{/i} \ to stay, but I would've just collapsed if I didn't head home... "
     b "Alle anderen waren noch da und feierten unseren Erfolg. Aber ich hatte keine Wahl, als nach Hause zu gehen."
+    b ""
 
 # game/script/01.rpy:685
 translate german start_2eb5e9db:
 
-    # b "It sucks that I can't hang out with the crew after how well everything went tonight... "
-    # b "The excitement in everyone's faces was heart-warming. Even if I only worked behind the scenes,  I could feel it too. "
+    # b "And after everything is all said and done I won't be able to hang out with the rest of the crew... {w=0.5}We worked so hard for tonight. "
+    # b "Still, seeing the excitement in everyone's faces warmed my heart. \n{w=0.5}Even if I was only stage crew, I felt it too. "
     b "Es nervt mich, dass ich nicht mit der Crew rumhängen kann, nachdem heute Abend alles so gut lief ..."
     b "Die Aufregung in ihren Gesichtern war herzerwärmend. Auch wenn ich nur hinter den Kulissen getanzt habe, konnte ich es ebenso spüren."
 
 # game/script/01.rpy:686
 translate german start_cc6cf19b:
 
-    # b "If only it didn't tire me out so much... {w=0.5}I could fall asleep any moment now. "
-    # b "Luckily, my bed is merely a few steps ahead of me..."
+    # b "If only I wasn't so tired...{w=0.5} I could fall asleep any moment now. "
+    # b "Luckily, my bed is merely a few steps ahead of me... "
     b "Wenn es mich nur nicht so müde gemacht hätte... {w=0.5}Ich könnte jeden Moment einschlafen. "
-    b "Zum Glück ist mein Bett nur ein paar Schritte entfernt..." 
+    b "Zum Glück ist mein Bett nur ein paar Schritte entfernt..."
+
 # game/script/01.rpy:697
 translate german start_8f77473c:
 
-    # b "Huh? Who's there? "
+    # b "W-{w=0.2}Wha? Who's there? "
     b "Hm? Wer ist das?"
 
 # game/script/01.rpy:705
 translate german start_b00429df:
 
-    # b "I blink. "
+    # b "I blink, trying to focus my tired eyes awake. "
     b "Ich blinzle."
 
 # game/script/01.rpy:706
 translate german start_aad233e5:
 
-    # b "What the?! On my bed, right now, there's a tiger sitting there! And he's reading one of my books! "
+    # b "What the? " with vshake
+    # b "Somehow, in my room, {i}right now{/i}, {w=0.5}there's some sort of {i}tiger-man{/i} \ sitting on my bed, and well, reading one of my books! "
     b "Was zur?! Auf meinem Bett sitzt ein Tiger! Und er liest einer meiner Bücher!"
 
 # game/script/01.rpy:707
 translate german start_edabf58d:
 
-    # b "What... {w=0.5}What's happening? Am I hallucinating? What the hell is this?"
+    # b "Wha— {w=0.5}What's happening? {w=0.5}Am I hallucinating? What the heck is this?! "
     b "Was...{w=0.5}Was passiert hier? Halluziniere ich? Was zur Hölle geht ab?"
 
 # game/script/01.rpy:710
 translate german start_8e2b03de:
 
-    # b "My grip loosens and my bag slips to the floor, landing with a thud. "
+    # b "I lose my grip around my bag, letting it slip and hit the floor below with a THUD. "
     b "Mein Griff lockert sich und meine Tasche fällt geräuschvoll zu Boden. "
 
 # game/script/01.rpy:712
 translate german start_0a76f1c2:
 
-    # avt "\"You... {w=0.5}You're...\" "
+    # avt "\"You...{w=0.5} You're...\" "
     avt "\"Du... {w=0.5}Du bist...\" "
 
 # game/script/01.rpy:714
 translate german start_af31c65b:
 
-    # tig normal "\"Liao? Is there something wrong?...{w=0.5} Can you see me?\" "
+    # tig normal "\"Liao? Is there something wrong?{w=0.5} ...Can you see me?\" "
     tig normal "\"Liao? Ist alles in Ordnung?...{w=0.5} Kannst du mich sehen?\" "
 
 # game/script/01.rpy:716
 translate german start_d82b9833:
 
-    # b "He can talk?!{w=0.5} And he said Liao... he knows my name? "
+    # b "H-{w=0.2}He can talk? {w=0.5}He called me Liao... So he knows my name too? "
     b "Er kann sprechen?!{w=0.5} Und er hat Liao gesagt... Er kennt meinen Namen? "
 
 # game/script/01.rpy:718
 translate german start_4f48d8b9:
 
-    # avt "\"You...{w=0.5} What are you? \" "
+    # avt "\"You...{w=0.5} {i}What{/i} \ are you? \" "
     avt "\"Du...{w=0.5} Was bist du? \" "
 
 # game/script/01.rpy:722
 translate german start_e46d3cda:
 
-    # tig frown "\"How rude of you to ask  \"what\"  I am... {w=0.5}I am the {font=tl/None/NotoSansCJKtc-Bold.otf}guardian tiger{/font} of your family! Hmm... {w=0.5}you don't recognize me, do you?\" "
+    # tig frown "\"How rude of you to ask \"what\" I am. After all, I'm a {font=tl/None/NotoSansCJKtc-Bold.otf}guardian tiger{/font} of your family.\" "
+    # tig frown "\"Hmm... {w=0.5}you don't recognise me, do you?\" "
     tig frown "\"Wie unhöflich von dir zu fragen, \"was\" ich bin... {w=0.5} Ich bin der {font=tl/None/NotoSansCJKtc-Bold.otf}Wächter-Tiger{/font} deiner Familie! Hmm... {w=0.5}Du erkennst mich nicht wieder, oder?\" "
 
 # game/script/01.rpy:724
 translate german start_b2de64c5:
 
-    # b "Guar... guardian tiger?     "
+    # b "Gu-{w=0.2}Guardian tiger?! "
     b "Wächt-... Wächter-Tiger?"
 
 # game/script/01.rpy:726
 translate german start_37a13961:
 
-    # b "Well... {w=0.5}we do have a guardian tiger in my family. Actually... {w=0.5}I should say 'guardian tigers'. After all, I was born into a family of {font=tl/None/NotoSansCJKtc-Bold.otf}Jitong{/font}. But I've never seen a real guardian tiger before that's for sure!     "
+    # b "Hmm... {w=0.5}We do have a guardian tiger in my family. Actually... {w=0.5}I should say {i}guardian \ntigers{/i}. "
+    # b "After all, I was born into a family of {font=tl/None/NotoSansCJKtc-Bold.otf}Jitong{/font} mediums, my family running their own temple. "
+    # b "Despite that, I never expected to see a real guardian tiger that's for sure! "
     b "Nun... {w=0.5}Wir haben einen Wächter-Tiger in meiner Familie. Eigentlich... {w=0.5}Ich sollte von mehreren 'Wächter-Tigern' sprechen. Immerhin bin ich der Sohn einer Familie von {font=tl/None/NotoSansCJKtc-Bold.otf}Jitong{/font}. Aber ich habe ganz sicher noch nie einen echten gesehen!"
 
 # game/script/01.rpy:727
 translate german start_5bd40f3a:
 
-    # b "Sure, I've seen a lot of tiger statues, but a living, speaking, muscular guardian tiger?"
-    # b "How is this even possible! Aren't guardian tigers considered gods? Even if they exist, they wouldn't be visible to naked eyes... {w=0.5}right? "
+    # b "Sure, I've seen a lot of tiger statues... but a living, speaking... and well— {i}muscular{/i} \ guardian tiger? "
+    # b "How is this even possible! Aren't guardian tigers considered gods? Even if they exist, normal people can't just see them... {w=0.5}right? "
     b "Ich meine, ich habe schon viele Tiger Statuen gesehen, aber ein lebendiger, sprechender, muskulöser Wächter-Tiger?"
     b "Wie ist das überhaupt möglich? Sind Wächter-Tiger nicht wie Götter? Selbst wenn es sie wirklich gibt, wären sie für das bloße Auge unsichtbar... {w=0.5}oder? "
+
 # game/script/01.rpy:729
 translate german start_c8b200ac:
 
-    # avt "\"Sorry, I don't recgonize you... \" "
-    avt "\"Tut mir leid, aber ich kenne dich nicht...\" " 
+    # avt "\"Sorry, I don't recognise you... \" "
+    avt "\"Tut mir leid, aber ich kenne dich nicht...\" "
 
 # game/script/01.rpy:731
 translate german start_b548db8d:
 
-    # tig normal "\"But, how is it that you are able to see me all of a sudden? Such feats used to be beyond your spirit power.\" "
+    # tig normal "\"But you couldn't see me before. How is it that you are able to distinguish me so suddenly? {w=0.5}Such feats were quite beyond your level of spirit power...\" "
     tig normal "\"Aber, wie kann es sein, das du mich auf einmal sehen kannst? Solche Taten waren dir wegen deiner Geist-Kraft nicht möglich.\" "
 
 # game/script/01.rpy:733
 translate german start_943d416f:
 
-    # avt "\"I'm just as confused as you are...\" "
-    avt "\"ich bin genau so verwirrt wie du...\" "
+    # avt "\"I{w=0.2}-I'm just as confused as you are...\" "
+    avt "\"ich bin genauso verwirrt wie du...\" "
 
 # game/script/01.rpy:735
 translate german start_50022975:
 
-    # b "I really want to figure this out... {w=0.5}So he said he \"used to be invisible\"... "
-    # b "Does that mean he's been here the whole time? "
+    # b "I have to figure this out... "
+    # b "Well... he said that I \"couldn't see him before\"... "
+    # b "Doesn't that mean he's been here this whole time?! "
     b "Ich möchte das wirklich verstehen... {w=0.5} Er sagte, er \"war unsichtbar\"..."
-    b "Bedeutet das, dass er die ganze Zeit hier war? " 
+    b "Bedeutet das, dass er die ganze Zeit hier war? "
 
 # game/script/01.rpy:736
 translate german start_c5bd6627:
 
-    # b "Now that I think about it... I did bring a small tiger statue to Taipei. Could that be him? "
-    b "Jetzt, wo ich darüber nachdenke... Ich habe eine kleine Tiger Statue nach Tapei mitgebracht. Ist das er? " 
+    # b "Now that I think about it, I did bring a small tiger statue with me from home... Could that be why he's here? "
+    b "Jetzt, wo ich darüber nachdenke... Ich habe eine kleine Tiger Statue nach Tapei mitgebracht. Ist das er? "
 
 # game/script/01.rpy:737
 translate german start_7a03bfc1:
 
-    # b "Although I've been raised in family of Jitong mediums, this is the first time I've seen any spirits... "
-    # b "So, if he's a real guardian tiger... How come I can see him all of a sudden? "
-    # b "I can't believe this is happening to me! "
+    # b "Even though I was raised in family of Jitong mediums it's not like I've seen any spirits before... "
+    # b "So— If this is a {i}for real{/i} \ guardian tiger, why exactly can I see him all of a sudden?! "
     b "Obwohl ich in einer Familie von Jitong Medien aufgewachsen bin, ist das das erste Mal, das ich Geister sehe... "
     b "Also, falls er ein echter Wächter-Tiger ist... Warum kann ich ihn auf einmal sehen? "
     b "Ich kann nicht fassen, dass mir das hier passiert! "
+
 # game/script/01.rpy:739
 translate german start_22c914b4:
 
-    # tig normal "\"Liao, did you not have that aboriginal dance performance today? Do you suppose something happened to you there?\" "
+    # tig normal "\"Hmm— {w=0.5}Liao, did you not have that aboriginal dance performance today? Do you recall anything strange?\" "
     tig normal "\"Liao, du hattest doch heute eine Aufführung? Glaubst du, dir könnte da etwas geschehen sein?"
+
 # game/script/01.rpy:741
 translate german start_c3ebe9e3:
 
-    # avt "\"Ahh... {w=0.5}I don't know...\" "
+    # avt "\"Ahh... {w=0.5}Well, I don't know...\" "
     avt "\Ähh... {w=0.5}Ich weiß nicht...\" "
 
 # game/script/01.rpy:745
 translate german start_2ac158c9:
 
-    # b "I have been exhauseted ever since the performance today... {w=0.5}That must have something to do with it but I don't know what... "
+    # b "The only thing I can think about is how tired I was after the show ended... That must have something to do with it but I don't know what... "
     b ""
 
 # game/script/01.rpy:748
 translate german start_50de399d:
 
-    # tig normal "\"Although, this is a good thing anyway. You can hear me, I can talk to you, theres no need to care about it further.\" "
+    # tig normal "\"Not that it matters, this is a good thing anyway. {w=0.5}You can hear me, I can talk to you, there's no need to care about it further.\" "
     tig normal ""
 
 # game/script/01.rpy:750
 translate german start_e9e699c9:
 
-    # b "How can a guardian tiger be so careless!     "
+    # b "How can a guardian tiger be so careless! " with vshake
     b ""
 
 # game/script/01.rpy:752
 translate german start_b590e9b4:
 
-    # avt "\"Uhh, Um... {w=0.5}So... you're a guardian tiger right? The one in the statue I brought to Taipei?\" "
+    # avt "\"Uhh, Um— {w=0.5}So, you're a guardian tiger right? The very one in the statue I brought here to Taipei?\" "
     avt ""
 
 # game/script/01.rpy:754
 translate german start_51a1e6b0:
 
-    # tig normal "\"Indeed.\" "
+    # tig normal "\"Correct.\" "
     tig normal ""
 
 # game/script/01.rpy:756
 translate german start_2bdef5be:
 
-    # avt  "\"So... {w=0.5}does that mean... you've been staying in my room this whole time?\" "
+    # avt  "\"So... does that mean... {w=0.5}you've been staying in my room this whole time?\" "
     avt ""
 
 # game/script/01.rpy:759
 translate german start_01c9ffc3:
 
-    # b "Ever since I moved out to Taipei for college, I've been living alone in this small apartment. "
-    # b "Just like any student who lives alone, I've never cared much about my room, not to mention what I do in it..."
-    # b "If this guy's been staying with me all this time... "
+    # b "Ever since I moved to Taipei for college, I've been living alone in this small apartment. "
+    # b "I'm a student so it's normal for me to not care much about my room, not to mention {i}what{/i} \ I do in it... "
+    # b "Then, if this guy's been staying with me all this time... "
     b ""
 
 # game/script/01.rpy:762
 translate german start_b680a801:
 
-    # tig normal "\"Yes, as I cannot go too far from the statue.\" "
+    # tig normal "\"Of course, I have been here the whole time. After all, I cannot travel far from my \nstatue.\" "
     tig normal ""
 
 # game/script/01.rpy:764
 translate german start_6365c00f:
 
-    # b "Oh right, I placed the statue on the bookshelf. Now that I think about it, it makes sense that he couldn't go too far from the room... "
+    # b "It makes sense, I did put his statue on my bookshelf. He {i}has{/i} \ no other choice but stick around here all the time... "
     b ""
 
 # game/script/01.rpy:766
 translate german start_66ee01cf:
 
-    # avt "\"Uh, wait... {w=0.5}You would have seen... {w=0.5}'that'... {w=0.5}right?\" "
+    # avt "\"Uh, wait... {w=0.5}You would have seen... {w=0.5}{i}'that'{/i}... {w=0.5}right?\" "
     avt ""
 
 # game/script/01.rpy:768
 translate german start_f489e51f:
 
-    # tig normal  "\"What do you mean?\" "
+    # tig normal  "\"What do you refer to?\" "
     tig normal ""
 
 # game/script/01.rpy:770
 translate german start_c737401c:
 
-    # avt "\"I mean... Uh... Did you watch everything I do when I'm at home?\" "
+    # avt "\"I mean... {w=0.5}uhh... {w=0.5}So you watch {i}everything{/i} \ I do at home?\" "
     avt ""
 
 # game/script/01.rpy:772
 translate german start_49ba4444:
 
-    # tig normal  "\"Oh, you mean like jacking off? Of course I've watched you do that. \" "
+    # tig normal  "\"Oh, you mean like jacking off? Of course I've watched you do that.\" "
     tig normal ""
 
 # game/script/01.rpy:775
 translate german start_8b9224e0:
 
-    # b "Not like this... Not like this...     " with vpunch
+    # b "Not like this... Not like this... " with vpunch
     b "" with vpunch
 
 # game/script/01.rpy:779
 translate german start_7d960998:
 
-    # tig normal  "\"You don't have to feel embarrassed about it, I have been watching over you since you were a child. I've seen worse.\" "
+    # tig normal  "\"Theres no need to feel embarrassed, I have been watching over you since you were a child. I've seen worse.\" "
     tig normal ""
 
 # game/script/01.rpy:781
 translate german start_74a4b86d:
 
-    # avt "\"Oh... So... {w=0.5}Does that mean... {w=0.5}everything I look at...\" "
+    # avt "\"Oh... so... {w=0.5}does that mean... {w=0.5}everything I look at...\" "
     avt ""
 
 # game/script/01.rpy:785
 translate german start_3a31461e:
 
-    # tig lift "\"Huh? Oh yes, you do have quite an unusual taste. However, you won't find that kind of boyfriend in reality. I suppose.\" "
+    # tig lift "\"Huh? {w=0.5}Oh yes, you do have quite {i}unusual tastes.{/i} However, I suppose you won't find that kind of boyfriend in reality.\" "
     tig lift ""
 
 # game/script/01.rpy:787
 translate german start_ef462079:
 
-    # avt "\"Yeah, I know I can't find those....\" "
+    # avt "\"Yeah, of course I know I can't find those—\" "
     avt ""
 
 # game/script/01.rpy:792
 translate german start_c8099458:
 
-    # avt "\"Wait! You even know I like guys!\" " with flash
+    # avt "\"Hold on! You even know I like guys!\" " with flash
     avt "" with flash
 
 # game/script/01.rpy:796
 translate german start_625e6850:
 
-    # tig lift "\"What did you expect? I do know every single file on your computer. Would you like me to list all of them?\" "
+    # tig lift "\"What did you expect? I have even seen every single file on your computer. Would you wish for me to list all of them?\" "
     tig lift ""
 
 # game/script/01.rpy:798
 translate german start_9b043b2a:
 
-    # avt "\"Alright, alright! I am just... {w=0.5}uh... {w=0.5}shocked.\" "
+    # avt "\"Alright— Alright! I'm just... {w=0.5}uh... {w=0.5}shocked.\" "
     avt ""
 
 # game/script/01.rpy:802
 translate german start_c52a2118:
 
-    # tig laugh_2 "\"Regardless, it's quite wonderful to finally have someone that can channel spirits. It's been decades, I didn't expect to ever actually meet one.\" "
+    # tig laugh_2 "\"Regardless, it's quite wonderful to finally have someone that can channel spirits. It's been decades. I didn't expect to ever encounter one.\" "
     tig laugh_2 ""
 
 # game/script/01.rpy:804
 translate german start_c0a112b9:
 
-    # avt "\"Decades?{w=0.5} Does that mean someone else from my family could see you too?\" "
+    # avt "\"Decades? {w=0.5}Does that mean other people in my family have been able to see spirits as well?\" "
     avt ""
 
 # game/script/01.rpy:806
 translate german start_92695d23:
 
-    # tig normal "\"There used to be one in every generation of your family.\" "
-    # tig normal "\"However, the last two generations have lacked one. We've been worried about it being lost forever.\" "
+    # tig normal "\"There was one in every generation of your family. However, we have lacked one for two generations now.\" "
+    # tig normal "\"We've been worried about the power being lost forever.\" "
     tig normal ""
 
 # game/script/01.rpy:808
 translate german start_69fcf4d7:
 
-    # b "I never thought we could actually communicate with spirits... {w=0.5}So all those rituals are more than just a show?   "
+    # b "I never thought we could actually communicate with spirits... {w=0.5}So all our rituals are more than just for show? "
     b ""
 
 # game/script/01.rpy:810
 translate german start_b939da3e:
 
-    # avt "\"So, what makes me different?\" "
+    # avt "\"...Okay, so what makes me different?\" "
     avt ""
 
 # game/script/01.rpy:812
 translate german start_59213553:
 
-    # tig normal "\"You've had a bit of spirit power since you were a child, just not enough to communicate. However...{w=0.5} today...\" "
+    # tig normal "\"Well, you have had a decent amount of spirit power since you were a child, just not enough to discern us. However...{w=0.5} that changed today...\" "
     tig normal ""
 
 # game/script/01.rpy:821
 translate german start_7d6e9fe8:
 
-    # b "the tiger leans over and sniffs me deeply."
+    # b "The guardian tiger leans in close and sniffs at me. "
     b ""
 
 # game/script/01.rpy:822
@@ -378,55 +393,55 @@ translate german start_1985801c:
 # game/script/01.rpy:824
 translate german start_769400ab:
 
-    # tig frown "\"It seems like someone caused a change in your powers. But how... {w=0.5}Liao, you don't suppose you have any ideas?\" "
+    # tig frown "\"It seems like someone caused a change in your spirit powers. But how... {w=0.5}Liao, you don't suppose you have any ideas?\" "
     tig frown ""
 
 # game/script/01.rpy:830
 translate german start_4dd011f7:
 
-    # avt "\"Nope.\" "with hshake
+    # avt "\"N-Nope.\" "with hshake
     avt "" with hshake
 
 # game/script/01.rpy:832
 translate german start_a99dd369:
 
-    # b "Considering how much I was running around at the performance tonight, it's not like I shouldn't be tired anyway. "
+    # b "The only thing is me being exhausted, but considering how much I was running around at the performance tonight, it's not like I shouldn't be tired anyway. "
     b ""
 
 # game/script/01.rpy:834
 translate german start_26b7a43b:
 
-    # b "And what's with this edgy sounding spirit power thing?"
+    # b "And what's with this edgy sounding spirit power thing? "
     b ""
 
 # game/script/01.rpy:836
 translate german start_bcbbde24:
 
-    # b "It sounds like something straight out of an anime! "
+    # b "What kind of bootleg shonen anime is this! "
     b ""
 
 # game/script/01.rpy:838
 translate german start_6ce08f38:
 
-    # tig normal "\"Oh, no ideas? Forget about it then. At least you're not hurt. As I said, this is a good thing.\" "
+    # tig normal "\"Oh, no ideas? {w=0.5}Forget about it then. At least you're not hurt. {w=0.5}As I said, this is a good thing.\" "
     tig normal ""
 
 # game/script/01.rpy:840
 translate german start_f6eb49f1:
 
-    # b "For a supposed guardian tiger of my family, isn't he way too nonchalant about what happened to me? "
+    # b "For a supposed guardian tiger of my family isn't he way too nonchalant about what happened to me? "
     b ""
 
 # game/script/01.rpy:842
 translate german start_b91bfd6b:
 
-    # avt "\"...So, do you think there'll be any side effects to this?\" "
+    # avt "\"...So, you think there'll be any side effects to this?\" "
     avt ""
 
 # game/script/01.rpy:844
 translate german start_8e41df05:
 
-    # tig normal "\"I may need to observe you for a while longer.\" "
+    # tig normal "\"Doubtful, {w=0.5}but I may need to observe you for a while longer.\" "
     tig normal ""
 
 # game/script/01.rpy:846
@@ -444,45 +459,45 @@ translate german start_cb20e3ac:
 # game/script/01.rpy:855
 translate german start_ac8935d0:
 
-    # tig normal "\"After all, I am a god. And if there is something I can't take care of, I can go find the {font=tl/None/NotoSansCJKtc-Bold.otf}City God{/font}, or try to get help from {font=tl/None/NotoSansCJKtc-Bold.otf}Holy Mother{/font} back at our home temple.\" "
-    # tig normal "\"There is nothing those two can't handle.\" "
+    # tig normal "\"Well I am a god after all. In the unlikely case I cannot handle it, we can simply seek help from the {font=tl/None/NotoSansCJKtc-Bold.otf}City God{/font} or even the {font=tl/None/NotoSansCJKtc-Bold.otf}Holy Mother{/font} herself back at our temple.\" "
+    # tig normal "\"There is nothing those two couldn't handle.\" "
     tig normal ""
 
 # game/script/01.rpy:857
 translate german start_3efef01c:
 
-    # avt "\"I guess that does sound impressive.\" "
+    # avt "\"I guess that does sound impressive...\" "
     avt ""
 
 # game/script/01.rpy:862
 translate german start_0147c0e6:
 
-    # tig laugh_1 "\"Although, many people despise getting involved with the {font=tl/None/NotoSansCJKtc-Bold.otf}possessing ritual{/font} involved in contacting them...\" "
-    # tig laugh_1 "\"Regardless, even if you don't get along with the gods, at least one can still ask for their blessing of safety.\" "
+    # tig laugh_1 "\"Although, many people despise the {font=tl/None/NotoSansCJKtc-Bold.otf}possessing ritual{/font} involved in contacting them...\" "
+    # tig laugh_1 "\"Regardless—even if you don't seem to be a fan of us—at least one can still ask for their blessing of safety.\" "
     tig laugh_1 ""
 
 # game/script/01.rpy:863
 translate german start_a2ac57a8:
 
-    # tig laugh_2 "\"As for myself, after watching over you all these years, I am more than happy to be able to chat with you.\" "
+    # tig laugh_2 "\"As for myself, after watching over you all these years I am more than happy to be able to chat with you.\" "
     tig laugh_2 ""
 
 # game/script/01.rpy:865
 translate german start_7d719eba:
 
-    # b "It's good to hear that he's happy to speak to me...{w=0.5} But his face, I feel there's something more to it. "
+    # b "Well, it's good to hear that he's happy to speak to me... {w=0.5}although seems a bit concerned about me.. "
     b ""
 
 # game/script/01.rpy:869
 translate german start_4ce7442c:
 
-    # b "I wonder why people are reluctant to be possessed... {w=0.5}Could the tales of the {font=tl/None/NotoSansCJKtc-Bold.otf}'Oracle's Misfortune'{/font} be true? "
+    # b "Also, I wonder why people wouldn't want to be possessed... {w=0.5}Could the tales of the {font=tl/None/NotoSansCJKtc-Bold.otf}Oracle's Misfortune{/font} be true? "
     b ""
 
 # game/script/01.rpy:871
 translate german start_1f0d7080:
 
-    # avt "\"Wait, what do you mean by 'don't get along'...\" "
+    # avt "\"Wait, what did you mean by saying I don't seem to be a fan—\" "
     avt ""
 
 # game/script/01.rpy:878
@@ -494,33 +509,34 @@ translate german start_1d33c2d4:
 # game/script/01.rpy:880
 translate german start_f99b9f07:
 
-    # b "And he didn't ring the doorbell downstairs... {w=0.5}Maybe it's my neighbour? Did I make too much noise? "
+    # b "I didn't even hear them buzz the front door... {w=0.5}Hopefully it's not a neigbhour coming to complain... I haven't been that noisy, have I? "
     b ""
 
 # game/script/01.rpy:882
 translate german start_07254d1b:
 
-    # b "I look at the tiger sitting on my bed... {w=0.5}I've got to hide him!"
-    # b "I can't just have someone walking in here and seeing a real, living tiger-man! "
+    # b "I look at the tiger sitting on my bed... {w=0.5}I-I've got to hide him! "
+    # b "I can't just have someone walking in here and seeing a real, living, breathing \ntiger-man! "
     b ""
 
 # game/script/01.rpy:884
 translate german start_e4bc96cb:
 
-    # b "Wait, wait... {w=0.5}Wouldn't he only be visible to me anyway? "
+    # b "Wait— Wait... {w=0.5}Shouldn't I be the only person who can see him? "
     b ""
 
 # game/script/01.rpy:886
 translate german start_5b5637c4:
 
     # b "I take a deep breath and look back at him. He doesn't seem to care what's behind the door or feel the need to hide himself. "
-    # b "It seems I've worried over nothing."
+    # b "It seems I've worried over nothing. "
+    # b "With that anxiety quelled, my worry turns towards whoever is outside my door... "
     b ""
 
 # game/script/01.rpy:896
 translate german start_fb6eb2c7:
 
-    # b "With a little bit of anxiety, I open the door. Awaiting me outside is a... {w=0.5}hooded figure? "
+    # b "With no other choice I walk over and open the door with a satisfying click. The door swings open to reveal something— someone standing before me... {w=0.5}{i}a hooded figure?{/i} "
     b ""
 
 # game/script/01.rpy:898
@@ -532,16 +548,16 @@ translate german start_cb3d021a:
 # game/script/01.rpy:901
 translate german start_8f74640e:
 
-    # b "This can't be real.... "
-    # b "First that guardian tiger stalker, and now? A leopard?!"
-    # b "Clearly I'm delirious from exhaustion... "
+    # b "{i}This can't be real....{/i} "
+    # b "First that guardian tiger stalker, and now some door-knocking leopard?! "
+    # b "Clearly this exhaustion has made me delirious... "
     b ""
 
 # game/script/01.rpy:902
 translate german start_dba4e869:
 
-    # b "I really don't know off any leopard gods or monsters though. Not to mention his strange clothes..."
-    # b "Actually, hold on. It reminds me of those costumes...     "
+    # b "Who could he be? I... I can't really think of think of any leopard gods or monsters... Not to mention his strange outfit... "
+    # b "Actually, hold on— That reminds me of some of our costumes... "
     b ""
 
 # game/script/01.rpy:904
@@ -553,7 +569,7 @@ translate german start_6d568c07:
 # game/script/01.rpy:906
 translate german start_1c1d4e55:
 
-    # lpd normal "\"……\" "
+    # lpd normal "\"......\" "
     lpd normal ""
 
 # game/script/01.rpy:908
@@ -565,7 +581,7 @@ translate german start_fbfa5bed:
 # game/script/01.rpy:910
 translate german start_52361b9e:
 
-    # avt "\"Uh... what?\" "
+    # avt "\"Uh... {w=0.5}what?\" "
     avt ""
 
 # game/script/01.rpy:912
@@ -583,13 +599,13 @@ translate german start_2956999c:
 # game/script/01.rpy:916
 translate german start_9691cf89:
 
-    # avt "\"Uhh, {w=0.5}hello.\" "
+    # avt "\"Umm, {w=0.5}hello.\" "
     avt ""
 
 # game/script/01.rpy:918
 translate german start_49583393:
 
-    # b "...I figured he might be an aborigine.     "
+    # b "...I guess I was on the right track, he must be an aboriginal spirit. "
     b ""
 
 # game/script/01.rpy:920
@@ -607,19 +623,19 @@ translate german start_17f833be:
 # game/script/01.rpy:924
 translate german start_3b44183b:
 
-    # b "It takes me a few seconds more than it should to realize he wants to enter my room. It is impolite of me to have him waiting at the doorway, but... "
+    # b "It takes me a second more than it should to realise he wants to enter my room. It is impolite of me to leave him waiting at the doorway, but... "
     b ""
 
 # game/script/01.rpy:926
 translate german start_861851bb:
 
-    # avt "\"Eh... {w=0.5}alright. But first, what are you...?\" "
+    # avt "\"Oh— That's what you meant... {w=0.5}but first... well, what are you?\" "
     avt ""
 
 # game/script/01.rpy:929
 translate german start_5b23d985:
 
-    # lpd normal "\"Clouded leopard.\" "
+    # lpd normal "\"Clouded Leopard.\" "
     lpd normal ""
 
 # game/script/01.rpy:933
@@ -631,7 +647,7 @@ translate german start_d8819113:
 # game/script/01.rpy:935
 translate german start_fc1da6c5:
 
-    # avt "\"Okay, I'm starting to get the picture...\" "
+    # avt "\"Okay, I think I'm starting to get where this is going...\" "
     avt ""
 
 # game/script/01.rpy:937
@@ -667,26 +683,26 @@ translate german start_177eecf2:
 # game/script/01.rpy:952
 translate german start_39385a16:
 
-    # b "He looks around for a moment, and then points to the leaflet on my bed. It's the schedule of today's performance.     "
+    # b "He looks around for a moment, and then points to the leaflet on my bed. It's the schedule of today's performance. "
     b ""
 
 # game/script/01.rpy:954
 translate german start_f8fb824f:
 
-    # b "In other words, he brought...{w=0.5} spirits to watch our performance?"
+    # b "In other words, {w=0.5}he brought...{w=0.5} spirits to watch our show? "
     b ""
 
 # game/script/01.rpy:955
 translate german start_57eb01c5:
 
-    # b "The performance was inspired by an aboriginal funeral ceremony. Who would have thought that among the audience would be real aboriginal spirits?     "
-    # b "If only the director knew... "
+    # b "Our choreography was inspired by an aboriginal funeral ceremony but it's had to believe that there were actual aboriginal spirits watching us. "
+    # b "The director would be over the moon if he knew... "
     b ""
 
 # game/script/01.rpy:957
 translate german start_373e1d4f:
 
-    # lpd normal "\"You...can see.\" "
+    # lpd normal "\"You... {w=0.5}can see.\" "
     lpd normal ""
 
 # game/script/01.rpy:959
@@ -698,38 +714,37 @@ translate german start_0d7a0d97:
 # game/script/01.rpy:961
 translate german start_c27dd094:
 
-    # b "He points directly at my eyes with black, pointed claws... "
-    # b "So that's how beast-men fingers are, huh? "
+    # b "He points directly at my eyes with black, pointed claws... Huh, so that's how beast-men fingers are. "
     b ""
 
 # game/script/01.rpy:963
 translate german start_48da1423:
 
-    # b "Oh wow! He has pink paw pads too! They're kinda cute despite how grouchy he looks. "
+    # b "Oh wow! He's got cute little pink paw pads too! \n(He looks grumpy though.) "
     b ""
 
 # game/script/01.rpy:966
 translate german start_585001f5:
 
-    # lpd normal "\"I helped... you see.\" "
+    # lpd normal "\"I helped... {w=0.5}you see.\" "
     lpd normal ""
 
 # game/script/01.rpy:968
 translate german start_b562c685:
 
-    # avt "\"What?\" "
+    # avt "\"Hmm?\" "
     avt ""
 
 # game/script/01.rpy:970
 translate german start_8a277340:
 
-    # b "So, In other words... it's thanks to him that I am able to see the spirits.     "
+    # b "So, does that mean... {w=0.5}he's the one that awakened my spirit powers? "
     b ""
 
 # game/script/01.rpy:972
 translate german start_2a136d64:
 
-    # avt "\"But, what for?\" "
+    # avt "\"But ...what for?\" "
     avt ""
 
 # game/script/01.rpy:974
@@ -747,13 +762,13 @@ translate german start_02943167:
 # game/script/01.rpy:978
 translate german start_b3a5f399:
 
-    # b "So he awakened my powers because he wanted my help, that makes sense so far... {w=0.5}But I have a bad feeling about this."
+    # b "So he awakened my powers because he wanted my help, that makes sense so far... {w=0.5}\n(I have a bad feeling about this.) "
     b ""
 
 # game/script/01.rpy:980
 translate german start_24948b8d:
 
-    # avt "\"So, about this help you want... {w=0.5}Do I have to go anywhere?\" "
+    # avt "\"So, about this help you want... {w=0.5}do I have to go anywhere?\" "
     avt ""
 
 # game/script/01.rpy:985
@@ -765,19 +780,20 @@ translate german start_2cd2b655:
 # game/script/01.rpy:987
 translate german start_48e1ce15:
 
-    # avt "\"What? That's too far away!\" "
+    # avt "\"What? {w=0.5}That's really, really far away!\" "
     avt ""
 
 # game/script/01.rpy:989
 translate german start_479cb204:
 
-    # b "...Okay. So if I think back to our research for the performance. The Rukai people live in Wutai... {w=0.5}but that's in Pingtung! "
+    # b "Wutai... Wait, that place came up in our research for the performance. If I remember right, the Rukai people do actually live in Wutai. "
+    # b "Which means what he's saying makes sense... but that doesn't change the face that Pingtung is on the completely opposite side of Taiwan! "
     b ""
 
 # game/script/01.rpy:991
 translate german start_3341c5c3:
 
-    # b "I don't even know what he wants me for! Why should I even think about going with him?!"
+    # b "And I don't even know what he wants me for! Why should I even think about going with some spirit that just came knocking on my door?!"
     b ""
 
 # game/script/01.rpy:993
@@ -789,20 +805,21 @@ translate german start_851777ae:
 # game/script/01.rpy:995
 translate german start_9efac352:
 
-    # b "Aww jeez, why does he have to give me that blank look... "
+    # b "Aww geez, why does he have to give me {i}that{/i} \ look... "
     b ""
 
 # game/script/01.rpy:997
 translate german start_5fb3d600:
 
-    # b "Although he doesn't show it, somehow I sensed I just let him down... "
-    # b "He helped me awaken to these powers. But, I refused his request right away... "
+    # b "Although he doesn't show it, I think I let him down... "
+    # b "I mean he did go out of his way to awaken these powers, and after all that I just refused him straight out... "
     b ""
 
 # game/script/01.rpy:1004
 translate german start_f468ed00:
 
-    # tig angry "\"Hey, you.{w=0.5} You never even asked before awakening him. Now you've barged into his house, and the first thing you've done is demand him to leave with you!\" " with hshake
+    # tig angry "\"Hey, you. {w=0.5}Be sure to remember that you never even asked before giving him these powers.\" "
+    # tig angry "\"Now you've barged into his house, and the first thing you've done is demand him to leave with you!\" " with hshake
     tig angry "" with hshake
 
 # game/script/01.rpy:1006
@@ -826,7 +843,7 @@ translate german start_9e9bc7a0:
 # game/script/01.rpy:1017
 translate german start_c237ee64:
 
-    # tig angry "\"I've been standing here this whole time, surely you saw, yes? Yet you still want to take my boy away without as much as a greeting? \" "
+    # tig angry "\"I've been standing here this whole time, surely you saw, yes? Yet you still want to take my boy away without as much as a greeting?\" "
     # tig angry "\"I thought I had seen the worst, but you aborigine, you truly are appalling.\" "
     tig angry ""
 
@@ -839,7 +856,7 @@ translate german start_855d3c48:
 # game/script/01.rpy:1026
 translate german start_e7987cbb:
 
-    # tig laugh_1 "\"Not evil, so you say? How do I know you are not just a demon in disguise? \" "
+    # tig laugh_1 "\"Not evil, so you say? How do I know you are not just some demon in disguise?\" "
     # tig laugh_1 "\"To me, you aboriginal deities are not so different from demons.\" "
     tig laugh_1 ""
 
@@ -870,8 +887,8 @@ translate german start_85d6c406:
 # game/script/01.rpy:1056
 translate german start_60548f53:
 
-    # b "The leopard and tiger are locked in eachothers eyes. The tiger cracks his nuckles. He looks ready for a fight. "
-    # b "Woah! Wait, how did things end up with them trying to fight eachother? "
+    # b "The leopard and tiger lock eyes. The tiger cracking his knuckles. He looks ready for a fight. "
+    # b "Woah! Wait, how did things end up with them trying to fight each other? "
     b ""
 
 # game/script/01.rpy:1058
@@ -883,7 +900,7 @@ translate german start_aef67a0e:
 # game/script/01.rpy:1079
 translate german start_699cc8b6:
 
-    # b "The two men (cats?) stare feircely at each other whilst I stand between them."
+    # b "The two men (well cats?) glare at each other whilst I stand between them. "
     b ""
 
 # game/script/01.rpy:1080
@@ -895,89 +912,88 @@ translate german start_bd9bd4d9:
 # game/script/01.rpy:1081
 translate german start_ee8cd750:
 
-    # b "By the way, they are both in spirit form, right?"
+    # b "...But aren't they spirits? "
     b ""
 
 # game/script/01.rpy:1082
 translate german start_2773902c:
 
-    # b "I don't even know if I can touch them... If they use something like spells or telekinetic powers to fight, is there any point in getting between them at all?"
+    # b "I don't even know if I can touch them... What if they use some sort of spells spells or telekinetic powers to fight. Is there any point in getting between them at all? "
     b ""
 
 # game/script/01.rpy:1091
 translate german start_10634d1c:
 
-    # b "Who decided to call me now of all times?!"
+    # b "W-Wait— {w=0.5}Who decided to call me {i}right now{/i} \ of all times?! "
     b ""
 
 # game/script/01.rpy:1093
 translate german start_2d6fbe46:
 
-    # b "Trembling, I keep an eye on the two puffed up cats as I pick up my phone..."
-    # b "The ringtone had interrupted their stand-off. They had turned around to look at me, watching me closely for my reaction. "
+    # b "The ringtone had cut through their stand-off. Both turning around to look at me, watching closely to see what's going on. "
+    # b "Trembling, I keep an eye on the two puffed up cats as I reach for my phone... "
     b ""
 
 # game/script/01.rpy:1094
 translate german start_962a6357:
 
-    # b "So they know what ringtones are?   "
+    # b "(Would they even know how phones work?) "
     b ""
 
 # game/script/01.rpy:1095
 translate german start_8bf61d6b:
 
-    # b "I pick up the phone. It's Shu-Chi Senpai from the dance club.     "
+    # b "I pick up the phone. It's Shu-Chi Senpai from dance club. "
     b ""
 
 # game/script/01.rpy:1100
 translate german start_97686b4f:
 
-    # avt "\"Hello? Senpai... {w=0.5}hi... what is it?\" "
+    # avt "\"Hello? Senpai... {w=0.5}Uh... What's up?\" "
     avt ""
 
 # game/script/01.rpy:1104
 translate german start_53dca347:
 
-    # senpai "\"Ahhaha, it's nothing much. Didn't you say you were exhausted? You feeling better now?\" "
-    # senpai "\"I bought some snacks tonight, so let's eat together.\" "
+    # senpai "\"Hey Liao, just calling to check up on you. You looked about ready to pass out before you left. We were kinda worried. You feeling better now?\" "
+    # senpai "\"Well, I figured you'd be hungry so I got some food for you. Let's eat dinner together!\" "
     senpai ""
 
 # game/script/01.rpy:1108
 translate german start_cc4c6fd0:
 
-    # b "W-what? Now?"
+    # b "W-what? Right now?! "
     b ""
 
 # game/script/01.rpy:1109
 translate german start_27bbbb4d:
 
-    # b "If Senpai comes for a visit, what will I do about these two big cats?"
-    # b "It's probably safe to assume he can't see them..."
+    # b "If senpai does come over... what will I do about these two big cats? \n(It's probably safe to assume he can't see them.) "
     b ""
 
 # game/script/01.rpy:1110
 translate german start_9433d02e:
 
-    # b "Does that mean I'll have to pretend they don't exist while talking with Senpai?      "
+    # b "In which case I'll just have to pretend I can't see them... "
     b ""
 
 # game/script/01.rpy:1111
 translate german start_e32a3f10:
 
-    # b "If manga has taught me anything... {w=0.5}this isn't going to end well! "
+    # b "If manga's taught me anything this isn't going to end well! "
     b ""
 
 # game/script/01.rpy:1112
 translate german start_c2d59d54:
 
-    # b "But... {w=0.5}Senpai already brought food for me. It'd be rude to refuse him... "
+    # b "But... {w=0.5}it'd be rude to refuse him. By the sound of it he's already bought dinner for us... "
     b ""
 
 # game/script/01.rpy:1113
 translate german start_55674bec:
 
-    # b "Why is Senpai concerned about me all of a sudden?"
-    # b "I mean, sure I've talked to him, but we aren't particularly close either. He really didn't need to buy snacks for me..."
+    # b "On the other hand, why is he so concerned about me all of a sudden? "
+    # b "I mean, sure, I've talked to him, but I wouldn't call us close. He really didn't need to buy dinner and check up on me... "
     b ""
 
 # game/script/01.rpy:1115
@@ -989,19 +1005,19 @@ translate german start_b6ce43ea:
 # game/script/01.rpy:1117
 translate german start_f3d5318e:
 
-    # senpai "\"Hmm? Yep.\" "
+    # senpai "\"Hm? Yep.\" "
     senpai ""
 
 # game/script/01.rpy:1119
 translate german start_c4be2782:
 
-    # avt "\"Err...{w=0.5} where are you right now?\" "
+    # avt "\"Err... {w=0.5}How far off are you?\" "
     avt ""
 
 # game/script/01.rpy:1122
 translate german start_c696abdd:
 
-    # senpai "\"Heh, I am actually... {w=0.5}downstairs.\" "
+    # senpai "\"Heheh— I'm actually... {w=0.5}downstairs.\" "
     senpai ""
 
 # game/script/01.rpy:1125
@@ -1019,50 +1035,50 @@ translate german start_45b497c6:
 # game/script/01.rpy:1131
 translate german start_aa0e33c4:
 
-    # avt "\"Hey, Senpai...\" "
+    # avt "\"Wait, S-Senpai...\" "
     avt ""
 
 # game/script/01.rpy:1133
 translate german start_d4ee47f5:
 
     # b "He hung up. "
-    # b "Senpai is arriving sooner than expected. What should I do?!"
+    # b "Okay, didn't expect him to {i}already{/i} \ be here. What am I gonna do now?!"
     b ""
 
 # game/script/01.rpy:1134
 translate german start_ddce024d:
 
-    # b "I glance at the two clueless big cats. Should I ask them to hide? How should I tell them?"
+    # b "I glance at the two clueless big cats next to me. Should I ask them to hide? How should I tell them? "
     b ""
 
 # game/script/01.rpy:1135
 translate german start_5ec29cd9:
 
-    # b "But since Senpai won't be able to see them it should be ok...{w=0.5} Gotta close the door first!     "
+    # b "But since Senpai won't be able to see them it should be okay... {w=0.5}crap, I need to at least close the door before he comes up! "
     b ""
 
 # game/script/01.rpy:1142
 translate german start_e1dde551:
 
-    # b "I pull the leopard by the door into the room and close the door.     "
+    # b "Tugging Leopard by the shoulder I push him into the room, shutting the door behind him. "
     b ""
 
 # game/script/01.rpy:1144
 translate german start_1646361a:
 
-    # avt "\"Guys, {w=0.5}just hold on a second. My senpai is coming so please keep it down and stay quiet, understood?\" "
+    # avt "\"Guys, {w=0.5}just hold on a second. My senpai is coming over so please keep it down and stay quiet, understood?\" "
     avt ""
 
 # game/script/01.rpy:1146
 translate german start_63bc8b71:
 
-    # b "The two big cats nod obediently.     "
+    # b "The two big cats nod obediently. "
     b ""
 
 # game/script/01.rpy:1148
 translate german start_145a542f:
 
-    # avt "\"Okay, in short...\" "
+    # avt "\"Okay, so what I need you to—\" "
     avt ""
 
 # game/script/01.rpy:1158
@@ -1074,19 +1090,19 @@ translate german start_2b54dc00:
 # game/script/01.rpy:1160
 translate german start_e9ca69f0:
 
-    # avt "\"Uh, um, {w=0.5}Just a second Senpai...\" "
+    # avt "\"Uh, um— {w=0.5}Just a second Senpai...\" "
     avt ""
 
 # game/script/01.rpy:1162
 translate german start_6d660d3e:
 
-    # b "I gulp and look back at the two big cats as I open the door.     "
+    # b "I gulp and look back at the two big cats as I open the door. "
     b ""
 
 # game/script/01.rpy:1172
 translate german start_861cf7a9:
 
-    # lpdcat laugh "\"Liao, here's your food...{w=0.5} Eh?\" "
+    # lpdcat laugh "\"One order of dinner for Liao coming up! {w=0.5}...Eh?\" "
     lpdcat laugh ""
 
 # game/script/01.rpy:1176
@@ -1098,38 +1114,38 @@ translate german start_0d7a0d97_1:
 # game/script/01.rpy:1186
 translate german start_29b40fbb:
 
-    # avt"\"You! {w=0.5}Are you Shu-Chi Senpai?!\" "
+    # avt"\"Y-you! {w=0.5}You're Shu-Chi Senpai?!\" "
     avt ""
 
 # game/script/01.rpy:1198
 translate german start_73639ff2:
 
-    # b "This is Senpai?!    "
+    # b "What happened to Senpai?! "
     b ""
 
 # game/script/01.rpy:1199
 translate german start_0103f86d:
 
-    # b "This can't be right! Senpai is definitely human!     "
+    # b "This can't be right! Senpai's definitely human! "
     b ""
 
 # game/script/01.rpy:1209
 translate german start_e8e07219:
 
-    # b "Although this guy in front of me is about the same height, the same short and small build... {w=0.5}But I know for sure Senpai isn't a cat!"
+    # b "This guy in front of me is about the same height and the same short and small build as Senpai... {w=0.5}but I know for sure Senpai isn't a cat! "
     # b "If someone at school was a beast-man, there'd be mayhem over it! "
     b ""
 
 # game/script/01.rpy:1214
 translate german start_25869910:
 
-    # lpdcat surprise_1 "\"Uh, right, Liao, are you...?\" "
+    # lpdcat surprise_1 "\"Uh, {w=0.5}right... {w=0.5}Liao, are you?\" "
     lpdcat surprise_1 ""
 
 # game/script/01.rpy:1216
 translate german start_a4fb413a:
 
-    # avt "\"Senpai, you look like...{w=0.5} How are you...\" "
+    # avt "\"Senpai, you look like... {w=0.5}how did you?\" "
     avt ""
 
 # game/script/01.rpy:1218
@@ -1166,7 +1182,7 @@ translate german start_d0476f20:
 # game/script/01.rpy:1237
 translate german start_edcd2773:
 
-    # lpdcat serious "\"No, I'm a {font=tl/None/NotoSansCJKtc-Bold.otf}leopard cat{/font}. Even though the name ends with cat, I am not really a cat.\" "
+    # lpdcat serious "\"No, I'm a {font=tl/None/NotoSansCJKtc-Bold.otf}leopard cat{/font}. {w=0.5}Even though the name ends with cat, I've got nothing to do with lowly house cats.\" "
     lpdcat serious ""
 
 # game/script/01.rpy:1239
@@ -1178,7 +1194,7 @@ translate german start_ede3b769:
 # game/script/01.rpy:1241
 translate german start_ad0f903e:
 
-    # lpdcat angry "\"Oh, please! I'm a bit larger than a house cat!\" "with vpunch
+    # lpdcat angry "\"Oh, please! I'm a heaps bigger than some house cat!\" "with vpunch
     lpdcat angry "" with vpunch
 
 # game/script/01.rpy:1243
@@ -1190,7 +1206,7 @@ translate german start_a4939b12:
 # game/script/01.rpy:1245
 translate german start_03d85f1e:
 
-    # avt "\"That's besides the point! \" "
+    # avt "\"That's besides the point!\" "
     avt ""
 
 # game/script/01.rpy:1247
@@ -1202,14 +1218,14 @@ translate german start_14a41b6a:
 # game/script/01.rpy:1249
 translate german start_b945aeaa:
 
-    # lpdcat normal "\"No, I've always looked like this, to most people I'm no more than an ordinary student.\" "
-    # lpdcat normal "\"Liao, how come you're suddenly able to see me in this form? \" "
+    # lpdcat normal "\"Nope, I've always looked like this. To most people I'm no more than an ordinary \nstudent.\" "
+    # lpdcat normal "\"Hmm... but why can you suddenly see my real form?\" "
     lpdcat normal ""
 
 # game/script/01.rpy:1251
 translate german start_1bed9db8:
 
-    # lpdcat surprise_2"\"Also... {w=0.5}those two in your room...\" "
+    # lpdcat surprise_2"\"Also... {w=0.5}those two behind you...\" "
     lpdcat surprise_2 ""
 
 # game/script/01.rpy:1257
@@ -1227,25 +1243,25 @@ translate german start_7b5007de:
 # game/script/01.rpy:1262
 translate german start_e71b8846:
 
-    # tig laugh_2 "\"'Childhood sweetheart', right?\" " with flash
+    # tig laugh_2 "\"Childhood sweetheart, right?\" " with flash
     tig laugh_2 "" with flash
 
 # game/script/01.rpy:1264
 translate german start_25f5ba3f:
 
-    # b "It's more like a creepy stalker! "
+    # b "More like creepy stalker! "
     b ""
 
 # game/script/01.rpy:1272
 translate german start_b0314b49:
 
-    # lpd normal  "\"...Rukai Clouded Leopard.\" "
+    # lpd normal  "\"...Rukai clouded leopard.\" "
     lpd normal ""
 
 # game/script/01.rpy:1276
 translate german start_718f878b:
 
-    # lpdcat confused "\"Liao... When did you start to hang out with these creatures...\" "
+    # lpdcat confused "\"Liao... {w=0.5}when did you start to hang out with these spirits...\" "
     lpdcat confused ""
 
 # game/script/01.rpy:1278
@@ -1269,7 +1285,7 @@ translate german start_fa5ac593:
 # game/script/01.rpy:1284
 translate german start_2afb567c:
 
-    # avt "\"...Really? ...Who would have guessed.\" "
+    # avt "\"...Really? ...I never would have guessed.\" "
     avt ""
 
 # game/script/01.rpy:1286
@@ -1287,13 +1303,13 @@ translate german start_077e5ac3:
 # game/script/01.rpy:1290
 translate german start_b6070db7:
 
-    # avt "\"So... {w=0.5}what exactly do you need?\" "
+    # avt "\"Alright... {w=0.5}so do you need exactly?\" "
     avt ""
 
 # game/script/01.rpy:1292
 translate german start_ffe3c9ed:
 
-    # lpdcat difficult "\"I'm actually a guardian tiger of a small local temple in Miaoli... \" "
+    # lpdcat difficult "\"I'm actually a guardian tiger of a small temple in Miaoli... \" "
     lpdcat difficult ""
 
 # game/script/01.rpy:1298
@@ -1305,33 +1321,35 @@ translate german start_2d048635:
 # game/script/01.rpy:1302
 translate german start_1bed3a6d:
 
-    # lpdcat serious "\"...Yeah I know, people question it all the time.\" "
+    # lpdcat serious "\"...Whatever. I know it's weird, you don't need to tell me.\" "
     lpdcat difficult ""
 
 # game/script/01.rpy:1306
 translate german start_bf2c4258:
 
-    # lpdcat serious "\"It may be rare to have a leopard cat as a guardian tiger, but not impossible. If you still question me, go find my {font=tl/None/NotoSansCJKtc-Bold.otf}Fudegong{/font} and not me. After all, it's not like I signed up to this...\" "
+    # lpdcat serious "\"It may be rare to have a leopard cat as a guardian tiger, but I am. If you still question me, go ask my {font=tl/None/NotoSansCJKtc-Bold.otf}Fudegong{/font} and not me.\" "
+    # lpdcat serious "\"After all, it's not like I signed up for this...\" "
     lpdcat serious ""
 
 # game/script/01.rpy:1308
 translate german start_d57eb73d:
 
     # lpdcat serious "\"Going back to the point, our temple is now being abandoned.\" "
-    # lpdcat serious "\"If no one takes care of my temple, my Fudegong will...{w=0.5} By then, I will be forced out and have to live like a stray cat, and I don't want that to happen.\" "
+    # lpdcat serious "\"If no one takes care of my temple, my Fudegong will—\" "
+    # lpdcat serious "\"By then, I will be forced out and have to live like a stray cat, and I don't want that to happen.\" "
     lpdcat serious ""
 
 # game/script/01.rpy:1310
 translate german start_22966d3e:
 
     # lpdcat serious "\"So Liao, please, help me restore the temple, please?\" "
-    # lpdcat serious "\"If you want any compensation, I will do whatever you want...\" "
+    # lpdcat serious "\"If you want any compensation, I'll do whatever you want...\" "
     lpdcat difficult ""
 
 # game/script/01.rpy:1312
 translate german start_c5453f50:
 
-    # avt  "\"Did you just say something about 'stray cat'...\" "
+    # avt  "\"Wait, {i}stray cat?{/i} \ I thought you weren't a ca—\" "
     avt ""
 
 # game/script/01.rpy:1314
@@ -1343,8 +1361,8 @@ translate german start_b4f13721:
 # game/script/01.rpy:1320
 translate german start_96cfd651:
 
-    # tig normal "\"You can't have him, Liao lives under my care. There's no reason for him to serve in any other temple.\" "
-    # tig normal "\"If he must, he may help you. But Liao still has to return to his home.\" "
+    # tig normal "\"You can't have him. Liao lives under my care. There's no reason for him to serve in any other temple.\" "
+    # tig normal "\"If he must, he may help you, but Liao still has to return home.\" "
     tig frown ""
 
 # game/script/01.rpy:1322
@@ -1370,12 +1388,13 @@ translate german start_1f16b332:
 translate german start_45ee8e63:
 
     # lpdcat panic "\"For hundreds of years, nobody else with your ability will appear...\" "
+    # lpdcat panic "\"Let alone in time to save my temple...\" "
     lpdcat panic ""
 
 # game/script/01.rpy:1332
 translate german start_6b1f19de:
 
-    # avt "\"So, your temple is in Miaoli, right? And reviving a temple is easier said than done. I...\" "
+    # avt "\"So, your temple is in Miaoli, right? Well as great as it sounds, reviving a temple is easier said than done. I—\" "
     avt ""
 
 # game/script/01.rpy:1338
@@ -1423,7 +1442,7 @@ translate german start_8f6621ae:
 # game/script/01.rpy:1367
 translate german start_9a85909c:
 
-    # b "All three of the big cats stopped, their eyes fixed on me.     "
+    # b "All three of the big cats stopped, their eyes fixed on me. "
     b ""
 
 # game/script/01.rpy:1369
@@ -1435,7 +1454,7 @@ translate german start_a9174bf8:
 # game/script/01.rpy:1371
 translate german start_44c3fb97:
 
-    # avt "\"I just want to study hard, dance, spend time with my friends, graduate, and finally get city job.\" "
+    # avt "\"I just want to study hard, dance, spend time with my friends, graduate, and finally get a city job.\" "
     # avt "\"I don't want to get involved with any of this, please!\" "
     avt ""
 
@@ -1466,7 +1485,7 @@ translate german start_1bb61a42:
 # game/script/01.rpy:1387
 translate german start_89a6beaf:
 
-    # tig frown "\"Well, you heard it. That's it for today. For now, please leave.\" "
+    # tig frown "\"Well, you heard it. That's it for today. {w=0.5}As for now, please leave.\" "
     tig frown ""
 
 # game/script/01.rpy:1393
@@ -1508,79 +1527,80 @@ translate german start_0d7a0d97_2:
 # game/script/01.rpy:1413
 translate german start_05fbbd6d:
 
-    # lpdcat normal "\"If he gets to stay, I do too. It's only fair that way.\" "
+    # lpdcat normal "\"If he gets to stay, I do too. It's only fair!\" "
     lpdcat normal ""
 
 # game/script/01.rpy:1415
 translate german start_2af98c60:
 
-    # lpdcat normal "\"After all, the one of us that convinves Liao wins his help, right?\" "
+    # lpdcat normal "\"After all, the one of us that wins Liao over gets his help, riiiight?\" "
     lpdcat normal ""
 
 # game/script/01.rpy:1417
 translate german start_f089b47d:
 
-    # avt "\"Wait, I never promised on that...\" "
+    # avt "\"Wait, I never promised that...\" "
     avt ""
 
 # game/script/01.rpy:1421
 translate german start_ac1104e3:
 
-    # lpdcat laugh "\"In short, we are all uninvited. Liao, do you want to eat now?\" "
+    # lpdcat laugh "\"In short, we're all uninvited. {w=0.5}So Liao, wanna eat dinner together?\" "
     lpdcat laugh ""
 
 # game/script/01.rpy:1423
 translate german start_4bbe96e6:
 
-    # b "Disregarding any answer, Senpai sits down at the table, opens his plastic bag and begins to open up the lid on the bowl of Lou mei. "
+    # b "Disregarding my protests Senpai makes himself at home, plopping himself down at my table, digging into his plastic bag, and taking out the lou mei— ready to eat it. "
     b ""
 
 # game/script/01.rpy:1425
 translate german start_f5bc8eb5:
 
-    # avt "\"Arrrggghh...\" "
+    # avt "\"Please...\" "
     avt ""
 
 # game/script/01.rpy:1428
 translate german start_7988b126:
 
-    # avt "\"Stop it!\" " with vpunch
+    # avt "\"Stop bothering me!\" " with vpunch
     avt "" with vpunch
 
 # game/script/01.rpy:1430
 translate german start_f1238185:
 
-    # b  "I shout towards the ceiling.     "
+    # b  "Unable to hold myself back I shouted out in frustration. "
     b ""
 
 # game/script/01.rpy:1436
 translate german start_d2e3b02d:
 
-    # "\n{vspace=10}{size=30}    \"Quiet down there! What time do you think it is!\"     {/size}"with flash
+    # "\n{vspace=10}{size=30}    \"Hey! Quiet down! What time do you think it is!\"     {/size}" with flash
     "" with flash
 
 # game/script/01.rpy:1438
 translate german start_fb123749:
 
-    # b "The neighbor's roar pierced through my ears. Ouch...     "
+    # b "My neighbor's ground-shaking roar thunders through the walls... Crap... "
     b ""
 
 # game/script/01.rpy:1445
 translate german start_027a3c6e:
 
-    # tig normal "\"...Liao, I should inform you, others can't hear us talking. To them, it would just be as if you were talking to yourself. But, if you're too loud, they may end up thinking you're a lunatic...\" "
+    # tig normal "\"...Liao, I should inform you that people cannot hear us talking. {w=0.5}To them, it would be no different than you talking to yourself.\" "
+    # tig normal "\"If you are excessively loud, they may end up believing you to be some lunatic...\" "
     tig normal ""
 
 # game/script/01.rpy:1447
 translate german start_53d1d59e:
 
-    # avt "\"...You don't have to remind me!\" "
+    # avt "\"...You don't have to tell me that part!\" "
     avt ""
 
 # game/script/01.rpy:1451
 translate german start_6b0abdba:
 
-    # avt "\"As you can see, my room is tiny. I can't let you all stay here.\" "
+    # avt "\"Regardless, you can see how tiny my room is. All of you couldn't stay here even if you tried.\" "
     avt ""
 
 # game/script/01.rpy:1453
@@ -1593,19 +1613,19 @@ translate german start_e77b298e:
 # game/script/01.rpy:1455
 translate german start_e1f59157:
 
-    # b "Ahhhh- I let my secret out... Please don't notice, please don't notice..."
+    # b "Aaaaaa— {w=0.5}I let my secret out... Please don't notice, please don't notice... "
     b ""
 
 # game/script/01.rpy:1461
 translate german start_0cc40536:
 
-    # tig normal "\"Liao, I know what you want to say. But, you may not give in just because of your... {w=0.5}unique tastes. "
+    # tig normal "\"Liao, I know what you want to say, but you may not give in just because of your... {w=0.5}{i}unique tastes.{/i}\" "
     tig normal ""
 
 # game/script/01.rpy:1463
 translate german start_0b6dd27b:
 
-    # tig normal "\"Furthermore, I'm here, I will not let them disturb you... \" "
+    # tig normal "\"Furthermore, I'm here, I will not let them disturb you...\" "
     tig normal ""
 
 # game/script/01.rpy:1471
@@ -1617,31 +1637,31 @@ translate german start_c833e931:
 # game/script/01.rpy:1475
 translate german start_dcef9bc6:
 
-    # lpdcat normal "\"There's no way you can just quit the club to avoid me, right?\" "
+    # lpdcat normal "\"There's no way you can just quit the club to avoid me, {i}right{/i}?\" "
     lpdcat normal ""
 
 # game/script/01.rpy:1477
 translate german start_b170ad98:
 
-    # b  "Damn, Senpai's right.     "
+    # b  "Damn it, Senpai's right. "
     b ""
 
 # game/script/01.rpy:1479
 translate german start_d2801f21:
 
-    # b  "I love dancing. There's no way I would quit the club just to not get involved with him."
+    # b  "I love going dance club, and it means so much to me. There's no way I'd leave just to avoid him and he knows it. "
     b ""
 
 # game/script/01.rpy:1481
 translate german start_0c506ca0:
 
-    # avt "\"Senpai you're so mean!\" "
+    # avt "\"Senpai you're so cunning!\" "
     avt ""
 
 # game/script/01.rpy:1485
 translate german start_17c89aab:
 
-    # lpdcat cute "\"Heh, not really.\" "
+    # lpdcat cute "\"Heh— Not really~\" "
     lpdcat cute ""
 
 # game/script/01.rpy:1487
@@ -1653,7 +1673,7 @@ translate german start_e67eb196:
 # game/script/01.rpy:1491
 translate german start_bf18d98b:
 
-    # lpdcat pu "\"All right, since Liao will see me here or there, it won't make a difference if I stay in here, right?\" "
+    # lpdcat pu "\"Alrighty, since Liao will see me anyways, it won't make a difference if I stay here, \nright?\" "
     lpdcat pu ""
 
 # game/script/01.rpy:1493
@@ -1665,13 +1685,14 @@ translate german start_11ed6c9a:
 # game/script/01.rpy:1495
 translate german start_4495ef8b:
 
-    # lpdcat normal "\"Your Guardian Tiger will definitely stay with you, and that leopard isn't willing to go either, right? So it'd be unfair if I couldn't live with you as well.\" "
+    # lpdcat normal "\"That guardian tiger's definitely not going anywhere, and I don't see that leopard guy leaving any time soon, right?\" "
+    # lpdcat normal "\"It'd just be unfair if I didn't get to live with you too~\" "
     lpdcat normal ""
 
 # game/script/01.rpy:1497
 translate german start_3bdb82cd:
 
-    # avt "\"What do you mean by \"live\" with me? And other people can see you! What would people think if you suddenly started living here?\" "
+    # avt "\"What do you mean by{i} \"live\" {/i}with me? And other people can see you! What would people think if you suddenly started living here?\" "
     avt ""
 
 # game/script/01.rpy:1499
@@ -1689,44 +1710,45 @@ translate german start_a3c592b1:
 # game/script/01.rpy:1503
 translate german start_cf9e2f72:
 
-    # b "Granted, within the club it's no secret that me and Senpai are gay. Senpai himself is quite the charmer and cute to boot, his potential suitors alone could fill a whole classroom. "
+    # b "Granted, within the club it's no secret that me and Senpai are gay. {w=0.5}Senpai himself is quite the charmer and cute to boot. His potential suitors alone could fill a whole classroom. "
     b ""
 
 # game/script/01.rpy:1505
 translate german start_c7e4f5aa:
 
-    # b "Still, I don't want to get into a relationship all of a sudden! I don't even have that many feelings for him!     "
+    # b "Still, I don't want to get into a relationship all of a sudden! I don't really have feelings for him! "
     b ""
 
 # game/script/01.rpy:1509
 translate german start_694bfc38:
 
-    # lpdcat normal "\"Well, there will be no problem as long as we don't go home together.\" "
+    # lpdcat normal "\"Well, there'll be no problem as long as we don't go home together.\" "
     lpdcat laugh ""
 
 # game/script/01.rpy:1511
 translate german start_e0528d59:
 
     # lpdcat normal "\"We have different class schedules as well.\" "
-    # lpdcat normal "\"Or perhaps, you can tell people that you're seeing me home? See, it'll be fine.\" "
+    # lpdcat normal "\"Or you could even just tell people you're seeing me home! {w=0.5}See, it'll be fine.\" "
     lpdcat normal ""
 
 # game/script/01.rpy:1513
 translate german start_8a56c373:
 
-    # avt "\"Even so...{w=0.5} No way!\" "
+    # avt "\"Even so... {w=0.5}no way!\" "
     avt ""
 
 # game/script/01.rpy:1515
 translate german start_bf90885f:
 
-    # b "Hmm, if the leopard leaves, Senpai wouldn't have a reason to stay. I decide to ask the leopard. "
+    # b "Okay, let's go about this another way. "
+    # b "If this leopard guy leaves, Senpai wouldn't have a reason to stay. Let's ask him instead. "
     b ""
 
 # game/script/01.rpy:1520
 translate german start_09553e84:
 
-    # avt "\"Umm, Mister Clouded Leopard, you... {w=0.5}Do you really have to stay? Could you please...\" "
+    # avt "\"Umm, Mister Clouded Leopard, you... {w=0.5}do you really have to stay? Could you please...\" "
     avt ""
 
 # game/script/01.rpy:1527
@@ -1774,55 +1796,55 @@ translate german start_a99d192a:
 # game/script/01.rpy:1560
 translate german start_322e9985:
 
-    # b " Does this guy know what he's saying?{w=0.5} Why is he so fluent all of a sudden?  "
+    # b " Does this guy even know what he's saying? {w=0.5}How'd he get so fluent all of a sudden? "
     b ""
 
 # game/script/01.rpy:1562
 translate german start_4ff97389:
 
-    # avt "\"Whaa- But at the moment... {w=0.5}I just can't fit all three of you in this room.\" "
+    # avt "\"Whaa— {w=0.5}It's just that at the moment... {w=0.5}I can't fit all three of you in this room.\" "
     avt ""
 
 # game/script/01.rpy:1564
 translate german start_eed434ae:
 
-    # lpd normal "\"It will be fine.\" "
+    # lpd normal "\"Not a problem.\" "
     lpd normal ""
 
 # game/script/01.rpy:1566
 translate german start_7cbd5770:
 
-    # b "How!?     "
+    # b "Of course it's a problem! "
     b ""
 
 # game/script/01.rpy:1572
 translate german start_4d9650c2:
 
-    # lpdcat normal "\"Um, Liao, did you forget? They're spectral, they don't need to take up any \"real\" space.\" "
+    # lpdcat normal "\"Um, Liao, did you forget? They're spirits, they don't need to take up any \"real\" space.\" "
     lpdcat normal ""
 
 # game/script/01.rpy:1573
 translate german start_590f2498:
 
-    # lpdcat normal "\"Although you can feel them, It won't feel crowded. They could just float in the air or stay inside the desk if they wanted.\" "
+    # lpdcat normal "\"Even if you can feel them, it's not like it's gonna get crowded. They could just float in the air or even stay inside the desk or something.\" "
     lpdcat normal ""
 
 # game/script/01.rpy:1579
 translate german start_75839321:
 
-    # tig frown "\"There's no way I will stay 'inside' a desk. I am a god after all and I have my pride.\" "
+    # tig frown "\"There's no way I will stay {i}\"inside\"{/i} \ a desk. I am a god after all, I have my pride.\" "
     tig frown ""
 
 # game/script/01.rpy:1581
 translate german start_23c47502:
 
-    # avt "\"Why do you want them to stay?\" "
+    # avt "\"Why do {i}you{/i} \ want them to stay?\" "
     avt ""
 
 # game/script/01.rpy:1585
 translate german start_e01dbcbd:
 
-    # lpdcat laugh "\"So I can have a reason to stay with you~\" "
+    # lpdcat laugh "\"So I have a reason to stay with you~\" "
     lpdcat laugh ""
 
 # game/script/01.rpy:1587
@@ -1834,7 +1856,7 @@ translate german start_a90ec023:
 # game/script/01.rpy:1590
 translate german start_17c89aab_1:
 
-    # lpdcat cute "\"Heh, not really.\" "
+    # lpdcat cute "\"Heh— Not really.\" "
     lpdcat cute ""
 
 # game/script/01.rpy:1592
@@ -1846,39 +1868,40 @@ translate german start_c9065cc9:
 # game/script/01.rpy:1594
 translate german start_1d3ee4be:
 
-    # lpdcat normal "\"I just want to stay with you! Liao, please don't be so mean to me. I came all the way to visit you.\" "
+    # lpdcat normal "\"I just wanna stay with you! Liao, please don't be so mean to me. I came all the way to visit you...\" "
     lpdcat normal ""
 
 # game/script/01.rpy:1596
 translate german start_2eebb262:
 
-    # lpdcat shy_3 "\"And if you're still unsatisfied, it's not that I can't compensate you with my body...\" "
+    # lpdcat shy_3 "\"If you're still unsatisfied, it's not like I can't compensate you with my body...\" "
     lpdcat shy_3 ""
 
 # game/script/01.rpy:1598
 translate german start_a753e8f7:
 
     # avt "\"...You don't have to do that. I don't care.\" "
-    # avt "\"I'm exhausted, and I have to take a shower!\" "
+    # avt "\"Regardless, I'm exhausted and actually {i}need{/i} \ to take a shower!\" "
     avt ""
 
 # game/script/01.rpy:1604
 translate german start_d896603f:
 
-    # b "Enough is enough. I rush into the bathroom, slam the door, and turn on the shower. The warm water flows over my body, soothing my mind, relaxing my tired muscles. "
+    # b "Enough is enough. I rush into the bathroom, slam the door, and turn on the shower. "
+    # b "The warm water flows over my body, soothing my mind, relaxing my tired muscles. "
     b ""
 
 # game/script/01.rpy:1611
 translate german start_ead5aeed:
 
-    # b "What's wrong with these guys? I'm fond of beast-men, but to have a bunch of them pop into my life all at once, it's almost too much for me!"
+    # b "What's wrong with these guys? I mean beast-men are cute, but to have a bunch of them pop into my life all at once, it's almost too much for me! "
     # b "What did I do to deserve all this! "
     b ""
 
 # game/script/01.rpy:1613
 translate german start_7dfb4203:
 
-    # b "Sometimes I do fantasize about beast-men being real, having one close to me. Who would've thought, I guess they're real. Huh? "
+    # b "Sometimes I do fantasize about beast-men being real, having one close to me. Who would've thought... "
     b ""
 
 # game/script/01.rpy:1615
@@ -1891,52 +1914,53 @@ translate german start_a964d658:
 translate german start_1258c4f7:
 
     # b "But things are never that easy. "
-    # b "Putting the two that want my help aside. That Guardian Tiger... Has he really been with me since I was born?"
+    # b "Putting the two that want my help aside. That guardian tiger... Has he really been with me since I was born? "
     # b "I think so, but... "
     b ""
 
 # game/script/01.rpy:1619
 translate german start_8f4cd0d9:
 
-    # b "But doesn't that mean if I keep him around, I'd never be able to cut ties with my family? "
+    # b "But doesn't that mean if I keep him around, I'd never be able to cut ties with my \nfamily? "
     b ""
 
 # game/script/01.rpy:1621
 translate german start_59867583:
 
-    # b "Originally when I came to Taipei, I came to escape my family. They don't approve of me dancing, let alone as a career. And if I went back home now... "
+    # b "Originally when I came to Taipei, I came to escape my family. They don't approve of me dancing, let alone as a career. If I went back home now... "
     b ""
 
 # game/script/01.rpy:1623
 translate german start_1dbdf752:
 
-    # b "Come on! What year is this? Who wants to be a Jitong!? "
+    # b "Come on! What year is this? Who wants to be a Jitong?! "
     b ""
 
 # game/script/01.rpy:1625
 translate german start_860256f2:
 
-    # b  "Now that I think of it, the other two options aren't much better. Restoring Senpai's temple means being in charge of it! "
-    # b  "Otherwise how would you draw people in? Knocking on doors with a fancy pamphlet asking, 'do you have a moment to talk about our lord and tigers'? "
+    # b "Now that I think of it, the other two options aren't much better. "
+    # b "Restoring Senpai's temple means being in charge of it! "
+    # b "Otherwise how would you draw people in? Knocking on doors with a fancy pamphlet asking, {i}'do you have a moment to talk about our lord and tigers?'{/i} "
     b ""
 
 # game/script/01.rpy:1627
 translate german start_821a0b5a:
 
-    # b "Not to mention the one asking me to travel to Wutai."
-    # b "Perhaps it is not as stale as being a temple host, but the thought of living in small tribes at Pingtung alone...      "
+    # b "Not to mention the one asking me to move to Wutai. "
+    # b "Sure, it is not as stale as being a temple priest, but the thought of living by myself in some tribe in rural Pingtung... "
     b ""
 
 # game/script/01.rpy:1629
 translate german start_2fd1a506:
 
-    # b "I have my own life goals!     "
+    # b "I have things I want to do with my life! "
     b ""
 
 # game/script/01.rpy:1631
 translate german start_2104e9da:
 
-    # b "It's not that I don't want to help them, but isn't sacrificing my life goals for them too much? "
+    # b "It's not that I don't want to help them, but it's not like I can just up and agree to change my life for these guys! "
     b ""
 
 # game/script/01.rpy:1633
@@ -1954,27 +1978,27 @@ translate german start_d0068105:
 # game/script/01.rpy:1643
 translate german start_bf0350fb:
 
-    # b "But, when I get out of the shower... I realize I've made a massive mistake. "
-    # b "In my rush earlier, I forgot to bring any clothes into the bathroom with me. "
+    # b "But when I get out of the shower... I realise I've made a massive mistake. "
+    # b "I forgot to bring any clothes... "
     b ""
 
 # game/script/01.rpy:1645
 translate german start_34e30421:
 
-    # b "Normally being the only one in the apartment, I can just walk out naked and grab them."
-    # b "But right now, with the three of them waiting in my room, that is no longer an option. "
+    # b "Normally being the only one in the apartment, I can just walk out naked and grab \nthem. "
+    # b "But right now, with the three of them waiting in my room... that is no longer an \noption. "
     b ""
 
 # game/script/01.rpy:1647
 translate german start_08ff143e:
 
-    # b "Tiger may have seen my naked body before, but I can't say the same about the other two... "
+    # b "That tiger may have seen my naked body before, but I can't say the same about the other two... "
     b ""
 
 # game/script/01.rpy:1652
 translate german start_5c9fb070:
 
-    # b "I briefly consider the clothes I wore today. They're all damp and sweaty... {w=0.5}I just had a shower so, no thanks. But, what should I do now? "
+    # b "I briefly consider the clothes I wore today. They're all damp and sweaty... {w=0.5}I just had a shower so, no thanks... {w=0.5}How am I gonna do this? "
     b ""
 
 # game/script/01.rpy:1654
@@ -1992,13 +2016,13 @@ translate german start_a071d48f:
 # game/script/01.rpy:1658
 translate german start_688f5bc7:
 
-    # lpdcat "\"Liao?{w=0.5} Are you ok?\" "
+    # lpdcat "\"Liao?{w=0.5} You ok?\" "
     lpdcat ""
 
 # game/script/01.rpy:1660
 translate german start_826aff7e:
 
-    # avt "\"I forgot to bring my clothes in. Can you go grab them for me? Honestly, just grab anything from my closet, I'll sort it out from there...\" "
+    # avt "\"Yeah, just forgot to bring my clothes in. Can you go grab them for me? Honestly, just grab anything from my closet, I'll sort it out from there...\" "
     avt ""
 
 # game/script/01.rpy:1662
@@ -2010,7 +2034,7 @@ translate german start_941dabf9:
 # game/script/01.rpy:1664
 translate german start_8a50dde8:
 
-    # b "I wait for a while, but Senpai doesn't respond. All I can hear is him vaguely humming along."
+    # b "I wait for a while, but Senpai doesn't respond. All I can hear is him vaguely humming along. "
     b ""
 
 # game/script/01.rpy:1666
@@ -2022,7 +2046,7 @@ translate german start_1d94c5bd:
 # game/script/01.rpy:1669
 translate german start_72e36106:
 
-    # lpdcat "\"Nope, I can't find it.\" "
+    # lpdcat "\"Nope— Can't find it.\" "
     lpdcat ""
 
 # game/script/01.rpy:1671
@@ -2040,19 +2064,19 @@ translate german start_f4405746:
 # game/script/01.rpy:1675
 translate german start_51a91eab:
 
-    # b "There's no way he can't find it. He's absolutely just messing with me. "
+    # b "There's no way he can't find it. He's absolutely messing with me. "
     b ""
 
 # game/script/01.rpy:1677
 translate german start_361ccc51:
 
-    # avt "\"Senpai, stop the teasing please... {w=0.5}I just need you to bring me some clothes...\" "
+    # avt "\"Senpai, stop teasing me please... {w=0.5}I just need you to bring me some clothes...\" "
     avt ""
 
 # game/script/01.rpy:1679
 translate german start_ea624081:
 
-    # lpdcat "\"Well Liao, I really can't find anything at all. But maybe if you agree to let me stay, I'll have more time to take a careful look around.\" "
+    # lpdcat "\"Well Liao, I really can't find anything at all. {w=0.5}But {i}maybe{/i} \ if you agree to let me stay, I'll have more time to take a careful look around.\" "
     lpdcat ""
 
 # game/script/01.rpy:1681
@@ -2064,14 +2088,13 @@ translate german start_0f8b09ec:
 # game/script/01.rpy:1683
 translate german start_971b57c4:
 
-    # lpdcat "\"What, nah. I was just saying since you have to wait anyway, why don't you just think it...\" "
-    # lpdcat "\"Hey! What are you doing? I'm only fooling around with him, I'll help him in just a second!\" "
+    # lpdcat "\"What? Nah— I was just saying since you have to wait anyway, why don't you just think abo—\" "
     lpdcat ""
 
 # game/script/01.rpy:1686
 translate german start_6da501f2:
 
-    # lpdcat "\"Hey! What are you doing?  I'm only fooling around with him and I'll help him soon!\" "with hshake
+    # lpdcat "\"Hey! What are you doing? {w=0.5}I'm only messin' with him, I'll help him in a second!\" "with hshake
     lpdcat "" with hshake
 
 # game/script/01.rpy:1688
@@ -2083,13 +2106,13 @@ translate german start_dced7cc0:
 # game/script/01.rpy:1698
 translate german start_cb379000:
 
-    # b "I stand around confused as the bathroom door suddenly opens revealing the leopard holding a pair of my shorts. "
+    # b "I stand around confused as the bathroom door opens suddenly, revealing Leopard holding a pair of my shorts. "
     b ""
 
 # game/script/01.rpy:1700
 translate german start_62cf63c3:
 
-    # b "What? I thought the door was locked! I hide behind it quickly, carefully taking the shorts from the leopard without exposing any of my bare skin to the three big cats in the other room." with hshake
+    # b "What? I thought the door was locked! I hide behind it quickly, carefully taking the shorts from Leopard without exposing any of my bare skin to the three big cats in the other room." with hshake
     b "" with hshake
 
 # game/script/01.rpy:1702
@@ -2101,38 +2124,40 @@ translate german start_851777ae_1:
 # game/script/01.rpy:1707
 translate german start_fad2f013:
 
-    # b "the leopard leaves after handing me my shorts. I shut the door and lean against it, my heart beating fast all the while. "
+    # b "After handing me my shorts, he leaves. I shut the door firmly behind him and slump against it, my heart pounding as I slide to the floor. "
     b ""
 
 # game/script/01.rpy:1709
 translate german start_4fe2e827:
 
-    # b "Didn't he just see my naked body? Who the heck would just break open the bathroom door when passing clothes to someone inside!"
-    # b "Wouldn't it render the whole 'bring me clothes' thing pointless? And seeing me didn't even faze him in the slightest..."
+    # b "Didn't he just see my naked body? {w=0.5}Who the heck would just fling open the bathroom door to pass clothes to someone inside! "
+    # b "Wouldn't it render the whole \"bring me clothes\" thing pointless? "
+    # b "...Seeing me didn't even faze him in the slightest. "
     b ""
 
 # game/script/01.rpy:1711
 translate german start_15737a37:
 
-    # b "Is it because he's a spirit and doesn't care? Seems plausible... {w=0.5}Even if he didn't do it right, I'm grateful for him getting me out of that situation. "
+    # b "Is it because he's a spirit and doesn't care? Seems plausible... "
+    # b "Well even if he was a bit forward about it, at least he got me out of that situation... "
     b ""
 
 # game/script/01.rpy:1713
 translate german start_3f273f59:
 
-    # b "I look at my shorts haplessly. No shirt, but that will have to do. It's better than going out naked... I guess?     "
+    # b "I look at my shorts haplessly. No shirt, but that will have to do. It's better than going out naked... I guess? "
     b ""
 
 # game/script/01.rpy:1715
 translate german start_ff525a9f:
 
-    # b "I put on the shorts and head out of the bathroom."
+    # b "I put on the shorts and head out of the bathroom. "
     b ""
 
 # game/script/01.rpy:1727
 translate german start_61e58d9d:
 
-    # lpdcat cute "\"Heh, sorry Liao, I was just joking about all that. I was just about to get your clothes for you!\" "
+    # lpdcat cute "\"Heh— Sorry Liao, I was just joking about all that. I was just about to get your clothes for you!\" "
     lpdcat cute ""
 
 # game/script/01.rpy:1731
@@ -2150,7 +2175,7 @@ translate german start_1040061d:
 # game/script/01.rpy:1740
 translate german start_f36a3ac3:
 
-    # avt "\"Not really, I'm just sleepy.\" "
+    # avt "\"Not really, I'm just tired.\" "
     avt ""
 
 # game/script/01.rpy:1742
@@ -2168,25 +2193,25 @@ translate german start_844c2ca2:
 # game/script/01.rpy:1746
 translate german start_ab58cb1a:
 
-    # b "Senpai raised his half-eaten bowl of stew. He really wants me to use the same pair of chopsticks? That'd be an indirect kiss!     "
+    # b "Senpai raised his half-eaten bowl of stew. He really wants me to use the same pair of chopsticks? ...That's like an indirect kiss! "
     b ""
 
 # game/script/01.rpy:1748
 translate german start_20cd605c:
 
-    # avt "\"...I don't really care for it at the moment.\" "
+    # avt "\"...I-I don't really care for it at the moment.\" "
     avt ""
 
 # game/script/01.rpy:1750
 translate german start_ba523aa4:
 
-    # lpdcat pcry_2 "\"Aww~ But I bought it for you ~\" "
+    # lpdcat cry_2 "\"Aww— But I bought it for you~\" "
     lpdcat cry_2 ""
 
 # game/script/01.rpy:1758
 translate german start_d0929f82:
 
-    # tig normal "\"Enough. Will you just let him sleep? Quit annoying him or he is going to kick you out for real.\" "with hshake
+    # tig normal "\"Enough. Will you just let him sleep? Quit annoying him or he will kick you out for \nreal.\" " with hshake
     tig normal "" with hshake
 
 # game/script/01.rpy:1765
@@ -2198,13 +2223,13 @@ translate german start_1c1d4e55_1:
 # game/script/01.rpy:1767
 translate german start_8270b80a:
 
-    # lpdcat cry_2 "\"Aww... {w=0.5}I get it.\" "
+    # lpdcat cry_2 "\"Aww... {w=0.5}I got it.\" "
     lpdcat cry_2 ""
 
 # game/script/01.rpy:1769
 translate german start_bafa61bd:
 
-    # lpdcat difficult "\"Then Liao, why don't we sleep together? \" "
+    # lpdcat difficult "\"Then Liao, why don't we sleep together?\" "
     lpdcat difficult ""
 
 # game/script/01.rpy:1771
@@ -2216,7 +2241,8 @@ translate german start_e10730f9:
 # game/script/01.rpy:1773
 translate german start_66488c8b:
 
-    # avt "\"Umm- Senpai...{w=0.5} I still don't know what's going on with you. Before I awakened, you we're nothing more than an ordinary guy. And, all of a sudden, you're like this...\" "
+    # avt "\"Uhh— Senpai... {w=0.5}I still don't know what's going on with you.\" "
+    # avt "\"Before I awakened, you were just an ordinary guy. Now, all of a sudden, you're like this...\" "
     avt ""
 
 # game/script/01.rpy:1775
@@ -2234,32 +2260,33 @@ translate german start_f7b97a5a:
 # game/script/01.rpy:1779
 translate german start_4acd34bf:
 
-    # avt "\"So you're not the actual Shu-Chi Senpai ?\" "
+    # avt "\"So you're not {i}actually{/i} \ Yan Shu-Chi Senpai?\" "
     avt ""
 
 # game/script/01.rpy:1783
 translate german start_4e65aa8f:
 
-    # lpdcat normal "\"You could say that I'm not. However, for lack of a better term, I am him in every way from his personality to his memoies. "
+    # lpdcat normal "\"You could say that I'm not. However, for lack of a better term, I am him in every way from his personality to his memories. "
     # lpdcat normal "\"There's no need to treat me any different to how you would treat him.\" "
     lpdcat normal ""
 
 # game/script/01.rpy:1785
 translate german start_718c4b6b:
 
-    # avt "\"What about the actual Shu-Chi?\" "
+    # avt "\"What about the real Shu-Chi?\" "
     avt ""
 
 # game/script/01.rpy:1787
 translate german start_b0ec67e6:
 
-    # lpdcat normal "\"When I leave I'll return his body to him. Don't worry, I've done everything like he would have done, and at most he will only have vague memories of what's happened.\" "
+    # lpdcat normal "\"When I leave I'll return his body to him.\" "
+    # lpdcat normal "\"Don't worry, I've done everything like he would have done, and at most he'll only have vague memories of what's happened.\" "
     lpdcat normal ""
 
 # game/script/01.rpy:1789
 translate german start_12c0aef2:
 
-    # avt "\"So you only give him back his body when you want to? Isn't that some kind of consciousness kidnapping?\" "
+    # avt "\"So you only give him back his body only when you want to? ...Isn't that some kind of consciousness kidnapping?\" "
     avt ""
 
 # game/script/01.rpy:1793
@@ -2271,13 +2298,13 @@ translate german start_69caced6:
 # game/script/01.rpy:1797
 translate german start_5fdef0fd:
 
-    # b "I facepalm. He couldn't have missed my point any further if he tried. "
+    # b "I can't help but bury my hand into my face. He couldn't have missed my point any further if he tried. "
     b ""
 
 # game/script/01.rpy:1799
 translate german start_e63f06e3:
 
-    # avt "\"Well, I suppose I could let you use the bed... {w=0.5}But are the other two really okay with it? I mean floating in the air doesn't seem very comfortable...\" "
+    # avt "\"Well, I suppose I could let you use the bed... {w=0.5}but are the other two really okay with it? I mean floating in the air doesn't seem very comfortable...\" "
     avt ""
 
 # game/script/01.rpy:1801
@@ -2289,7 +2316,8 @@ translate german start_9a717c47:
 # game/script/01.rpy:1817
 translate german start_b962fb1f:
 
-    # lpd normal "\"......\" *Stares at the bed* "
+    # lpd normal "\"......\" "
+    # lpd normal "*stares at the bed intensely* "
     lpd normal ""
 
 # game/script/01.rpy:1822
@@ -2301,7 +2329,7 @@ translate german start_db9b3888:
 # game/script/01.rpy:1827
 translate german start_56c75a53:
 
-    # lpdcat angry "\"What do you mean by 'kitten'!?\" "
+    # lpdcat angry "\"Hey! What do you mean by {i}kitten!{/i}\" "
     lpdcat angry ""
 
 # game/script/01.rpy:1829
@@ -2313,13 +2341,13 @@ translate german start_035e0a05:
 # game/script/01.rpy:1834
 translate german start_f8ebc7b5:
 
-    # tig lift "\"Then I see no reason why you should stay the night here?\" "
+    # tig lift "\"Then I see no reason why you should stay here for the night.\" "
     tig lift ""
 
 # game/script/01.rpy:1839
 translate german start_9a52c6b9:
 
-    # lpdcat cry_2 "\"Aww... Liao... Will you stand up for me pleaseee~\" "
+    # lpdcat cry_2 "\"Aww— Liao... won't you stand up for me, pleaaaase~\" "
     lpdcat cry_2 ""
 
 # game/script/01.rpy:1844
@@ -2331,13 +2359,13 @@ translate german start_3b23b615_2:
 # game/script/01.rpy:1846
 translate german start_e2f11661:
 
-    # b "Why do I have to stand up for him? Wait, didn't the tiger just say something odd? "
+    # b "Why would I have to stand up for him? Wait, didn't the tiger just say something odd? "
     b ""
 
 # game/script/01.rpy:1848
 translate german start_490760c4:
 
-    # avt "\"About that... {w=0.5}Tiger, did you just say you usually sleep with me?\" "
+    # avt "\"About what you were saying... {w=0.5}Um— Tiger, so you {i}usually{/i} \ sleep with me?\" "
     avt ""
 
 # game/script/01.rpy:1850
@@ -2349,19 +2377,19 @@ translate german start_29d4a8bf:
 # game/script/01.rpy:1852
 translate german start_ab94483c:
 
-    # avt "\"W... Wait, {w=0.5}since when has this started?\" " with hshake
+    # avt "\"W-{w=0.2}Wait, {w=0.5}since when has this started?\" " with hshake
     avt "" with hshake
 
 # game/script/01.rpy:1856
 translate german start_9912a135:
 
-    # tig lift "\"After you came to Taipei.\" "
+    # tig lift "\"Well, ever since you came to Taipei.\" "
     tig lift ""
 
 # game/script/01.rpy:1858
 translate german start_c4309168:
 
-    # b "So, even though I couldn't see it before, this whole time I've been sleeping in the same bed as a big tiger-man. Should I be happy? "
+    # b "So, even though I couldn't see it before, this whole time I've been sleeping in the same bed as a big tiger-man? Should I be happy? "
     b ""
 
 # game/script/01.rpy:1867
@@ -2379,16 +2407,16 @@ translate german start_00dc7137:
 # game/script/01.rpy:1877
 translate german start_b962fb1f_1:
 
-    # lpd normal "\"...... *stares at the bed intensely*\" "
+    # lpd normal "\"......\" "
+    # lpd normal "*stares at the bed intensely* "
     lpd normal ""
 
 translate german strings:
 
-    # old "What should I do? Who should I share my bed with?     "
+    # old "Who should I share my bed with? "
     old "怎麼辦，該讓誰一起睡床好呢？"
     new ""
 
     # old "Shu-Chi Senpai"
     old "書齊學長"
     new ""
-

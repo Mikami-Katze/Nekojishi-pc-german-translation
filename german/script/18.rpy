@@ -1,9 +1,9 @@
-﻿# TODO: Translation updated at 2017-11-29 21:34
+﻿# TODO: Translation updated at 2018-02-23 08:51
 
 # game/script/18.rpy:22
 translate german s18_branch5_068b832c:
 
-    # b "The bolt of lightning forms a shape above Leopard Cat."
+    # b "A lightning bolt pierces through the air, striking down towards the ground. "
     b ""
 
 # game/script/18.rpy:28
@@ -15,13 +15,13 @@ translate german s18_branch5_73fecb45:
 # game/script/18.rpy:35
 translate german s18_branch5_51600a45:
 
-    # b "...In the end, it misses Leopard Cat's head but cut the tree next to him into two and burn the grass around him."
+    # b "...It misses him. Leopard Cat stands within a ring of burnt grass, a tree cut in half behind him. "
     b ""
 
 # game/script/18.rpy:37
 translate german s18_branch5_cfee0056:
 
-    # b "He seems stunned on the burnt ground for a few second."
+    # b "He looks at me, dumbfounded. "
     b ""
 
 # game/script/18.rpy:41
@@ -33,117 +33,118 @@ translate german s18_branch5_ba71f7e6:
 # game/script/18.rpy:43
 translate german s18_branch5_21fdb847:
 
-    # b "...!"
+    # b "......! "
     b ""
 
 # game/script/18.rpy:45
 translate german s18_branch5_3c5c801a:
 
-    # b "For a second I want to respond. However..."
+    # b "My immediate reaction was to respond, but... "
     b ""
 
 # game/script/18.rpy:47
 translate german s18_branch5_f9c8eed2:
 
-    # lpd2 "\"Liao's home. Wait for you.\" "
+    # lpd2 "\"Liao's home— Wait for you.\" "
     lpd2 ""
 
 # game/script/18.rpy:49
 translate german s18_branch5_5b9fff9b:
 
-    # b "Leopard speaks in my voice."
+    # b "Leopard speaks in my voice. "
     b ""
 
 # game/script/18.rpy:54
 translate german s18_branch5_b2f5ea70:
 
-    # b "Then we leave. Leopard doesn't turn around and I..."
+    # b "Then we leave. Leopard doesn't look back, and... "
     b ""
 
 # game/script/18.rpy:56
 translate german s18_branch5_7bcf6f05:
 
-    # b "Neither do I."
+    # b "Neither do I... "
     b ""
 
 # game/script/18.rpy:68
 translate german s18_branch5_4ca424d1:
 
-    # b "Back in my room, Leopard comes out of my body."
+    # b "As soon as we get back Leopard returns my body to me. "
     b ""
 
 # game/script/18.rpy:80
 translate german s18_branch5_8368bf6c:
 
-    # b "Lin Hu senses the awkwardness in the air but also notices I'm not in the mood of chatting."
-    # b "To my surprise, Lin Hu pulls Leopard to the side for a private chat. I find it rather odd and interesting but I just don't feel like doing anything."
+    # b "Lin Hu could tell I was in no state to talk, although I didn't expect him to pull Leopard away to talk privately. It's probably the first time I've seen them on the same wavelength. "
+    # b "I'm kinda interested to hear what they're talking about but I don't feel like it's worth the effort. "
     b ""
 
 # game/script/18.rpy:86
 translate german s18_branch5_0211362c:
 
-    # b "I've been thinking."
+    # b "Instead I sit here thinking to myself. "
     b ""
 
 # game/script/18.rpy:89
 translate german s18_branch5_1bae6c95:
 
-    # b "I've been thinking since Leopard told me Leopard Cat was responsible for all of this."
+    # b "Really, I've been thinking ever since Leopard told me that Leopard Cat was responsible for all of this. "
     b ""
 
 # game/script/18.rpy:112
 translate german s18_branch5_a304f2e7:
 
-    # b "The leopard cat I've spent over one month with...{w=0.5} Is he real?"
+    # b "The person I've spent this whole month with... {w=0.5}were they real? "
     b ""
 
 # game/script/18.rpy:147
 translate german s18_branch5_fdaf3050:
 
-    # b "How much did he lie to us and how much was sincere?"
+    # b "How much of that was all a lie? "
+    # b "...How much of it was the truth? "
     b ""
 
 # game/script/18.rpy:166
 translate german s18_branch5_8e8c1ec8:
 
-    # b "That lovely Senpai...{w=0.5} Was it only his acting?"
+    # b "Was everything he did for me... {w=0.5}only an act? "
     b ""
 
 # game/script/18.rpy:174
 translate german s18_branch5_9ac783b8:
 
-    # b "What is Leopard Cat's true face?"
+    # b "What really is his true face? "
     b ""
 
 # game/script/18.rpy:183
 translate german s18_branch5_40f9f267:
 
-    # b "I'm...{w=0.5} Dying to know. I don't know why but I really want to find out."
+    # b "I... I want to know. Even though it scares me, I want to know the truth. "
     b ""
 
 # game/script/18.rpy:185
 translate german s18_branch5_94d4e216:
 
-    # b "I know digging out the truth can't change anything. If Leopard Cat did play us..."
-    # b "Yeah, he did...{w=0.5} And he killed Senpai. That can't be him. It doesn't really matter how his true face is like."
+    # b "I know digging out the truth can't change anything, but if Leopard Cat did play us... "
+    # b "Even though I know it won't change anything. Even if he lied to us... {w=0.5}No, even if I {i}know{/i} \ he lied to us. He can't be the Senpai that I cared about. "
     b ""
 
 # game/script/18.rpy:187
 translate german s18_branch5_3e187985:
 
-    # b "He's responsible for Senpai's death..."
+    # b "He's the one who killed my senpai after all... "
     b ""
 
 # game/script/18.rpy:189
 translate german s18_branch5_3acf188d:
 
-    # b "He should...{w=0.5} He deserves to be wiped out. I don't need to know who he really is."
+    # b "It's... {w=0.5}only natural that he should be killed. I don't need to know {i}who{/i} \ he really is...  "
     b ""
 
 # game/script/18.rpy:191
 translate german s18_branch5_932a993f:
 
-    # b "He will vanish. In one way or another..."
+    # b "He'll just disappear. In one way or another... "
     b ""
 
 # game/script/18.rpy:199
@@ -155,43 +156,43 @@ translate german s18_branch5_ed9ca5ff:
 # game/script/18.rpy:201
 translate german s18_branch5_2166e7b1:
 
-    # avt "\"...\" "
+    # avt "\"......\" "
     avt ""
 
 # game/script/18.rpy:203
 translate german s18_branch5_7d22331c:
 
-    # tig gentle "\"It's getting late. Shall we eat?\" "
+    # tig gentle "\"It's getting late. Should we eat?\" "
     tig gentle ""
 
 # game/script/18.rpy:205
 translate german s18_branch5_908a1d6e:
 
-    # tig gentle "\"You haven't had anything since your return. Have some food for your own health.\" "
+    # tig gentle "\"You haven't had anything since you returned. Even if you don't feel like it, you cannot go without food.\" "
     tig gentle ""
 
 # game/script/18.rpy:207
 translate german s18_branch5_2166e7b1_1:
 
-    # avt "\"...\" "
+    # avt "\"......\" "
     avt ""
 
 # game/script/18.rpy:209
 translate german s18_branch5_a7a4c36c:
 
-    # avt "\"...I'm not hungry...\" "
+    # avt "\"...I'm not hungry.\" "
     avt ""
 
 # game/script/18.rpy:211
 translate german s18_branch5_ee88652f:
 
-    # avt "\"And...{w=0.5} This time...{w=0.5} I'm thinking maybe I should go and take care of Senpai's body...\" "
+    # avt "\"And... {w=0.5}I've been thinking... {w=0.5}that I should take care of him... {w=0.5}Senpai's body that is...\" "
     avt ""
 
 # game/script/18.rpy:213
 translate german s18_branch5_62f2a383:
 
-    # tig normal "\"...Hmm...\" "
+    # tig normal "\"...Hmm.\" "
     tig normal ""
 
 # game/script/18.rpy:215
@@ -203,75 +204,75 @@ translate german s18_branch5_072b77b4:
 # game/script/18.rpy:217
 translate german s18_branch5_d22f58ac:
 
-    # avt "\"...No...\" "
+    # avt "\"...No.\" "
     avt ""
 
 # game/script/18.rpy:219
 translate german s18_branch5_56b9c12a:
 
-    # avt "\"But Leopard and you are spiritual forms. Can't you get in and then open the door for me?\" "
+    # avt "\"You're spirits aren't you? Just go in and open the door for me...\" "
     avt ""
 
 # game/script/18.rpy:221
 translate german s18_branch5_37fd22e5:
 
-    # tig normal "\"That would be breaking and entering. Gods don't and can't do that.\" "
+    # tig normal "\"That's called breaking and entering.\" "
+    # tig normal "\"As a god I wouldn't be able to do it even if I wished to help you.\" "
     tig normal ""
 
 # game/script/18.rpy:223
 translate german s18_branch5_dc017d93:
 
-    # avt "\"Can't?\" "
+    # avt "\"You can't do it?\" "
     avt ""
 
 # game/script/18.rpy:225
 translate german s18_branch5_d0aad924:
 
-    # tig normal "\"We can't enter a private property without permission from the owner...\" "
-    # tig normal "\"When Likulau first got here, he waited for your invitation to come inside.\" "
+    # tig normal "\"Gods can't enter private property without the permission of the owner. Remember when Likulau first came here? He waited for you to allow him inside.\" "
     tig normal ""
 
 # game/script/18.rpy:227
 translate german s18_branch5_c18620de:
 
-    # avt "\"...That's right...\" "
+    # avt "\"...Oh yeah.\" "
     avt ""
 
 # game/script/18.rpy:229
 translate german s18_branch5_3b73bbd1:
 
-    # avt "\"But Senpai is already...{w=0.5} No exceptions?\" "
+    # avt "\"But Senpai's already... {w=0.5}we can't exactly ask him.\" "
     avt ""
 
 # game/script/18.rpy:231
 translate german s18_branch5_cab959b5:
 
-    # tig normal "\"...Give it some time. It will be okay when everyone considers there ownerless. Not now.\" "
+    # tig normal "\"...It takes some time. People have to acknowledge he doesn't live there anymore.\" "
     tig normal ""
 
 # game/script/18.rpy:233
 translate german s18_branch5_a123ee99:
 
-    # avt "\"Ownerless?\" "
+    # avt "\"People have to acknowledge it?\" "
     avt ""
 
 # game/script/18.rpy:235
 translate german s18_branch5_a19f3a4b:
 
-    # tig normal "\"...Yan Shu-Chi's death must be known by many...\" "
+    # tig normal "\"...The death of Yan Shu-Chi has to be made known to many.\" "
     tig normal ""
 
 # game/script/18.rpy:238
 translate german s18_branch5_2166e7b1_2:
 
-    # avt "\"...\" "
+    # avt "\"......\" "
     avt ""
 
 # game/script/18.rpy:240
 translate german s18_branch5_d2d88a96:
 
-    # tig normal "\"Or the lease is terminated or something else. If people consider it breaking and entering, gods can't go.\" "
-    # tig normal "\"We can't get in there right now and it takes time and effort to take care of the body. We have no idea when the wicked cat will show up. You better get some sleep.\" "
+    # tig normal "\"There are other circumstances, for example the lease being terminated. Essentially if it's considered trespassing a god can't enter. \" "
+    # tig normal "\"...Regardless taking care of the body will happen in due time, that and we have no idea when our fiend is going to show up. It would be best for you to get some sleep.\" "
     tig normal ""
 
 # game/script/18.rpy:242
@@ -283,20 +284,21 @@ translate german s18_branch5_7931693a:
 # game/script/18.rpy:244
 translate german s18_branch5_546be2a9:
 
-    # b "I guess Leopard has told him about Leopard Cat's coming. I wonder what Lin Hu thinks about it."
+    # b "I figured Leopard would have mentioned Leopard Cat coming... I wonder what Lin Hu thinks about it. "
     b ""
 
 # game/script/18.rpy:246
 translate german s18_branch5_74515de1:
 
-    # b "He's probably calling me indecisive..."
+    # b "He probably thinks I'm indecisive... "
     b ""
 
 # game/script/18.rpy:248
 translate german s18_branch5_9b0e358c:
 
-    # b "It would be a lot easier if I turned them down from the very beginning."
-    # b "I don't have the heart to disappoint anyone and I can't believe any of them is evil. I'm the cause of all this..."
+    # b "Ever since the beginning, I should have turned them down. "
+    # b "But I didn't have the heart to disappoint them... I didn't have the heart to believe that they could be evil... "
+    # b "It's my weak heart caused all of this. "
     b ""
 
 # game/script/18.rpy:250
@@ -308,7 +310,7 @@ translate german s18_branch5_1a7c0631:
 # game/script/18.rpy:252
 translate german s18_branch5_2487ffa5:
 
-    # avt "\"Hmm?\" "
+    # avt "\"Yeah...\" "
     avt ""
 
 # game/script/18.rpy:254
@@ -320,7 +322,7 @@ translate german s18_branch5_c2b1d03b:
 # game/script/18.rpy:256
 translate german s18_branch5_2dd7fb8d:
 
-    # avt "\"...Yes.\" "
+    # avt "\"...Mmm-hm.\" "
     avt ""
 
 # game/script/18.rpy:262
@@ -332,19 +334,19 @@ translate german s18_branch5_edb3d5f7:
 # game/script/18.rpy:264
 translate german s18_branch5_2e032271:
 
-    # avt "\"No...\" "
+    # avt "\"No, not at all...\" "
     avt ""
 
 # game/script/18.rpy:266
 translate german s18_branch5_c353a9b5:
 
-    # lpd obsessed "\"I shouldn't have attacked him...\" "
+    # lpd obsessed "\"I shouldn't have attacked you.\" "
     lpd obsessed ""
 
 # game/script/18.rpy:268
 translate german s18_branch5_2166e7b1_3:
 
-    # avt "\"...\" "
+    # avt "\"......\" "
     avt ""
 
 # game/script/18.rpy:270
@@ -356,37 +358,39 @@ translate german s18_branch5_66561306:
 # game/script/18.rpy:274
 translate german s18_branch5_03db5b7e:
 
-    # avt "\"No, it's not your fault.{w=0.5} Honestly, I should have made up my mind...\" " with hshake
+    # avt "\"No. It's not your fault. It's... {w=0.5}{i}mine{/i}. {w=0.5}I should have made up my mind...\" " with hshake
     avt "" with hshake
 
 # game/script/18.rpy:276
 translate german s18_branch5_04fd6e9a:
 
-    # b "I was... Backing out the last second..."
+    # b "I just keep on hesitating... backing out at the last second... "
     b ""
 
 # game/script/18.rpy:278
 translate german s18_branch5_ac121261:
 
-    # tig gentle "\"Likulau, leave it. Liao, if you don't feel like eating dinner, at least have some snacks. We've got plenty at home.\" "
+    # tig gentle "\"Leave it Likulau. If you don't feel like dinner Liao, at the very least have a snack. We have plenty after all.\" "
     tig gentle ""
 
 # game/script/18.rpy:280
 translate german s18_branch5_a976112d:
 
-    # b "I've stored many snacks for Lin Hu. I take a pudding from the fridge and have a bite."
+    # b "...... "
+    # b "I open the fridge to find it lined with treats I bought for Lin Hu... Barely any of them eaten. "
+    # b "Deciding on a pudding, I take it, open it up, and have a bite. "
     b ""
 
 # game/script/18.rpy:282
 translate german s18_branch5_f505a8c8:
 
-    # b "These snacks... I asked Senpai if he would help us eat..."
+    # b "I remember... back when I asked Senpai to help eat all of this... "
     b ""
 
 # game/script/18.rpy:286
 translate german s18_branch5_86311e8d:
 
-    # b "Tears drip down as soon as I think about it."
+    # b "Before I know it I feel the wet touch of tears rolling down my face. "
     b ""
 
 # game/script/18.rpy:288
@@ -398,259 +402,259 @@ translate german s18_branch5_09dbb2d0:
 # game/script/18.rpy:290
 translate german s18_branch5_db7e77d8:
 
-    # tig disappointed "\"Sigh... Damn... What shall I do?\" "
+    # tig disappointed "\"...Oh. ...well, I'm sorry I can't help you...\" "
     tig disappointed ""
 
 # game/script/18.rpy:302
 translate german s18_branch5_448c5361:
 
-    # b "I'm much calmer after a few hours."
+    # b "After a few hours I feel a little better. "
     b ""
 
 # game/script/18.rpy:304
 translate german s18_branch5_82d6e4f8:
 
-    # b "I'm trying to keep my mind empty."
+    # b "Or at least I'm able to block everything out of my mind. "
     b ""
 
 # game/script/18.rpy:306
 translate german s18_branch5_6236400c:
 
-    # b "I don't have the energy to use computer but I keep my phone in my hand as a distraction."
-    # b "The room is filled up by an awkward silence. We suddenly notice a sound from outside."
+    # b "I don't have the energy to use the computer so I just sit there holding my phone in my hand so I feel like I'm doing something. "
+    # b "The air is filled with nothing but gloom and silence, quickly broken by a noise from outside. "
     b ""
 
 # game/script/18.rpy:308
 translate german s18_branch5_91292480:
 
-    # question "\"...Cough...\" "
+    # question "*cough* "
     question ""
 
 # game/script/18.rpy:311
 translate german s18_branch5_204c09ef:
 
-    # b "A knock on the door."
+    # b "A knock sounds from the door. "
     b ""
 
 # game/script/18.rpy:313
 translate german s18_branch5_7aa83c54:
 
-    # avt "\"Senpai... I mean Leopard Cat?\" "
+    # avt "\"Senpa— um, Leopard Cat?\" "
     avt ""
 
 # game/script/18.rpy:315
 translate german s18_branch5_a9c72199:
 
-    # lpdcat2 "\"It's me.\" "
+    # lpdcat2 "\"Yeah, it's me!\" "
     lpdcat2 ""
 
 # game/script/18.rpy:317
 translate german s18_branch5_0d8273b9:
 
-    # b "I look at Tiger and Leopard and they return me a firm gaze."
-    # b "The warmth in their eyes strengthens my confidence. I open the door."
+    # b "I look at Lin Hu and Leopard... they look back at me with warmth and reassurance in their eyes. Yeah, I'll be fine. "
+    # b "With whatever confidence I can muster I open the door. "
     b ""
 
 # game/script/18.rpy:324
 translate german s18_branch5_6e18a889:
 
-    # lpdcat_true laugh "\"Liao, long time...\" "
+    # lpdcat_true laugh "\"Hey Liao, long time no see... "
     lpdcat_true laugh ""
 
 # game/script/18.rpy:331
 translate german s18_branch5_17bfe965:
 
-    # tig frown "\"...\" "
+    # tig frown "\"......\" "
     tig frown ""
 
 # game/script/18.rpy:336
 translate german s18_branch5_781beaf8:
 
-    # lpd angry_1 "\"...\" "
+    # lpd angry_1 "\"......\" "
     lpd angry_1 ""
 
 # game/script/18.rpy:338
 translate german s18_branch5_bc37ad46:
 
-    # avt "\"...Senpai, it's not a good time for joking.\" "
+    # avt "\"...Senpai, you're really going to be like that now, of all times.\" "
     avt ""
 
 # game/script/18.rpy:343
 translate german s18_branch5_5018f701:
 
-    # lpdcat_true laugh "\"Hmm... Fine... But why? You will destroy me no matter I make jokes or not.\" "
+    # lpdcat_true laugh "\"Well... does it really matter? You're just going to kill me no matter what I do.\" "
     lpdcat_true laugh ""
 
 # game/script/18.rpy:347
 translate german s18_branch5_1be7eeb4:
 
-    # avt "\"If we wanted to destroy you, you would be dead in the forest.\" "
+    # avt "\"If we wanted to kill you, wouldn't you be dead already?\" "
     avt ""
 
 # game/script/18.rpy:349
 translate german s18_branch5_dc186908:
 
-    # lpdcat_true laugh "\"Hmm... I don't think there's much a difference here.\" "
-    # lpdcat_true laugh "\"Liao, why do you want me here? What things must you know?\" "
+    # lpdcat_true laugh "\"Who cares... I don't see the difference at this point.\" "
+    # lpdcat_true laugh "\"Well Liao, what do you want from me? What do you want me to tell you?\" "
     lpdcat_true laugh ""
 
 # game/script/18.rpy:351
 translate german s18_branch5_633366a0:
 
-    # avt "\"This...\" "
+    # avt "\"I...\" "
     avt ""
 
 # game/script/18.rpy:353
 translate german s18_branch5_12d289e5:
 
-    # lpdcat_true smile "\"You've heard enough. Those two must have explained everything to you.\" "
-    # lpdcat_true smile "\"If you want to ask me if that is the truth, let me tell you...\" "
+    # lpdcat_true smile "\"I'm sure you've heard all there is to know from those two. \" "
+    # lpdcat_true smile "\"Buuuut— If you want me to me to say it to your face, I'll happily oblige.\" "
     lpdcat_true smile ""
 
 # game/script/18.rpy:356
 translate german s18_branch5_192dfaec:
 
-    # lpdcat_true laugh "\"Yes, they are telling the truth. I lied to you and I wanted your life. This is the truth.\" " with flash_black2
+    # lpdcat_true laugh "\"So yeah, it's all true. I lied to you the whole time. All I wanted was your life. That's just how it really is.\" " with flash_black2
     lpdcat_true laugh "" with flash_black2
 
 # game/script/18.rpy:358
 translate german s18_branch5_66a16cbd:
 
-    # avt "\"...Why?\" "
+    # avt "\"...W-{w=0.2}Why?\" "
     avt ""
 
 # game/script/18.rpy:360
 translate german s18_branch5_422fd785:
 
-    # lpdcat_true laugh "\"...\" "
+    # lpdcat_true laugh "\"......\" "
     lpdcat_true laugh ""
 
 # game/script/18.rpy:362
 translate german s18_branch5_16e73f98:
 
-    # lpdcat_true wronged "\"I saw that coming...\" "
+    # lpdcat_true wronged "\"...I knew you'd ask that.\" "
     lpdcat_true wronged ""
 
 # game/script/18.rpy:369
 translate german s18_branch5_91f40575:
 
-    # lpdcat_true serious "\"Liao, tell me. Why do you want to know why?\" "
+    # lpdcat_true serious "\"Liao, tell me. Do you really {i}need{/i} \ to know why?\" "
     lpdcat_true serious ""
 
 # game/script/18.rpy:371
 translate german s18_branch5_7ef4d3c9:
 
-    # lpdcat_true serious "\"I have my reasons and nothing can change the fact that I did all these horrible things.\" "
-    # lpdcat_true serious "\"Are you going to forgive me if I have some heartbreaking reason?\" "
+    # lpdcat_true serious "\"No matter what I say, it's not going to change all the horrible things I've done.\" "
+    # lpdcat_true serious "\"If I had a reason, some heartbreaking justification for my actions, would you really forgive me?\" "
     lpdcat_true serious ""
 
 # game/script/18.rpy:373
 translate german s18_branch5_8baea428:
 
-    # avt "\"...That depends.\" "
+    # avt "\"...I don't know how I'll feel until you tell me.\" "
     avt ""
 
 # game/script/18.rpy:375
 translate german s18_branch5_816bfe6c:
 
-    # lpdcat_true smile "\"Hmm...In that case, I have to make up something. Let me think...\" "
-    # lpdcat_true smile "\"Usually sacrificing oneself for others is quite touching. So I did it to save my clansmen. What do you say?\" "
+    # lpdcat_true smile "\"Hmmmmmm— In that case I'll just have to make up something. Lemmie think...\" "
+    # lpdcat_true smile "\"Oh— yeah. I got it. Sacrificing yourself to save others— oh how it touches the heart. Yeah Liao, I did it to save my tribe back home! Does that make you feel better?\" "
     lpdcat_true smile ""
 
 # game/script/18.rpy:382
 translate german s18_branch5_998f4425:
 
-    # lpd angry_1 "\"...No joke.\" " with flash_cyan
+    # lpd angry_1 "\"...Don't joke.\" " with flash_cyan
     lpd angry_1 "" with flash_cyan
 
 # game/script/18.rpy:386
 translate german s18_branch5_84989f66:
 
-    # tig normal "\"Hold on. Calm down.\" "
+    # tig normal "\"Hey— Hey, calm down.\" "
     tig normal ""
 
 # game/script/18.rpy:391
 translate german s18_branch5_a464530d:
 
-    # tig normal "\"Hey, wicked cat. What are you saying here?\" "
+    # tig normal "\"So what are you trying to say, you fiendish cat?\" "
     tig normal ""
 
 # game/script/18.rpy:395
 translate german s18_branch5_61fb11a1:
 
-    # lpdcat_true laugh "\"Nothing. You are looking for a reason to forgive me.\" "
+    # lpdcat_true laugh "\"Nothing. What, you want to find some reason to forgive me?\" "
     lpdcat_true laugh ""
 
 # game/script/18.rpy:402
 translate german s18_branch5_5b80ab20:
 
-    # tig frown "\"What you did is unforgivable. Liao simply wants to know why...\" "
+    # tig frown "\"What you did was unforgivable. Liao simply wants to know why...\" "
     tig frown ""
 
 # game/script/18.rpy:406
 translate german s18_branch5_9f5b105a:
 
-    # lpdcat_true laugh "\"So what's the difference?\" "
+    # lpdcat_true laugh "\"So what difference does it make?\" "
     lpdcat_true laugh ""
 
 # game/script/18.rpy:408
 translate german s18_branch5_583a4114:
 
-    # lpdcat_true laugh "\"Why does my reason matter to you?\" "
+    # lpdcat_true laugh "\"Why does {i}my{/i} \ reason matter to you?\" "
     lpdcat_true laugh ""
 
 # game/script/18.rpy:410
 translate german s18_branch5_7853754b:
 
-    # lpdcat_true wronged "\"After all you are... Seeking for comfort and ease for your mind.\" "
+    # lpdcat_true wronged "\"After all, you're just seeking resolution... some kind of peace of mind for what I did, right?\" "
     lpdcat_true wronged ""
 
 # game/script/18.rpy:413
 translate german s18_branch5_a6c16aba:
 
-    # lpdcat_true cute "\"I'll play along. I'm not so good at telling stories but we can work together to make a nice one.\" " with flash_black
+    # lpdcat_true cute "\"Ok, I'll play along. I kinda suck at telling stories but I'm sure we can work together to make a nice one.\" " with flash_black
     lpdcat_true cute "" with flash_black
 
 # game/script/18.rpy:419
 translate german s18_branch5_5a640a57:
 
-    # lpd angry_2 "\"...!\" "
+    # lpd angry_2 "\"......!\" "
     lpd angry_2 ""
 
 # game/script/18.rpy:421
 translate german s18_branch5_6b367609:
 
-    # tig frown "\"Calm down, Likulau. Can't you see he wants us to be pissed?\" "
+    # tig frown "\"Calm down, Likulau. Can't you see he's just provoking us?\" "
     tig frown ""
 
 # game/script/18.rpy:423
 translate german s18_branch5_781beaf8_1:
 
-    # lpd angry_1 "\"...\" "
+    # lpd angry_1 "\"......\" "
     lpd angry_1 ""
 
 # game/script/18.rpy:427
 translate german s18_branch5_b7274944:
 
-    # avt "\"Yeah, Sen... Leopard Cat, why did you say that? Can't you tell us your reason?\" "
+    # avt "\"Hey, Senp— Leopard Cat, what's wrong? Why not just tell us your real reason \nalready?\" "
     avt ""
 
 # game/script/18.rpy:429
 translate german s18_branch5_b902c4bd:
 
-    # lpdcat_true smile "\"Liao, you are too nice. You still believe I have some reason...\" "
+    # lpdcat_true smile "\"Liao, you're such a good boy. Still trying to believe I {i}have{/i} \ a reason...\" "
     lpdcat_true smile ""
 
 # game/script/18.rpy:431
 translate german s18_branch5_ae2362e0:
 
-    # lpdcat_true angry "\"How annoying!\" "
+    # lpdcat_true angry "\"I hate it.\" "
     lpdcat_true angry ""
 
 # game/script/18.rpy:434
 translate german s18_branch5_7c4d11d4:
 
-    # avt "\"Hmm?\" " with flash
+    # avt "\"What...\" " with flash
     avt "" with flash
 
 # game/script/18.rpy:436
@@ -662,65 +666,65 @@ translate german s18_branch5_2737aa1a:
 # game/script/18.rpy:441
 translate german s18_branch5_7072cdb0:
 
-    # lpdcat_true angry "\"I want to eat you and take your spirit power. That's all.\" "
+    # lpdcat_true angry "\"I just want to eat you, consume your spirit power. That's all I want!\" "
     lpdcat_true angry ""
 
 # game/script/18.rpy:445
 translate german s18_branch5_1723f1d9:
 
-    # lpdcat_true angry "\"Now you know. You should have known earlier.\" "
-    # lpdcat_true angry "\"You made me come all the way here so you can find a reason to pity me and forgive me?\" "
-    # lpdcat_true angry "\"Let's quit wasting each other's time. How about forgive me now?\" "
+    # lpdcat_true angry "\"I'm amazed you didn't figure it out earlier.\" "
+    # lpdcat_true angry "\"You made me come {i}all{/i} \ the way here just {i}you{/i} \ can find some reason to pity me and forgive me?\" "
+    # lpdcat_true angry "\"Let's stop wasting each other's time. How about {i}you{/i} \ just forgive me now? Get it over and done with so {i}you{/i} \ can feel better.\" "
     lpdcat_true angry ""
 
 # game/script/18.rpy:447
 translate german s18_branch5_7ef962f0:
 
-    # avt "\"No, I'm...\" "
+    # avt "\"No, I...\" "
     avt ""
 
 # game/script/18.rpy:449
 translate german s18_branch5_c90c6fb0:
 
-    # lpdcat_true happy "\"Ahh... That's enough. If you can't forgive me whatsoever, I'm fine with it.\" "
-    # lpdcat_true happy "\"Just kill me, will you?\" " with vshake
+    # lpdcat_true happy "\"Ahhhh— Enough already. If you can't forgive me, I'm fine with that.\" " with vshake
+    # lpdcat_true happy "\"Just kill me, won't you?\" " with vshake
     lpdcat_true happy "" with vshake
 
 # game/script/18.rpy:451
 translate german s18_branch5_c1644886:
 
-    # avt "\"But I still don't know why you did all this! I need to know your reason to decide if I can forgive you...\" "
+    # avt "\"No, I still don't know why you did all of this! If I don't know why how could I ever know if I could forgive you...\" "
     avt ""
 
 # game/script/18.rpy:453
 translate german s18_branch5_92203223:
 
-    # lpdcat_true normal "\"...\" "
+    # lpdcat_true normal "\"......\" "
     lpdcat_true normal ""
 
 # game/script/18.rpy:455
 translate german s18_branch5_f65d6429:
 
-    # lpdcat_true wronged "\"That makes sense.\" "
+    # lpdcat_true wronged "\"That it?\" "
     lpdcat_true wronged ""
 
 # game/script/18.rpy:457
 translate german s18_branch5_5d686b07:
 
-    # lpdcat_true laugh "\"Liao, you don't care much about others. Of course you don't have a clue.\" "
-    # lpdcat_true laugh "\"Well, let me explain it to you.\" "
+    # lpdcat_true laugh "\"Makes sense. After all, Liao only cares about himself. Of course he doesn't have a \nclue.\" "
+    # lpdcat_true laugh "\"Should I show mercy and explain this in some way that you can understand?\" "
     lpdcat_true laugh ""
 
 # game/script/18.rpy:461
 translate german s18_branch5_4d34a2db:
 
-    # lpdcat_true wronged "\"...\" "
+    # lpdcat_true wronged "\"......\" "
     lpdcat_true wronged ""
 
 # game/script/18.rpy:463
 translate german s18_branch5_2166e7b1_4:
 
-    # avt "\"...\" "
+    # avt "\"......\" "
     avt ""
 
 # game/script/18.rpy:472
@@ -732,14 +736,14 @@ translate german s18_branch5_3f0b7a7f:
 # game/script/18.rpy:474
 translate german s18_branch5_06e17368:
 
-    # lpdcat_true wronged "\"A yaoguai who grows up eating other creatures' souls.\" "
+    # lpdcat_true wronged "\"...A yaoguai who grew up eating other creatures' souls.\" "
     lpdcat_true wronged ""
 
 # game/script/18.rpy:476
 translate german s18_branch5_16e4ddd0:
 
-    # lpdcat_true serious "\"Whenever I absorb a soul, I gain his knowledge, experience and instincts. Or you can say I partially become him.\" "
-    # lpdcat_true serious "\"That's why I told you that you could take me as Yan Shu-chi.\" "
+    # lpdcat_true serious "\"When I consume a soul, I gain it's knowledge, experience, and instincts. You could say that being partially becomes a part of me.\" "
+    # lpdcat_true serious "\"As I said, I {i}am{/i} \ Yan Shu-chi.\" "
     lpdcat_true serious ""
 
 # game/script/18.rpy:478
@@ -751,217 +755,216 @@ translate german s18_branch5_b41bb2a6:
 # game/script/18.rpy:480
 translate german s18_branch5_941402ba:
 
-    # lpdcat_true serious "\"Right. Let me finish first.\" "
+    # lpdcat_true serious "\"Right, but let me finish first.\" "
     lpdcat_true serious ""
 
 # game/script/18.rpy:482
 translate german s18_branch5_e1418949:
 
-    # lpdcat_true serious "\"At the very beginning...{w=0.5} I don't really remember what I was back then.\" "
-    # lpdcat_true serious "\"Maybe a puff of consciousness or not even. Maybe just an amoeba.\" "
+    # lpdcat_true serious "\"In the very beginning... {w=0.5}I don't really remember what I was back then. I was just suddenly there. \" "
+    # lpdcat_true serious "\"Maybe I was a consciousness— no, less than that, an amoeba... {w=0.5}a single something that just consumes other things.\" "
     lpdcat_true serious ""
 
 # game/script/18.rpy:484
 translate german s18_branch5_202f708e:
 
-    # lpdcat_true serious "\"I was already a leopard cat in my earliest memory about myself. Maybe right after I ate a leopard cat or many.\" "
-    # lpdcat_true serious "\"You should know many leopard cats are hit by cars in Miaoli. Dying animals are the easiest targets for me.\" "
+    # lpdcat_true serious "\"I was already a leopard cat in my earliest memory about myself. Maybe it was the first thing I ate that was big enough. Maybe I just ate a lot of them.\" "
+    # lpdcat_true serious "\"Did you know that leopard cats are hit by cars in Miaoli all the time? {w=0.5}After all, dying animals are the easiest targets for me...\" "
     lpdcat_true serious ""
 
 # game/script/18.rpy:491
 translate german s18_branch5_05e1efd4:
 
-    # lpdcat_true serious "\"I was pretty much a leopard cat at that time. Slowly I got to eat more powerful creatures and became smarter and smarter.\" "
+    # lpdcat_true serious "\"I was basically just an ordinary leopard cat back then. Slowly but surely I ate more powerful creatures, becoming smarter and smarter.\" "
     # lpdcat_true serious "\"Until I had my first human...\" "
     lpdcat_true serious ""
 
 # game/script/18.rpy:493
 translate german s18_branch5_438c02ea:
 
-    # lpdcat_true wronged "\"I began to think like a human and I first noticed how tasty a human soul can be.\" "
-    # lpdcat_true wronged "\"Humans are rich in knowledge and memories. They helped me grow more and more intelligent. Then I found you...\" "
+    # lpdcat_true wronged "\"I began to think like a human and after my first taste, I found the human soul... {w=0.5}delicious.\" "
+    # lpdcat_true wronged "\"After all, humans souls contain the richest density of knowledge and memories. They nourished me to grow more and more. Then I found you...\" "
     lpdcat_true wronged ""
 
 # game/script/18.rpy:495
 translate german s18_branch5_e9ce052c:
 
-    # lpdcat_true wronged "\"When you first came to my notice, your third eye was not open yet.\" "
-    # lpdcat_true wronged "\"I wanted to wait for an opportunity to eat you when that guardian tiger was away. But you spent most of your time at home and rarely went to isolated places.\" "
-    # lpdcat_true wronged "\"While I was seeking for my opportunity...\" "
+    # lpdcat_true wronged "\"I first noticed you before your eyes were opened. I was waiting for a chance to eat you while your guardian tiger was away, but you barely left home let alone anywhere isolated from people.\" "
+    # lpdcat_true wronged "\"And while I was waiting for that chance...\" "
     lpdcat_true wronged ""
 
 # game/script/18.rpy:497
 translate german s18_branch5_67ede71c:
 
-    # lpdcat_true wronged "\"Kulau showed up and messed up my plan. He helped you open up your third eye so I could no longer attack you even when you were alone.\" "
-    # lpdcat_true wronged "\"I had to change a strategy, so I came to you...\" "
+    # lpdcat_true wronged "\"Kulau opened your eyes. It messed everything up. There was no way to attack you even when you were alone.\" "
+    # lpdcat_true wronged "\"So... I had to come up with another strategy. {w=0.5}I had to come directly to you.\" "
     lpdcat_true wronged ""
 
 # game/script/18.rpy:499
 translate german s18_branch5_72c23e8d:
 
-    # avt "\"So...{w=0.5} You took Senpai...\" "
+    # avt "\"Then... {w=0.5}you took Senpai...\" "
     avt ""
 
 # game/script/18.rpy:503
 translate german s18_branch5_dcc65a76:
 
-    # lpdcat_true smile "\"Hmm... He was perfect for me. Very close to you, good looking, homosexual, and quite similar to my personality.\" "
-    # lpdcat_true smile "\"I thought I could have you with ease for sure.\" "
+    # lpdcat_true smile "\"Yep, he was a perfect fit. Close to you, good looking, gay, we even had the similar personalities! I thought I'd have my way with you in no time...\" "
     lpdcat_true smile ""
 
 # game/script/18.rpy:505
 translate german s18_branch5_c68d02b9:
 
-    # lpdcat_true laugh "\"To my surprise, these two were stronger than me.\" "
-    # lpdcat_true laugh "\"Damn! The two of you were following Liao closely everywhere.\" "
+    # lpdcat_true laugh "\"But that didn't happen... {w=0.5}To my surprise, these two were stronger than me.\" "
+    # lpdcat_true laugh "\"For real though, you two stuck to Liao like glue.\" "
     lpdcat_true laugh ""
 
 # game/script/18.rpy:507
 translate german s18_branch5_aefaa916:
 
-    # tig frown "\"Hmm... Liao could have died long ago.\" "
+    # tig frown "\"Then that means ...Liao could have died long ago.\" "
     tig frown ""
 
 # game/script/18.rpy:509
 translate german s18_branch5_d4a0546d:
 
-    # lpd normal "\"Won't let you hurt Liao...\" "
+    # lpd normal "\"I won't let you... {w=0.5}I won't let you hurt Liao.\" "
     lpd normal ""
 
 # game/script/18.rpy:511
 translate german s18_branch5_49deaa55:
 
-    # lpdcat_true pout "\"You didn't notice anything before.\" "
+    # lpdcat_true pout "\"Well {i}obviously{/i} \ you didn't notice anything.\" "
     lpdcat_true pout ""
 
 # game/script/18.rpy:516
 translate german s18_branch5_166cfd39:
 
-    # lpdcat_true laugh "\"Yes, your Senpai Yan Shu-Chi was eaten on the day when you opened your third eye.\" "
-    # lpdcat_true laugh "\"He's long dead and I've absorbed his soul completely. You can kill me but you can't save him.\" "
+    # lpdcat_true laugh "\"So yeah, your Senpai— Yan Shu-Chi... I ate his soul a month ago, the very day your eyes were opened. \" "
+    # lpdcat_true laugh "\"He's {i}long{/i} \ dead. I've absorbed his soul completely. Even if you kill me you can't save him.\" "
     lpdcat_true laugh ""
 
 # game/script/18.rpy:520
 translate german s18_branch5_6dd99f2c:
 
-    # avt "\"Since one month ago...\" "
+    # avt "\"You... {w=0.5}killed him a month ago...\" "
     avt ""
 
 # game/script/18.rpy:522
 translate german s18_branch5_60cb45f0:
 
-    # lpdcat_true smile "\"Yes, correct. Since the day I moved in.\" "
+    # lpdcat_true smile "\"Yep. The very same day I moved in.\" "
     lpdcat_true smile ""
 
 # game/script/18.rpy:524
 translate german s18_branch5_f3a059df:
 
-    # b "I barely knew Senpai before that. In the past one month Senpai had always been him...{w=0.5} It was this yaoguai all along?"
+    # b "I barely knew him before then. Then the Senpai I've known over the past month... {w=0.5}was really this yaoguai all along? "
     b ""
 
 # game/script/18.rpy:526
 translate german s18_branch5_f90dec78:
 
-    # avt "\"So...{w=0.5} Those... Shopping... Dating... Dining...\" "
+    # avt "\"So everything... shopping, dating, dining, the hot springs, the tung blossoms, being locked up at home...\" "
     avt ""
 
 # game/script/18.rpy:529
 translate german s18_branch5_e5e60611:
 
-    # lpdcat_true cute "\"Yes, all me!\" " with flash_black2
+    # lpdcat_true cute "\"Yep, it was all me.\" " with flash_black2
     lpdcat_true cute "" with flash_black2
 
 # game/script/18.rpy:531
 translate german s18_branch5_9fe50b65:
 
-    # avt "\"Ah-hah... I don't know Senpai at all...\" "
+    # avt "\"Ahahaha... I didn't know Senpai at all...\" "
     avt ""
 
 # game/script/18.rpy:533
 translate german s18_branch5_1772bc25:
 
-    # lpdcat_true laugh "\"Hmm... You are being dramatic...\" "
+    # lpdcat_true laugh "\"Hmm? You're being a {i}bit{/i} \ dramatic...\" "
     lpdcat_true laugh ""
 
 # game/script/18.rpy:535
 translate german s18_branch5_83765ddf:
 
-    # lpdcat_true normal "\"As I said, I gain experience from the soul I eat.\" "
+    # lpdcat_true normal "\"After all, I gain the memories of the souls I eat.\" "
     lpdcat_true normal ""
 
 # game/script/18.rpy:537
 translate german s18_branch5_855e331b:
 
-    # lpdcat_true normal "\"So...{w=0.5} I was interacting with you in Yan Shu-Chi's way.\" "
-    # lpdcat_true normal "\"My words and my desire to date you were pretty much from him. Otherwise his friends would have noticed soon after.\" "
+    # lpdcat_true normal "\"I'm... as close as you could ever get to Yan Shu-Chi. I always have been just like him.\" "
+    # lpdcat_true normal "\"My feelings for you, and my desire to date you, they're all pretty much from him. How else do you think everyone picked up on us being together so fast?\" "
     lpdcat_true normal ""
 
 # game/script/18.rpy:540
 translate german s18_branch5_f9a0aec4:
 
-    # lpdcat_true laugh "\"To win Liao's heart, I was questioned a lot by those close friends. Moving in with you was a big thing after all.\" "
-    # lpdcat_true laugh "\"I had to tell them we were in a relationship... It probably bothered you but I didn't have a better excuse.\" " with flash_black2
+    # lpdcat_true laugh "\"I wanted to win your heart. A lot of his \"close\" friends inevitably questioned me when they saw us together.\" "
+    # lpdcat_true laugh "\"I couldn't exactly just say I {i}just{/i} \ moved in with you so I had to tell them we were in a relationship... Even if it bothered you I didn't have a better excuse.\" " with flash_black2
     lpdcat_true laugh "" with flash_black2
 
 # game/script/18.rpy:543
 translate german s18_branch5_2b2a432c:
 
-    # tig angry "\"Sounds like you don't feel sorry at all.\" " with vshake
+    # tig angry "\"It sounds like you don't feel sorry at all.\" " with vshake
     tig angry "" with vshake
 
 # game/script/18.rpy:545
 translate german s18_branch5_1213497d:
 
-    # lpdcat_true cute "\"Of course not. I wanted to eat Liao. I couldn't care less if he was upset or not.\" "
+    # lpdcat_true cute "\"Of course not. I wanted to eat Liao. Why should I care if {i}that{/i} \ of all things upset him?\" "
     lpdcat_true cute ""
 
 # game/script/18.rpy:547
 translate german s18_branch5_781beaf8_2:
 
-    # lpd angry_1 "\"...\" "
+    # lpd angry_1 "\"......\" "
     lpd angry_1 ""
 
 # game/script/18.rpy:549
 translate german s18_branch5_b17427e9:
 
-    # avt "\"For you... This time...\" "
+    # avt "\"Then... for you, all this time I...\" "
     avt ""
 
 # game/script/18.rpy:554
 translate german s18_branch5_92de706a:
 
-    # b "I recall buying a hat for Senpai, visiting him in his hometown, and our last date before he left for Miaoli... Is everything fake?"
+    # b "I remember all the time I've spent with him, buying the husky hat at the markets, when I rescued him from being grounded, the last date we had before he left for Miaoli... Was all of that fake? "
     b ""
 
 # game/script/18.rpy:556
 translate german s18_branch5_7fd12eff:
 
-    # b "It has to be fake..."
+    # b "It... has to be fake, right? "
     b ""
 
 # game/script/18.rpy:561
 translate german s18_branch5_a3c96e2e:
 
-    # lpdcat_true laugh "\"Why do you ask? I've told you I hate sympathy.\" "
+    # lpdcat_true laugh "\"Why bother asking? I said I didn't care about your dumb sympathy.\" "
     lpdcat_true laugh ""
 
 # game/script/18.rpy:566
 translate german s18_branch5_4a293b28:
 
-    # lpdcat_true laugh "\"I could tell you I had a really good time. Then what? I appreciate for everything but I have to kill you. How does that sound?\" "
+    # lpdcat_true laugh "\"Sure, I could tell you I had a really good time. Then what?\" "
+    # lpdcat_true laugh "\"Oh how about, \"I appreciate everything you've done for me but I sure do still want to kill you~\" How does that sound?\" "
     lpdcat_true laugh ""
 
 # game/script/18.rpy:571
 translate german s18_branch5_04fe83f2:
 
-    # lpdcat_true laugh "\"If I say I was happy, would you let go of me? Why did you ask if you won't?\" "
+    # lpdcat_true laugh "\"If I told you I was happy, would you let go of me? ...Why bother asking if you won't?\" "
     lpdcat_true laugh ""
 
 # game/script/18.rpy:575
 translate german s18_branch5_2258b297:
 
-    # avt "\"I don't know. But...{w=0.5} I just want to know.\" "
+    # avt "\"I don't know. I just... {w=0.5}I just want to know.\" "
     avt ""
 
 # game/script/18.rpy:577
@@ -973,41 +976,40 @@ translate german s18_branch5_59ffc2b6:
 # game/script/18.rpy:579
 translate german s18_branch5_7b2f4a0b:
 
-    # avt "\"Leopard Cat, you were playing Senpai this entire time. I know you want to kill me because you need my power to live on.\" "
+    # avt "\"So, Leopard Cat. I know you've been impersonating Shu-Chi Senpai this whole time. I know you want to kill me. But isn't all this just because you need my soul to survive? Am I not just prey to you?\" "
     avt ""
 
 # game/script/18.rpy:581
 translate german s18_branch5_c06cc0e8:
 
-    # avt "\"If you promise you will leave me alone, I might be able to forgive...\" "
+    # avt "\"If you promise to leave me alone, then I... {w=0.5}I might be able to forgive you...\" "
     avt ""
 
 # game/script/18.rpy:588
 translate german s18_branch5_51bac5a3:
 
-    # tig angry "\"Liao! What's wrong with you? You heard him! He's eaten many people.\" "
-    # tig angry "\"He ate your Senpai. How could you ever forgive him?\" "
-    # tig angry "\"Fine, you don't care about other people. But what about Yan Shu-Chi? What about his family and friends?\" "
+    # tig angry "\"Liao! What's wrong with you?! You heard him! He's eaten {i}numerous{/i} \ people.\" "
+    # tig angry "\"He ate Yan Shu-Chi. You can't feign anonymity here. You can't just say that doesn't matter. How could you forgive him?\" "
+    # tig angry "\"Fine, even if you don't care about other people. What about Yan Shu-Chi? What about his family and friends?\" "
     tig angry ""
 
 # game/script/18.rpy:590
 translate german s18_branch5_a7493dc0:
 
-    # avt "\"But... Even if I don't forgive him...\" "
+    # avt "\"But... even if I don't forgive him...\" "
     avt ""
 
 # game/script/18.rpy:598
 translate german s18_branch5_1f0a6c24:
 
-    # lpdcat_true angry "\"Hang on... I think we've got some misunderstanding here.\" "
-    # lpdcat_true angry "\"I can live on well with or without your power. I simply find your spirit power very tasty.\" "
+    # lpdcat_true angry "\"Hang on... I think we've got some misunderstandings here. I can live just fine with or without your power. I just find your spirit \"tasty\" and I {i}want{/i} \ to eat it.\" "
     lpdcat_true angry ""
 
 # game/script/18.rpy:600
 translate german s18_branch5_5ff33f2d:
 
-    # lpdcat_true serious "\"I've eaten so many humans and I've lost my desire for animals.\" "
-    # lpdcat_true serious "\"To grow stronger, I'll have to eat other yaoguai and weak gods. I wanted your spirit power to defeat them...\" "
+    # lpdcat_true serious "\"After all, I've eaten so many humans that animals mean {i}nothing{/i} \ to me.\" "
+    # lpdcat_true serious "\"If I want to grow stronger I need to eat other yaoguai and weaker gods. I just wanted your spirit power to defeat them...\" "
     lpdcat_true serious ""
 
 # game/script/18.rpy:602
@@ -1025,51 +1027,51 @@ translate german s18_branch5_6bed0a7b:
 # game/script/18.rpy:606
 translate german s18_branch5_35a8a120:
 
-    # lpdcat_true normal "\"Hmm... I don't really know. I guess I might become weak and eventually vanish if I quit eating for a decade.\" "
-    # lpdcat_true normal "\"I've never tried and I'm not planning to.\" "
+    # lpdcat_true normal "\"Hmm... I don't really know. I guess I might become weak and eventually vanish if I quit eating for like a decade.\" "
+    # lpdcat_true normal "\"But I've never tried and I'm not planning to.\" "
     lpdcat_true normal ""
 
 # game/script/18.rpy:608
 translate german s18_branch5_1aba791e:
 
-    # avt "\"Don't you have other resources for spirit power?\" "
+    # avt "\"Isn't there another way you can replenish your spirit power?\" "
     avt ""
 
 # game/script/18.rpy:610
 translate german s18_branch5_02b46ea3:
 
-    # lpdcat_true angry "\"I don't know and moreover, I don't care.\" "
+    # lpdcat_true angry "\"I don't know! Even if there was, do you think I care?\" "
     lpdcat_true angry ""
 
 # game/script/18.rpy:612
 translate german s18_branch5_889adbd4:
 
-    # tig disappointed "\"...\" "
+    # tig disappointed "\"......\" "
     tig disappointed ""
 
 # game/script/18.rpy:614
 translate german s18_branch5_737ba951:
 
-    # tig normal "\"Of course there are other ways. Yaoguais can also gain power through faith.\" "
-    # tig normal "\"In fact many temples are built to please yaoguais so they won't cause trouble.\" "
+    # tig normal "\"Well, there {i}are{/i} \ other ways. Yaoguai can also gain power through faith.\" "
+    # tig normal "\"In fact many temples are built to please yaoguai as to stop them from causing \ntrouble.\" "
     tig normal ""
 
 # game/script/18.rpy:616
 translate german s18_branch5_a3faaa87:
 
-    # lpdcat_true angry "\"Hah! I'm not that good yet.\" "
+    # lpdcat_true angry "\"Haha— I'm not good enough for people to worship me...\" "
     lpdcat_true angry ""
 
 # game/script/18.rpy:618
 translate german s18_branch5_7160cbf2:
 
-    # tig normal "\"Faith works. It doesn't take much to stop you from vanishing. Only one worshipper can...\" "
+    # tig normal "\"Faith works. It doesn't take much to stop you from vanishing. Even one worshipper \ncan—\" "
     tig normal ""
 
 # game/script/18.rpy:624
 translate german s18_branch5_2804ad39:
 
-    # lpdcat_true angry "\"I'll be this weak all my life? I don't want that.\" " with flash
+    # lpdcat_true angry "\"So I'll be {i}this{/i} \ weak for the rest of my life? I don't want that.\" " with flash
     lpdcat_true angry "" with flash
 
 # game/script/18.rpy:629
@@ -1081,88 +1083,89 @@ translate german s18_branch5_37d1db86:
 # game/script/18.rpy:631
 translate german s18_branch5_92203223_1:
 
-    # lpdcat_true normal "\"...\" "
+    # lpdcat_true normal "\"......\" "
     lpdcat_true normal ""
 
 # game/script/18.rpy:633
 translate german s18_branch5_7dbf5495:
 
-    # lpdcat_true smile "\"Liao, I understand your confusion.\" "
+    # lpdcat_true smile "\"Liao, you don't know what you take for granted.\" "
     lpdcat_true smile ""
 
 # game/script/18.rpy:635
 translate german s18_branch5_44e45e2d:
 
-    # lpdcat_true laugh "\"In the world of yaoguai, the capable eat the weak, worse than this world.\" "
-    # lpdcat_true laugh "\"A yaoguai with little power will be eaten by others. One can take a place but he will be killed whenever there is a stronger one.\" "
+    # lpdcat_true laugh "\"In the world of the yaoguai... the weak are eaten by the strong. It's worse than \nnature.\" "
+    # lpdcat_true laugh "\"No matter what, a yaoguai will only live to one day be eaten by another. \" "
+    # lpdcat_true laugh "\"No matter where you live, you'll always be killed by someone stronger than you.\" "
     lpdcat_true laugh ""
 
 # game/script/18.rpy:637
 translate german s18_branch5_4f7a5b7f:
 
-    # lpdcat_true wronged "\"Cities are worse. Gods won't leave us alone. Becoming stronger is the only way to survive.\" "
+    # lpdcat_true wronged "\"Cities are worse. Gods won't leave us alone, a weak yaoguai just won't survive. So I want to become strong... {w=0.5}strong enough to live.\" "
     lpdcat_true wronged ""
 
 # game/script/18.rpy:639
 translate german s18_branch5_8d16d92c:
 
-    # avt "\"Aren't there many yaoguais living at peace with humans?\" "
+    # avt "\"Still, aren't there a lot of yaoguai living at peace with humans?\" "
     avt ""
 
 # game/script/18.rpy:643
 translate german s18_branch5_353a167e:
 
-    # lpdcat_true laugh "\"They were born that way. But I'm a wicked one.\" " with flash_black
+    # lpdcat_true laugh "\"They were born that way, but look at me, I'm just some fiendish yaoguai aren't I?\" " with flash_black
     lpdcat_true laugh "" with flash_black
 
 # game/script/18.rpy:648
 translate german s18_branch5_5fd23dad:
 
-    # lpdcat_true laugh "\"A human-eating yaoguai like me will be killed by gods. Some gods don't even need a reason to kill. I must defend myself. \" "
+    # lpdcat_true laugh "\"A human-eating yaoguai like me... {w=0.5}will just be killed at the whim of some god. Some don't even need a reason to kill. This is the only way I can protect myself.\" "
     lpdcat_true laugh ""
 
 # game/script/18.rpy:654
 translate german s18_branch5_ba1f5217:
 
-    # lpdcat_true laugh "\"Ouch...I'm not saying I was forced into it.\" "
-    # lpdcat_true laugh "\"Eating humans is very enjoyable for me. It happens to be the only way to grow stronger.\" "
+    # lpdcat_true laugh "\"Well, that kinda makes it sound like I'm forced into it. In reality I {i}also{/i} \ love eating humans, it just {i}happens{/i} \ to be the only way I can grow stronger.\" "
     lpdcat_true laugh ""
 
 # game/script/18.rpy:656
 translate german s18_branch5_066fae9c:
 
-    # avt "\"So if you don't eat humans...\" "
+    # avt "\"If you didn't eat humans you'd just...\" "
     avt ""
 
 # game/script/18.rpy:662
 translate german s18_branch5_931dc8eb:
 
-    # lpdcat_true smile "\"You can't undo what is already done. Yaoguai like me will live like a wild beast if we don't eat humans.\" "
-    # lpdcat_true smile "\"Beasts don't know if it is good to eat humans. They will at least have one.\" "
+    # lpdcat_true smile "\"You can't undo what is already done. Yaoguai like me are no different than wild beasts until we eat a human.\" "
+    # lpdcat_true smile "\"A beast doesn't know whether it's right or wrong to eat a human. \nBy the time they know it's already too late...\" "
     lpdcat_true smile ""
 
 # game/script/18.rpy:664
 translate german s18_branch5_cc4600ee:
 
-    # lpdcat_true laugh "\"This is our fate.\" "
+    # lpdcat_true laugh "\"It's just our fate.\" "
     lpdcat_true laugh ""
 
 # game/script/18.rpy:670
 translate german s18_branch5_1bef3df1:
 
-    # lpdcat_true wronged "\"It would be a different story if I was born as a different yaoguai or a human. Unfortunately, I'm not.\" "
+    # lpdcat_true wronged "\"It could have been different... {w=0.5}I could have been born as some other Yaoguai... {w=0.5}I could have even been born a human...\" "
+    # lpdcat_true wronged "\"But I wasn't.\" "
     lpdcat_true wronged ""
 
 # game/script/18.rpy:676
 translate german s18_branch5_e668c779:
 
-    # lpdcat_true laugh "\"So... A yaoguai gotta do what he has to do.\" "
+    # lpdcat_true laugh "\"So I have to do what I have to do...\" "
     lpdcat_true laugh ""
 
 # game/script/18.rpy:682
 translate german s18_branch5_63ccf522:
 
-    # lpdcat_true happy "\"If you don't want to kill me, I'll eat Liao.\" "
+    # lpdcat_true happy "\"If you don't want to kill me, I guess I'll have to eat you myself.\" "
     lpdcat_true happy ""
 
 # game/script/18.rpy:686
@@ -1174,37 +1177,37 @@ translate german s18_branch5_723d0ef2:
 # game/script/18.rpy:709
 translate german s18_branch5_7355ad32:
 
-    # b "Leopard Cat walks towards me. A bolt of lightning strikes at him but is blocked above his head."
+    # b "Leopard Cat walks towards me. A bolt of lightning thunders towards his head but it is blocked by Lin Hu's outstretched paw. "
     b ""
 
 # game/script/18.rpy:714
 translate german s18_branch5_c17283c3:
 
-    # tig frown "\"Don't be impetuous...\" "
+    # tig frown "\"Don't be so impetuous...\" "
     tig frown ""
 
 # game/script/18.rpy:723
 translate german s18_branch5_83295f6b:
 
-    # b "Tiger shakes his hand. He looks in pain."
+    # b "Lin Hu shakes the pain out of his paw. "
     b ""
 
 # game/script/18.rpy:725
 translate german s18_branch5_3bc0e066:
 
-    # tig frown "\"He wants you to attack. Kulau, bear it. If you can't stand this, stay away. I'll take care of it.\" "
+    # tig frown "\"He {i}wants{/i} \ you to attack. Kulau, bear it. If you can't put up with it, then leave. I'll take care of this.\" "
     tig frown ""
 
 # game/script/18.rpy:727
 translate german s18_branch5_781beaf8_3:
 
-    # lpd angry_1 "\"...\" "
+    # lpd angry_1 "\"......\" "
     lpd angry_1 ""
 
 # game/script/18.rpy:729
 translate german s18_branch5_6582d767:
 
-    # lpd angry_1 "\"Don't harm Liao!\" "
+    # lpd angry_1 "\"Don't hurt Liao.\" "
     lpd angry_1 ""
 
 # game/script/18.rpy:731
@@ -1222,19 +1225,19 @@ translate german s18_branch5_47a5496a:
 # game/script/18.rpy:738
 translate german s18_branch5_f2453597:
 
-    # b "Leopard heads towards Leopard Cat. Tiger cuts his way."
+    # b "Leopard rushes towards Leopard Cat but Lin Hu blocks him, his body a barrier between the two. "
     b ""
 
 # game/script/18.rpy:740
 translate german s18_branch5_cfba9a7b:
 
-    # tig disappointed "\"I said stay away if you can't take it!\" "
+    # tig disappointed "\"You should stay away if you cannot handle his mere words.\" "
     tig disappointed ""
 
 # game/script/18.rpy:742
 translate german s18_branch5_781beaf8_4:
 
-    # lpd angry_1 "\"...\" "
+    # lpd angry_1 "\"......\" "
     lpd angry_1 ""
 
 # game/script/18.rpy:751
@@ -1246,37 +1249,37 @@ translate german s18_branch5_b2abcaff:
 # game/script/18.rpy:753
 translate german s18_branch5_229e18e6:
 
-    # b "Leopard enters the bathroom. Why did you go to the bathroom?"
+    # b "Leopard walks though the door into the bathroom... (Why did he go to the bathroom?) "
     b ""
 
 # game/script/18.rpy:759
 translate german s18_branch5_af695eb3:
 
-    # tig frown "\"Wicked cat, you want to die, don't you? Why did you provoke Likulau?\" "
+    # tig frown "\"Fiend, you want to die, don't you? Why goad Likulau? Are you a fan of his ire?\" "
     tig frown ""
 
 # game/script/18.rpy:761
 translate german s18_branch5_58adc176:
 
-    # lpdcat_true laugh "\"Hard to say. Maybe I do want to die. What do you think?\" "
+    # lpdcat_true laugh "\"Hard to say. Maybe I do want to die. What would you think?\" "
     lpdcat_true laugh ""
 
 # game/script/18.rpy:763
 translate german s18_branch5_86f3cb28:
 
-    # tig frown "\"Don't cross the line. Don't you know Liao will be sad for you?\" "
+    # tig frown "\"Don't say such things like they only matter to you. {i}Liao{/i} \ is the one who will grieve over your loss. Do you not understand that?\" "
     tig frown ""
 
 # game/script/18.rpy:765
 translate german s18_branch5_b013b6fe:
 
-    # lpdcat_true confused "\"Sad for what? I'm his enemy who ate his Senpai!\" "
+    # lpdcat_true confused "\"What's there to be sad over? I'm his enemy, I'm the one who ate his Senpai!\" "
     lpdcat_true confused ""
 
 # game/script/18.rpy:767
 translate german s18_branch5_a6b7207e:
 
-    # tig disappointed "\"Still Liao will be sad. I want to kill you but Liao cares about you.\" "
+    # tig disappointed "\"Sure, {i}I{/i} \ would rather kill you, but deep down Liao still cares about you, for who you are and not what you've done... he'll be sad...\" "
     tig disappointed ""
 
 # game/script/18.rpy:769
@@ -1288,67 +1291,67 @@ translate german s18_branch5_e2647cc0:
 # game/script/18.rpy:771
 translate german s18_branch5_66cfe53f:
 
-    # tig disappointed "\"That's right. It worries me.\" "
+    # tig disappointed "\"Yes. It worries me.\" "
     tig disappointed ""
 
 # game/script/18.rpy:773
 translate german s18_branch5_feeedfe4:
 
-    # lpdcat_true normal "\"That's why I could easily fool him. I have nothing to complain.\" "
+    # lpdcat_true normal "\"It just means it was easy to fool him. I have no complaints.\" "
     lpdcat_true normal ""
 
 # game/script/18.rpy:777
 translate german s18_branch5_23025813:
 
-    # tig lift "\"Really? I think you have many.\" "
+    # tig lift "\"Really? I'd say you have many.\" "
     tig lift ""
 
 # game/script/18.rpy:780
 translate german s18_branch5_58f5c75e:
 
-    # tig lift "\"You wouldn't be here if Liao wasn't this nice.\" " with flash
+    # tig lift "\"After all, you wouldn't be here if Liao wasn't so nice.\" " with flash
     tig lift "" with flash
 
 # game/script/18.rpy:782
 translate german s18_branch5_92203223_2:
 
-    # lpdcat_true normal "\"...\" "
+    # lpdcat_true normal "\"......\" "
     lpdcat_true normal ""
 
 # game/script/18.rpy:784
 translate german s18_branch5_1c15a82d:
 
-    # lpdcat_true laugh "\"Hmm? Say what? I don't get it.\" "
+    # lpdcat_true laugh "\"What are you talking about? I don't get it.\" "
     lpdcat_true laugh ""
 
 # game/script/18.rpy:786
 translate german s18_branch5_3457b7c3:
 
-    # tig lift "\"You are taking the risk here. You want to know if Liao will kill you in person.\" "
+    # tig lift "\"You really are betting on this aren't you? Just to see if Liao would kill you in person or not.\" "
     tig lift ""
 
 # game/script/18.rpy:788
 translate german s18_branch5_2668631f:
 
-    # lpdcat_true smile "\"There won't be Liao's turn.\" "
+    # lpdcat_true smile "\"It's not like Liao's the one who will kill me...\" "
     lpdcat_true smile ""
 
 # game/script/18.rpy:792
 translate german s18_branch5_4f4ca49f:
 
-    # tig normal "\"Neither of us would do it unless Liao gave consent.\" "
+    # tig normal "\"Neither of us would do it without Liao's consent.\" "
     tig normal ""
 
 # game/script/18.rpy:794
 translate german s18_branch5_552cc3f9:
 
-    # lpdcat_true laugh "\"...Hmm... Maybe... So? You decide to forgive me?\" "
+    # lpdcat_true laugh "\"...Hmm, does that really stop you? Oh— since you haven't attacked me that just means you've forgiven me, right?\" "
     lpdcat_true laugh ""
 
 # game/script/18.rpy:796
 translate german s18_branch5_a141e414:
 
-    # tig normal "\"I can't, but...\" "
+    # tig normal "\"What? No, I could never forgive you. But that's—\" "
     tig normal ""
 
 # game/script/18.rpy:798
@@ -1366,192 +1369,194 @@ translate german s18_branch5_d4217a69:
 # game/script/18.rpy:802
 translate german s18_branch5_ea72190b:
 
-    # avt "\"Forgiving you means letting go all the past. I can't do that and I can't let you run away.\" "
+    # avt "\"Forgiving you means letting go of everything you did in the past... {w=0.5}I can't do that. I can't let you just run away.\" "
     avt ""
 
 # game/script/18.rpy:804
 translate german s18_branch5_7af3a71e:
 
-    # avt "\"Although...{w=0.5} I don't really know Senpai. The Senpai I know is you.\" "
-    # avt "\"But, I can't accept his death. If I let go of you, what would his admirers think? What would his family think?\" "
-    # avt "\"Even though Senpai didn't have the closest relationship with his family, they are still going to...\" "
+    # avt "\"And well... I don't really know Senpai... because the Senpai I know is {i}you{/i}.\" "
+    # avt "\"But, I can't just throw away his death. How could I face all the people who loved him? His friends, his partners, his family. What would they think?\" "
+    # avt "\"Even if he hated his family and they hated him, what parent would want to see their child die?\" "
     avt ""
 
 # game/script/18.rpy:806
 translate german s18_branch5_1a453288:
 
-    # avt "\"So...{w=0.5} I can't forgive you. You must take responsibility.\" "
+    # avt "\"So... {w=0.5}I can't forgive you. You have to take that responsibility.\" "
     avt ""
 
 # game/script/18.rpy:808
 translate german s18_branch5_d10e1f8e:
 
-    # lpdcat_true wronged "\"Ahh...{w=0.5} That's it... Fine.\" "
+    # lpdcat_true wronged "\"Hmm... {w=0.5}But what does that change?\" "
     lpdcat_true wronged ""
 
 # game/script/18.rpy:810
 translate german s18_branch5_0afd7c11:
 
-    # lpdcat_true laugh "\"I wanted to take a bet... Then I lost. Well, I didn't really want to die by a random roadside.\" "
+    # lpdcat_true laugh "\"I took a bet... I lost.\" "
+    # lpdcat_true laugh "\"But that's ok. Dying here, because of the bet I took— At least it means something.\" "
+    # lpdcat_true laugh "\"At least I won't die just because someone killed because of {i}what{/i} \ I am.\" "
     lpdcat_true laugh ""
 
 # game/script/18.rpy:812
 translate german s18_branch5_2ba35a65:
 
-    # lpdcat_true wronged "\"At least...{w=0.5} I...\" "
+    # lpdcat_true wronged "\"At least... {w=0.5}I...\" "
     lpdcat_true wronged ""
 
 # game/script/18.rpy:814
 translate german s18_branch5_29431b55:
 
-    # lpdcat_true wronged "\"Liao, I'm sorry. I don't think it would work if I told you I did fall in love with you. So, I...\" "
+    # lpdcat_true wronged "\"Liao, I'm sorry. It's no use, even if I said I did fall in love with you... So, I...\" "
     lpdcat_true wronged ""
 
 # game/script/18.rpy:821
 translate german s18_branch5_591a5960:
 
-    # lpdcat_true cute "\"will eat Liao when he's off guard!\" "
+    # lpdcat_true cute "\"—should just eat you while you're caught off guard~\" "
     lpdcat_true cute ""
 
 # game/script/18.rpy:831
 translate german s18_branch5_36f7531e:
 
-    # b "Leopard Cat suddenly dashes towards me, but Lin Hu has his eyes on him. Tiger grips the cat's neck and pins him down by the neck." with flash
+    # b "Leopard Cat dashes towards me at full speed. Lin Hu prepared for his move, grabs the cat by the scruff of his neck and pins him down onto my table. " with flash
     b "" with flash
 
 # game/script/18.rpy:833
 translate german s18_branch5_c05d5f4b:
 
-    # lpdcat_true cry_2 "\"Woo...\" "
+    # lpdcat_true cry_2 "\"Waaa!\" "
     lpdcat_true cry_2 ""
 
 # game/script/18.rpy:835
 translate german s18_branch5_1a481786:
 
-    # tig frown "\"Hmm! You've crossed the line.\" "
+    # tig frown "\"Well, you've come a bit far to think you'd get away with that.\" "
     tig frown ""
 
 # game/script/18.rpy:837
 translate german s18_branch5_4bd15425:
 
-    # tig normal "\"Liao, shall we?\" "
+    # tig normal "\"Liao, some help?\" "
     tig normal ""
 
 # game/script/18.rpy:839
 translate german s18_branch5_b11c8516:
 
-    # avt "\"Yes... But...\" "
+    # avt "\"Umm... but...\" "
     avt ""
 
 # game/script/18.rpy:841
 translate german s18_branch5_c7b9925e:
 
-    # b "I walk over and help Lin Hu to keep Leopard Cat down."
+    # b "I walk over and help Lin Hu keep Leopard Cat pinned down. "
     b ""
 
 # game/script/18.rpy:843
 translate german s18_branch5_1a5aa713:
 
-    # avt "\"Don't kill him.\" "
+    # avt "\"Just don't kill him.\" "
     avt ""
 
 # game/script/18.rpy:845
 translate german s18_branch5_944df12e:
 
-    # tig frown "\"Of course.\" "
+    # tig frown "\"But of course.\" "
     tig frown ""
 
 # game/script/18.rpy:848
 translate german s18_branch5_a07628c0:
 
-    # lpdcat_true panic "\"Hmm?\" " with flash_red
+    # lpdcat_true panic "\"Nnngh?!\" " with flash_red
     lpdcat_true panic "" with flash_red
 
 # game/script/18.rpy:850
 translate german s18_branch5_194486fb:
 
-    # b "Leopard Cat is pressed tightly against the table, in horrible pain. He seems surprised by what I said."
+    # b "Leopard Cat cries out in pain as his body is contorted, our weight pinning him against the table. Although he does seem surprised by what I said."
     b ""
 
 # game/script/18.rpy:852
 translate german s18_branch5_21986473:
 
-    # avt "\"Killing you can't bring Senpai back. Those eaten by you can't be revived either. Ending your life does us no good.\" "
+    # avt "\"Killing you won't bring Senpai back. It won't save anyone you've eaten. Ending your life won't do any good.\" "
     avt ""
 
 # game/script/18.rpy:854
 translate german s18_branch5_34a4a82c:
 
-    # avt "\"So... I want you to stay and take responsibility as Senpai.\" "
+    # avt "\"So... I want you to do something good. I want you to stay and take responsibility {i}as{/i} \ Senpai.\" "
     avt ""
 
 # game/script/18.rpy:856
 translate german s18_branch5_459a56b4:
 
-    # avt "\"You must continue playing Senpai. Study, graduate and work just like Senpai would do...{w=0.5} Like an ordinary human being.\" "
+    # avt "\"You have to go back to being Senpai. Study, graduate, work, live your life just as Senpai would have... {w=0.5}live your life as a human.\" "
     avt ""
 
 # game/script/18.rpy:858
 translate german s18_branch5_643b31d6:
 
-    # lpdcat_true panic "\"Ahh?\" "
+    # lpdcat_true panic "\"Wha?!\" "
     lpdcat_true panic ""
 
 # game/script/18.rpy:860
 translate german s18_branch5_13b09f32:
 
-    # lpdcat_true panic "\"What are you talking about? I'm a yaoguai!\" "
+    # lpdcat_true panic "\"What are you saying? I'm a yaoguai!\" "
     lpdcat_true panic ""
 
 # game/script/18.rpy:862
 translate german s18_branch5_580c0fe2:
 
-    # avt "\"I can't help those eaten by you but you must find their family and make up for their loss, including Senpai's.\" "
-    # avt "\"You must play Senpai until his physical body dies of old age. This is the price you must pay for eating...{w=0.5} For becoming Senpai.\" "
+    # avt "\"I can't help the people you've eaten, but I want you to find their families and make up for their loss, including Senpai's.\" "
+    # avt "\"Then you need to be Senpai, from today until the day his body dies. This is the price have to pay. The cost of eating... {w=0.5}for becoming Senpai. You have to take it to the end.\" "
     avt ""
 
 # game/script/18.rpy:864
 translate german s18_branch5_546fc372:
 
-    # lpdcat_true not_reconcile "\"No way. You are asking me not to eat humans for dozens of years?\" "
+    # lpdcat_true not_reconcile "\"No way... You're asking me to not eat {i}that long{/i}?\" "
     lpdcat_true not_reconcile ""
 
 # game/script/18.rpy:867
 translate german s18_branch5_27e4de89:
 
-    # tig lift "\"What's so bad about it? It's like being a vegetarian.\" " with vshake
+    # tig lift "\"I don't see what's so bad about it. It's just like going vegan.\" " with vshake
     tig lift "" with vshake
 
 # game/script/18.rpy:870
 translate german s18_branch5_8fbc29d7:
 
-    # lpdcat_true angry "\"Why don't you quit meat then?\" " with flash_red
+    # lpdcat_true angry "\"If it's so easy why don't you quit eating chicken?!\" " with flash_red
     lpdcat_true angry "" with flash_red
 
 # game/script/18.rpy:872
 translate german s18_branch5_bd25db92:
 
-    # tig normal "\"...It's not about me. I'm not the one who has eaten humans.\" "
+    # tig normal "\"...It's not like, {i}I'm{/i} not the one who eats {i}people{/i}.\" "
     tig normal ""
 
 # game/script/18.rpy:874
 translate german s18_branch5_d52d6f91:
 
-    # lpdcat_true not_reconcile "\"Can't do it. I could give my promise now but sooner or later I would...\" "
-    # lpdcat_true not_reconcile "\"Do you understand that I'm a yaoguai? If it's this easy to change our nature, we would have all become gods, okay?\" "
+    # lpdcat_true not_reconcile "\"I can't do it! Even if I made that promise right now, sooner or later I would...\" "
+    # lpdcat_true not_reconcile "\"Don't you understand? I'm a yaoguai! If we could change that easily we would all be gods by now!\" "
     lpdcat_true not_reconcile ""
 
 # game/script/18.rpy:876
 translate german s18_branch5_a9b1a93b:
 
-    # tig normal "\"I know it's hard for a yaoguai to change for good as they are formed by negative Chi.\" "
-    # tig normal "\"However... it shouldn't be hard to control a yaoguai.\" "
+    # tig normal "\"Indeed, it is hard for a yaoguai to change for good. You're formed of negative Chi after all. \" "
+    # tig normal "\"However... {w=0.5}controlling a yaoguai is another matter entirely.\" "
     tig normal ""
 
 # game/script/18.rpy:878
 translate german s18_branch5_6289f044:
 
-    # lpdcat_true panic "\"Control? What do you mean?\" "
+    # lpdcat_true panic "\"Control? Don't tell me...\" "
     lpdcat_true panic ""
 
 # game/script/18.rpy:880
@@ -1569,129 +1574,127 @@ translate german s18_branch5_109e7e60:
 # game/script/18.rpy:884
 translate german s18_branch5_f5e718c4:
 
-    # b "Lin Hu and I both tightly grab on Leopard Cat. I get closer to him and he puts one hand on my shoulder."
-    # b "I know what he wants me to do and I believe he has a plan."
+    # b "Lin Hu and I both tightly grab hold of Leopard Cat. Lin Hu moves in closer to me and places his other paw on my shoulder. I think he has a plan. "
     b ""
 
 # game/script/18.rpy:891
 translate german s18_branch5_dd9b91f8:
 
-    # b "Lin Hu possesses my body as our skin touches."
+    # b "As Lin Hu's palm touches my body he possess me. "
     b ""
 
 # game/script/18.rpy:893
 translate german s18_branch5_8cd23022:
 
-    # b "My hands become thicker in front of my eyes, holding Leopard Cat in the same position."
-    # b "Lin Hu has gained control of my body. My grip is much stronger."
+    # b "My hands become stronger before my eyes, my grip tightening even further around Leopard Cat's body. "
     b ""
 
 # game/script/18.rpy:896
 translate german s18_branch5_c907409d:
 
-    # lpdcat_true panic "\"You...{w=0.5} What are you doing? I'm...\" " with flash
+    # lpdcat_true panic "\"You... {w=0.5}What are you doing? I'm...\" " with flash
     lpdcat_true panic "" with flash
 
 # game/script/18.rpy:898
 translate german s18_branch5_6ada6913:
 
-    # b "Leopard Cat seems terrified. Putting myself in his shoes, it is kind of scary. Better than death I reckon."
+    # b "He seems terrified... If I put myself in his shoes I would be too. But that's okay, at least this is far better than death. "
     b ""
 
 # game/script/18.rpy:900
 translate german s18_branch5_0de8e7ca:
 
-    # b "Lin Hu holds his shoulder despite his fear and approaches..."
+    # b "Despite his fear filled protests, Lin Hu holds his shoulders tight, lowing his body to meet Leopard Cat's, then... "
     b ""
 
 # game/script/18.rpy:906
 translate german s18_branch5_1567be5b:
 
-    # b "He ravishes a kiss on his lips."
+    # b "Lin Hu ravishes a kiss on his lips. "
     b ""
 
 # game/script/18.rpy:909
 translate german s18_branch5_5c367a1a:
 
-    # lpdcat_true shy_3 "\"Hmm?\" " with vshake
+    # lpdcat_true shy_3 "\"Mmmph?!\" " with vshake
     lpdcat_true shy_3 "" with vshake
 
 # game/script/18.rpy:911
 translate german s18_branch5_528dbff8:
 
-    # b "What is it?"
+    # b "What is he doing?! "
     b ""
 
 # game/script/18.rpy:913
 translate german s18_branch5_2a26f145:
 
-    # b "I am also shocked by Lin Hu's action. Guardian Tiger just kissed a yaoguai..."
-    # b "A stream of warmth flows into Leopard Cat through our tongue. He seems suffering, struggling harder than earlier but unable to get away from Lin Hu's grip."
+    # b "I'm just as shocked as Leopard Cat is. Lin Hu—a guardian tiger—just kissed a yaoguai... "
+    # b "As our tongue invades his mouth, warm energy flows from us into him. He's on edge, struggling as hard as he can, but still unable to escape Lin Hu's grip. "
     b ""
 
 # game/script/18.rpy:915
 translate german s18_branch5_32ab0e52:
 
-    # tig laugh_1 "\"Phew...{w=0.5} The bad boy needs a lesson.\" "
+    # tig laugh_1 "*phew* {w=0.5}\"...I suppose our bad boy needs a lesson.\" "
     tig laugh_1 ""
 
 # game/script/18.rpy:917
 translate german s18_branch5_36645917:
 
-    # b "Lin Hu takes a breath before returning to the kiss. The hot stream flows into Leopard Cat from my mouth."
-    # b "I can feel Leopard Cat's spiritual form getting warm in my hands."
+    # b "Lin Hu takes a breath before returning to the kiss. The heat flowing through our mouth even stronger than before. "
+    # b "His spiritual form growing warmer in my hands in tandem with the energy into him. "
     b ""
 
 # game/script/18.rpy:931
 translate german s18_branch5_02_abbb2e70:
 
-    # tig normal "\"Nothing. I give my Chi to him to change his physique.\" "
+    # tig normal "\"Nothing. All I did was gift my Chi to him, changing his composition.\" "
     tig normal ""
 
 # game/script/18.rpy:933
 translate german s18_branch5_02_43f4979c:
 
-    # tig normal "\"A yaoguai can't behave so I have transformed him.\" "
-    # tig normal "\"As my Chi mingles with his negative energy, he will feel weak for a while.\" "
-    # tig normal "\"However, once he gets used to it, he will be a half-god-half-yaoguai creature.\" "
+    # tig normal "\"I yaoguai would never behave, as such I have transformed him.\" "
+    # tig normal "\"For now, he will feel weak as my Chi settles with his negative energy.\" "
+    # tig normal "\"However, once he gets used to it, he will become half-god-half-yaoguai.\" "
     tig normal ""
 
 # game/script/18.rpy:935
 translate german s18_branch5_02_723f5293:
 
-    # tig normal "\"It's kind of like he has just eaten my spirit power...\" "
-    # tig normal "\"He becomes whatever he eats. He eats a god and he will become a god. Today I only gave him half.\" "
+    # tig normal "\"In fact it's just as if he had eaten my spirit power...\" "
+    # tig normal "\"A yaoguai becomes whatever they eat. If he eats a god he becomes one. Today I gave him half of such energy.\" "
     tig normal ""
 
 # game/script/18.rpy:937
 translate german s18_branch5_02_fa287f6d:
 
-    # avt "\"You...\" "
+    # avt "\"So you're...\" "
     avt ""
 
 # game/script/18.rpy:939
 translate german s18_branch5_02_6687fa3a:
 
-    # tig laugh_1 "\"Hmm? I'll also be weak for a while. But no big deal as long as there's faith.\" "
-    # tig laugh_1 "\"Liao, if you are worried about me, get me more offerings.\" "
+    # tig laugh_1 "\"Oh? Yes I will also be weak for a while. There is always faith to remedy that.\" "
+    # tig laugh_1 "\"Although, if you are worried, why not bring me some more offerings?\" "
     tig laugh_1 ""
 
 # game/script/18.rpy:941
 translate german s18_branch5_02_b92d25f1:
 
-    # avt "\"Of course!\" " with vshake
+    # avt "\"Yes, of course!\" " with vshake
     avt "" with vshake
 
 # game/script/18.rpy:943
 translate german s18_branch5_02_b3a912d4:
 
-    # tig laugh_1 "\"...\" "
+    # tig laugh_1 "\"......\" "
     tig laugh_1 ""
 
 # game/script/18.rpy:945
 translate german s18_branch5_02_a6ed9422:
 
-    # tig normal "\"Liao, happy?\" "
+    # tig normal "\"Liao, did I make you happy?\" "
     tig normal ""
 
 # game/script/18.rpy:947
@@ -1703,37 +1706,37 @@ translate german s18_branch5_02_2dd7fb8d:
 # game/script/18.rpy:949
 translate german s18_branch5_02_6c287c0b:
 
-    # b "Happy? I don't know... If Leopard Cat can stop eating humans..."
+    # b "Am I happy? I mean I don't really know... but as long as he becomes a good person... "
     b ""
 
 # game/script/18.rpy:958
 translate german s18_branch5_03_ec37c4d6:
 
-    # lpdcat_true cute "\"Old man, you can't win unless you find a body for yourself.\" "
+    # lpdcat_true cute "\"Hey, old man! You know you can't win Liao over now unless you get a body for yourself~\" "
     lpdcat_true cute ""
 
 # game/script/18.rpy:960
 translate german s18_branch5_03_5e582417:
 
-    # tig frown "\"I'm not a yaoguai. No bloody way!\" "
+    # tig frown "\"I'm no yaoguai. No bloody way!\" "
     tig frown ""
 
 # game/script/18.rpy:963
 translate german s18_branch5_03_1ffd3c01:
 
-    # lpdcat_true cute "\"Right. Then Liao is mine.\" " with flash
+    # lpdcat_true cute "\"Huhuhu— Then Liao is mine~\" " with flash
     lpdcat_true cute "" with flash
 
 # game/script/18.rpy:965
 translate german s18_branch5_03_bc473b87:
 
-    # tig disappointed "\"It's not up to you...{w=0.5} Liao has to make the decision himself.\" "
+    # tig disappointed "\"That's not for you to say... {w=0.5}Liao must make that decision himself.\" "
     tig disappointed ""
 
 # game/script/18.rpy:967
 translate german s18_branch5_03_92f803fc:
 
-    # avt "\"I...\" "
+    # avt "\"I-{w=0.2}I...\" "
     avt ""
 
 # game/script/18.rpy:972
@@ -1745,43 +1748,43 @@ translate german s18_branch5_03_1553364e:
 # game/script/18.rpy:974
 translate german s18_branch5_03_3231732f:
 
-    # b "Leopard pokes his head out of the bathroom. Perfect timing."
+    # b "Leopard pokes out his head from the bathroom. Perfect timing! "
     b ""
 
 # game/script/18.rpy:980
 translate german s18_branch5_03_d45826ae:
 
-    # lpd obsessed "\"You...No quarrel?\" "
+    # lpd obsessed "\"No... fight?\" "
     lpd obsessed ""
 
 # game/script/18.rpy:984
 translate german s18_branch5_03_15455c80:
 
-    # tig frown "\"It's getting more complicated...\" "
+    # tig frown "\"It's somewhat more complicated...\" "
     tig frown ""
 
 # game/script/18.rpy:986
 translate german s18_branch5_03_596f59f0:
 
-    # lpdcat_true serious "\"Liao, don't change subject! Liao, would you be my boyfriend?\" "
+    # lpdcat_true serious "\"Liaaaao, don't change the subject! Come on, you're gonna be my boyfriend now, \nright?\" "
     lpdcat_true serious ""
 
 # game/script/18.rpy:988
 translate german s18_branch5_03_bdfe9b12:
 
-    # avt "\"Huh? What?...\" "
+    # avt "\"Huh? ...What?\" "
     avt ""
 
 # game/script/18.rpy:990
 translate german s18_branch5_03_1b837d1f:
 
-    # avt "\"Go home for now! Ask me again in Senpai's body!\" "
+    # avt "\"...Go home already! Come back and ask me again in Senpai's body!\" "
     avt ""
 
 # game/script/18.rpy:992
 translate german s18_branch5_03_8cd0f53f:
 
-    # lpdcat_true laugh "\"He-heh. Excellent. I got it. I'll be your Shu-Chi Senpai forever.\" "
+    # lpdcat_true laugh "\"Hehehe— Mm-hmm— I'm gonna be {i}your{/i} \ Shu-Chi Senpai forever~\" "
     lpdcat_true laugh ""
 
 # game/script/18.rpy:999
@@ -1793,31 +1796,30 @@ translate german s18_branch5_03_a23d1302:
 # game/script/18.rpy:1010
 translate german s18_branch5_03_8f9cd35f:
 
-    # lpdcat_true cute "\"See you...\" "
+    # lpdcat_true cute "\"See you soon~\" "
     lpdcat_true cute ""
 
 # game/script/18.rpy:1016
 translate german s18_branch5_03_09d1fe2e:
 
-    # tig angry "\"Wait!{w=0.5} You!{w=0.5} Come back!\" "
+    # tig angry "\"Wait! {w=0.5}You! {w=0.5}Come back here right now!\" "
     tig angry ""
 
 # game/script/18.rpy:1023
 translate german s18_branch5_03_9f2a2665:
 
-    # lpd obsessed "\"...Liao...\" "
+    # lpd obsessed "\"...Liao.\" "
     lpd obsessed ""
 
 # game/script/18.rpy:1027
 translate german s18_branch5_03_57fb2a92:
 
-    # lpd obsessed "\"Are they...\" "
-    # lpd obsessed "\"Green with envy?\" " with flash
+    # lpd obsessed "\"Are they... green with envy?\" " with flash
     lpd obsessed "" with flash
 
 # game/script/18.rpy:1030
 translate german s18_branch5_03_1675eed4:
 
-    # b "\"Where did you learn that from?\" " with vshake
+    # b "\"Where did you learn that from?!\" " with vshake
     b "" with vshake
 

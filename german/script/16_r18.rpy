@@ -1,33 +1,33 @@
-﻿# TODO: Translation updated at 2017-11-29 21:34
+﻿# TODO: Translation updated at 2018-02-23 08:51
 
 # game/script/16_r18.rpy:3
 translate german s16_branch3_r18_01_43bc6dd5:
 
-    # avt "\"I mean... normally... this is what the couple do after they establish a relationship...\" "
+    # avt "\"It's just... normally... that's something you do after you're in a relationship with someone...\" "
     avt ""
 
 # game/script/16_r18.rpy:5
 translate german s16_branch3_r18_01_13381d32:
 
-    # tig lift "\"Okay? But I'm a god. You can't date a god do you?\" "
+    # tig lift "\"Oh? But I'm a god. You can't exactly date a god now can you?\" "
     tig lift ""
 
 # game/script/16_r18.rpy:7
 translate german s16_branch3_r18_01_59048265:
 
-    # avt "\"What do you mean by that? You need to take your responsibility!\" "
+    # avt "\"What do you mean by that? You need to take responsibility!\" "
     avt ""
 
 # game/script/16_r18.rpy:9
 translate german s16_branch3_r18_01_3b82d4a2:
 
-    # tig normal "\"What responsibility? I'm supposed to stay with you for the rest of your life.\" "
+    # tig normal "\"What responsibility? That does not matter. I plan to stay with you for the rest of your life regardless.\" "
     tig normal ""
 
 # game/script/16_r18.rpy:11
 translate german s16_branch3_r18_01_f4e1ea70:
 
-    # avt "\"... as a patron god?\" "
+    # avt "\"...as a tutelar god to me?\" "
     avt ""
 
 # game/script/16_r18.rpy:13
@@ -39,68 +39,68 @@ translate german s16_branch3_r18_01_415803e7:
 # game/script/16_r18.rpy:15
 translate german s16_branch3_r18_01_cf37016e:
 
-    # avt "\"Which means, if we didn't do that...{w=0.5} Even if I didn't see you at the very beginning...\" "
-    # avt "\"You're a still a patron god of me, aren't you?\" "
+    # avt "\"Even if we didn't do that... Even if I was never able to see you... Would you still stay with me?\" "
     avt ""
 
 # game/script/16_r18.rpy:17
 translate german s16_branch3_r18_01_ac0634a5:
 
-    # tig lift "\"Right.\" "
+    # tig lift "\"That's correct.\" "
     tig lift ""
 
 # game/script/16_r18.rpy:20
 translate german s16_branch3_r18_01_dff82cfe:
 
-    # avt "\"And that is not the same!\" " with flash
+    # avt "\"But that's not the same!\" " with flash
     avt "" with flash
 
 # game/script/16_r18.rpy:22
 translate german s16_branch3_r18_01_667b70f0:
 
-    # b "I couldn't help raising my voice. I didn't mean to yell at Tiger..."
+    # b "I couldn't help but raise my voice I didn't mean to yell at him... "
     b ""
 
 # game/script/16_r18.rpy:24
 translate german s16_branch3_r18_01_211b1c54:
 
-    # b "An intense feeling suddenly rushes forth. Why am I so agitated? Before I felt... I didn't want to go back with Tiger no matter what..."
+    # b "A cacophony of feelings have welled up within me. I couldn't help it, but why? "
+    # b "Not so long ago I felt like I never wanted to go with Tiger, no matter what... "
     b ""
 
 # game/script/16_r18.rpy:26
 translate german s16_branch3_r18_01_f82fef6c:
 
-    # tig confused "\"... Are you okay, Liao?\" "
+    # tig confused "\"...Liao, are you alright?\" "
     tig confused ""
 
 # game/script/16_r18.rpy:28
 translate german s16_branch3_r18_01_598ba88a:
 
-    # avt "\"I...{w=0.5} I was thinking...\" "
+    # avt "\"Sorry... {w=0.5}I've been thinking...\" "
     avt ""
 
 # game/script/16_r18.rpy:30
 translate german s16_branch3_r18_01_029648d2:
 
-    # avt "\"Lin Hu, you did everything for me and treated me so nicely and gently all because you wanted to possess my body, right?\" "
+    # avt "\"Tiger, you've taken care of me, been nice to me, and protected me, all because you wanted to possess my body, right?\" "
     avt ""
 
 # game/script/16_r18.rpy:32
 translate german s16_branch3_r18_01_1b0800d4:
 
-    # tig embarrassed "\"... I did want to possess your body but it was to resist Clouded Leopard...\" "
+    # tig embarrassed "\"...It's true that I wished to possess you, but that was all to contend with that clouded leopard.\" "
     tig embarrassed ""
 
 # game/script/16_r18.rpy:34
 translate german s16_branch3_r18_01_0ec57873:
 
-    # avt "\"So you won't do that with me if there was no Clouded Leopard.\" "
+    # avt "\"So if Leopard never attacked us, you would have never kissed me?\" "
     avt ""
 
 # game/script/16_r18.rpy:43
 translate german s16_branch3_r18_01_65a95fb2:
 
-    # tig frown "\"... Not like that...\" "
+    # tig frown "\"...It's not like that.\" "
     tig frown ""
 
 # game/script/16_r18.rpy:45
@@ -112,75 +112,75 @@ translate german s16_branch3_r18_01_3a0cf6d9:
 # game/script/16_r18.rpy:49
 translate german s16_branch3_r18_01_88732ff2:
 
-    # b "Honestly...{w=0.5} I am..."
+    # b "Honestly... {w=0.5}I... "
     b ""
 
 # game/script/16_r18.rpy:51
 translate german s16_branch3_r18_01_b97a2a9f:
 
-    # b "I feel I've come to a sudden realization. Or is it just an example of the Misattribution Theory? -------------------"
+    # b "I think I've realised it now... how I feel. "
+    # b "Or maybe it's just an example of misattribution theory. Maybe I'm just too nervous, too scared to know how I really feel. "
     b ""
 
 # game/script/16_r18.rpy:53
 translate german s16_branch3_r18_01_d872c29a:
 
-    # b "That doesn't matter..."
+    # b "It doesn't matter... "
     b ""
 
 # game/script/16_r18.rpy:57
 translate german s16_branch3_r18_01_a9646071:
 
-    # avt "\"Lin Hu. Do you like me\" "
+    # avt "\"Lin Hu, do you like me?\" "
     avt ""
 
 # game/script/16_r18.rpy:59
 translate german s16_branch3_r18_01_2d759415:
 
-    # tig normal "\"...\" "
+    # tig normal "\"......\" "
     tig normal ""
 
 # game/script/16_r18.rpy:61
 translate german s16_branch3_r18_01_37622b60:
 
-    # tig gentle "\"Of course I li...\" "
+    # tig gentle "\"Of course I li—\" "
     tig gentle ""
 
 # game/script/16_r18.rpy:63
 translate german s16_branch3_r18_01_38010e18:
 
-    # avt "\"Don't make me ask what kind of 'like' it is or if you like all members of the Lin family.\" "
-    # avt "\"This is not what I want...\" "
+    # avt "\"You know {i}what{/i} \ I mean. I want to know if you \"like\" me. Not if you like my family. Not any other kind of like. But if you like {i}me{/i}... That's all I ask...\" "
     avt ""
 
 # game/script/16_r18.rpy:69
 translate german s16_branch3_r18_02_eeb5085b:
 
-    # tig embarrassed "\"I shouldn't...{w=0.5} have done that with you.\" "
+    # tig embarrassed "\"I shouldn't... {w=0.5}have done that with you.\" "
     tig embarrassed ""
 
 # game/script/16_r18.rpy:75
 translate german s16_branch3_r18_03_d9ae05ee:
 
-    # b "Well you already did..."
+    # b "Well you already did... "
     b ""
 
 # game/script/16_r18.rpy:81
 translate german s16_branch3_r18_04_58213ad3:
 
-    # tig laugh_2 "\"Take it easy. Only I can possess your body.\" "
+    # tig laugh_2 "\"Don't worry. Only I can possess your body. \" "
     # tig laugh_2 "\"After all... I'm the only one who did that with you.\" "
     tig laugh_2 ""
 
 # game/script/16_r18.rpy:83
 translate german s16_branch3_r18_04_51ba0227:
 
-    # avt "\"Sounds like that's a prerequisite!\" "
+    # avt "\"You make it sound like that's a prerequisite!\" "
     avt ""
 
 # game/script/16_r18.rpy:87
 translate german s16_branch3_r18_04_f5b3a736:
 
-    # tig normal "\"No, I just wanna show off.\" "
+    # tig normal "\"No, I was merely showing-off.\" "
     tig normal ""
 
 # game/script/16_r18.rpy:91
@@ -192,6 +192,6 @@ translate german s16_branch3_r18_04_2166e7b1:
 # game/script/16_r18.rpy:93
 translate german s16_branch3_r18_04_b8ac3bbe:
 
-    # b "I know Lin Hu is joking but my face turns red unconsciously."
+    # b "I know he's joking, but that doesn't stop me from blushing all the same. "
     b ""
 

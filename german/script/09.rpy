@@ -1,45 +1,45 @@
-﻿# TODO: Translation updated at 2017-11-29 21:34
+﻿# TODO: Translation updated at 2018-02-23 08:51
 
 # game/script/09.rpy:20
 translate german s09_9fa3c06e:
 
-    # b "Tiger led us to a park near Senpai's house."
+    # b "Following Tiger's directions, we arrive at a park near Senpai's house in Keelung. "
     b ""
 
 # game/script/09.rpy:27
 translate german s09_1fb7122e:
 
-    # b "Leopard led us to a park near Senpai's house."
+    # b "Following Leopard's directions, we arrive at a park near Senpai's house in Keelung. "
     b ""
 
 # game/script/09.rpy:29
 translate german s09_f25423fe:
 
-    # lpd normal "\"...Over there, the house.\" "
+    # lpd normal "\"...Over there, mansion.\" "
     lpd normal ""
 
 # game/script/09.rpy:34
 translate german s09_17bfe965:
 
-    # tig frown "\"...\" "
+    # tig frown "\"......\" "
     tig frown ""
 
 # game/script/09.rpy:36
 translate german s09_60e5c0fa:
 
-    # tig normal "\"OK, Liao, you wait here.\" "
+    # tig normal "\"Ok— Liao please wait for us here.\" "
     tig normal ""
 
 # game/script/09.rpy:38
 translate german s09_d4048543:
 
-    # avt "\"What? Wait in this park?\" " with vshake
+    # avt "\"Huh? Wait for you? What? Am I not {i}allowed{/i} \ to come?\" " with vshake
     avt "" with vshake
 
 # game/script/09.rpy:40
 translate german s09_f50d5c42:
 
-    # tig normal "\"Do you just want to charge right into the house? It's impolite and may be dangerous.\" "
+    # tig normal "\"What, will you charge right into his house? At the very least it's rude and it could even be dangerous. Honestly...\" "
     tig normal ""
 
 # game/script/09.rpy:43
@@ -51,20 +51,20 @@ translate german s09_98d23589:
 # game/script/09.rpy:46
 translate german s09_e0187b44:
 
-    # avt "\"But I...!\" " with hshake
+    # avt "\"B-{w=0.2}But I!\" " with hshake
     avt "" with hshake
 
 # game/script/09.rpy:48
 translate german s09_a2487170:
 
-    # tig normal "\"You can't fight and don't have spirit powers. I couldn't just let you waltz in there.\" "
-    # tig normal "\"You brought my statue here, so we'll do the rest...\" "
+    # tig normal "\"You yourself are unable to fight. I couldn't just let you waltz in there.\" "
+    # tig normal "\"Now that you have brought my statue here, you may leave the rest up to us...\" "
     tig normal ""
 
 # game/script/09.rpy:55
 translate german s09_d9e7c925:
 
-    # tig frown "\"I'm not happy about it, but we have no other choice.\" "
+    # tig frown "\"As much as it troubles me... this is what we must do.\" "
     tig frown ""
 
 # game/script/09.rpy:57
@@ -76,7 +76,7 @@ translate german s09_b01f746d:
 # game/script/09.rpy:61
 translate german s09_a6dbe067:
 
-    # tig normal "\"Leopard, you can use your powers to make things float, right?\" "
+    # tig normal "\"Leopard, you have the ability to make things levitate, correct?\" "
     tig normal ""
 
 # game/script/09.rpy:63
@@ -88,7 +88,7 @@ translate german s09_aea11c58:
 # game/script/09.rpy:65
 translate german s09_a26e1cff:
 
-    # tig normal "\"So, can you float my statue over to their house?\" "
+    # tig normal "\"Then would you be able to levitate my statue into the mansion?\" "
     tig normal ""
 
 # game/script/09.rpy:67
@@ -100,26 +100,26 @@ translate german s09_ee03d0e2:
 # game/script/09.rpy:69
 translate german s09_4d9184cf:
 
-    # tig normal "\"Good.\" "
+    # tig normal "\"This should do.\" "
     tig normal ""
 
 # game/script/09.rpy:75
 translate german s09_2606e9ef:
 
-    # b "Tiger turns back to me."
+    # b "Tiger turns back to face me. "
     b ""
 
 # game/script/09.rpy:77
 translate german s09_fd4a5583:
 
     # tig normal "\"Liao, I know how much you worry about others, but I also worry about you.\" "
-    # tig normal "\"That place may be dangerous, so please help us by waiting here...\" "
+    # tig normal "\"That place may be dangerous, so please, help us by waiting here...\" "
     tig normal ""
 
 # game/script/09.rpy:79
 translate german s09_9d8632d6:
 
-    # tig gentle "\"OK?\" "
+    # tig gentle "\"Alright?\" "
     tig gentle ""
 
 # game/script/09.rpy:81
@@ -131,31 +131,31 @@ translate german s09_61ea935f:
 # game/script/09.rpy:83
 translate german s09_47680796:
 
-    # tig normal "\"No matter what, I won't let you go over there. This is close enough.\" "
+    # tig normal "\"No matter what, I won't let you put yourself in danger. You are close enough as it stands.\" "
     tig normal ""
 
 # game/script/09.rpy:85
 translate german s09_2166e7b1:
 
-    # avt "\"...\" "
+    # avt "\"......\" "
     avt ""
 
 # game/script/09.rpy:90
 translate german s09_813d3a4b:
 
-    # tig normal "\"Alright then. Leopard, let's go.\" "
+    # tig normal "\"Now then, Leopard. Let's proceed.\" "
     tig normal ""
 
 # game/script/09.rpy:92
 translate german s09_3b5e46f7:
 
-    # lpd obsessed "\"...\" "
+    # lpd obsessed "\"......\" "
     lpd obsessed ""
 
 # game/script/09.rpy:94
 translate german s09_923e1bff:
 
-    # lpd normal "\"Okay.\" "
+    # lpd normal "\"Yes.\" "
     lpd normal ""
 
 # game/script/09.rpy:96
@@ -167,7 +167,7 @@ translate german s09_50f32294:
 # game/script/09.rpy:100
 translate german s09_1ee544e9:
 
-    # b "Tiger's statue suddenly floated by my face. I didn't even notice how my backpack got opened."
+    # b "Suddenly the guardian tiger statue is floating in front of me. I didn't even realise my backpack was open. "
     b ""
 
 # game/script/09.rpy:104
@@ -179,67 +179,69 @@ translate german s09_0a71855e:
 # game/script/09.rpy:106
 translate german s09_2d759415:
 
-    # tig normal "\"...\" "
+    # tig normal "\"......\" "
     tig normal ""
 
 # game/script/09.rpy:111
 translate german s09_41ba9056:
 
-    # tig disappointed "\"Leopard, please float it lower...\" "
+    # tig disappointed "\"Leopard, please levitate it closer to the ground...\" "
     tig disappointed ""
 
 # game/script/09.rpy:117
 translate german s09_df7a3097:
 
-    # lpd normal "\"...OK.\" "
+    # lpd normal "\"...Ok.\" "
     lpd normal ""
 
 # game/script/09.rpy:125
 translate german s09_9726e4a8:
 
-    # b "So the only thing I can do is waiting nervously in the park..."
+    # b "Everything was out of my hands as I stood there in the park, waiting nervously for Tiger to set his plan in motion... "
     b ""
 
 # game/script/09.rpy:127
 translate german s09_df2fd6df:
 
-    # b "So they only needed me to carry Tiger's statue? I guess Leopard couldn't have floated it all the way from home..."
+    # b "So they didn't really need me after all... "
+    # b "I mean at least I {i}had{/i} \ to bring Tiger's statue, there's no way that Leopard could have brought it all the way here... "
     b ""
 
 # game/script/09.rpy:129
 translate german s09_7b904b7c:
 
-    # b "Maybe it would be better if I found a hiding place?"
+    # b "Maybe I should go find a hiding place? I'm pretty close to his house after all...  "
     b ""
 
 # game/script/09.rpy:131
 translate german s09_528ca23f:
 
-    # b "How dangerous could it be to walk up to Senpai's house?"
+    # b "How dangerous could it be to \"waltz\" up to Senpai's house anyway? "
+    # b "Considering how weak I am, I wouldn't place any bets on it. "
     b ""
 
 # game/script/09.rpy:133
 translate german s09_9c3d5ca7:
 
-    # b "I wish I could be stronger than just a normal person..."
+    # b "I wish I wasn't just a normal person, that I could be stronger somehow... "
     b ""
 
 # game/script/09.rpy:138
 translate german s09_d5ab9204:
 
-    # lagu normal "\"Oh, little bro, what are you doing here?\" " with flash
+    # lagu normal "\"Hey, kiddo! Whatcha doin' out here?\" " with flash
     lagu normal "" with flash
 
 # game/script/09.rpy:140
 translate german s09_17da5679:
 
-    # avt "\"Huh? Oh, Brother Ragoo, what are you doing here?\" "
+    # avt "\"Huh? Ragoo?! What are {i}you{/i} \ doing here?\" "
     avt ""
 
 # game/script/09.rpy:142
 translate german s09_f70e6348:
 
-    # lagu normal "\"Haha, I came to see you.\" "
+    # lagu normal "\"Wahaha— I came to see you kiddo.\" "
     lagu normal ""
 
 # game/script/09.rpy:144
@@ -251,27 +253,27 @@ translate german s09_5d62d8e3:
 # game/script/09.rpy:146
 translate german s09_7b7b90e7:
 
-    # lagu normal "\"Don't you know? Rumors of you going to save your boyfriend spread like wildfire.\" "
+    # lagu normal "\"Didn't you know? The rumours about you going to save your boyfriend are spreading like wildfire.\" "
     lagu normal ""
 
 # game/script/09.rpy:149
 translate german s09_a8c89155:
 
-    # avt "\"Save my boyfriend? That's not how it is!\" " with hshake
+    # avt "\"Save my boyfriend?! That's not how it is!\" " with hshake
     avt "" with hshake
 
 # game/script/09.rpy:154
 translate german s09_887c8a4b:
 
-    # lagu laugh "\"You did use a lot of resources, though. A lot of Gods and yaoguai helped you find your kitten.\" "
-    # lagu laugh "\"Now your family guardian is charging in there for you, so you can't say that he's just a common friend.\" "
+    # lagu laugh "\"Didn't you ask your family's guardian tiger to go find that boyfriend of yours? He used a bunch of contacts and resources to make it happen, it'd be hard for word {i}not{/i} \ to get out.\" "
+    # lagu laugh "\"And now he's charging in there to rescue the one you care about so much... You can't expect me to believe he's just a {i}normal{/i} \ friend of yours now can you?\" "
     lagu laugh ""
 
 # game/script/09.rpy:161
 translate german s09_ba015a4c:
 
-    # lagu laugh "\"Didn't you ask that clouded leopard to go find your boyfriend? He sprinted all around searching.\" "
-    # lagu laugh "\"All the yaoguai were talking about it. If you request the help of spirits, then that kitten couldn't be just a common friend.\" "
+    # lagu laugh "\"Didn't you ask that clouded leopard to go find that boyfriend of yours? He was out sniffing around all night, it'd be hard for word {i}not{/i} \ to get out. \" "
+    # lagu laugh "\"All the yaoguai were yammering on about it. Pleading spirits to help find him... You can't expect me to believe he's just a {i}normal{/i} \ friend of yours now can you?\" "
     lagu laugh ""
 
 # game/script/09.rpy:165
@@ -283,7 +285,7 @@ translate german s09_d87bbd69:
 # game/script/09.rpy:167
 translate german s09_e4805689:
 
-    # lagu laugh "\"No matter what you say, everyone already thinks he's your boyfriend.\" "
+    # lagu laugh "\"No matter what you say kiddo, everyone already thinks he's your boyfriend.\" "
     lagu laugh ""
 
 # game/script/09.rpy:170
@@ -295,97 +297,100 @@ translate german s09_bfaa468a:
 # game/script/09.rpy:172
 translate german s09_ed4ec266:
 
-    # lagu laugh "\"Hahahaha. That's alright. Your other boyfriend thought you may get bored, so he asked me to come wait with you.\" "
+    # lagu laugh "\"Whahaha— I got it, I got it. That other boyfriend of yours thought you might get bored on your own, so he asked me to come wait with you.\" "
     lagu laugh ""
 
 # game/script/09.rpy:174
 translate german s09_2fbf47c7:
 
-    # avt "\"...other boyfriend?\" "
+    # avt "\"...{i}Other{/i} \ boyfriend?\" "
     avt ""
 
 # game/script/09.rpy:179
 translate german s09_565f3a14:
 
-    # lagu normal "\"Yes. He cared so much about you that he was willing to call in a mountain of favors. Isn't that a boyfriend?\" "
+    # lagu normal "\"Yep. They cared so much about you that they were willing to call in a mountain of favours just for you. If that's not the dedication of a boyfriend, I don't know what is.\" "
     lagu normal ""
 
 # game/script/09.rpy:186
 translate german s09_44cd74c9:
 
-    # lagu normal "\"Yes. He cared so much about you that he ran around like crazy trying to help. Isn't that a boyfriend?\" "
+    # lagu normal "\"Yes. Yep. They cared so much about you that they ran around all over town just for you. If that's not the dedication of a boyfriend, I don't know what is.\" "
     lagu normal ""
 
 # game/script/09.rpy:190
 translate german s09_2166e7b1_1:
 
-    # avt "\"...\" "
+    # avt "\"......\" "
     avt ""
 
 # game/script/09.rpy:192
 translate german s09_5e8bed51:
 
-    # avt "\"Now you're just trying to annoy me...\" "
+    # avt "\"Now you're just {i}trying{/i} \ to rile me up...\" "
     avt ""
 
 # game/script/09.rpy:194
 translate german s09_487a5755:
 
-    # lagu laugh "\"If that isn't a boyfriend, then what is he? Your dog? That's just disrespectful.\" "
+    # lagu laugh "\"Well if they aren't your boyfriend, what are they? Your obedient dog? ...That's just disrespectful.\" "
     lagu laugh ""
 
 # game/script/09.rpy:197
 translate german s09_29f065c7:
 
-    # avt "\"Enough of that!\" " with vshake
+    # avt "\"PLEASE STOP TALKING ALREADY!\" " with vshake
     avt "" with vshake
 
 # game/script/09.rpy:199
 translate german s09_c29ec968:
 
-    # lagu normal "\"Don't be like that. He asked me to look after you.\" "
+    # lagu normal "\"Don't be like that. He asked me to look after you. I couldn't possibly do so without talking to you.\" "
     lagu normal ""
 
 # game/script/09.rpy:201
 translate german s09_287b8ab9:
 
-    # avt "\"You can look after me in silence.\" "
+    # avt "\"Can you look after me {i}without{/i} \ talking?\" "
     avt ""
 
 # game/script/09.rpy:203
 translate german s09_a34fb085:
 
-    # lagu normal "\"That's weird, but OK. I'll stand here, as you wish.\" "
+    # lagu normal "\"Th— Well that's not my idea of looking after someone but yeah, sure. I'll keep silent if that's what you want kiddo.\" "
     lagu normal ""
 
 # game/script/09.rpy:205
 translate german s09_979b2756:
 
-    # avt "\"...whatever.\" "
+    # avt "\"...Whatever.\" "
     avt ""
 
 # game/script/09.rpy:210
 translate german s09_bded52f5:
 
-    # b "I sat peeved in the park while Ragoo just stood around entertaining himself. I watched him stand there for a while until I got so bored that I wanted to start another conversation."
+    # b "Annoyed, I decide to go sit down somewhere in the park and watch Ragoo, who just stands before me absentmindedly entertaining himself... "
+    # b "After a while the silence gets to me and I just end up bored out of my mind. " 
+    # b "He's not that bad, I {i}should{/i} \ at least try to talk to him... "
     b ""
 
 # game/script/09.rpy:212
 translate german s09_576cf170:
 
-    # b "Ragoo does joke around, but he can also be quite amusing. We spoke about various things and two hours passed like an instant."
+    # b "Eventually I muster up the courage to start speaking to him again. As much as Ragoo likes to tease me, he's really a great guy. "
+    # b "Once we started talking again it feels like the next two hours pass in an instant. "
     b ""
 
 # game/script/09.rpy:217
 translate german s09_1a568bfa:
 
-    # lagu normal "\"...Oh, look.\" "
+    # lagu normal "\"...Oh, hey look.\" "
     lagu normal ""
 
 # game/script/09.rpy:221
 translate german s09_0b7e2e06:
 
-    # b "Senpai appeared at the far edge of the park."
+    # b "My gaze is drawn to the far corner of the park where I see none other than Senpai himself come out from behind the bushes. "
     b ""
 
 # game/script/09.rpy:225
@@ -409,32 +414,32 @@ translate german s09_2849a082:
 # game/script/09.rpy:238
 translate german s09_b236a47b:
 
-    # b "Senpai jumped on over. I didn't want to, but Ragoo was watching, so I held him back from pouncing on me." with hshake
+    # b "Senpai runs over to me. Since Ragoo's watching, I hold him back from pouncing onto me. (As much as I didn't want to.) " with hshake
     b "" with hshake
 
 # game/script/09.rpy:240
 translate german s09_d58c4f87:
 
-    # avt "\"Senpai? Why didn't you call these passed few days?\" "
+    # avt "\"Senpai, what happened to you? I've been trying to call you for days.\" "
     avt ""
 
 # game/script/09.rpy:242
 translate german s09_ce0d5d8a:
 
-    # lpdcat laugh "\"Oh, haha, I'm sorry. I didn't think things would become like this...\" "
+    # lpdcat laugh "\"Oh, haha— I'm sorry. I didn't think things would end up like this...\" "
     lpdcat laugh ""
 
 # game/script/09.rpy:246
 translate german s09_eb68c094:
 
-    # lpdcat normal "\"I just wanted to get some things, but my family kept me locked up here. It's because of, well, our thing...\" "
+    # lpdcat normal "\"At first I just came round to grab some stuff but my family ended up keeping me locked up. Because of, well... our thing...\" "
     lpdcat normal ""
 
 # game/script/09.rpy:248
 translate german s09_33bd0f71:
 
-    # lpdcat serious "\"They don't accept that I'm gay. I've tried to object, but they insist that no matter what I do while in college, in the end I must marry whoever they arrange for me.\" "
-    # lpdcat serious "\"They heard about us, and insisted that I cut off all ties to you...\" "
+    # lpdcat serious "\"They don't accept that I'm gay. I've {i}tried{/i} \ to object... but no matter what, after college I'm going to marry whoever they arrange for me.\" "
+    # lpdcat serious "\"Somehow, they heard about us. They're trying to force me to cut off all ties to you...\" "
     lpdcat serious ""
 
 # game/script/09.rpy:250
@@ -446,99 +451,99 @@ translate german s09_b00f491d:
 # game/script/09.rpy:252
 translate german s09_0e62af1e:
 
-    # lpdcat panic "\"Nononono, it's not you, it's because of me. I shouldn't have let the club spread rumors.\" "
-    # lpdcat panic "\"I never thought my family would react like this... They took my phone and my computer, so I really couldn't get in touch with you. I'm so sorry.\" "
+    # lpdcat panic "\"No-nonono— It's not {i}you{/i}, it's because of {i}me{/i}. It's {i}my{/i} \ fault for letting the rumours spread about us at dance club.\" "
+    # lpdcat panic "\"I never thought my family would react like this... They took both my phone and my computer, so I really couldn't get in touch with you. I'm so sorry.\" "
     lpdcat panic ""
 
 # game/script/09.rpy:254
 translate german s09_31b04fda:
 
-    # avt "\"So, it's not your fault either.\" "
+    # avt "\"No... It's not your fault. You shouldn't blame yourself.\" "
     avt ""
 
 # game/script/09.rpy:258
 translate german s09_3f50489c:
 
-    # lpdcat laugh "\"Thank you for coming so far just to find me...\" "
+    # lpdcat laugh "\"Anyway! Thank you Liao! You even came so far just to find me...\" "
     lpdcat laugh ""
 
 # game/script/09.rpy:263
 translate german s09_ecc14639:
 
-    # avt "\"I just came over, it was really Tiger who went through all the trouble...\" "
+    # avt "\"Well... {w=0.5}I just waited around. It was really Tiger who went though all the trouble to find you...\" "
     avt ""
 
 # game/script/09.rpy:270
 translate german s09_0c17be16:
 
-    # avt "\"I just came over, it was really Leopard who went through all the trouble...\" "
+    # avt "\"Well... {w=0.5}I just waited around. It was really Leopard who went though all the trouble to find you...\" "
     avt ""
 
 # game/script/09.rpy:278
 translate german s09_2249935f:
 
-    # lagu normal "\"Well then. Sorry to interrupt. Now that you are together again, I'll take my leave.\" "
+    # lagu normal "\"Okaaaay you two little lovebirds. Sorry to cut in on your reunion, but now that you're all together again, it's time for me to take my leave.\" "
     lagu normal ""
 
 # game/script/09.rpy:286
 translate german s09_d4e206c8:
 
-    # lpdcat laugh "\"Heehee.\" "
+    # lpdcat laugh "\"Heh....\" "
     lpdcat laugh ""
 
 # game/script/09.rpy:288
 translate german s09_8b43aaf1:
 
-    # avt "\"We are not together!\" "
+    # avt "\"We're not together!\" "
     avt ""
 
 # game/script/09.rpy:292
 translate german s09_423c7a9a:
 
-    # lagu laugh "\"Haha, see you.\" "
+    # lagu laugh "\"Wahaha— You're great kiddo. See you another time.\" "
     lagu laugh ""
 
 # game/script/09.rpy:294
 translate german s09_2a8d6d14:
 
-    # avt "\"OK. See you...{w=0.5} Thanks.\" "
+    # avt "\"Oh, yeah. See ya... {w=0.5}well, thank you.\" "
     avt ""
 
 # game/script/09.rpy:296
 translate german s09_f7462f64:
 
-    # lagu laugh "\"Hahahaha.\" "
+    # lagu laugh "\"Wahahaha—\" "
     lagu laugh ""
 
 # game/script/09.rpy:298
 translate german s09_563e2144:
 
-    # b "Laguna's laughter faded out and he was gone."
+    # b "Once again Ragoo disappears with a bout of laughter and a hearty smile, fading away without a trace. "
     b ""
 
 # game/script/09.rpy:303
 translate german s09_31bef988:
 
     # lpdcat laugh "\"I'm so happy Liao came to help me.\" "
-    # lpdcat laugh "\"Of course I should also thank Kulau and the old man. They made it possible for me to sneak out.\" "
+    # lpdcat laugh "\"But of course I also have Kulau and the old man to thank. They did make it possible for me to sneak out after all.\" "
     lpdcat laugh ""
 
 # game/script/09.rpy:305
 translate german s09_bfceb089:
 
-    # lpdcat normal "\"I am alright though. I've just been grounded for a few days.\" "
+    # lpdcat normal "\"But honestly... I was fine. I've just been grounded for a few days.\" "
     lpdcat normal ""
 
 # game/script/09.rpy:307
 translate german s09_97f3b2fc:
 
-    # avt "\"The way your family grounds you is quite worrisome...\" "
+    # avt "\"I'm kinda worried how extreme your family is about grounding you though...\" "
     avt ""
 
 # game/script/09.rpy:310
 translate german s09_237723bb:
 
-    # lpdcat normal "\"Right, huh? I have no way to object. I'm glad that you came over, but I still have to go back before they notice I'm gone.\" " with flash
+    # lpdcat normal "\"Right, huh? There's not really anything I can do to fight back about it ...I'm glad you came over to see me, but I still need to go back before they notice I'm gone though.\" " with flash
     lpdcat normal "" with flash
 
 # game/script/09.rpy:312
@@ -550,14 +555,14 @@ translate german s09_eafe4143:
 # game/script/09.rpy:317
 translate german s09_cdcac812:
 
-    # lpdcat serious "\"That would be like cutting off all ties and burning all bridges... but I can still spend some time with you before I have to get back.\" "
-    # lpdcat serious "\"Want to have one last date?\" "
+    # lpdcat serious "\"That'd be like cutting off all ties and burning my bridges with them... but I can still spend some time with you before I have to be back.\" "
+    # lpdcat serious "\"Will you, go on a date with me?\" "
     lpdcat serious ""
 
 # game/script/09.rpy:324
 translate german s09_65b8acbf:
 
-    # lpdcat serious "\"That would be like cutting off all ties and burning all bridges...\" "
+    # lpdcat serious "\"That'd be like cutting off all ties and burning my bridges with them...\" "
     lpdcat serious ""
 
 # game/script/09.rpy:330
@@ -569,13 +574,13 @@ translate german s09_eecd337e:
 # game/script/09.rpy:332
 translate german s09_4202bd93:
 
-    # b "Senpai seems to be pondering something."
+    # b "Senpai goes silent, as if hesitating to finish what he wants to say. "
     b ""
 
 # game/script/09.rpy:334
 translate german s09_617d39ed:
 
-    # avt "\"What is it?\" "
+    # avt "\"What's wrong?\" "
     avt ""
 
 # game/script/09.rpy:339
@@ -587,7 +592,7 @@ translate german s09_859bb2bc:
 # game/script/09.rpy:341
 translate german s09_5eca2676:
 
-    # lpdcat wronged "\"...\" "
+    # lpdcat wronged "\"......\" "
     lpdcat wronged ""
 
 # game/script/09.rpy:343
@@ -605,111 +610,111 @@ translate german s09_3e0aeefb:
 # game/script/09.rpy:347
 translate german s09_5eca2676_1:
 
-    # lpdcat wronged "\"...\" "
+    # lpdcat wronged "\"......\" "
     lpdcat wronged ""
 
 # game/script/09.rpy:354
 translate german s09_72da07f5:
 
-    # lpdcat laugh "\"I have to go back later, but before I do, could we have one last date?\" "
+    # lpdcat laugh "\"I have to go back later, but before then... could we have a date?\" "
     lpdcat laugh ""
 
 # game/script/09.rpy:363
 translate german s09_adf5227b:
 
-    # avt "\"Now? But Tiger still hasn't returned...\" "
+    # avt "\"Now? But Tiger's not even back yet...\" "
     avt ""
 
 # game/script/09.rpy:370
 translate german s09_d5af02da:
 
-    # avt "\"Now? But Leopard still hasn't returned...\" "
+    # avt "\"Now? But Leopard's not even back yet...\" "
     avt ""
 
 # game/script/09.rpy:374
 translate german s09_77110171:
 
-    # lpdcat panic "\"Just a short one, before I have to go back inside...?\" "
+    # lpdcat panic "\"We don't have much time before I have to go back... {i}please{/i}, Liao...\" "
     lpdcat panic ""
 
 # game/script/09.rpy:393
 translate german s09_02_agree_2919de45:
 
-    # avt "\"OK... I'll stay with you for a while before you have to go back...\" "
+    # avt "\"Mm-hmm... I'll be happy to stay with you for a little while before you go back.\" "
     avt ""
 
 # game/script/09.rpy:396
 translate german s09_02_agree_76451a19:
 
-    # lpdcat laugh "\"Thank you Liao! Let's not waste any time!\" "
+    # lpdcat laugh "\"Thank you— Thank you— Liao! Let's not waste a single second!\" "
     lpdcat laugh ""
 
 # game/script/09.rpy:403
 translate german s09_02_agree_446c6aab:
 
-    # b "Senpai took my hand and ran me away from the park."
+    # b "Senpai takes hold of my hand, dragging me away from the park with him. "
     b ""
 
 # game/script/09.rpy:405
 translate german s09_02_agree_dd9eb733:
 
-    # avt "\"Senpai? Where are we going?\" "
+    # avt "\"Senpaaaaai— Where are we going?\" "
     avt ""
 
 # game/script/09.rpy:407
 translate german s09_02_agree_247ab7c3:
 
-    # lpdcat laugh "\"There's a nice place not far from here! I always wanted to show it to you.\" "
+    # lpdcat laugh "\"Theres this nice place not that far from here! I've always wanted to show it to you.\" "
     lpdcat laugh ""
 
 # game/script/09.rpy:409
 translate german s09_02_agree_f4fe1831:
 
-    # avt "\"Really? I thought Senpai liked to go shopping...\" "
+    # avt "\"Really? I thought shopping was the only thing you cared about...\" "
     avt ""
 
 # game/script/09.rpy:411
 translate german s09_02_agree_9bcac266:
 
-    # lpdcat normal "\"I do like shopping, but that's not good for right now.\" "
+    # lpdcat normal "\"As much as I like shopping, that's not what I want right now. I want to take you somewhere special!\" "
     lpdcat normal ""
 
 # game/script/09.rpy:413
 translate german s09_02_agree_760a6697:
 
-    # avt "\"I guess its not...\" "
+    # avt "\"I guess you're right...\" "
     avt ""
 
 # game/script/09.rpy:419
 translate german s09_02_agree_dfd4e2a3:
 
-    # b "Senpai led me away from the main street and off to a small village path."
-    # b "He skipped and hummed and didn't seem at all like someone who is prisoner in his own home."
+    # b "Senpai tightens his hand around mine as he leads me away from the main streets and down some small village paths. "
+    # b "He's skipping along, humming to himself, brimming with joy, clearly loving every minute of us being together. It's hard to imagine he's been held like a prisoner in his own \nhome. "
     b ""
 
 # game/script/09.rpy:423
 translate german s09_02_agree_318a9558:
 
-    # lpdcat laugh "\"You fell into my world~\" "
+    # lpdcat laugh "\"Fall-ing into my world~ ♪\" "
     lpdcat laugh ""
 
 # game/script/09.rpy:425
 translate german s09_02_agree_35aef658:
 
-    # b "Senpai's silliness is contagious and I can't help but smile."
-    # b "He always takes me to bustling places, so it's nice to just stroll around a quiet place like this."
+    # b "Seeing Senpai so happy, I can't help but smile. "
+    # b "Whenever we're together, it's always been somewhere busy, full of other people. But here, walking hand in hand down this quiet road... it feels so nice just to be with him. "
     b ""
 
 # game/script/09.rpy:429
 translate german s09_02_agree_105fd440:
 
-    # b "But as we stroll along, it begin to rain."
+    # b "My thoughts dilute away as a light patter of cool rain hits my skin. "
     b ""
 
 # game/script/09.rpy:433
 translate german s09_02_agree_0e2791ec:
 
-    # lpdcat normal "\"Oh, it's raining...\" "
+    # lpdcat normal "\"Oh, it's starting to rain...\" "
     lpdcat normal ""
 
 # game/script/09.rpy:435
@@ -721,68 +726,67 @@ translate german s09_02_agree_708f3e1c:
 # game/script/09.rpy:437
 translate german s09_02_agree_ca9504b8:
 
-    # lpdcat laugh "\"It's just a drizzle. Let's keep going.\" "
+    # lpdcat laugh "\"Come on, it's just a drizzle. Let's keep going~\" "
     lpdcat laugh ""
 
 # game/script/09.rpy:439
 translate german s09_02_agree_a750999d:
 
-    # b "He didn't seem disturbed. It's a very light rain, actually more like a wet fog that covers everything in gray."
+    # b "He wasn't fazed in the slightest. It was a very light rain, actually more like a wet fog, covering everything around us in grey. "
     b ""
 
 # game/script/09.rpy:441
 translate german s09_02_agree_97da729f:
 
-    # lpdcat normal "\"I think that it's nice to feel some light rain sometimes.\" "
+    # lpdcat normal "\"Sometimes, it's kinda nice to just walk around in the rain.\" "
     lpdcat normal ""
 
 # game/script/09.rpy:443
 translate german s09_02_agree_6f808557:
 
-    # avt "\"Oh Senpai, and you are also not wearing any jacket.\" "
+    # avt "\"You really can't feel the cold can you Senpai? You're not even wearing a jacket.\" "
     avt ""
 
 # game/script/09.rpy:451
 translate german s09_02_agree_3a7510e4:
 
-    # lpdcat laugh "\"I couldn't catch a cold when Liao is here with me-\" "
+    # lpdcat laugh "\"There's no way I could catch a cold. After all, I get all warm when I'm around you \nLiao~\" "
     lpdcat laugh ""
 
 # game/script/09.rpy:453
 translate german s09_02_agree_8167fb78:
 
-    # avt "\"...What do I have to do with it?\" "
+    # avt "\"...R-{w=0.2}Really, ...I have nothing to do with that.\" "
     avt ""
 
 # game/script/09.rpy:455
 translate german s09_02_agree_fbfdb83f:
 
-    # b "I knew he was joking with me, but I did feel a bit shy about it."
+    # b "I knew he was just joking around, but I still felt embarrassed. "
     b ""
 
 # game/script/09.rpy:460
 translate german s09_02_agree_c5aab7c8:
 
-    # lpdcat normal "\"It's right here, up ahead; come on!\" "
+    # lpdcat normal "\"Hey, it's up ahead, this way. Come on!\" "
     lpdcat normal ""
 
 # game/script/09.rpy:464
 translate german s09_02_agree_b5cd5000:
 
-    # lpdcat laugh "\"When Liao is here, I'm too happy to get sick.\" "
+    # lpdcat laugh "\"Really what I meant was that when I'm with you, I'm too happy to get sick. {w=0.5}\n...Hmm? Something wrong?\" "
     lpdcat laugh ""
 
 # game/script/09.rpy:466
 translate german s09_02_agree_2f80b5e4:
 
-    # avt "\"Happiness won't keep you from catching a cold!\" "
+    # avt "\"Being happy doesn't stop you from catching a cold!\" "
     avt ""
 
 # game/script/09.rpy:468
 translate german s09_02_agree_637d6e51:
 
-    # lpdcat laugh "\"Happiness can keep you healthy!\" "
-    # lpdcat laugh "\"Also...\" "
+    # lpdcat laugh "\"Happy people live healthy lives! Honestly...\" "
     lpdcat laugh ""
 
 # game/script/09.rpy:472
@@ -794,31 +798,31 @@ translate german s09_02_agree_aba70dc9:
 # game/script/09.rpy:474
 translate german s09_02_agree_ff8916d4:
 
-    # avt "\"You mean coming here? It was actually Tiger and Leopard that did all the work.\" "
+    # avt "\"You mean me coming to see you? You don't need to, Tiger and Leopard were the ones that did all the work, not me.\" "
     avt ""
 
 # game/script/09.rpy:476
 translate german s09_02_agree_41c3a4bb:
 
-    # lpdcat serious "\"It was you that brought them over so that they can help me escape for a while, and spend this time together with you...\" "
+    # lpdcat serious "\"You're the one who brought them here. You're the one who asked them to help me escape. And even if just for a little while, you're the one who let me spend this time together with you...\" "
     lpdcat serious ""
 
 # game/script/09.rpy:478
 translate german s09_02_agree_55f5262a:
 
-    # lpdcat wronged "\"Really, it's nothing.\" "
+    # lpdcat wronged "\"I really am very sorry.\" "
     lpdcat wronged ""
 
 # game/script/09.rpy:480
 translate german s09_02_agree_287606cc:
 
-    # avt "\"Senpai, how quickly could you come back?\" "
+    # avt "\"Senpai, you don't need to feel sorry. You can come back soon, right?\" "
     avt ""
 
 # game/script/09.rpy:482
 translate german s09_02_agree_cba5e882:
 
-    # lpdcat wronged "\"I can return after the holidays. Although it's already...\" "
+    # lpdcat wronged "\"I can come back after the holidays. But it's already...\" "
     lpdcat wronged ""
 
 # game/script/09.rpy:484
@@ -830,85 +834,85 @@ translate german s09_02_agree_17f833be:
 # game/script/09.rpy:486
 translate german s09_02_agree_727c3b95:
 
-    # lpdcat laugh "\"Never mind. Let's go over there, I'll tell you in a minute!\" "
+    # lpdcat laugh "\"Never mind. Let's go over there, I'll tell you in a bit!\" "
     lpdcat laugh ""
 
 # game/script/09.rpy:491
 translate german s09_02_agree_bb029e84:
 
-    # b "Senpai ran off down a street and I followed."
+    # b "Without saying another word, Senpai runs off down some street. I follow him, trying to catch up. "
     b ""
 
 # game/script/09.rpy:494
 translate german s09_02_agree_4d886c72:
 
-    # lpdcat normal "\"Liao, look... Oh, Careful!\" "
+    # lpdcat normal "\"Liao, look... Hey! Watch out!\" "
     lpdcat normal ""
 
 # game/script/09.rpy:496
 translate german s09_02_agree_82d4a540:
 
-    # b "What?"
+    # b "What? "
     b ""
 
 # game/script/09.rpy:530
 translate german s09_02_agree_c5685ec4:
 
-    # lpdcat2 "\"Liao...Liao...?\" "
+    # lpdcat2 "\"...L-{w=0.2}Liao ...Liao?\" "
     lpdcat2 ""
 
 # game/script/09.rpy:533
 translate german s09_02_agree_63281f7a:
 
-    # lpdcat2 "\"Oh, Liao, I'm so sorry...\" "
+    # lpdcat2 "\"Liao... I'm so... so sorry...\" "
     lpdcat2 ""
 
 # game/script/09.rpy:536
 translate german s09_02_agree_b44678ba:
 
-    # lpdcat2 "\"I...\" "
+    # lpdcat2 "\"I... *sob*... anyone...\" "
     lpdcat2 ""
 
 # game/script/09.rpy:547
 translate german s09_02_disagree_dc218b03:
 
-    # avt "\"Tiger told me to wait here, and even asked Ragoo to keep an eye on me, so I shouldn't just run off.\" "
+    # avt "\"Tiger told me to wait here, and even asked Ragoo to keep an eye on me. I can't just run off.\" "
     avt ""
 
 # game/script/09.rpy:554
 translate german s09_02_disagree_667cd54d:
 
-    # avt "\"Leopard told me to wait here, and even asked Ragoo to keep an eye on me, so I shouldn't just run off.\" "
+    # avt "\"Tiger told me to wait here, and even asked Ragoo to keep an eye on me, I'm sure leopard would want me to stay as well. I can't just run off.\" "
     avt ""
 
 # game/script/09.rpy:562
 translate german s09_02_disagree_698f6e5e:
 
-    # lpdcat not_reconcile "\"We'll be back in a jiffy-\" "
+    # lpdcat not_reconcile "\"Waa— We'll be back before they even know we're gone~\" "
     lpdcat not_reconcile ""
 
 # game/script/09.rpy:564
 translate german s09_02_disagree_e064054a:
 
-    # avt "\"When would they be back...?\" "
+    # avt "\"But how would we know when they'll get back...\" "
     avt ""
 
 # game/script/09.rpy:566
 translate german s09_02_disagree_31ba30a0:
 
-    # avt "\"If you are out here, they should be returning soon. We can all have lunch together.\" "
+    # avt "\"And since you're out here they shouldn't be too far off. Then we can grab lunch together.\" "
     avt ""
 
 # game/script/09.rpy:569
 translate german s09_02_disagree_bf5d5411:
 
-    # lpdcat cry_2 "\"That's not romantic!\" "
+    # lpdcat cry_2 "\"Waa— That's not romantic at all!\" "
     lpdcat cry_2 ""
 
 # game/script/09.rpy:571
 translate german s09_02_disagree_ba192c56:
 
-    # lpdcat not_reconcile "\"It's so hard to get a moment with Liao... we may never have another chance again...\" "
+    # lpdcat not_reconcile "\"It's so hard to just spend time with Liao... I might never have another chance again...\" "
     lpdcat not_reconcile ""
 
 # game/script/09.rpy:573
@@ -920,7 +924,7 @@ translate german s09_02_disagree_b8903dc2:
 # game/script/09.rpy:576
 translate german s09_02_disagree_61b8ae95:
 
-    # lpdcat cute "\"If you're sorry, then take me on a date?\" " with flash
+    # lpdcat cute "\"If you're sorry, why not take me out on a date? Pleeease~\" " with flash
     lpdcat cute "" with flash
 
 # game/script/09.rpy:578
@@ -932,13 +936,13 @@ translate german s09_02_disagree_bcb0179e:
 # game/script/09.rpy:580
 translate german s09_02_disagree_7deaaaaf:
 
-    # b "I was hesitant, but then I saw Tiger emerge on the far end of the park. I waved to him."
+    # b "I hesitate for just a moment, trying to find a way out of this before seeing a {i}certain{/i} \ tiger appear from around the corner. Yes! I wave to him eagerly. "
     b ""
 
 # game/script/09.rpy:585
 translate german s09_02_disagree_17358ae5:
 
-    # lpdcat normal "\"Liao, you're waving at thin air.\" "
+    # lpdcat normal "\"Liao, you know you're waving at thin air, right?\" "
     lpdcat normal ""
 
 # game/script/09.rpy:587
@@ -950,13 +954,13 @@ translate german s09_02_disagree_a3deb92a:
 # game/script/09.rpy:589
 translate german s09_02_disagree_8d142c0b:
 
-    # b "I stopped waving. Tiger and Leopard soon bound over."
+    # b "I stop waving, thankfully changing the conversation. Soon enough both Tiger and Leopard have walked over to us, Tiger's statue not too far behind. "
     b ""
 
 # game/script/09.rpy:595
 translate german s09_02_disagree_43c02e04:
 
-    # tig pain "\"What a hassle. What's up with your family and all these violent yaoguais? If Leopard wasn't here...\" "
+    # tig pain "*sigh* \"...What a hassle. Must your family employ such {i}violent{/i} \ yaoguai? If it were not for Leopard...\" "
     tig pain ""
 
 # game/script/09.rpy:597
@@ -968,7 +972,7 @@ translate german s09_02_disagree_7b434ba1:
 # game/script/09.rpy:599
 translate german s09_02_disagree_148960f0:
 
-    # lpdcat difficult "\"Hehe, sorry about that. They're just doing their jobs as guardians.\" "
+    # lpdcat difficult "\"Hey, sorry about that. They're really just doing their jobs as guardians.\" "
     lpdcat difficult ""
 
 # game/script/09.rpy:601
@@ -980,13 +984,13 @@ translate german s09_02_disagree_c921af2e:
 # game/script/09.rpy:603
 translate german s09_02_disagree_6709d05a:
 
-    # lpdcat normal "\"I have to pretend like I don't see them, but I couldn't control them either way.\" "
+    # lpdcat normal "\"You know I have to pretend they're not there as it is. It's not like I'd be able to control them either way.\" "
     lpdcat normal ""
 
 # game/script/09.rpy:605
 translate german s09_02_disagree_195b58df:
 
-    # tig frown "\"...mm.\" "
+    # tig frown "\"...Tch.\" "
     tig frown ""
 
 # game/script/09.rpy:607
@@ -1004,37 +1008,37 @@ translate german s09_02_disagree_d21ed217:
 # game/script/09.rpy:616
 translate german s09_02_disagree_6b891a96:
 
-    # tig normal "\"Yes. For Liao, not for the kitten.\" "
+    # tig normal "\"Yes— For Liao, not you kitten.\" "
     tig normal ""
 
 # game/script/09.rpy:623
 translate german s09_02_disagree_1e39ba98:
 
-    # lpdcat pout "\"I know! Ugh. It's not like I asked you to come!\" "
+    # lpdcat pout "\"I know! Humph— It's not like I asked you to come!\" "
     lpdcat pout ""
 
 # game/script/09.rpy:627
 translate german s09_02_disagree_74212d98:
 
-    # avt "\"Words of pride?\" "
+    # avt "\"Any words of praise, thank you even?\" "
     avt ""
 
 # game/script/09.rpy:630
 translate german s09_02_disagree_37ff065c:
 
-    # lpdcat pout "\"So noisy. You commoners shouldn't just say things like that to me!\" " with vshake
+    # lpdcat pout "\"Really? {i}Commoners{/i} \ such as yourselves are in no position to request {i}my{/i} \ praise. Such arrogance!\" " with vshake
     lpdcat pout "" with vshake
 
 # game/script/09.rpy:632
 translate german s09_02_disagree_bc3a85b2:
 
-    # avt "\"Don't act like a spoiled princess.\" "
+    # avt "\"Don't act like a spoilt princess rescued from her oh so terrible castle.\" "
     avt ""
 
 # game/script/09.rpy:640
 translate german s09_02_disagree_f12b9199:
 
-    # lpdcat cute "\"You know now that my family is rich, so please play along.\" "
+    # lpdcat cute "\"Well, you know my family's rich now... so please just play along~\" "
     lpdcat cute ""
 
 # game/script/09.rpy:642
@@ -1046,19 +1050,19 @@ translate german s09_02_disagree_a94b4898:
 # game/script/09.rpy:644
 translate german s09_02_disagree_2166e7b1:
 
-    # avt "\"...\" "
+    # avt "\"......\" "
     avt ""
 
 # game/script/09.rpy:646
 translate german s09_02_disagree_cea27c96:
 
-    # avt "\"Senpai, will you go back?\" "
+    # avt "\"Senpai, you're gonna go back right?\" "
     avt ""
 
 # game/script/09.rpy:648
 translate german s09_02_disagree_bc282424:
 
-    # lpdcat normal "\"I can't stay out too long. My family can get mad, but I couldn't just leave forever.\" "
+    # lpdcat normal "\"I can't stay out too long. My family would just notice I'm gone and get mad, it's not like I could just run off forever.\" "
     lpdcat normal ""
 
 # game/script/09.rpy:650
@@ -1070,19 +1074,19 @@ translate german s09_02_disagree_724949b6:
 # game/script/09.rpy:652
 translate german s09_02_disagree_1bd45ccd:
 
-    # lpdcat serious "\"Hm...\" "
+    # lpdcat serious "\"Umm...\" "
     lpdcat serious ""
 
 # game/script/09.rpy:659
 translate german s09_02_disagree_bba3f687:
 
-    # b "Senpai looked at Tiger and Leopard."
+    # b "Senpai glances between Tiger and Leopard. "
     b ""
 
 # game/script/09.rpy:661
 translate german s09_02_disagree_2bf7a6b0:
 
-    # lpdcat normal "\"If I can't have a date with Liao, I guess I'll just go back now.\" "
+    # lpdcat normal "\"I guess if I can't have a date with Liao, I might as well just head back now.\" "
     lpdcat normal ""
 
 # game/script/09.rpy:663
@@ -1094,25 +1098,25 @@ translate german s09_02_disagree_640b330d:
 # game/script/09.rpy:665
 translate german s09_02_disagree_ae4a3736:
 
-    # lpdcat laugh "\"Yes. I was happy enough just to see you for a moment.\" "
+    # lpdcat laugh "\"Yep. I'm happy enough just to see you for a moment, to know you care.\" "
     lpdcat laugh ""
 
 # game/script/09.rpy:667
 translate german s09_02_disagree_0c9e1697:
 
-    # lpdcat normal "\"Really... thank you everyone for coming to look for me. Thank you ola man, and Kulau.\" "
+    # lpdcat normal "\"Really... thank you all for coming to look for me. Thank you Kulau, and you too old man.\" "
     lpdcat normal ""
 
 # game/script/09.rpy:669
 translate german s09_02_disagree_2166e7b1_1:
 
-    # avt "\"...\" "
+    # avt "\"......\" "
     avt ""
 
 # game/script/09.rpy:673
 translate german s09_02_disagree_975ff79e:
 
-    # tig embarrassed "\"I said I didn't do it for you.\" "
+    # tig embarrassed "\"I never said I did it for your benefit.\" "
     tig embarrassed ""
 
 # game/script/09.rpy:675
@@ -1124,63 +1128,64 @@ translate german s09_02_disagree_187faaca:
 # game/script/09.rpy:677
 translate german s09_02_disagree_d4e206c8:
 
-    # lpdcat laugh "\"Heehee.\" "
+    # lpdcat laugh "\"Heh-haha....\" "
     lpdcat laugh ""
 
 # game/script/09.rpy:679
 translate german s09_02_disagree_3e604188:
 
-    # lpdcat normal "\"See you later. I'm grounded right now, but they will have to let me go back to school.\" "
-    # lpdcat normal "\"I'll be back at the end of this vacation.\" "
+    # lpdcat normal "\"Welp, see you guys later. I'm grounded right now, but they'll totally have to let me go back to school.\" "
+    # lpdcat normal "\"Meaning, I get to see you guys again after the end of summer vacation!\" "
     lpdcat normal ""
 
 # game/script/09.rpy:681
 translate german s09_02_disagree_4d899d61:
 
-    # lpdcat laugh "\"See you then--\" "
+    # lpdcat laugh "\"Please look forward to it!\" "
     lpdcat laugh ""
 
 # game/script/09.rpy:683
 translate german s09_02_disagree_f7d7b580:
 
-    # avt "\"...Senpai, see you.\" "
+    # avt "\"...Senpai, I will.\" "
     avt ""
 
 # game/script/09.rpy:685
 translate german s09_02_disagree_6a983cd6:
 
-    # tig normal "\"Hm.\" "
+    # tig normal "\"Mm.\" "
     tig normal ""
 
 # game/script/09.rpy:687
 translate german s09_02_disagree_4ad04c2e:
 
-    # lpd normal "\"Bye bye.\" "
+    # lpd normal "\"Goodbye.\" "
     lpd normal ""
 
 # game/script/09.rpy:691
 translate german s09_02_disagree_8a8e7776:
 
-    # b "Senpai waved, then turned to go back home."
+    # b "In the end, it was kinda bittersweet to see him leave. "
+    # b "Senpai waved back enthusiastically, practically jumping while doing so. I watch carefully from the second he turns around to the moment his tail disappears from my sight. Then he's gone. "
     b ""
 
 # game/script/09.rpy:693
 translate german s09_02_disagree_e873aaaf:
 
-    # avt "\"...We'll go home now, too.\" "
+    # avt "\"...I guess it's time for us to head home.\" "
     avt ""
 
 translate german strings:
 
-    # old "\"Go on a date with Senpai?\" "
+    # old "\"Should I go on a date with Senpai?\" "
     old "是否答應跟學長約會？"
     new ""
 
-    # old "Okay."
+    # old "Yeah, I should spend some time with him."
     old "好。"
     new ""
 
-    # old "No."
+    # old "No, Tiger told me to stay here."
     old "不好。"
     new ""
 

@@ -1546,97 +1546,97 @@ translate german cg_01_bd61c8f5:
 translate german cg_01_b6ab4a97:
 
     # b "...Will I just have to live on these snacks until I finish them? "
-    b ""
+    b "...Werde ich die alle essen müssen?"
 
 # game/script/04_week1.rpy:881
 translate german week1_saturday_lpd_685326d7:
 
     # avt "\"Wait, wait a second.\" "
-    avt ""
+    avt "\"Warte, warte mal einen Augenblick.\" "
 
 # game/script/04_week1.rpy:883
 translate german week1_saturday_lpd_5773e5eb:
 
     # b "I push the Clouded Leopard's paw away. "
-    b ""
+    b "Ich drücke die Pfoten vom Nebelparder weg. "
 
 # game/script/04_week1.rpy:885
 translate german week1_saturday_lpd_94da2a2e:
 
     # avt "\"If you're asking me to go out with you. Can you tell me exactly where we plan to go?\" "
-    avt ""
+    avt "\"Wenn du mich danach fragst, mit dir zu auszugehen, kannst du mir dann sagen, wo wir genau hingehen werden?\" "
 
 # game/script/04_week1.rpy:887
 translate german week1_saturday_lpd_9e133a82:
 
     # lpd normal "\"...Dancing.\" "
-    lpd normal ""
+    lpd normal "\"...Tanzen.\" "
 
 # game/script/04_week1.rpy:889
 translate german week1_saturday_lpd_a3478622:
 
     # avt "\"Dancing? Hmm? We don't have practice today though? It's the weekend.\" "
-    avt ""
+    avt "\Tanzen? Wie? WIr haben aber heute kein Training, es ist Wochenende.\" "
 
 # game/script/04_week1.rpy:891
 translate german week1_saturday_lpd_35ebccd7:
 
     # lpd normal "\"Teach.\" "
-    lpd normal ""
+    lpd normal "\"Lehren.\" "
 
 # game/script/04_week1.rpy:893
 translate german week1_saturday_lpd_fb023401:
 
     # avt "\"Teach? What for?\" "
-    avt ""
+    avt "\"Lehren? Für was?\" "
 
 # game/script/04_week1.rpy:895
 translate german week1_saturday_lpd_3b5e46f7:
 
     # lpd obsessed "\"......\" "
-    lpd obsessed ""
+    lpd obsessed "\"......\" "
 
 # game/script/04_week1.rpy:897
 translate german week1_saturday_lpd_6da53e27:
 
     # b "He goes quiet. Somehow, I can tell it's not because he can't answer, it's because he doesn't want to answer. "
-    b ""
+    b "Er wird still. Irgendwie glaube ich nicht dass er nicht darauf antworten kann, eher will er es nicht. "
 
 # game/script/04_week1.rpy:899
 translate german week1_saturday_lpd_d2d00710:
 
     # lpdcat normal "\"Liao, I don't think you can get more form him. We don't have practice today so there's no need to go, right?\" "
-    lpdcat normal ""
+    lpdcat normal "\"Liao, Ich glaube nicht dass du mehr von ihm erfahren wirst. Wir haben Heute kein Trainung, also musst du auch nicht mit ihm hin, richtig?\" "
 
 # game/script/04_week1.rpy:901
 translate german week1_saturday_lpd_c95f6bb1:
 
     # lpd obsessed "\"No... {w=0.5}we go.\" "
-    lpd obsessed ""
+    lpd obsessed "\"Nein... {w=0.5}wir gehen.\" "
 
 # game/script/04_week1.rpy:903
 translate german week1_saturday_lpd_6b92a23c:
 
     # b "This is all way too confusing. Curiously, This is the first time Leopard's ever asked for something. So why is he insisting on going out today? "
-    b ""
+    b "Das ist alles ziemlich verwirrend. Komischerweise bittet der Nebelparder zum ersten Mal nach etwas. Warum will er unbedingt Heute ausgehen? "
 
 # game/script/04_week1.rpy:905
 translate german week1_saturday_lpd_4c39e888:
 
     # avt "\"It's ok Senpai. I'm going with him.\" "
-    avt ""
+    avt "\"Es ist okay Senpai. Ich gehe mit ihm.\" "
 
 # game/script/04_week1.rpy:907
 translate german week1_saturday_lpd_f2f77aba:
 
     # lpdcat panic "\"Aaaa- Liao, go shopping with me~ \" "
-    lpdcat panic ""
+    lpdcat panic "\"Nein- Liao, geht mit mir shoppen~ \" "
 
 # game/script/04_week1.rpy:909
 translate german week1_saturday_lpd_aede1290:
 
     # avt "\"We can go shopping anytime, right? He wants to do something with me right now.\" "
-    avt ""
+    avt "\"Wir können jederzeit shoppen gehen, das weist du? Er möchte etwas mit mir genau jetzt unternehmen.\" "
 
 # game/script/04_week1.rpy:911
 translate german week1_saturday_lpd_3f60f22c:

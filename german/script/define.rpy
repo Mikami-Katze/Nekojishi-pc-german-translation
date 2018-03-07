@@ -34,7 +34,7 @@ translate german strings:
     old "修諾司"
     new "修諾司"
 
-    # old "???"
+    # old "？？？"
     old "？？？"
     new ""
 
@@ -42,7 +42,7 @@ translate german strings:
     old "拉古"
     new ""
 
-    # old "Instructor"
+    # old "Lecturer"
     old "老師"
     new ""
 
@@ -50,7 +50,7 @@ translate german strings:
     old "家豪"
     new ""
 
-    # old "Club Head"
+    # old "Club Leader"
     old "社長"
     new ""
 
