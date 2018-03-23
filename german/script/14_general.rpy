@@ -4,559 +4,565 @@
 translate german s14_branch1_general_0bf4e66d:
 
     # tig normal "\"...You must trust me, to the degree that you would feel comfortable to give your body to me.\" "
-    tig normal ""
+    tig normal "\"...Du must mir genug vertrauen, damit du mir wohlwollend deinen Körper anvertrauen kannst.\" "
 
 # game/script/14_general.rpy:5
 translate german s14_branch1_general_2285ab9e:
 
     # b "Give my body to you? "
-    b ""
+    b "Dir meinen Körper anvertrauen?"
 
 # game/script/14_general.rpy:7
 translate german s14_branch1_general_f0ad23fe:
 
     # avt "\"Oh... that's...\" "
-    avt ""
+    avt "\"Nun... das ist...\" "
 
 # game/script/14_general.rpy:9
 translate german s14_branch1_general_97418d1e:
 
     # b "Even after he said it, I didn't really understand what it meant. What woud giving him my body feel like? Do I have to think about how much I trust him? Do I actually trust him enough? "
-    b ""
+    b "Selbst nachdem er es ausgesprochen hatte, hab ich nicht wirklich verstanden, was er damit meinte. Wie würde es sich anfühlen, ihn meinen Körper zu geben? Muss ich daran denken, wie sehr ich ihm vertraue? Tue ich das überhaupt genug?"
 
 # game/script/14_general.rpy:11
 translate german s14_branch1_general_b62a764f:
 
     # b "I at least {i}think{/i} \ I trust Tiger a lot. I'd feel safe to have my life in his hands. But... "
-    b ""
+    b "Zumindest {i}glaube{i} ich \ dass ich ihm sehr vertraue. Ich fühle mich sicher in seinen Armen. Aber... "
 
 # game/script/14_general.rpy:13
 translate german s14_branch1_general_ed6026e0:
 
     # b "I think about everything I've done with him over the last month. I guess you could say we're close, that we're even beyond friends... but, is that really enough? "
-    b ""
+    b "Ich denke an all das, was ich mit ihm das letzte Monat getan habe. Man könnte meinen, wir sind eng zusammen, mehr als nur Freunde... aber reicht das wirklich? "
 
 # game/script/14_general.rpy:15
 translate german s14_branch1_general_86baf9ac:
 
     # avt "\"So, you don't think I trust you enough?\" "
-    avt ""
+    avt "\Also denkst du dass ich dir nicht genug vertraue?\" "
 
 # game/script/14_general.rpy:17
 translate german s14_branch1_general_9317e89b:
 
     # tig normal "\"Let me put it another way. Your mind may trust me, but does that mean your body does? It is closer to intuition than thought.\" "
-    tig normal ""
+    tig normal "\Lass es mich anders ausdrücken. Dein Verstand mag mir trauen, aber tut dein Körper es auch? Es ist mehr Intuition dabei als du denkst.\" "
 
 # game/script/14_general.rpy:19
 translate german s14_branch1_general_70d0c6e0:
 
     # avt "\"Then... {w=0.5}what should I do?\" "
-    avt ""
+    avt "\"Dann...{w=0.5}was soll ich tun?\" "
 
 # game/script/14_general.rpy:21
 translate german s14_branch1_general_1c05857f:
 
     # b "From the sounds of it he's probably got a pretty good idea of things. "
-    b ""
+    b "Es klingt so, als hätte er dafür eine Antwort. "
 
 # game/script/14_general.rpy:23
 translate german s14_branch1_general_b70ae19b:
 
     # tig embarrassed "\"...I shall begin.\" "
-    tig embarrassed ""
+    tig embarrassed "\"...wo fang ich an...\" "
 
 # game/script/14_general.rpy:25
 translate german s14_branch1_general_4dc0f053:
 
     # tig embarrassed "\"Firstly, you must get used to my form contacting your body... \" "
-    # tig embarrassed "\"Alas, if I new it would come to this I would have done other things to... {w=0.5}well prepare you.\" "
-    tig embarrassed ""
+    # tig embarrassed "\"Alas, if I knew it would come to this I would have done other things to... {w=0.5}well prepare you.\" "
+    tig embarrassed "\"Zuerst musst du dich daran gewöhnen dass meine Geistform deinen Körper berührt... \" "
+    tig embarrassed "\"Hätte ich nur gewusst dass dies nötig sein wird, hätte ich vorher Dinge mit dir gemacht um dich zu... {w=0.5}naja, 'vorzubereiten'.\" "
 
 # game/script/14_general.rpy:27
 translate german s14_branch1_general_cc3745be:
 
     # tig normal "\"As such, we are short on time. Liao, come forth.\" "
-    tig normal ""
+    tig normal "\"Wir haben daher nur wenig Zeit Liao. Komm zu mir.\" "
 
 # game/script/14_general.rpy:29
 translate german s14_branch1_general_ebfa4676:
 
     # b "Tiger beckons me with open arms. "
-    b ""
+    b "Er winkt mich mit offenen Armen zu sich. "
 
 # game/script/14_general.rpy:31
 translate german s14_branch1_general_2166e7b1:
 
     # avt "\"......\" "
-    avt ""
+    avt "\"......\" "
 
 # game/script/14_general.rpy:33
 translate german s14_branch1_general_1d80cec3:
 
     # avt "\"So basically, you want me to hug you?\" "
-    avt ""
+    avt "\"Du willst also dass ich dich umarme?\" "
 
 # game/script/14_general.rpy:35
 translate german s14_branch1_general_07f81c27:
 
     # tig normal "\"It mayhap not be enough, but it's a start.\" "
-    tig normal ""
+    tig normal "\"Es mag nicht reichen, aber es ist ein Anfang.\" "
 
 # game/script/14_general.rpy:41
 translate german s14_branch1_general_392d10f6:
 
     # b "It feels like he's setting me up for something, but this is my best option... "
-    b ""
+    b "Es kommt mir vor, als würde er mich für etwas vorbereiten. Ist wohl meine beste Option... "
 
 # game/script/14_general.rpy:45
 translate german s14_branch1_general_9afda742:
 
     # b "I look up and down Tiger's muscled arms and thickset body, frozen with embarrassment... "
-    b ""
+    b "Ich schau an Tigers muskulösen Armen und stämmigen Körper herab, starr vor Scham... "
 
 # game/script/14_general.rpy:47
 translate german s14_branch1_general_13482cda:
 
     # tig normal "\"Liao?\" "
-    tig normal ""
+    tig normal "\"Liao?\" "
 
 # game/script/14_general.rpy:49
 translate german s14_branch1_general_331584b1:
 
     # avt "\"Hmm... Mm-Hmm...\" "
-    avt ""
+    avt "Hmm... Mm-Hmm... \" "
 
 # game/script/14_general.rpy:51
 translate german s14_branch1_general_f03cf86f:
 
     # b "I lean into his arms, resting my head against his shoulder. "
-    b ""
+    b "Ich schmieg mich in seine Arme und lege meinen Kopf gegen seine Schulter. "
 
 # game/script/14_general.rpy:53
 translate german s14_branch1_general_2bd48646:
 
     # b "Heat radiates from his body. Is it just because he's worked up from the fight? Or maybe it's just me... "
-    b ""
+    b "Sein Körper strahlt Wärme aus. Liegt das an dem anstregenden Kampf von vorhin? Vielleicht bilde ich es mir auch nur ein... "
 
 # game/script/14_general.rpy:55
 translate german s14_branch1_general_27e7364d:
 
     # b "Tiger runs his paw across the back of my neck, relaxing my nerves. It's so nice just to be here, sinking into his arms. I feel like I don't need to worry about anything, enveloped within his embrace. "
-    b ""
+    b "Tiger wirft seine Pfoten um meinen Nacken und entspannt meine Nerven. Es ist so schön in seinen Armen zu versinken. Eingewickelt in seiner Umarmung, fühle ich mich so sorglos."
 
 # game/script/14_general.rpy:57
 translate german s14_branch1_general_ce2caa95:
 
     # b "...Will this be enough though? Tiger's hugged me plenty of times. "
-    b ""
+    b "...Ob das wohl reichen wird? Tiger hatte mich schon mehrmals umarmt. "
 
 # game/script/14_general.rpy:59
 translate german s14_branch1_general_21eb6419:
 
     # avt "\"Hm...\" "
-    avt ""
+    avt "\"Hm...\" "
 
 # game/script/14_general.rpy:61
 translate german s14_branch1_general_f5f96adb:
 
     # tig gentle "\"Liao, you getting used to it?\" "
-    tig gentle ""
+    tig gentle "\"Gewöhnst du dich dran Liao?\" "
 
 # game/script/14_general.rpy:63
 translate german s14_branch1_general_ea337f44:
 
     # avt "\"I really like it, but don't we do this all time time?\" "
-    avt ""
+    avt "\"Ich mag es wirklich, aber machen wir das nicht ständig?\" "
 
 # game/script/14_general.rpy:65
 translate german s14_branch1_general_e4da28b5:
 
     # tig laugh_1 "\"Yes. Shall I proceed further?\" "
-    tig laugh_1 ""
+    tig laugh_1 "\"Wohl wahr. Soll ich weiter vordringen?\" "
 
 # game/script/14_general.rpy:68
 translate german s14_branch1_general_a5f61f21:
 
     # b "Proceed further? What is he going to do next... My heart begins to thump against my chest. "
-    b ""
+    b "Weiter vordringen? Was will er denn als Nächstes machen? Mein Herz fängt an kräftig gegen meine Brust zu schlagen. "
 
 # game/script/14_general.rpy:70
 translate german s14_branch1_general_c41f6e4e:
 
     # avt "\"...Y-{w=0.2}Yeah, go ahead.\" "
-    avt ""
+    avt "\"...J-{w=0.2}Ja, nur zu.\" "
 
 # game/script/14_general.rpy:72
 translate german s14_branch1_general_bd051fbf:
 
     # b "Tiger rests his paw against my shoulder, pushing my body backwards against my bed. My face lifts, and my eyes meet directly with his. "
-    b ""
+    b "Tiger legt seine Pfoten auf meine Schulter und drückt meinen Körper gegen mein Bett. Mein Kopf hebt sich und meine Augen blicken direkt in seine. "
 
 # game/script/14_general.rpy:74
 translate german s14_branch1_general_eeeb9746:
 
     # b "He leans forward and I tense up. And then... "
-    b ""
+    b "Er lehnt sich zu mir und ich spanne mich an. Und dann... "
 
 # game/script/14_general.rpy:76
 translate german s14_branch1_general_502d9d03:
 
     # b "He gently places his forehead against mine. "
-    b ""
+    b "Sanft drückt er seine Stirn gegen meine. "
 
 # game/script/14_general.rpy:78
 translate german s14_branch1_general_7b6349e7:
 
     # avt "\"Ahh...\" "
-    avt ""
+    avt "\"Ahh...\" "
 
 # game/script/14_general.rpy:80
 translate german s14_branch1_general_ebaa9a67:
 
     # b "I'm a bit disappointed. That's it? "
-    b ""
+    b "Ich bin ein wenig enttäuscht. War es das schon? "
 
 # game/script/14_general.rpy:82
 translate german s14_branch1_general_35322107:
 
     # tig gentle "\"Liao, you're a really good boy.\" "
-    tig gentle ""
+    tig gentle "\"Du bist ein wirklich guter Junge Liao.\" "
 
 # game/script/14_general.rpy:84
 translate german s14_branch1_general_495ee782:
 
     # avt "\"Wh-{w=0.2}What are you talking about?\" "
-    avt ""
+    avt "Wo-{w=0.2}Wovon sprichst du?\" "
 
 # game/script/14_general.rpy:86
 translate german s14_branch1_general_b631208c:
 
     # b "He presses his head against mine. His face is the only thing I can see. His eyes looking deeply into mine. His warm breath blows against my nose. "
-    b ""
+    b "Er drückt seinen Kopf gegen meinen. Sein Gesicht ist das einzige was ich noch sehen kann. Seine Augen schauen direkt in meine. Ich spüre seinen warmen Atem an meiner Nase. "
 
 # game/script/14_general.rpy:95
 translate german s14_branch1_general_751e69b9:
 
     # tig laugh_1 "\"I'm very glad to be the one by your side, to protect you from harm. You are a gently boy, a bit timid and irresolute at times, but that's fine.\" "
     # tig laugh_1 "\"I know you do not wish to go back home, but even against our pleas you don't hate me or your older brother for it. You really are remarkable.\" "
-    tig laugh_1 ""
+    tig laugh_1 "\"Ich bin sehr froh an deiner Seite zu sein, dich vor Gefahren zu schützen. Du bist ein zärtlicher Junge, manchmal ein bisschen zaghaft und unentschlossen. ABer das ist okay.\" "
+    tig laugh_1 "Ich weis das du nicht zurück nach Hause willst aber trotz unserer Bitte hasst du weder mich noch deinen älteren Bruder dafür. Du bist wirklich bemerkenswert.\" "
 
 # game/script/14_general.rpy:97
 translate german s14_branch1_general_c1591750:
 
     # tig laugh_1 "\"I admire you for upholding your dreams. Admittedly I still wish for you to go back home... but that isn't what matters.\" "
     # tig laugh_1 "\"What matters is that if possible, I would love to support you unconditionally.\" "
-    tig laugh_1 ""
+    tig laugh_1 "\"Ich bewundere dich dafür dass du an deinen Träumen festhältst. Auch wenn ich zugeben muss dass ich mir immernoch wünsche, dass du nach Hause zurückkehrst... aber darum geht es nicht.\" "
+    tig laugh_1 "\"Wichtig ist dass ich liebend gern bedingungslos unterstütze, soweit ich kann."
 
 # game/script/14_general.rpy:99
 translate german s14_branch1_general_bee1ff35:
 
     # b "Tiger's words embarrass me. That just, came out of nowhere. I don't really know what to say. "
-    b ""
+    b "Tigers Worte bringen mich in Verlegenheit. Ich habe sie nicht kommen sehen. Ich weis wirklich nicht, was ich sagen soll. "
 
 # game/script/14_general.rpy:101
 translate german s14_branch1_general_50c8c7c8:
 
     # avt "\"Hmm... {w=0.5}Why are we talking about this?\" "
-    avt ""
+    avt "\"Ehm...{w=0.5}Warum sprichst du darüber?\" "
 
 # game/script/14_general.rpy:106
 translate german s14_branch1_general_e8acae9f:
 
     # tig laugh_2 "\"Haha— Is this not the time to reveal our hearts to each other?\" "
-    tig laugh_2 ""
+    tig laugh_2 "\"Haha- Ist das nicht der Moment um uns gegenseitig unser Herz auszuschütten?\" "
 
 # game/script/14_general.rpy:108
 translate german s14_branch1_general_5ea79ce8:
 
     # avt "\"...Reveal our hearts?\" "
-    avt ""
+    avt "\"...Unser Herz auszuschütten?\" "
 
 # game/script/14_general.rpy:110
 translate german s14_branch1_general_0a75d375:
 
     # tig gentle "\"Exactly, to express our feelings for one another.\" "
-    tig gentle ""
+    tig gentle "\"Genau, um unsere Gefühle zueinander auszusprechen.\" "
 
 # game/script/14_general.rpy:116
 translate german s14_branch1_general_933a48d2:
 
     # b "I have a moment of hesitation. "
-    b ""
+    b "Ich zögere für einen Moment. "
 
 # game/script/14_general.rpy:118
 translate german s14_branch1_general_4043d09c:
 
     # b "Tiger needs me to trust him... Opening up to him should help, but... "
-    b ""
+    b "Tiger braucht mein Vertrauen... mich ihm zu öffnen sollte helfen, aber... "
 
 # game/script/14_general.rpy:120
 translate german s14_branch1_general_eff68714:
 
     # b "If it's come to this... there's always been something I wanted to ask him. \nIs this the right time? "
-    b ""
+    b "Wenn wir dabei sind... es gibt da was, was ich ihn schon immer mal fragen wollte. \nIst das der richtige Zeitpunkt dafür? "
 
 # game/script/14_general.rpy:122
 translate german s14_branch1_general_65eb7e04:
 
     # b "I {i}need{/i} \ to trust him now. What's the point if he can't answer this... "
-    b ""
+    b "I {i}muss{/i} \ ihm vertrauen. Dann müsste er sie ja wohl beantworten können... "
 
 # game/script/14_general.rpy:124
 translate german s14_branch1_general_de5a3628:
 
     # b "Now's the time. "
-    b ""
+    b "Die Zeit ist jetzt. "
 
 # game/script/14_general.rpy:130
 translate german s14_branch1_general_a9d0d96e:
 
     # avt "\"Umm, hey... {w=0.5}I've been meaning to ask you something.\" "
     # avt "\"Tiger... {w=0.5}do you only care about me because I'm part of the Lin family?\" "
-    avt ""
+    avt "\"Hey du... {w=0.5}Ich will dich was fragen.\" "
+    avt "\"Tiger... {w=0.5}sorgst du dich nur um mich, weil ich zur Lin Familie gehöre?\" "
 
 # game/script/14_general.rpy:132
 translate german s14_branch1_general_f32193e2:
 
     # avt "\"I mean... {w=0.5}If I had nothing to do with the Lin family, would I even matter to you? "
-    avt ""
+    avt "\"Ich mein... {w=0.5}Wenn ich nichts mit der Lin Familie zu tun hätte, würdest dir überhaupt Gedanken um mich machen? "
 
 # game/script/14_general.rpy:139
 translate german s14_branch1_general_723f2d86:
 
     # tig surprise "\"...Why do you ask? You, and your spirit power is what makes is possible for me to talk to you, not your family.\" "
-    tig surprise ""
+    tig surprise "\"...Warum fragst du? Du und deine Geistfähigkeit ermöglicht es mir mit dir zu sprechen, nicht deine Familie.\" "
 
 # game/script/14_general.rpy:141
 translate german s14_branch1_general_c2d3f534:
 
     # tig normal "\"The Lin family is but a tie that connects my existence to yours, it has nothing to do with {i}why{/i} \ I like you. After all, many guardian tigers don't actually get along with their \nJitong.\" "
-    tig normal ""
+    tig normal "\"Auch wenn die Lin Familie die Ursache ist, die meine Existenz an Deine bindet, hat das nichts damit zu tun {i}wieso{/i} ich dich mag. Zudem kommen die meisten Wächtertiger eigentlich nicht mit ihrem \nJitong klar.\" "
 
 # game/script/14_general.rpy:143
 translate german s14_branch1_general_9f840d5d:
 
     # tig laugh_1 "\"In fact, possession does not have much to do with the extent to which we like each other. Some Jitong are possessed by guardian tigers even though their good relations are merely a facade.\" "
-    tig laugh_1 ""
+    tig laugh_1 "\Ehrlich gesagt hat Besitz nicht viel damit zu tun, wie sehr wir uns mögen. Einige Jitong's werden von Wächtertigern besessen, auch wenn ihre gute Beziehung eher eine Fasade darstellt.\" "
 
 # game/script/14_general.rpy:145
 translate german s14_branch1_general_a1c54f3f:
 
     # b "That doesn't sound right! "
-    b ""
+    b "Das sollte nicht sein! "
 
 # game/script/14_general.rpy:147
 translate german s14_branch1_general_44aa46b8:
 
     # tig normal "\"In the end, what matters is that your body is willing to entrust itself to me. Communication on the matter can do nothing but help.\" "
-    tig normal ""
+    tig normal "\Am Ende ist wichtig dass dein Körper bereit ist, mir seinen Körper anzuvertrauen. Kommunikation kann dabei nichts weiter als hilfreich sein.\" "
 
 # game/script/14_general.rpy:149
 translate german s14_branch1_general_36d1a16d:
 
     # avt "\"...So, what you're saying is that, you don't {i}need{/i} \ to like me just because I'm a child of the Lin family?\" "
-    avt ""
+    avt "\"...Also willst du mir sagen dass du mich nicht mögen {i}musst{/i} \ weil ich ein Kind der Lin Familie bin?\" "
 
 # game/script/14_general.rpy:151
 translate german s14_branch1_general_ae331ae5:
 
     # tig laugh_1 "\"Of course. Although, as a child of the Lin family it remains my dury to protect you. But it's not necessary for me to...\" "
-    tig laugh_1 ""
+    tig laugh_1 "\Natürlich. Wobei es meine Pflicht bleibt, dich als Kind der Lin Familie zu beschützen. Aber es ist für mich nicht notwendig...\" "
 
 # game/script/14_general.rpy:153
 translate german s14_branch1_general_2d759415:
 
     # tig normal "\"......\" "
-    tig normal ""
+    tig normal "\"......\" "
 
 # game/script/14_general.rpy:155
 translate german s14_branch1_general_605a3b72:
 
     # avt "\"For you to what?\" "
-    avt ""
+    avt "\Um was zu machen?\" "
 
 # game/script/14_general.rpy:157
 translate german s14_branch1_general_72e104c6:
 
     # tig gentle "\"For me to think you are a good boy.\" "
-    tig gentle ""
+    tig gentle "\"Dich für einen guten Jungen zu halten.\" "
 
 # game/script/14_general.rpy:159
 translate german s14_branch1_general_d775d6e9:
 
     # avt "\"A good boy... Do you really need to say it like that.\" "
-    avt ""
+    avt "\"Einen guten Jungen... Musst du es wirklich so ausdrücken?\" "
 
 # game/script/14_general.rpy:161
 translate german s14_branch1_general_07e242e2:
 
     # tig normal "\"No, it's...\" "
-    tig normal ""
+    tig normal "\"Nein, es ist...\" "
 
 # game/script/14_general.rpy:163
 translate german s14_branch1_general_2d759415_1:
 
     # tig normal "\"......\" "
-    tig normal ""
+    tig normal "\"......\" "
 
 # game/script/14_general.rpy:167
 translate german s14_branch1_general_5ae2879a:
 
     # tig embarrassed "\"It's because I like you Liao.\" "
-    tig embarrassed ""
+    tig embarrassed "\Weil ich dich mag Liao.\" "
 
 # game/script/14_general.rpy:170
 translate german s14_branch1_general_6cf5e359:
 
     # avt "\"...What?\" " with vshake
-    avt "" with vshake
+    avt "\"...Was?\" " with vshake
 
 # game/script/14_general.rpy:172
 translate german s14_branch1_general_7e4e2455:
 
     # avt "\"You're calling me a \"good boy\" because you like me?\" "
-    avt ""
+    avt "\"Du nennst mich einen \"guten Jungen\" weil du mich magst?\" "
 
 # game/script/14_general.rpy:174
 translate german s14_branch1_general_0350b20e:
 
     # tig frown "\"How else would I put it? You are a boy of the Lin family... and I like you. So you are a very good boy. Is that strange to you?\" "
-    tig frown ""
+    tig frown "\"Wie soll ich es sonst ausdrücken? Du bist ein Junge der Lin Familie... und ich mag dich. Du bist ein sehr guter Junge. Ist das komisch für dich?\" "
 
 # game/script/14_general.rpy:176
 translate german s14_branch1_general_9fe315cf:
 
     # avt "\"No, It's just that wording, it would usually infer something else...\" "
-    avt ""
+    avt "\"Nein, es geht um die Wortwahl. Es würde normalerweise was Anderes draus folgern...\"
 
 # game/script/14_general.rpy:178
 translate german s14_branch1_general_be48297b:
 
     # avt "\"...How exactly do you like me? Is it because of my family? Or is it that you like me as a person?\" "
-    avt ""
+    avt "\"...Wie genau magst du mich? Ist es wegen meiner Familie? Oder magst du mich als Person?\" "
 
 # game/script/14_general.rpy:180
 translate german s14_branch1_general_b1a893c9:
 
     # tig normal "\"I consider you...\" "
-    tig normal ""
+    tig normal "\"Ich betrachte dich als...\" "
 
 # game/script/14_general.rpy:185
 translate german s14_branch1_general_c16a66e4:
 
     # tig embarrassed "\"A son of the Lin family that I like.\" " with flash
-    tig embarrassed "" with flash
+    tig embarrassed "\"Einen Sohn der Lin Familie, den ich mag.\" " with flash
 
 # game/script/14_general.rpy:187
 translate german s14_branch1_general_2166e7b1_1:
 
     # avt "\"......\" "
-    avt ""
+    avt "\"......\" "
 
 # game/script/14_general.rpy:190
 translate german s14_branch1_general_0fbfe00f:
 
     # b "My heart skips a beat. "
-    b ""
+    b "Mein Herz bleib stehn. "
 
 # game/script/14_general.rpy:192
 translate german s14_branch1_general_2464fc00:
 
     # avt "\"T-{w=0.2}That... {w=0.5}means?\" "
-    avt ""
+    avt "\"D-{w=0.2}Das... {w=0.5}heißt?\" "
 
 # game/script/14_general.rpy:194
 translate german s14_branch1_general_6a513d60:
 
     # tig embarrassed "\"Alas. It appears as though I must spell it out... {w=0.5}This was not in my plans, but...\" "
-    tig embarrassed ""
+    tig embarrassed "\"*seufz* Ich glaub, ich muss es doch aussprechen... {w=0.5}Das war nicht geplant, aber...\" "
 
 # game/script/14_general.rpy:196
 translate german s14_branch1_general_c4ba709a:
 
     # avt "\"W-{w=0.2}What are you going on about...\" "
-    avt ""
+    avt "\"W-{w=0.2}Was hast du vor...\" "
 
 # game/script/14_general.rpy:200
 translate german s14_branch1_general_74af5cfe:
 
     # tig normal "\"This.\" "
-    tig normal ""
+    tig normal "\"Das.\" "
 
 # game/script/14_general.rpy:205
 translate german s14_branch1_general_96ac4b30:
 
     # b "Tiger touches his lips to mine, pulling me into a deep kiss. "
-    b ""
+    b "Tiger berührt meine Lippen mit den Seinen und zieht mich in einen innigen Kuss. "
 
 # game/script/14_general.rpy:207
 translate german s14_branch1_general_3ec58ec3:
 
     # b " We were so close there was no time for me to react. "
-    b ""
+    b "Wir standen so nah zusammen, dass ich keine Zeit hatte zu reagieren. "
 
 # game/script/14_general.rpy:209
 translate german s14_branch1_general_b9d5617a:
 
     # b "He pushes his tongue in. Tiger's tongue was thick, long and rough, almost filling my whole mouth. "
-    b ""
+    b "Er drückt seine Zunge in mich. Tigers Zunge war dick, lang und rauh. Sie füllte fast meinen ganzen Mund aus. "
 
 # game/script/14_general.rpy:211
 translate german s14_branch1_general_34ad2850:
 
     # b "I hesitated, but I decide to go with it by trying to lick back. My attempts thwarted by the strength of his tongue pushing into the depths of my mouth. "
     # b "I quit resisting and resign my body to him. His kiss reaching through me. Stirring the lake that resides at the bottom of my heart. "
-    b ""
+    b "Ich zögerte, doch ich schließlich versuchte ich, mit meine Zunge gegen Seine zu drücken. Mein Versuch unterlag seiner Stärke, mit der er seine Zunge tief in meinen Mund drückte. "
+    b "Ich konnte nicht mehr widerstehen und mich ihm hin. Sein Kuss durchdrang mich und berührte die tiefste Stelle meines Herzens. "
 
 # game/script/14_general.rpy:213
 translate german s14_branch1_general_907cb4e3:
 
     # b "It's the subtle feeling of having your entire body in the hands of someone you care about that I can't help but relish... "
-    b ""
+    b "Es ist ein feines Gefühl, seinen ganzen Körper in die Hände einer Person zu legen, die einem wichtig ist. Ich kann nicht anders, als mich dem Gefühl hinzugeben... "
 
 # game/script/14_general.rpy:217
 translate german s14_branch1_general_053130b8:
 
     # tig embarrassed "\"......\" "
-    tig embarrassed ""
+    tig embarrassed "\"......\" "
 
 # game/script/14_general.rpy:219
 translate german s14_branch1_general_24e32b75:
 
     # tig embarrassed "\"So you understand now?\" "
-    tig embarrassed ""
+    tig embarrassed "\"Verstehst du mich nun?\" "
 
 # game/script/14_general.rpy:221
 translate german s14_branch1_general_2166e7b1_2:
 
     # avt "\"......\" "
-    avt ""
+    avt "\"......\" "
 
 # game/script/14_general.rpy:223
 translate german s14_branch1_general_5a8a34e5:
 
     # avt "\"Kind... of...\" "
-    avt ""
+    avt "\"So...etwa...\" "
 
 # game/script/14_general.rpy:225
 translate german s14_branch1_general_1c26cf4b:
 
     # tig frown "\"Only kind of? Was I not clear enough?\" "
-    tig frown ""
+    tig frown "\In etwa? War ich nicht deutlich genug?\" "
 
 # game/script/14_general.rpy:227
 translate german s14_branch1_general_792b08b4:
 
     # tig frown "\"You made me go that far and still do not believe me... Has all your confidence in me left you?\" "
     # tig frown "*sigh* \"You concern me sometimes.\" "
-    tig frown ""
+    tig frown "\"Du brachstest mich dazu, so weit zu gehen und du glaubst mir immernoch nicht... hat dich dein gesamtes Vertrauen in mich verlassen?\" "
+    tig frown "*seufz* \"Du gibst mir manchmal zu denken.\" "
 
 # game/script/14_general.rpy:229
 translate german s14_branch1_general_4ff95200:
 
     # avt "\"I-{w=0.2}I'm sorry that I make you worry...\" "
-    avt ""
+    avt "\"S-{w=0.2}Sorry, ich will dich nicht verunsichern...\" "
 
 # game/script/14_general.rpy:231
 translate german s14_branch1_general_63380c13:
@@ -565,149 +571,151 @@ translate german s14_branch1_general_63380c13:
     # tig embarrassed "\"Liao, I like you a lot. I want to see you happy, and I don't want to see you harmed.\" "
     # tig embarrassed "\"Which is why I want you to be mine, to not share you with anyone else.\" "
     # tig embarrassed "\"Was that clear enough?\" "
-    tig embarrassed ""
+    tig embarrassed "\"Sieht so aus, als willst du dass ich es sage.\" "
+    tig embarrassed "\"Liao, ich mag dich sehr. Ich will dich glücklich sehen und nicht leidend.\" "
+    tig embarrassed "\"Deswegen will ich dass du Mein bist und ich dich nicht mit jemand anderem teilen will. "
+    tig embarrassed "\"War das deutlich?\" "
 
 # game/script/14_general.rpy:233
 translate german s14_branch1_general_2166e7b1_3:
 
     # avt "\"......\" "
-    avt ""
+    avt "\"......\" "
 
 # game/script/14_general.rpy:235
 translate german s14_branch1_general_2dd7fb8d:
 
     # avt "\"...Yes.\" "
-    avt ""
+    avt "\"...Ja.\" "
 
 # game/script/14_general.rpy:237
 translate german s14_branch1_general_3adc1889:
 
     # b "My face is burning. What's wrong with me? I asked for this. "
-    b ""
+    b "Mein Gesicht glüht. Was ist falsch mit mir? Ich wollte es doch so... "
 
 # game/script/14_general.rpy:239
 translate german s14_branch1_general_c50422be:
 
     # tig embarrassed "\"I don't know if it's enough to make you trust me, but...\" "
-    tig embarrassed ""
+    tig embarrassed "\"Ich weis nicht ob es reicht, dass du mir vertraust, aber...\" "
 
 # game/script/14_general.rpy:241
 translate german s14_branch1_general_483cd07f:
 
     # tig frown "\"I want to protect you. Protect you with my own hands.\" "
-    tig frown ""
+    tig frown "\"Ich will dich beschützen. Mit meinen eigenen Händen.\" "
 
 # game/script/14_general.rpy:243
 translate german s14_branch1_general_0fab9aef:
 
     # tig normal "\"These are my resolute desires...\" "
-    tig normal ""
+    tig normal "\"Das sind mein eindeutiger Wille...\" "
 
 # game/script/14_general.rpy:245
 translate german s14_branch1_general_6dbd9337:
 
     # tig normal "\"So, Liao.\" "
-    tig normal ""
+    tig normal "\"Also, Liao.\" "
 
 # game/script/14_general.rpy:247
 translate german s14_branch1_general_a9b00e24:
 
     # b "Tiger grabs hold of my shoulders, his earnest eyes piercing straight through mine. "
-    b ""
+    b "Tiger hält mich an meinen Schultern fest, sein ernster Blick durchdringt mich förmlich. "
 
 # game/script/14_general.rpy:249
 translate german s14_branch1_general_40df756f:
 
     # tig gentle "\"Will you allow me to enter your body and protect you with my own hands?\" "
-    tig gentle ""
+    tig gentle "\"Erlaubst du mir deinen Körper betreten, damit ich dich beschützen kann?\" "
 
 # game/script/14_general.rpy:251
 translate german s14_branch1_general_3405b8b2:
 
     # avt "\"Enter, my body...\" "
-    avt ""
+    avt "\"Ja, komm in meinen Körper...\" "
 
 # game/script/14_general.rpy:253
 translate german s14_branch1_general_8f190980:
 
     # b "Why did he have to phrase it like that... Now I'm even more embarrassed! "
-    b ""
+    b "Musste er das wirklich so ausdrücken? Das macht die Sache noch peinlicher! "
 
 # game/script/14_general.rpy:255
 translate german s14_branch1_general_2166e7b1_4:
 
     # avt "\"......\" "
-    avt ""
+    avt "\"......\" "
 
 # game/script/14_general.rpy:257
 translate german s14_branch1_general_109e7e60:
 
     # avt "\"Absolutely.\" "
-    avt ""
+    avt "\"Ich will das wirklich.\" "
 
 # game/script/14_general.rpy:259
 translate german s14_branch1_general_c03c39d4:
 
     # avt "\"I'll try. Even if I don't know if it will work, I want to try.\" "
-    avt ""
+    avt "\"Ich weis zwar nicht ob es funktioniert, aber ich will es versuchen.\" "
 
 # game/script/14_general.rpy:261
 translate german s14_branch1_general_044e8062:
 
     # tig gentle "\"It's fine. Even if it does not work, there are other—\" "
-    tig gentle ""
+    tig gentle "\"Passt schon. Selbst wenn es nicht funktioniert, gibt es noch andere-\" "
 
 # game/script/14_general.rpy:265
 translate german s14_branch1_general_e7f0b09f:
 
     # b "Someone knocks on the door. "
-    b ""
+    b "Jemand klopft an der Tür. "
 
 # game/script/14_general.rpy:267
 translate german s14_branch1_general_17bfe965:
 
     # tig frown "\"......\" "
-    tig frown ""
+    tig frown "\"......\" "
 
 # game/script/14_general.rpy:269
 translate german s14_branch1_general_2166e7b1_5:
 
     # avt "\"......\" "
-    avt ""
+    avt "\"......\" "
 
 # game/script/14_general.rpy:271
 translate german s14_branch1_general_f46ab304:
 
     # tig frown "\"It seems our time is up.\" "
-    tig frown ""
+    tig frown "\"Glaub unsere Zeit ist abgelaufen.\" "
 
 # game/script/14_general.rpy:273
 translate german s14_branch1_general_c024dfa8:
 
     # tig frown "\"I was about to suggest also seeking aid from the City God, but as he's already at the door... I don't think we can escape.\" "
-    tig frown ""
+    tig frown "\"Ich wollte grad vorschlagen dass wir uns auch Hilfe bei den Stadtgöttern suchen können aber er ist schon da... Ich glaub nicht dass wir entkommen können.\" "
 
 # game/script/14_general.rpy:275
 translate german s14_branch1_general_162e9dc7:
 
     # b "So this is our last chance? I can't believe that Leopard would {i}want{/i} \ to hurt me... But what other options do we have? "
-    b ""
+    b "Also ist das unsere letzte Chance? Ich kann nicht glauben dass Leopard mir weh tun {i}will{/i}... aber was glaub uns anderes übrig? "
 
 # game/script/14_general.rpy:279
 translate german s14_branch1_general_5a3000a7:
 
     # b "I jump as another knock resounds through my room. "
-    b ""
+    b "Ich zucke zusammen als ein weiteres Klopfen durch den Raum hallt. "
 
 # game/script/14_general.rpy:281
 translate german s14_branch1_general_2934e202:
 
     # b "If Leopard really means to hurt me, would he really wait for me to open the door? "
-    b ""
+    b "Wenn Leopard uns wirklich weh tun will, würde er wirklich warten bis ich die Tür öffne? "
 
 # game/script/14_general.rpy:283
 translate german s14_branch1_general_39dc9fd1:
 
     # b "Wishing in vain hope, I muster up my courage and open the door. "
-    b ""
-
+    b "Ich hoffe es vergeblich während ich zusammenreiße und ihm die Tür öffne. "
