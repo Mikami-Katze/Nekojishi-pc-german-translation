@@ -1,6 +1,6 @@
-﻿# TODO: Translation updated at 2017-11-29 21:34
+﻿# TODO: Translation updated at 2018-02-23 08:51
 
-translate german strings:
+translate German strings:
 
     # old "Settings"
     old "環境設定"
@@ -16,7 +16,7 @@ translate german strings:
 
     # old "Speed"
     old "文字速度"
-    new "Schnelligkeit"
+    new "Geschwindigkeit"
 
     # old "Slow"
     old "慢"
@@ -32,7 +32,7 @@ translate german strings:
 
     # old "Skip Unread"
     old "未讀快進"
-    new "Überspringe Ungelesenes"
+    new "Überspringe ungelesene"
 
     # old "On"
     old "開"
