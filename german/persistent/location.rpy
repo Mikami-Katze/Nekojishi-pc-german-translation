@@ -4,89 +4,89 @@ translate german strings:
 
     # old "Interlude"
     old "過場"
-    new ""
+    new "Zwischenspiel"
 
     # old "Liao's Apartment"
     old "房間"
-    new ""
+    new "Liao's Wohnung"
 
     # old "Liao's Bathroom"
     old "浴室"
-    new ""
+    new "Liao's Badezimmer"
 
     # old "Cafeteria"
     old "食堂"
-    new ""
+    new "Cafeteria"
 
     # old "Classroom"
     old "教室"
-    new ""
+    new "Klassenzimmer"
 
     # old "Mirror Wall"
     old "鏡牆"
-    new ""
+    new "Spiegelwand"
 
     # old "Private Bath"
     old "湯屋"
-    new ""
+    new "Privates Badehaus"
 
     # old "Old Street"
     old "老街"
-    new ""
+    new "Alte Straße"
 
     # old "Supermarket"
     old "大賣場"
-    new ""
+    new "Supermarkt"
 
     # old "Downtown"
     old "商圈"
-    new ""
+    new "Stadtmitte"
 
     # old "Bus Stop"
     old "山路站牌"
-    new ""
+    new "Bushaltestelle"
 
     # old "Metro Station"
     old "捷運站"
-    new ""
+    new "U-Bahn Station"
 
     # old "Tung Trail"
     old "桐花小道"
-    new ""
+    new "Tung-Pfad"
 
     # old "Lawn"
     old "山間空地"
-    new ""
+    new "Wiese"
 
     # old "Tung Lawn"
     old "桐花空地"
-    new ""
+    new "Tung-Wiese"
 
     # old "Bookstore"
     old "書城"
-    new ""
+    new "Buchhandlung"
 
     # old "Cave"
     old "洞窟"
-    new ""
+    new "Höhle"
 
     # old "Park"
     old "公園"
-    new ""
+    new "Park"
 
     # old "Country Road"
     old "鄉間街道"
-    new ""
+    new "Landstraße"
 
     # old "Woods"
     old "樹林"
-    new ""
+    new "Wald"
 
     # old "Arcade"
     old "地下遊樂場"
-    new ""
+    new "Spielehalle"
 
     # old "Dihua Street"
     old "迪化街"
-    new ""
+    new "Dihua-Straße"
 
