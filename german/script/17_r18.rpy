@@ -4,457 +4,457 @@
 translate german s17_branch4_r18_0d7a0d97:
 
     # avt "\"Ehhhh?\" "
-    avt ""
+    avt "\"Ähhhh?\" "
 
 # game/script/17_r18.rpy:5
 translate german s17_branch4_r18_2cf81efc:
 
     # tig frown "\"If I must say it— Leopard needs to amplify his powers. In order to accomplish this an oracle needs to act as his conduit. You are suitable for this role. But as I described before...\" "
-    tig frown ""
+    tig frown "\"Dann sag ich es eben- Nebelparder muss seine Energie verstärken. Dafür muss ein Orakel als Leitung fungieren. Du wärst dafür geeignet. Aber wie ich bereits beschrieb...\" "
 
 # game/script/17_r18.rpy:7
 translate german s17_branch4_r18_d89429e7:
 
     # tig frown "\"You need to trust Leopard and allow him to release his power... through your body. Which involves...\" "
-    tig frown ""
+    tig frown "\"Du musst Nebelparder vertrauen und ihm erlauben seine Kraft... durch deinen Körper zu entlassen. Was bedeutet...\" "
 
 # game/script/17_r18.rpy:9
 translate german s17_branch4_r18_65181481:
 
     # tig embarrassed "\"...You know. You need to do, {i}that{/i}.\" "
-    tig embarrassed ""
+    tig embarrassed "\"...dass du weist schon... du musst {i}das{/i} machen.\" "
 
 # game/script/17_r18.rpy:11
 translate german s17_branch4_r18_562b18fe:
 
     # avt "\"What?\" "
-    avt ""
+    avt "\"Was?\" "
 
 # game/script/17_r18.rpy:13
 translate german s17_branch4_r18_62020708:
 
     # tig frown "\"{i}That{/i}.\" "
-    tig frown ""
+    tig frown "\"Na {i}Das{/i}.\" "
 
 # game/script/17_r18.rpy:17
 translate german s17_branch4_r18_99a94f3b:
 
     # avt "\"The thing we just did?\" " with flash
-    avt "" with flash
+    avt "\"Die Sache die wir vorhin taten?\" " with flash
 
 # game/script/17_r18.rpy:19
 translate german s17_branch4_r18_be03b2d4:
 
     # tig embarrassed "\"...Correct.\" "
-    tig embarrassed ""
+    tig embarrassed "\"...Korrekt.\" "
 
 # game/script/17_r18.rpy:21
 translate german s17_branch4_r18_2166e7b1:
 
     # avt "\"......\" "
-    avt ""
+    avt "\"......\" "
 
 # game/script/17_r18.rpy:23
 translate german s17_branch4_r18_053130b8:
 
     # tig embarrassed "\"......\" "
-    tig embarrassed ""
+    tig embarrassed "\"......\" "
 
 # game/script/17_r18.rpy:26
 translate german s17_branch4_r18_2166e7b1_1:
 
     # avt "\"......\" "
-    avt ""
+    avt "\"......\" "
 
 # game/script/17_r18.rpy:28
 translate german s17_branch4_r18_ad3b0716:
 
     # tig embarrassed "\"Don't just glare at me! You know what I mean! I'd rather not have to say it...\" "
-    tig embarrassed ""
+    tig embarrassed "\"Starr mich nicht so an! Du weist was ich meine! Ich will ich es nicht aussprechen müssen...\" "
 
 # game/script/17_r18.rpy:30
 translate german s17_branch4_r18_a67e931e:
 
     # avt "\"I get it... but.\" "
-    avt ""
+    avt "\"Ich verstehen schon... aber...\" "
 
 # game/script/17_r18.rpy:32
 translate german s17_branch4_r18_bb575f4a:
 
     # lpd obsessed "\"......?\" "
-    lpd obsessed ""
+    lpd obsessed "\"......?\" "
 
 # game/script/17_r18.rpy:34
 translate german s17_branch4_r18_ea11d4ca:
 
     # avt "\"Well... Umm. Yeah, this is hard.\" "
-    avt ""
+    avt "\"Nun... Ehmm. Joa, das ist schwierig.\" "
 
 # game/script/17_r18.rpy:36
 translate german s17_branch4_r18_e0131caf:
 
     # tig frown "\"I should take my leave now. You wouldn't want me standing here, would you?\" "
-    tig frown ""
+    tig frown "\"Ich sollte gehen. Du willst mich sicher nicht dabei haben, oder?\" "
 
 # game/script/17_r18.rpy:38
 translate german s17_branch4_r18_1cc01cc6:
 
     # avt "\"Ehhh? No, well, yeah ...no?\" "
-    avt ""
+    avt "\"Ähh? Nein, ich meine, ja... nein?\" "
 
 # game/script/17_r18.rpy:40
 translate german s17_branch4_r18_3afc7887:
 
     # tig disappointed "\"I shall return to my statue. You two... take your time.\" "
-    tig disappointed ""
+    tig disappointed "\"Ich sollte in meine Statue verschwinden. Ihr Beide... lasst euch Zeit.\" "
 
 # game/script/17_r18.rpy:47
 translate german s17_branch4_r18_bb575f4a_1:
 
     # lpd obsessed "\"......?\" "
-    lpd obsessed ""
+    lpd obsessed "\"......?\" "
 
 # game/script/17_r18.rpy:56
 translate german cg_lpd_h_3cc06676:
 
     # avt "\"......?!\" "
-    avt ""
+    avt "\"......?!\" "
 
 # game/script/17_r18.rpy:60
 translate german cg_lpd_h_287cfefc:
 
     # b "AAAAAAAAAAAAAA— Why'd you have to go and leave.... Help me! \n(...Please.) " with vshake
-    b ""
+    b "AAAAAAAAAAAAAHH- Warum musst du mich damit alleine lassen... Hilf mir! \n(...Bitte.) "
 
 # game/script/17_r18.rpy:65
 translate german cg_lpd_h_3a881c7a:
 
     # avt "\"So, I guess this means... alright...\" "
-    avt ""
+    avt "\"*seufz* Ich denke das heißt... na schön...\" "
 
 # game/script/17_r18.rpy:67
 translate german cg_lpd_h_bb575f4a:
 
     # lpd obsessed "\"...?\" "
-    lpd obsessed ""
+    lpd obsessed "\"...?\" "
 
 # game/script/17_r18.rpy:69
 translate german cg_lpd_h_3d3232de:
 
     # avt "\"I trust you.\" "
-    avt ""
+    avt "\"I vertraue dir.\" "
 
 # game/script/17_r18.rpy:71
 translate german cg_lpd_h_bb575f4a_1:
 
     # lpd obsessed "\"...?\" "
-    lpd obsessed ""
+    lpd obsessed "\"...?\" "
 
 # game/script/17_r18.rpy:73
 translate german cg_lpd_h_53717d6c:
 
     # avt "\"I believe in you.\" "
-    avt ""
+    avt "\"Ich glaube an dich.\" "
 
 # game/script/17_r18.rpy:75
 translate german cg_lpd_h_c26fca8a:
 
     # avt "\"And I hope that you wish... to stay with me.\" "
-    avt ""
+    avt "\"Und ich hoffe dass du dir wünschst... bei mir zu bleiben.\" "
 
 # game/script/17_r18.rpy:77
 translate german cg_lpd_h_c6bf4d85:
 
     # avt "\"I... don't want you just leaving like this. And, well this may sound vague...\" "
-    avt ""
+    avt "\"Ich... will nicht dass du uns so verlässt. Und, nun das klingt schwammig klingen...\" "
 
 # game/script/17_r18.rpy:79
 translate german cg_lpd_h_8ae5a9d1:
 
     # avt "\"But...\" "
-    avt ""
+    avt "\"Aber...\" "
 
 # game/script/17_r18.rpy:81
 translate german cg_lpd_h_d522c340:
 
     # avt "\"I'm scared that after this, things just won't work out so easily.\" "
-    avt ""
+    avt "\"Ich fürchte mich davor dass die Dinge danach nicht so glatt verlaufen werden.\" "
 
 # game/script/17_r18.rpy:83
 translate german cg_lpd_h_881a1d23:
 
     # lpd normal "\"I do my best.... to keep Liao company.\" "
-    lpd normal ""
+    lpd normal "\"Ich tue mein Bestes... um Liao Gesellschaft zu leisten.\" "
 
 # game/script/17_r18.rpy:85
 translate german cg_lpd_h_c5551fea:
 
     # avt "\"Yeah... but working this out normally would just take too much time.\" "
-    avt ""
+    avt "\"Schon klar... aber das zu vertiefen würde normalerweise zu viel Zeit benötigen.\" "
 
 # game/script/17_r18.rpy:87
 translate german cg_lpd_h_2f5868f4:
 
     # avt "\"Lin Hu... I mean Tiger said that there's a... easier way to do this.\" "
-    avt ""
+    avt "\"Lin Hu... ich meine Tiger sagte dass es da... einen leichteren Weg gibt, es zu tun. "
 
 # game/script/17_r18.rpy:89
 translate german cg_lpd_h_bb575f4a_2:
 
     # lpd obsessed "\"...?\" "
-    lpd obsessed ""
+    lpd obsessed "\"...?\" "
 
 # game/script/17_r18.rpy:91
 translate german cg_lpd_h_3deb2205:
 
     # avt "\"And by that...\" "
-    avt ""
+    avt "\"Und damit...\" "
 
 # game/script/17_r18.rpy:93
 translate german cg_lpd_h_bb575f4a_3:
 
     # lpd obsessed "\"...?\" "
-    lpd obsessed ""
+    lpd obsessed "\"...?\" "
 
 # game/script/17_r18.rpy:95
 translate german cg_lpd_h_2430c5ec:
 
     # avt "\"I mean...\" "
-    avt ""
+    avt "\"Meine ich...\" "
 
 # game/script/17_r18.rpy:97
 translate german cg_lpd_h_bb575f4a_4:
 
     # lpd obsessed "\"...?\" "
-    lpd obsessed ""
+    lpd obsessed "\"...?\" "
 
 # game/script/17_r18.rpy:99
 translate german cg_lpd_h_4cd4beec:
 
     # avt "\"We have to do, the thing!\" " with vshake
-    avt "" with vshake
+    avt "\"Wir müssen das Ding machen!\" " with vshake
 
 # game/script/17_r18.rpy:101
 translate german cg_lpd_h_44ebed9e:
 
     # lpd obsessed "\"The thing?\" "
-    lpd obsessed ""
+    lpd obsessed "\"Das Ding?\" "
 
 # game/script/17_r18.rpy:103
 translate german cg_lpd_h_0ebc903d:
 
     # avt "\"...Uhhh, have you read any of the doujins on my shelf?\" "
-    avt ""
+    avt "\"...Ehhh, hast du irgendeins meiner Doujins auf meinem Regal gelesen?\" "
 
 # game/script/17_r18.rpy:105
 translate german cg_lpd_h_7ea30c29:
 
     # lpd normal "\"Yes. Didn't understand.\" "
-    lpd normal ""
+    lpd normal "\"Ja. Habe nicht verstanden.\" "
 
 # game/script/17_r18.rpy:107
 translate german cg_lpd_h_5497b27e:
 
     # avt "\"But... they're mostly pictures... you don't really need to read them.\" "
-    avt ""
+    avt "\"Aber... es sind hauptsächlich Bilder... du musst sie nicht unbedingt lesen.\" "
 
 # game/script/17_r18.rpy:109
 translate german cg_lpd_h_79240943:
 
     # lpd normal "\"Didn't understand... Why would they do that.\" "
-    lpd normal ""
+    lpd normal "\"Verstehe nicht... warum tuen sie das.\" "
 
 # game/script/17_r18.rpy:111
 translate german cg_lpd_h_dbb115ed:
 
     # avt "\"Okay... Now how should I explain this to a spirit...\" "
-    avt ""
+    avt "\"Okay... wie erkläre ich das einem Geist...\" "
 
 # game/script/17_r18.rpy:113
 translate german cg_lpd_h_80223542:
 
     # avt "\"Well...\" "
-    avt ""
+    avt "\"Nun...\" "
 
 # game/script/17_r18.rpy:115
 translate german cg_lpd_h_1a921b3c:
 
     # avt "\"...Would you like to do that with me?\" "
-    avt ""
+    avt "\"...würdest du das mit mir tun wollen?\" "
 
 # game/script/17_r18.rpy:117
 translate german cg_lpd_h_041adac6:
 
     # lpd obsessed "\"Then Liao would trust me?\" "
-    lpd obsessed ""
+    lpd obsessed "\"Dann Liao würde mir vertrauen?\" "
 
 # game/script/17_r18.rpy:119
 translate german cg_lpd_h_72d31298:
 
     # avt "\"It's a little strange, but as long as we trust each other, we should be able to grow closer by doing this.\" "
-    avt ""
+    avt "\"Es ist ein wenig seltsam, aber solange wir uns gegenseitig vertrauen, sollten wir damit noch inniger werden.\" "
 
 # game/script/17_r18.rpy:121
 translate german cg_lpd_h_3951940e:
 
     # lpd normal "\"Grow closer is good. I want to grow closer with Liao.\" "
-    lpd normal ""
+    lpd normal "\"Inniger werden ist gut. Ich möchte inniger werden mit Liao.\" "
 
 # game/script/17_r18.rpy:123
 translate german cg_lpd_h_fab1498e:
 
     # avt "\"Yeah, and if we can get close enough, you should be able to use your powers through my body. Then we can probably track down Senpai.\" "
-    avt ""
+    avt "\"Richtig, und wenn wir innig genug werden, solltest du in der Lage sein deine Kräfte durch meinen Körper zu verwenden. Dann können wir möglicherweise Senpai aufspüren.\" "
 
 # game/script/17_r18.rpy:129
 translate german cg_lpd_h_e00a3809:
 
     # lpd normal "\"...Yes. I want to do that for Liao.\" "
-    lpd normal ""
+    lpd normal "\"...Ja. Ich will das tun für Liao.\" "
 
 # game/script/17_r18.rpy:134
 translate german cg_lpd_h_ef7de2ee:
 
     # b "Really! "
-    b ""
+    b "Wirklich! "
 
 # game/script/17_r18.rpy:136
 translate german cg_lpd_h_f9452617:
 
     # b "Even with his kind words, I sort of feel like I'm forcing this on him... "
-    b ""
+    b "Trotz seiner freundlichen Worte fühlt es sich an, als würde ich ihn dazu zwingen... "
 
 # game/script/17_r18.rpy:138
 translate german cg_lpd_h_b1bdef3f:
 
     # b "But hearing him be so willing to help me... it makes me happy. "
-    b ""
+    b "Aber zu hören dass er mir so gern helfen will... das freut mich sehr. "
 
 # game/script/17_r18.rpy:140
 translate german cg_lpd_h_7b8fe5f2:
 
     # avt "\"Then...\" "
-    avt ""
+    avt "\"Dann...\" "
 
 # game/script/17_r18.rpy:142
 translate german cg_lpd_h_42225cae:
 
     # avt "\"Uhh... we...\" "
-    avt ""
+    avt "\"Ehh... wir...\" "
 
 # game/script/17_r18.rpy:144
 translate german cg_lpd_h_cdc45d34:
 
     # avt "\"Let's make love?\" "
-    avt ""
+    avt "\"Lass uns Liebe machen?\" "
 
 # game/script/17_r18.rpy:146
 translate german cg_lpd_h_597c4258:
 
     # lpd normal "\"I want to make love with Liao.\" "
-    lpd normal ""
+    lpd normal "\"Ich will Liebe machen mit Liao.\" "
 
 # game/script/17_r18.rpy:149
 translate german cg_lpd_h_447abf6a:
 
     # b "Woah! " with vshake
-    b "" with vshake
+    b "Boah! " with vshake
 
 # game/script/17_r18.rpy:151
 translate german cg_lpd_h_7a16b2a2:
 
     # b "He really said that! "
-    b ""
+    b "Er hat es wirklich gesagt! "
 
 # game/script/17_r18.rpy:156
 translate german cg_lpd_h_1f033526:
 
     # b "And before I know it he's already undressing himself before me! "
-    b ""
+    b "Und bevor ich es realisierte, hat er sich schon vor mir ausgezogen! "
 
 # game/script/17_r18.rpy:158
 translate german cg_lpd_h_07c125e4:
 
     # b "Actually he's taking everything off bit-by-bit... It's kinda hot even though I know back at the hot springs he was able to take his clothes off instantly. "
-    b ""
+    b "Er zieht sich wirklich Stück für Stück aus... Es ist ziemlich geil, auch wenn ich wei dass es bei den heißen Badequellen in der Lage war, seine Kleidung sofort verschwinden zu lassen. "
 
 # game/script/17_r18.rpy:160
 translate german cg_lpd_h_788d624d:
 
     # b "Waaaait a minute... What he's doing right now is just copying scenes from my \ndoujinshi! "
-    b ""
+    b "Waaarte mal... Er macht doch gerade die Szenen aus meinen \nDoujinshi nach! "
 
 # game/script/17_r18.rpy:162
 translate german cg_lpd_h_ddcaa39c:
 
     # b "I mean... not that I'm complaining. "
-    b ""
+    b "Ich mein... nicht dass ich mich beschweren würde. "
 
 # game/script/17_r18.rpy:164
 translate german cg_lpd_h_b0fe8822:
 
     # b "It's way better than trying to coach him though this stuff. "
-    b ""
+    b "Das macht es durchaus besser als wenn ich ihm das ganze Zeug erklären muss. "
 
 # game/script/17_r18.rpy:166
 translate german cg_lpd_h_6d82dee0:
 
     # b "But watching him do this all without a second thought... "
-    b ""
+    b "Aber ihm dabei zuzusehen, wie er das alles macht, ohne dass er es zweideutig denkt... "
 
 # game/script/17_r18.rpy:168
 translate german cg_lpd_h_c0eb2d56:
 
     # b "Arrrrgh— I'm all flustered thinking about it! "
-    b ""
+    b "Arrrgh- Der Gedanke macht mich total verrückt! "
 
 # game/script/17_r18.rpy:173
 translate german cg_lpd_h_f3e6fd32:
 
     # b "While I was daydreaming, Leopard had already removed his upper half. His fuzzy chest bare before me. "
-    b ""
+    b "In meinen Tagträumen war Nebelparder schon oben ohne, sein nackter Oberkörper verschommen vor mir. "
 
 # game/script/17_r18.rpy:175
 translate german cg_lpd_h_9cbb5bcb:
 
     # lpd_naked obsessed "\"Liao... you not need to take clothes off?\" "
-    lpd_naked obsessed ""
+    lpd_naked obsessed "\"Liao...du musst deine Kleidung nicht ablegen?\"
 
 # game/script/17_r18.rpy:177
 translate german cg_lpd_h_097d31f9:
 
     # avt "\"Oh yeah! I-{w=0.2}I... I do.\" " with vshake
-    avt "" with vshake
+    avt "\"Oh ja! M-{w=0.2}Mache...Mache ich.\" " with vshake
 
 # game/script/17_r18.rpy:182
 translate german cg_lpd_h_ed8217d3:
 
     # b "Embarrassed, I avoid meeting Leopard's eyes with mine and proceed to remove my clothes. Then I crawl myself over to the bed, hiding under the quilt. "
-    b ""
+    b "Peinlich berührt vermeide ich Nepelparder in die Augen zu schauen und zog dabei meine Klamotten aus. Dann verkrieche ich mich rüber ins Bett, versteckt und der Bettdecke. "
 
 # game/script/17_r18.rpy:185
 translate german cg_lpd_h_213cc731:
 
     # b "Following my lead, Leopard lies above me on the bed, held up by his arms and looking down at me through the quilt. "
-    b ""
+    b "Nebelparder folgt mir und legt sich über mich ins Bett. Er hält seine Arme hoch und schaut auf mich durch die Bettdecke durch. "
 
 # game/script/17_r18.rpy:187
 translate german cg_lpd_h_c556e2a6:
 
     # avt "\"Well... we...\" "
-    avt ""
+    avt "\"Nun... wir...\" "
 
 # game/script/17_r18.rpy:189
 translate german cg_lpd_h_d426488a:
 
     # lpd_naked obsessed "\"Does Liao want to do it in bed?\" "
-    lpd_naked obsessed ""
+    lpd_naked obsessed "\"Will Liao es im Bett tun?\" "
 
 # game/script/17_r18.rpy:191
 translate german cg_lpd_h_3b23b615:
 
     # avt "\"Um...\" "
-    avt ""
+    avt "\"Ehm...\" "
 
 # game/script/17_r18.rpy:193
 translate german cg_lpd_h_58e646b2:
@@ -1099,4 +1099,3 @@ translate german cg_lpd_h_0aa42cf4:
 
     # b "I find myself lying on the bed, and as if by instinct I raise my head like a feline. "
     b ""
-
