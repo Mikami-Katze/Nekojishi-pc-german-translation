@@ -166,7 +166,7 @@ translate german cg_lpd_h_c26fca8a:
 translate german cg_lpd_h_c6bf4d85:
 
     # avt "\"I... don't want you just leaving like this. And, well this may sound vague...\" "
-    avt "\"Ich... will nicht dass du uns so verlässt. Und, nun das klingt schwammig klingen...\" "
+    avt "\"Ich... will nicht dass du uns so verlässt. Und, nun das könnte schwammig klingen...\" "
 
 # game/script/17_r18.rpy:79
 translate german cg_lpd_h_8ae5a9d1:
