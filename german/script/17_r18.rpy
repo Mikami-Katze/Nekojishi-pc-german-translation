@@ -464,7 +464,7 @@ translate german cg_lpd_h_097d31f9:
 translate german cg_lpd_h_ed8217d3:
 
     # b "Embarrassed, I avoid meeting Leopard's eyes with mine and proceed to remove my clothes. Then I crawl myself over to the bed, hiding under the quilt. "
-    b "Peinlich berührt vermeide ich Nepelparder in die Augen zu schauen und zog dabei meine Klamotten aus. Dann verkrieche ich mich rüber ins Bett, versteckt und der Bettdecke. "
+    b "Peinlich berührt vermeide ich Nepelparder in die Augen zu schauen und ziehe dabei meine Klamotten aus. Dann verkrieche ich mich rüber ins Bett, versteckt unter der Bettdecke. "
 
 # game/script/17_r18.rpy:185
 translate german cg_lpd_h_213cc731:
