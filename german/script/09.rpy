@@ -4,7 +4,7 @@
 translate german s09_9fa3c06e:
 
     # b "Following Tiger's directions, we arrive at a park near Senpai's house in Keelung. "
-    b "Durch das Folgen der Anweisungen von Tiger, erreichen wir einen Park, der in der Nähe von Senpai's Haus in Keelung liegt. "
+    b ""
 
 # game/script/09.rpy:27
 translate german s09_1fb7122e:
