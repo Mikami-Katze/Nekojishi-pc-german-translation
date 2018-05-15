@@ -82,7 +82,7 @@ translate german s17_branch4_r18_ad3b0716:
     # voice voice_file.tig("17L",4)
     # tig embarrassed "\"Don't just glare at me! You know what I mean! I'd rather not have to say it...\" "
     voice voice_file.tig("17L",4)
-    tig embarrassed "\"Starr mich nicht so an! Du weist was ich meine! Ich will ich es nicht aussprechen müssen...\" "
+    tig embarrassed "\"Starr mich nicht so an! Du weist was ich meine! Ich will es nicht aussprechen müssen...\" "
 
 # game/script/17_r18.rpy:30
 translate german s17_branch4_r18_a67e931e:
@@ -452,7 +452,7 @@ translate german cg_lpd_h_9cbb5bcb:
     # voice voice_file.lpd("17L",9)
     # lpd_naked obsessed "\"Liao... you not need to take clothes off?\" "
     voice voice_file.lpd("17L",9)
-    lpd_naked obsessed "\"Liao...du musst deine Kleidung nicht ablegen?\"
+    lpd_naked obsessed "\"Liao...du musst deine Kleidung nicht ablegen?\" "
 
 # game/script/17_r18.rpy:177
 translate german cg_lpd_h_097d31f9:

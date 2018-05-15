@@ -18,7 +18,7 @@ translate german s09_f25423fe:
     # voice voice_file.lpd(9,1)
     # lpd normal "\"...Over there, mansion.\" "
     voice voice_file.lpd(9,1)
-    lpd normal "\"...Dort drüben, Villa.\" ""
+    lpd normal "\"...Dort drüben, Villa.\" "
 
 # game/script/09.rpy:34
 translate german s09_17bfe965:
@@ -46,7 +46,7 @@ translate german s09_f50d5c42:
     # voice voice_file.tig(9,2)
     # tig normal "\"What, will you charge right into his house? At the very least it's rude and it could even be dangerous. Honestly...\" "
     voice voice_file.tig(9,2)
-    tig normal "\""Was, willst du einfach so in sein Haus stürmen? Das wäre zumindest sehr unhöflich und könnte sogar gefährlich sein. Also mal ehrlich...\" "
+    tig normal "\"Was, willst du einfach so in sein Haus stürmen? Das wäre zumindest sehr unhöflich und könnte sogar gefährlich sein. Also mal ehrlich...\" "
 
 # game/script/09.rpy:43
 translate german s09_98d23589:
@@ -69,7 +69,7 @@ translate german s09_a2487170:
     # tig normal "\"You yourself are unable to fight. I couldn't just let you waltz in there.\" "
     # tig normal "\"Now that you have brought my statue here, you may leave the rest up to us...\" "
     voice voice_file.tig(9,4)
-    tig normal "\"Du allein bist nicht fähig zu kämpfen. Ich kann dich doch dort nicht einfach hineinlaufen lassen.\" "	
+    tig normal "\"Du allein bist nicht fähig zu kämpfen. Ich kann dich doch dort nicht einfach hineinlaufen lassen.\" "
     tig normal "\"Nun, da du meine Statue hergebracht hast, kannst du den Rest uns überlassen...\" "
 
 # game/script/09.rpy:55
@@ -100,7 +100,7 @@ translate german s09_aea11c58:
     # voice voice_file.lpd(9,2)
     # lpd normal "\"Yes.\" "
     voice voice_file.lpd(9,2)
-    lpd normal "\"Ja.\" " 
+    lpd normal "\"Ja.\" "
 
 # game/script/09.rpy:65
 translate german s09_a26e1cff:
@@ -243,7 +243,7 @@ translate german s09_df2fd6df:
 
     # b "So they didn't really need me after all... "
     # b "I mean at least I {i}had{/i} \ to bring Tiger's statue, there's no way that Leopard could have brought it all the way here... "
-    b "Also brauchten sie mich am Ende überhaupt nicht..."	
+    b "Also brauchten sie mich am Ende überhaupt nicht..."
     b "Ich mein zumindest, {i}brachte{/i} \ ich Tiger's Statue, es gibt keine Möglichkeit, dass Leopard sie den ganzen Weg hierher bringen könnte... "
 
 # game/script/09.rpy:129
@@ -315,8 +315,8 @@ translate german s09_887c8a4b:
     # lagu laugh "\"Didn't you ask your family's guardian tiger to go find that boyfriend of yours? He used a bunch of contacts and resources to make it happen, it'd be hard for word {i}not{/i} \ to get out.\" "
     # lagu laugh "\"And now he's charging in there to rescue the one you care about so much... You can't expect me to believe he's just a {i}normal{/i} \ friend of yours now can you?\" "
     voice voice_file.lagu(9,5)
-    lagu laugh "\"Hast du nicht deinen Familien Wächtertiger gebeten, dass er deinen Freund findet? Er hat viele Kontakte und Ressourcen benutzt um dies zu ermöglichen, es wäre sehr schwer {i}nicht{\i} \ aufzufliegen.\" "  
-    lagu laugh "\"Und nun stürmt er dort hinein, um den zu retten, um den du dich so sehr kümmerst... Du kannst mir doch nicht weismachen, dass er nur ein {i}normaler{\i} \ Freund von dir ist, oder doch?
+    lagu laugh "\"Hast du nicht deinen Familien Wächtertiger gebeten, dass er deinen Freund findet? Er hat viele Kontakte und Ressourcen benutzt um dies zu ermöglichen, es wäre sehr schwer {i}nicht{\i} \ aufzufliegen.\" "
+    lagu laugh "\"Und nun stürmt er dort hinein, um den zu retten, um den du dich so sehr kümmerst... Du kannst mir doch nicht weismachen, dass er nur ein {i}normaler{\i} \ Freund von dir ist, oder doch?\" "
 
 # game/script/09.rpy:161
 translate german s09_ba015a4c:
@@ -354,8 +354,7 @@ translate german s09_ed4ec266:
     # voice voice_file.lagu(9,9)
     # lagu laugh "\"Whahaha— I got it, I got it. That other boyfriend of yours thought you might get bored on your own, so he asked me to come wait with you.\" "
     voice voice_file.lagu(9,9)
-    lagu laugh "\"Wahaha- Ich habs kapiert, Ich habs kapiert. Dieser andere Freund von dir dachte, dass dir langweilig wird wenn du alleine bist, also hat er mich gebeten mit dir gemeinsam zu warten.\ " "
-
+    lagu laugh "\"Wahaha- Ich habs kapiert, Ich habs kapiert. Dieser andere Freund von dir dachte, dass dir langweilig wird wenn du alleine bist, also hat er mich gebeten mit dir gemeinsam zu warten.\" "
 # game/script/09.rpy:174
 translate german s09_2fbf47c7:
 
@@ -376,13 +375,13 @@ translate german s09_44cd74c9:
     # voice voice_file.lagu(9,12)
     # lagu normal "\"Yes. Yep. They cared so much about you that they ran around all over town just for you. If that's not the dedication of a boyfriend, I don't know what is.\" "
     voice voice_file.lagu(9,12)
-    lagu normal "\"Ja. Jup. Sie haben sich so sehr um dich gesorgt, weswegen sie durch die ganze Stadt gerannt sind nur für dich. Also wenn das mal kein Einsatz von einem Freund ist, dann weiß ich auch nicht mehr was es sein soll\ " "
+    lagu normal "\"Ja. Jup. Sie haben sich so sehr um dich gesorgt, weswegen sie durch die ganze Stadt gerannt sind nur für dich. Also wenn das mal kein Einsatz von einem Freund ist, dann weiß ich auch nicht mehr was es sein soll\" "
 
 # game/script/09.rpy:190
 translate german s09_2166e7b1_1:
 
     # avt "\"......\" "
-    avt "\"......\ " "
+    avt "\"......\" "
 
 # game/script/09.rpy:192
 translate german s09_5e8bed51:
@@ -396,13 +395,13 @@ translate german s09_487a5755:
     # voice voice_file.lagu(9,14)
     # lagu laugh "\"Well if they aren't your boyfriend, what are they? Your obedient dog? ...That's just disrespectful.\" "
     voice voice_file.lagu(9,14)
-    lagu laugh "\"Nun wenn sie nicht deine Freunde sind, was sind sie dann? Deine gehorsamen Hunde? ...Das ist einfach nur respektlos.\" ""
+    lagu laugh "\"Nun wenn sie nicht deine Freunde sind, was sind sie dann? Deine gehorsamen Hunde? ...Das ist einfach nur respektlos.\" "
 
 # game/script/09.rpy:197
 translate german s09_29f065c7:
 
     # avt "\"PLEASE STOP TALKING ALREADY!\" " with vshake
-    avt "\"BITTE KÖNNTEST DU AUFHÖREN ZU REDEN!\ " " with vshake
+    avt "\"BITTE KÖNNTEST DU AUFHÖREN ZU REDEN!\" " with vshake
 
 # game/script/09.rpy:199
 translate german s09_c29ec968:
@@ -416,7 +415,7 @@ translate german s09_c29ec968:
 translate german s09_287b8ab9:
 
     # avt "\"Can you look after me {i}without{/i} \ talking?\" "
-    avt "\"Kannst du auf mich aufpassen  {i}ohne{\i} \ mit mir zu sprechen?\" "
+    avt "\"Kannst du auf mich aufpassen {i}ohne{\i} \ mit mir zu sprechen?\" "
 
 # game/script/09.rpy:203
 translate german s09_a34fb085:
@@ -424,7 +423,7 @@ translate german s09_a34fb085:
     # voice voice_file.lagu(9,16)
     # lagu normal "\"Th— Well that's not my idea of looking after someone but yeah, sure. I'll keep silent if that's what you want kiddo.\" "
     voice voice_file.lagu(9,16)
-    lagu normal "\"Da- Nun, das entspricht nicht meiner Vorstellung auf jemanden aufzupassen aber ok, gerne. Ich werde leise sein, wenn das das ist was du willst Kleiner.\" " 
+    lagu normal "\"Da- Nun, das entspricht nicht meiner Vorstellung auf jemanden aufzupassen aber ok, gerne. Ich werde leise sein, wenn das das ist was du willst Kleiner.\" "
 
 # game/script/09.rpy:205
 translate german s09_979b2756:
@@ -709,7 +708,7 @@ translate german s09_105595a4:
     # voice voice_file.lpdcat(9,16)
     # lpdcat wronged "\"If I told you...\" "
     voice voice_file.lpdcat(9,16)
-    lpdcat wronged "\"Falls ich dir erzählen würde...\" " 
+    lpdcat wronged "\"Falls ich dir erzählen würde...\" "
 
 # game/script/09.rpy:345
 translate german s09_3e0aeefb:
@@ -775,7 +774,7 @@ translate german s09_02_agree_446c6aab:
 translate german s09_02_agree_dd9eb733:
 
     # avt "\"Senpaaaaai— Where are we going?\" "
-    avt "\"Senpaaaaai- Wo gehen wir hin?\ " "
+    avt "\"Senpaaaaai- Wo gehen wir hin?\" "
 
 # game/script/09.rpy:407
 translate german s09_02_agree_247ab7c3:
@@ -819,7 +818,7 @@ translate german s09_02_agree_318a9558:
     # voice voice_file.lpdcat(9,22)
     # lpdcat laugh "\"Fall-ing into my world~ ♪\" "
     voice voice_file.lpdcat(9,22)
-    lpdcat laugh "\" Fal-le in meine Welt~ ♪\" "
+    lpdcat laugh "\" Fal-le in meine Welt~♪\" "
 
 # game/script/09.rpy:425
 translate german s09_02_agree_35aef658:
@@ -869,13 +868,13 @@ translate german s09_02_agree_97da729f:
     # voice voice_file.lpdcat(9,25)
     # lpdcat normal "\"Sometimes, it's kinda nice to just walk around in the rain.\" "
     voice voice_file.lpdcat(9,25)
-    lpdcat normal "\"Manchmal ist es irgendwie sehr angenehm, einfach im Regen herumzulaufen.\" " 
+    lpdcat normal "\"Manchmal ist es irgendwie sehr angenehm, einfach im Regen herumzulaufen.\" "
 
 # game/script/09.rpy:443
 translate german s09_02_agree_6f808557:
 
     # avt "\"You really can't feel the cold can you Senpai? You're not even wearing a jacket.\" "
-    avt "\"Du kannst die Kälte wirklich nicht spüren oder Senpai? Du trägst nicht mal eine Jacke.\ " "
+    avt "\"Du kannst die Kälte wirklich nicht spüren oder Senpai? Du trägst nicht mal eine Jacke.\" "
 
 # game/script/09.rpy:451
 translate german s09_02_agree_3a7510e4:
@@ -961,7 +960,7 @@ translate german s09_02_agree_55f5262a:
 translate german s09_02_agree_287606cc:
 
     # avt "\"Senpai, you don't need to feel sorry. You can come back soon, right?\" "
-    avt "\"Senpai, es muss dir nicht Leid tun. Du kannst ja bald wieder zurückkommen oder?\" " 
+    avt "\"Senpai, es muss dir nicht Leid tun. Du kannst ja bald wieder zurückkommen oder?\" "
 
 # game/script/09.rpy:482
 translate german s09_02_agree_cba5e882:
@@ -1053,7 +1052,7 @@ translate german s09_02_disagree_698f6e5e:
 translate german s09_02_disagree_e064054a:
 
     # avt "\"But how would we know when they'll get back...\" "
-    avt "\"Aber wie würden wir dann bemerken, wenn sie wieder zurückkommen...\" " 
+    avt "\"Aber wie würden wir dann bemerken, wenn sie wieder zurückkommen...\" "
 
 # game/script/09.rpy:566
 translate german s09_02_disagree_31ba30a0:
@@ -1145,7 +1144,7 @@ translate german s09_02_disagree_148960f0:
     # voice voice_file.lpdcat(9,44)
     # lpdcat difficult "\"Hey, sorry about that. They're really just doing their jobs as guardians.\" "
     voice voice_file.lpdcat(9,44)
-    lpdcat difficult "\"Hey, entschuldigt wegen alldem. Sie erledigen wirklich nur ihre Arbeit als Wächter.\" " 
+    lpdcat difficult "\"Hey, entschuldigt wegen alldem. Sie erledigen wirklich nur ihre Arbeit als Wächter.\" "
 
 # game/script/09.rpy:601
 translate german s09_02_disagree_c921af2e:

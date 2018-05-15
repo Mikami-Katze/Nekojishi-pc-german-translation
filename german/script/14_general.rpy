@@ -478,7 +478,7 @@ translate german cg_reveal_feelings_tig_0350b20e:
 translate german cg_reveal_feelings_tig_9fe315cf:
 
     # avt "\"No, It's just that wording, it would usually infer something else...\" "
-    avt "\"Nein, es geht um die Wortwahl. Es würde normalerweise was Anderes draus folgern...\"
+    avt "\"Nein, es geht um die Wortwahl. Es würde normalerweise was Anderes draus folgern...\" "
 
 # game/script/14_general.rpy:195
 translate german cg_reveal_feelings_tig_be48297b:

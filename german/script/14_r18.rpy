@@ -232,7 +232,7 @@ translate german cg_tig_h_b210c4e8:
     # b "As you could guess from being a tiger, his tongue is prickly so it hurts a little bit... I back off slightly, focusing on licking around his lips. "
     b "Es war anfangs schwer mit der Größe seiner Lippen klar zu kommen, aber ich gab mein Bestes um mit meiner Zunge in seinen Mund einzudringen und innen entlang zu fahren. "
     b "Er erwidert indem er Zunge gegen meine entlangreibt. "
-    b "Wie man von einem Tiger erwarten kann, ist seine Zunge stachlig und tat etwas weh... Ich wich seitlich aus und fokussiere mich auf den Bereich um seinen Lippen.
+    b "Wie man von einem Tiger erwarten kann, ist seine Zunge stachlig und tat etwas weh... Ich wich seitlich aus und fokussiere mich auf den Bereich um seinen Lippen. "
 
 # game/script/14_r18.rpy:94
 translate german cg_tig_h_47e152c6:
@@ -744,7 +744,7 @@ translate german cg_tig_h_3d892ee6:
 translate german cg_tig_h_d31d7f31:
 
     # b "He continues thrusting into me. Stimulated to the point where every motion against me feels amazing. "
-    b ""Er stößt weiter in mich. So weit dass sich mittlerweile jede Bewegung gegen mich unglaublich anfühlt.
+    b "Er stößt weiter in mich. So weit dass sich mittlerweile jede Bewegung gegen mich unglaublich anfühlt. "
 
 # game/script/14_r18.rpy:296
 translate german cg_tig_h_43d30830:
