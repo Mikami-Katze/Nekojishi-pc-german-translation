@@ -12,7 +12,7 @@ translate german s17_branch4_r18_2cf81efc:
     # voice  voice_file.tig("17N",1)
     # tig frown "\"If I must say it— Leopard needs to amplify his powers. In order to accomplish this an oracle needs to act as his conduit. You are suitable for this role. But as I described before...\" "
     voice  voice_file.tig("17N",1)
-    tig frown "\"Dann sag ich es eben- Nebelparder muss seine Energie verstärken. Dafür muss ein Orakel als Leitung fungieren. Du wärst dafür geeignet. Aber wie ich bereits beschrieb...\" "
+    tig frown "\"Dann sag ich es eben- Likulau muss seine Energie verstärken. Dafür muss ein Orakel als Leitung fungieren. Du wärst dafür geeignet. Aber wie ich bereits beschrieb...\" "
 
 # game/script/17_r18.rpy:7
 translate german s17_branch4_r18_d89429e7:
@@ -20,7 +20,7 @@ translate german s17_branch4_r18_d89429e7:
     # voice  voice_file.tig("17N",2)
     # tig frown "\"You need to trust Leopard and allow him to release his power... through your body. Which involves...\" "
     voice  voice_file.tig("17N",2)
-    tig frown "\"Du musst Nebelparder vertrauen und ihm erlauben seine Kraft... durch deinen Körper zu entlassen. Was bedeutet...\" "
+    tig frown "\"Du musst Likulau vertrauen und ihm erlauben seine Kraft... durch deinen Körper zu entlassen. Was bedeutet...\" "
 
 # game/script/17_r18.rpy:9
 translate german s17_branch4_r18_65181481:
@@ -470,7 +470,7 @@ translate german cg_lpd_h_ed8217d3:
 translate german cg_lpd_h_213cc731:
 
     # b "Following my lead, Leopard lies above me on the bed, held up by his arms and looking down at me through the quilt. "
-    b "Nebelparder folgt mir und legt sich über mich ins Bett. Er hält seine Arme hoch und schaut auf mich durch die Bettdecke durch. "
+    b "Nebelparder folgt mir und legt sich über mich ins Bett. Er hält seine Arme hoch und schaut mich durch die Bettdecke an. "
 
 # game/script/17_r18.rpy:187
 translate german cg_lpd_h_c556e2a6:
@@ -496,73 +496,73 @@ translate german cg_lpd_h_3b23b615:
 translate german cg_lpd_h_58e646b2:
 
     # b "It's not impossible but it would probably get in the way. Besides as a spirit he'd probably just go through it and it'd be weird. "
-    b ""
+    b "Unmöglich wäre es nicht, aber es würde im Weg sein. Als Geist würde er eh durch die Bettdecke kommen und das sähe komisch aus. "
 
 # game/script/17_r18.rpy:195
 translate german cg_lpd_h_5ed11b19:
 
     # avt "\"We should do it on top of the bed...\" "
-    avt ""
+    avt "\"Wir sollten es auf dem Bett tun...\" "
 
 # game/script/17_r18.rpy:198
 translate german cg_lpd_h_8aba6bb0:
 
     # b "I crawl out of my fortress, but still retain some cover, using a pillow to obscure my \nbody. "
-    b ""
+    b "Ich krabbel aus meiner Festung raus, aber halte mich teilweise dennoch bedeckt indem ich meinen \nKörper mit einem Kissen verdecke. "
 
 # game/script/17_r18.rpy:200
 translate german cg_lpd_h_a3c1884b:
 
     # lpd_naked normal "\"......\" "
-    lpd_naked normal ""
+    lpd_naked normal "\"......\" "
 
 # game/script/17_r18.rpy:203
 translate german cg_lpd_h_8b5d5b60:
 
     # b "I wondered what was going to happen next. Suddenly Leopard closes the gap between us, cups my chin with his paw and pushes my face upwards to look at his. "
-    b ""
+    b "Ich fragte mich, was als Nächstes passieren wird. Plötzlich kommt Likulau dich an mich heran, umfasst mein Kinn mit seiner Pfote und hebt meinen Kopf sodass ich in sein Gesicht schaue. "
 
 # game/script/17_r18.rpy:205
 translate german cg_lpd_h_12a95f3b:
 
     # b "Leaving me no time to react, he kisses me, pressing his lips to mine." with flash
-    b "" with flash
+    b "Ohne mir Zeit für eine Reaktion zu lassen küsst er mich, seine Lippen an meine drückend. " with flash
 
 # game/script/17_r18.rpy:207
 translate german cg_lpd_h_7efc181c:
 
     # b "I was too shocked to move. Where did he learn this?!"
-    b ""
+    b "Ich war zu erstaunt um mich zu bewegen. Wo hat er das gelernt?!"
 
 # game/script/17_r18.rpy:209
 translate german cg_lpd_h_0b52814d:
 
     # b "Our tongues intertwined. The prickly touch of his tongue against mine makes me flinch, but that doesn't stop him from reaching in deeper. "
-    b ""
+    b "Unsere Zungen umschlingen sich. Das stacheln seiner Zunge geben meine lässt mich zusammenzucken aber das hält ihn nicht davon ab, tiefer in mich einzudringen. "
 
 # game/script/17_r18.rpy:216
 translate german cg_lpd_h_630c33d1:
 
     # b "Leopard takes my mouth as his own— half a minute passes before his lips leave mine. Those lips then move downwards to nibble my neck gently. "
-    b ""
+    b "Likulau nimmt meinen Mund ein- eine halbe Minute verstreicht bevor er seine Lippen von mir lässt. Sie bewegen sich langsam meinen Nacken entlang, knabbern sanft an ihm. "
 
 # game/script/17_r18.rpy:218
 translate german cg_lpd_h_6a15380c:
 
     # b "I cant help but start panting as his teeth tease my sensitive flesh. "
-    b ""
+    b "Ich kann nicht anders als vor Lust zu hecheln als seine Zähne mein weiches Fleisch knabbern. "
 
 # game/script/17_r18.rpy:220
 translate german cg_lpd_h_e434b1fe:
 
     # avt "\"Hey... Kulau... where did you... learn all this...\" " with vshake
-    avt "" with vshake
+    avt "\"Hey...Liku...wo hast du... das alles gelernt...\" " with vshake
 
 # game/script/17_r18.rpy:222
 translate german cg_lpd_h_7fd0c29a:
 
     # lpd_naked Rnormal "\"...?\" "
-    lpd_naked Rnormal ""
+    lpd_naked Rnormal "\"...?\" "
 
 # game/script/17_r18.rpy:224
 translate german cg_lpd_h_d61c2e13:
@@ -570,13 +570,13 @@ translate german cg_lpd_h_d61c2e13:
     # voice voice_file.lpd("17L",11)
     # lpd_naked Rnormal "\"Is this... not making love?\" "
     voice voice_file.lpd("17L",11)
-    lpd_naked Rnormal ""
+    lpd_naked Rnormal "\"Ist es... nicht Liebe machen?\" "
 
 # game/script/17_r18.rpy:226
 translate german cg_lpd_h_88cedddf:
 
     # avt "\"Yeah, it really is... but how do you know to do this stuff?!\" " with vshake
-    avt "" with vshake
+    avt "\"Ja, das schon... aber woher kennst du dich damit so gut aus?!\" " with vshake
 
 # game/script/17_r18.rpy:228
 translate german cg_lpd_h_fece8720:
@@ -584,37 +584,37 @@ translate german cg_lpd_h_fece8720:
     # voice voice_file.lpd("17L",12)
     # lpd_naked Rnormal "\"I follow the many books on shelf.\" "
     voice voice_file.lpd("17L",12)
-    lpd_naked Rnormal ""
+    lpd_naked Rnormal "\"Ich befolge die vielen Bücher auf Bücherregal.\" "
 
 # game/script/17_r18.rpy:230
 translate german cg_lpd_h_8ce150ac:
 
     # b "That explains why he's so gung-ho! "
-    b ""
+    b "Das erklärt warum er so wild ist! "
 
 # game/script/17_r18.rpy:232
 translate german cg_lpd_h_17174156:
 
     # avt "\"Ahh—\" "
-    avt ""
+    avt "\"Ahh~\" "
 
 # game/script/17_r18.rpy:234
 translate german cg_lpd_h_5b272055:
 
     # b "Before I could say anything, Leopard slides his prickly tongue across my collarbone. If he really did learn this from my doujins I have a pretty good idea about what's coming next... "
-    b ""
+    b "Bevor ich etwas sagen konnte, schleckt Likulau mit seiner stacheligen Zunge mein Schlüsselbein entlang. Wenn er das wirklich von meinen Doujinhis gelernt hat, was ich ziemlich gut was als Nächstes kommt... "
 
 # game/script/17_r18.rpy:236
 translate german cg_lpd_h_a65ec659:
 
     # b "He starts to attack my nipple. The feeling of teeth teasing my sensitive flesh... I can't stop my body from struggling beneath him. "
-    b ""
+    b "Er fängt an, mit meinen Nippeln zu spielen. Das Gefühl seiner Zähne die an der Spitze nagen... ich kann meinen Körper unter ihm nicht kontrollieren. "
 
 # game/script/17_r18.rpy:238
 translate german cg_lpd_h_b539dc73:
 
     # b "Leopard ignores my movements, solely focused on attacking my nipples. He doesn't even lift his head until he's satisfied working both sides of my chest. "
-    b ""
+    b "Likulau ignoriert meine Bewegungen, ausschließlich auf meine Nippel fokussiert. Er hebt nicht mal seinen Kopf bis er mit seiner Arbeit auf beiden Seiten meiner Brust zufrieden ist. "
 
 # game/script/17_r18.rpy:240
 translate german cg_lpd_h_a0b080e0:
@@ -622,25 +622,25 @@ translate german cg_lpd_h_a0b080e0:
     # voice voice_file.lpd("17L",13)
     # lpd_naked Rnormal "\"Liao, top or bottom?\" "
     voice voice_file.lpd("17L",13)
-    lpd_naked Rnormal ""
+    lpd_naked Rnormal "\"Liao, Oben oder Unten?\" "
 
 # game/script/17_r18.rpy:242
 translate german cg_lpd_h_f67abaf6:
 
     # b "Oh yeah we do have to work that out... AND HOW DO YOU KNOW THAT MUCH! "
-    b ""
+    b "Oh ja, das muss noch geklärt werden... UND WOHER WEIST DU DAS ALLES!? "
 
 # game/script/17_r18.rpy:244
 translate german cg_lpd_h_d17898f9:
 
     # b "Umm... Well going by my experience with Lin Hu, going bottom won't hurt... "
-    b ""
+    b "Ehmm... nun, nach meinen Erfahrungen mit Lin Hu wäre Unten liegen nicht verkehrt... "
 
 # game/script/17_r18.rpy:246
 translate german cg_lpd_h_a9538a3c:
 
     # avt "\"...Bottom.\" "
-    avt ""
+    avt "\"...Unten.\" "
 
 # game/script/17_r18.rpy:248
 translate german cg_lpd_h_b80edf63:
@@ -648,37 +648,37 @@ translate german cg_lpd_h_b80edf63:
     # voice voice_file.lpd("17L",14)
     # lpd_naked Rnormal "\"Okay.\" "
     voice voice_file.lpd("17L",14)
-    lpd_naked Rnormal ""
+    lpd_naked Rnormal "\"Okay.\" "
 
 # game/script/17_r18.rpy:253
 translate german cg_lpd_h_21439f45:
 
     # b "Leopard suddenly lifts one of my legs up with one paw and holds my body with the other. His shorts are gone. I guess doujins don't really focus on that part so he probably figured they just disappeared. "
-    b ""
+    b "Likulau hält ein Bein von mir mit einer Pfote hoch, den Rest meines Körpers mit der Anderen. Seine Hose ist verschwunden. Ich denke mal weil Doujinshis sich auf den Teil nicht fokussieren, vermutete er wohl dass sie einfach verschwinden."
 
 # game/script/17_r18.rpy:255
 translate german cg_lpd_h_277b9f2b:
 
     # b "I look down... His dick is already hard and aimed at my butt. Is he going to put it inside already?! "
-    b ""
+    b "Ich schaue nach unten... sein Schwanz ist schon hart und zielt auf meinen Hintern. Wird er ihn jetzt schon in mich reinstecken?! "
 
 # game/script/17_r18.rpy:257
 translate german cg_lpd_h_1278afe3:
 
     # b "Woah, too fast! He can't just do everything like this is some doujinshi! "
-    b ""
+    b "Woah, das geht zu schnell! Er kann nicht alles so machen, als seien wir in einem Doujinshi! "
 
 # game/script/17_r18.rpy:264
 translate german cg_lpd_h_ac120a71:
 
     # avt "\"Let's just slow down for a second...\" " with flash
-    avt "" with flash
+    avt "\"Lass.. uns das etwas langsamer angehen...\" " with flash
 
 # game/script/17_r18.rpy:266
 translate german cg_lpd_h_9749efeb:
 
     # avt "\"You're a spirit so it's probably okay, but you should let me relax for a bit...\" "
-    avt ""
+    avt "\"Du bist ein Geist, daher ist das wohl okay. Aber geb mir bitte etwas Zeit mich zu entspannen...\""
 
 # game/script/17_r18.rpy:268
 translate german cg_lpd_h_7bd00413:
@@ -686,153 +686,163 @@ translate german cg_lpd_h_7bd00413:
     # voice voice_file.lpd("17L",15)
     # lpd_naked Robsessed "\"Relax?\" "
     voice voice_file.lpd("17L",15)
-    lpd_naked Robsessed ""
+    lpd_naked Robsessed "\"Entspannen?\" "
 
 # game/script/17_r18.rpy:270
 translate german cg_lpd_h_fde07204:
 
     # avt "\"Uhh... Well it can be very tight there if I don't relax it. You'll probably hurt me if you go inside right now...\" "
-    avt ""
+    avt "\"Öhh... nun es kann sehr eng in mir werden wenn ich mich verkrampfe. Womöglich tust du mir damit auch weh...\" "
 
 # game/script/17_r18.rpy:272
 translate german cg_lpd_h_63719c61:
 
     # avt "\"So... you might want to use your fingers first to—uhh—make it easier.\" "
-    avt ""
+    avt "\"Also... magst du deine Finger benutzen um es mir etwas-ähh-leichter zu machen?\" "
 
 # game/script/17_r18.rpy:274
 translate german cg_lpd_h_ac36e588:
 
     # lpd_naked Robsessed "\"......?\" "
-    lpd_naked Robsessed ""
+    lpd_naked Robsessed "\"......?\" "
 
 # game/script/17_r18.rpy:276
 translate german cg_lpd_h_d7ba021b:
 
     # b "Leopard clearly has no idea what I'm talking about. "
-    b ""
+    b "Er hat keinen blassen Schimmer was ich ihm versuche mitzuteilen. "
 
 # game/script/17_r18.rpy:278
 translate german cg_lpd_h_d431f54d:
 
     # avt "\"Never mind... I'll do it myself.\" "
-    avt ""
+    avt "\"Egal... ich mach es selbst.\" "
 
 # game/script/17_r18.rpy:283
 translate german cg_lpd_h_19365efe:
 
     # b "I push Leopard back, letting him sit on the bed in front of me. I open my legs to get better access, straddling his lap, his penis aimed towards my backside. "
-    b ""
+    b "Ich drücke Likulau von mir, sodass er vor mir auf dem Bett sitzt. Ich spreize meine Beine um besser heranzukommen. Er spreizt seine Beine. Sein Schwanz zielt nun auf meinen Rücken. "
 
 # game/script/17_r18.rpy:285
 translate german cg_lpd_h_9277b264:
 
     # avt "\"It's still a bit hasty... but...\" "
-    avt ""
+    avt "\"Es ist immernoch etwas voreilig... aber...\" "
 
 # game/script/17_r18.rpy:287
 translate german cg_lpd_h_8d3ef68d:
 
     # b "Reaching a hand around, I massage my bottom. Mentally preparing myself for what comes next. "
     # b "I line up a finger and slide it into my hole, using it to stretch it out a bit before taking it out again. At least it doesn't hurt that much... "
-    b ""
+    b "Ich umgreife mit meinem Arm nach meinem Hintern und massiere meinen After. Mental bereite ich mich auf das vor, was mich gleich erwartet. "
+    b "Ich drücke einen Finger langsam in mich rein und dehne mich damit bevor ich ihn wieder rausziehe. Zumindest tut es nicht so weh... "
+
 
 # game/script/17_r18.rpy:289
 translate german cg_lpd_h_ac36e588_1:
 
     # lpd_naked Robsessed "\".....?\" "
-    lpd_naked Robsessed ""
+    lpd_naked Robsessed "\"......\" "
 
 # game/script/17_r18.rpy:291
 translate german cg_lpd_h_f54a269e:
 
     # b "Leopard doesn't fully get it, but watching that gave him enough of an idea as he reaches out his paw, a single finger between my cheeks. "
-    b ""
+    b "Der Nebelparder versteht es immernoch nicht. Aber er scheint seine Schlüsse daraus zu ziehen, als er seine Pfote zu mir streckt und einen einzelnen Finger zwischen meine Pobacken steckt. "
 
 # game/script/17_r18.rpy:293
 translate german cg_lpd_h_b06826e7:
 
     # avt "\"Nngh...\" "
-    avt ""
+    avt "\"Hngh...\" "
 
 # game/script/17_r18.rpy:295
 translate german cg_lpd_h_195b2b03:
 
     # b "He tries to push his finger into me but it's a little thick to go in straight away. "
-    b ""
+    b "Er versucht seinen Finger in mich zu drücken, aber seine Dicke macht es nicht leicht. "
 
 # game/script/17_r18.rpy:297
 translate german cg_lpd_h_95688a4e:
 
     # b "On top of that, it's hard to sit up like this... I'm pretty worn out. "
     # b "Leopard seems to notice as I drop my legs, propping me up with one paw while continuing to push against my hole with the other. "
-    b ""
-
+    b "Dazu kommt dass es mir mittlerweile schwer fällt so zu sitzen... Ich bin ziemlich erschöpft. "
+    b "Likulau scheint es zu bemerken, als ich meine Beine senke. Er hält mich mit einer Pfote oben, während er mit der Anderen weiterhin gegen meinen After drückt. "
+
+
 # game/script/17_r18.rpy:299
 translate german cg_lpd_h_12f3496e:
 
     # b "It helps a little, but I'm still unable to hold myself up anymore. Leaving my body to push more weight down onto his, his finger pushing inside me in the process. "
-    b ""
+    b "Es hilft etwas, aber ich kann mich dennoch nicht mehr selbst oben halten. Ich lasse mein Körpergewicht gegen seinen Finger drücken, bis er endlich in mir ist. "
 
 # game/script/17_r18.rpy:302
 translate german cg_lpd_h_788f26a4:
 
     # b "It feels odd at first, but soon I find myself comfortable with his finger inside me. Maybe it's easier because he's a spirit? "
-    b ""
+    b "Es fühlt sich erst komisch an, aber ich fühle mich schnell wohl mit seinem Finger in mir. Vielleicht liegt es daran, dass er ein Geist ist? "
 
 # game/script/17_r18.rpy:304
 translate german cg_lpd_h_af328c4a:
 
     # b "However, it looks like Leopard doesn't really know what to do next. "
-    b ""
+    b "Wie auch immer. Es sieht so aus als wüsste der Likulau nicht, was als Nächstes zu tun ist. "
 
 # game/script/17_r18.rpy:306
 translate german cg_lpd_h_2ae556de:
 
     # avt "\"...Two.\" "
     # avt "\"Two more fingers inside...\" "
-    avt ""
-
+    avt "\"...Zwei.\" "
+    avt "\"...schieb zwei Finger in mich...\" "
+
+
 # game/script/17_r18.rpy:309
 translate german cg_lpd_h_87d11f35:
 
     # b "I make a coy nod. Instead of saying anything back, Leopard quickly inserts two more fingers one by one, letting them push and relax against my insides. "
     # b "I wait a while before asking him to continue "
-    b ""
-
+    b "Ich nicke etwas schüchtern. Statt mir zu antworten, schob Likulau schnell den zweiten Finger nach und drückt sie in meinem Inneren nach außen. "
+    b "Ich warte etwas bevor ich ihn auffordere, fortzufahren. "
+
+
 # game/script/17_r18.rpy:311
 translate german cg_lpd_h_67473262:
 
     # avt "\"I-{w=0.2}I think that should be good.\" "
-    avt ""
+    avt "\"I-{w=0.2}Ich glaube dass sollte reichen.\" "
 
 # game/script/17_r18.rpy:313
 translate german cg_lpd_h_4620125c:
 
     # b "I help him pull his fingers out... All right, here comes the real deal. "
     # b "I take hold of his dick, lining it up, ready. Soon enough I feel Leopard push his dick into me, slowly sliding in as I dig my fingers around his back in response. "
-    b ""
-
+    b "Ich helfe ihm seine Finger wieder rauszuziehen... okay, jetzt wirds ernst. "
+    b "Ich umgreife seinen Schwanz, richte ihn aus, mache mich bereit. Gleich darauf spüre ich wie Likulau seinen Schwanz in mich drückt, langsam in mich rein, wofür ich meine Finger in seinen Rücken kralle. "
+
 # game/script/17_r18.rpy:323
 translate german cg_lpd_h_8a235513:
 
     # b "Leopard smoothly slides himself into me, it's way easier than my last time— and that's not calling Leopard's penis small, it's just easier. "
     # b "It only takes a little work, but eventually Leopard fills me to the hilt. "
-    b ""
-
+    b "Likulau gleitet in mich hinein. Es ist leichter als mein letztes Mal- das soll nicht heißen dass sein Penis klein ist, es ist nur einfacher. "
+    b "Es braucht nicht viel, aber schon füllte mich Likulau bis zum Anschlag aus. "
+
 # game/script/17_r18.rpy:325
 translate german cg_lpd_h_a7c00777:
 
     # voice voice_file.lpd("17L",16)
     # lpd_naked Rnormal "\"Liao, feel good?\" "
     voice voice_file.lpd("17L",16)
-    lpd_naked Rnormal ""
+    lpd_naked Rnormal "\"Liao, fühlt gut?\" "
 
 # game/script/17_r18.rpy:327
 translate german cg_lpd_h_21eb6419:
 
     # avt "\"Mm...\" "
-    avt ""
+    avt "\"Mhm...\" "
 
 # game/script/17_r18.rpy:329
 translate german cg_lpd_h_268b52e0:
@@ -840,138 +850,144 @@ translate german cg_lpd_h_268b52e0:
     # voice voice_file.lpd("17L",17)
     # lpd_naked Rnormal "\"Can move now?\" "
     voice voice_file.lpd("17L",17)
-    lpd_naked Rnormal ""
+    lpd_naked Rnormal "\"Kann mich bewegen nun?\" "
 
 # game/script/17_r18.rpy:331
 translate german cg_lpd_h_109e7e60:
 
     # avt "\"Mmm-hmm...\" "
-    avt ""
+    avt "\"Mmm-hmm...\" "
 
 # game/script/17_r18.rpy:334
 translate german cg_lpd_h_7cbc5035:
 
     # b "I mumble through the embarrassment of having Leopard inside me, thankfully it was enough for him to hear me. "
     # b "Just as I look up to see Leopard's eyes on mine, I feel him start grab me tight before plunging his waist into me, ramming his hard dick into me over and over again at an ever increasing speed. " with flash
-    b "" with flash
+    b "Ich murmel weil es mir peinlich ist, Liku in mir zu haben. Zum Glück war ich deutlich genug damit er mich hören konnte. "
+    b "Als ich gerade als ich seine Augen sah, die auf mich fokussiert waren, spüre ich seinen festen Griff bevor er sein Becken in mich stößt, seinen harten Schwanz in mich rammt und wieder und wieder und dabei immer schneller wird. " with flash
 
 # game/script/17_r18.rpy:336
 translate german cg_lpd_h_9129ea5c:
 
     # avt "\"Ahh~ Mmph~\" "
-    avt ""
+    avt "\"Ahh~ Mmpf~\" "
 
 # game/script/17_r18.rpy:338
 translate german cg_lpd_h_3d104007:
 
     # b "Without pulling out much he just keeps on pushing against me more and more. I guess you wouldn't really get the motions from just reading doujins... "
     # b "It might not be the most comfortable way, but as I focus on Leopard beneath me I realise I don't mind. "
-    b ""
-
+    b "Ohne ihn zu weit rauszuziehen stößt er weiterhin in mich, mehr und mehr. Ich denke nicht dass man diese Bewegungen wirklich nur durchs lesen von Doujinshis erfährt... "
+    b "Es mag nicht die bequemste Stellung sein, aber den Fokus auf Liku unter mir gerichtet, merke ich wie egal mir das sein kann. "
+
 # game/script/17_r18.rpy:340
 translate german cg_lpd_h_699049af:
 
     # b "His fur glows radiantly in the warm sunshine beaming from the window. His muscled body warm and inviting beneath mine. "
     # b "All the while he looks at me longingly through half-lidded eyes that dance with expression. "
-    b ""
-
+    b "Sein Fell strahlt in dem warmen Sonnenschein, der durch mein Fenster dringt. Sein warmer, muskulöser Körper sieht unter mir einladend aus. "
+    b "Nach einer Zeit schaut er mich durchdringend durch seine halboffenen Augen ausdrucksvoll an. "
+
 # game/script/17_r18.rpy:342
 translate german cg_lpd_h_a991c73a:
 
     # b "His spirituality is dazzling. "
-    b ""
+    b "Sein Geist strahlt förmlich. "
 
 # game/script/17_r18.rpy:344
 translate german cg_lpd_h_6bc24e7b:
 
     # b "I can't help but hold out a hand and touch his face. The soft fluffed-up fur of his cheeks relenting to my touch. "
     # b "Leopard slows down, putting his paw atop my hand and begins to fondle my entire body. Rubbing his paws across my skin, stimulating me with his fur and claws. "
-    b ""
-
+    b "Ich will meine Hand nach ihm ausstrecken und sein Gesicht berühren. Sein weiches aufgesträubtes Backenfell gibt meinen Bewegungen nach. "
+    b "Likulau wird lansgamer, legt seine Pfote auf meine Hand und fängt an, meinen ganzen Körper zu massieren. Er reibt seine Pfoten auf meiner Haut entlang, erregt mich mit seinem Fell und seinen Krallen. "
+
 # game/script/17_r18.rpy:346
 translate german cg_lpd_h_b71330c9:
 
     # b "I gently pull him towards me. Then, once again we kiss. "
-    b ""
+    b "Ich drück ihn zärtlich zu mir... und küssen uns wieder. "
 
 # game/script/17_r18.rpy:353
 translate german cg_lpd_h_c5055a97:
 
     # b "This time I take the initiative, thrusting my tongue into his mouth, seemingly taking him by surprise. Next I push my body up onto him with one hand, holding him tight with the other. "
-    b ""
+    b "Dieses Mal ergreife ich die Initative und drücke meine Zunge in seinen Mund, was ihn scheinbar überrascht. Danach drücke ich meinen Körper zu ihm hoch mit der einen Hand, und mit der Anderen ihn fest an mich. "
 
 # game/script/17_r18.rpy:355
 translate german cg_lpd_h_36eb6e24:
 
     # b "His dick slips out in the process, but neither of us mind. All that we focus on is kissing and holding the other in our arms. "
-    b ""
+    b "Sein Schwanz rutscht dabei aus mir raus, aber uns ist das egal. Wir waren nur darauf aus uns zu küssen und den Anderen fest in unseren Armen zu halten. "
 
 # game/script/17_r18.rpy:357
 translate german cg_lpd_h_c64692f5:
 
     # b "My tongue explores his mouth, passing over both teeth and flesh. All the while I fondle his body as he does so to me, our warmth becomes one. "
-    b ""
+    b "Meine Zunge erforscht seinen Mund, streicht über Zähne und Fleisch. Nach einiger Zeit massiere ich seinen Körper, so wie er es bei mir tat. Wir verschmelzen innig zusammen. "
 
 # game/script/17_r18.rpy:359
 translate german cg_lpd_h_35780702:
 
     # b "We pant in the short breaks we give each other for air. I move back a bit just to look at him through misty-eyes, loving his tender face under the mellow sunshine. "
-    b ""
+    b "Wir hecheln in den kurzen Pausen in denen wir uns Zeit zum Luft holen geben. Ich bewege mich ein wenig weg um ihn durch meine feuchten Augen zu sehen. Sein weiches Gesicht sieht ihm weichen Sonnenschein so liebenswert aus."
 
 # game/script/17_r18.rpy:361
 translate german cg_lpd_h_66044d24:
 
     # b "Then we move on to the real fun part. "
-    b ""
+    b "Wir machen weiter mit dem was wir begonnen haben. "
 
 # game/script/17_r18.rpy:367
 translate german cg_lpd_h_999979b4:
 
     # b "With a little excitement, I sit back, lowering onto Leopard's shaft, letting it fill me to the hilt. "
     # b "Sitting atop his lap, I move my body to and fro, rocking gently with my weight. "
-    b ""
+    b "Leicht aufgeregt setze ich mich zurück, langsam auf Likus Schaft drauf und lasse ihn voll und ganz mich von innen ausfüllen. "
+    b "Auf seinem Schoß sitzend bewege ich mich rauf und runter, sanft gegen ihn drückend. "
+
 
 # game/script/17_r18.rpy:369
 translate german cg_lpd_h_4bc1b65e:
 
     # b "He seems puzzled about what I'm doing. Again, probably another thing you couldn't get across in manga panels. But soon enough he works it out. "
-    b ""
+    b "Er scheint etwas verwundert zu sein, was ich mache. Wohl wieder etwas was man durch Manga Panele nicht in Erfahrung bringen kann. Aber er wird es sicher bald verstehen. "
 
 # game/script/17_r18.rpy:371
 translate german cg_lpd_h_ef365323:
 
     # b "I use my thigh to grip tight around him. Allowing me to control the rhythm better. Leopard seems to like the pressure at the very least. "
-    b ""
+    b "Ich drücke ihn mit meinen Schenkeln eng an mich. So kann ich besser den Rythmus kontrollieren. Liku scheint den Druck zumindest zu mögen. "
 
 # game/script/17_r18.rpy:373
 translate german cg_lpd_h_06499807:
 
     # b "I keep on grinding back and forth, letting Leopard squirm inside me. Enjoying the feeling, I can't help but show it as I close my eyes and I let out a slight moan from my lips. "
-    b ""
+    b "Ich reite ihn weiterhin vor und zurück und lasse Liku sich in mir winden. Ich fühlt sich so gut an dass ich es ihm zeigen muss, indem ich meine Augen schließe und ein leichtes Stöhnen meinen Mund entweicht. "
 
 # game/script/17_r18.rpy:375
 translate german cg_lpd_h_f63b9dd4:
 
     # b "Leopard takes this as his chance as he begins to stir beneath me, forcing his dick into me every time I push back against him in a way that leaves me shuddering from head to \ntoe. "
-    b ""
+    b "Likulau sieht dies als Chance und fängt an sich unter mir zu bewegen. Er drückt sich gegen mich in meinem Rythmus was mich von Kopf bis Fuß schütteln /nlässt. "
 
 # game/script/17_r18.rpy:385
 translate german cg_lpd_h_b3868e05:
 
     # b "His paws grab hold of my body, lifting me up and down with claws tight against my skin. His movements intensify as I feel lecherous hunger grow inside his body. "
-    b ""
+    b "Seine Pfoten umgreifen meinen Körper, krallen sich an meine Haut und  heben mich hoch und runter. Seine Bewegungen werden intensiver je mehr ich den lüsternden Willen in seinem Körper wachsen spüre. "
 
 # game/script/17_r18.rpy:387
 translate german cg_lpd_h_2bddf18f:
 
     # b "With every plunge, I feel his heartbeat. I feel his warmth flow into my body. I feel his paws, the soft fur of his body, and his desire burning within my depths. "
-    b ""
+    b "Mit jedem Stoß fühle ich seinen Herzschlag.Ich kann seine Wärme in meinen Körper fließen spüren. Ich spüre seine Pfoten, das weiche Fell seines Körpers und sein Verlangen tief in mir. "
 
 # game/script/17_r18.rpy:389
 translate german cg_lpd_h_a92048f0:
 
     # b "I grab his paws tightly, feeling the strength and hunger behind every move of his muscles waiting to feast on their release. "
-    b ""
+    b "Ich greife fest nach seinen Pfoten, fühle die Stärke und die Lust in jeder Bewegung seiner Muskeln, darauf wartend endlich in mir zu kommen. "
 
 # game/script/17_r18.rpy:394
 translate german cg_lpd_h_ced7ec84:
@@ -979,32 +995,33 @@ translate german cg_lpd_h_ced7ec84:
     # voice voice_file.lpd("17L",18)
     # lpd_naked Reyes_close "\"......!\" "
     voice voice_file.lpd("17L",18)
-    lpd_naked Reyes_close ""
+    lpd_naked Reyes_close "\"......!\" "
 
 # game/script/17_r18.rpy:396
 translate german cg_lpd_h_ec7edd1c:
 
     # b "Suddenly, I feel every one of those muscles tighten as Leopard pushes his length all the way inside me with every last bit of his strength. "
     # b "Time stands still for all except two things. The beating heart of the amazing leopard beneath me and the warmth of his burning passion seeping from his body into mine. "
-    b ""
-
+    b "Ich spüre plötzlich jeden seiner Muskel anspannen als Likulau sich mit letzter Kraft voll und ganz in mich stößt. "
+    b "Die Zeit steht still, nur zwei Dinge schreiten weiter voran. Der Herzschlag dieses unglaublichen Nebelparders unter mir und die Wärme seiner brennenden Leidenschaft die von seinem Körper auf meinen übergeht. "
+
 # game/script/17_r18.rpy:398
 translate german cg_lpd_h_1007128d:
 
     # b "A moment later I feel his grip relax and he opens his eyes to lovingly stare at mine. He brings a hand up to my ear, stroking it gently. "
-    b ""
+    b "Einen Moment später fühle ich wie sich sein Griff entspannt und er seinen Augen öffnet um mich liebevoll anzuschauen. Er nimmt meine Hand, hält sie an mein Ohr und streichelt sie dabei. "
 
 # game/script/17_r18.rpy:400
 translate german cg_lpd_h_8c67f69b:
 
     # b "Even though I'm still hard, I know what's between us is more than that. "
-    b ""
+    b "Auch wenn ich immernoch hart bin weis ich dass es zwischen uns mehr als nur das ist. "
 
 # game/script/17_r18.rpy:402
 translate german cg_lpd_h_6f5b41bd:
 
     # lpd_naked Rnormal "\"......\" "
-    lpd_naked Rnormal ""
+    lpd_naked Rnormal "\"......\" "
 
 # game/script/17_r18.rpy:404
 translate german cg_lpd_h_a29a2b4f:
@@ -1012,13 +1029,13 @@ translate german cg_lpd_h_a29a2b4f:
     # voice voice_file.lpd("17L",19)
     # lpd_naked Rnormal "\"Liao, feel good?\" "
     voice voice_file.lpd("17L",19)
-    lpd_naked Rnormal ""
+    lpd_naked Rnormal "\"Liao, fühlt gut?\" "
 
 # game/script/17_r18.rpy:406
 translate german cg_lpd_h_e31375ae:
 
     # avt "\"Mmm-hmm— I'm really happy.\" "
-    avt ""
+    avt "\"Mmm-hmm- Ich bin wirklich glücklich.\" "
 
 # game/script/17_r18.rpy:408
 translate german cg_lpd_h_c073bbea:
@@ -1026,7 +1043,7 @@ translate german cg_lpd_h_c073bbea:
     # voice voice_file.lpd("17L",20)
     # lpd_naked Rhappy "\"Liao...\" "
     voice voice_file.lpd("17L",20)
-    lpd_naked Rhappy ""
+    lpd_naked Rhappy "\"Liao...\" "
 
 # game/script/17_r18.rpy:410
 translate german cg_lpd_h_7a262c44:
@@ -1034,43 +1051,43 @@ translate german cg_lpd_h_7a262c44:
     # voice voice_file.lpd("17L",21)
     # lpd_naked normal "\"Need me to help...?\" "
     voice voice_file.lpd("17L",21)
-    lpd_naked normal ""
+    lpd_naked normal "\"Brauchst du meine Hilfe...?\" "
 
 # game/script/17_r18.rpy:412
 translate german cg_lpd_h_64dd252e:
 
     # avt "\"It's all good. I'm more than satisfied, and— I truly am really happy.\" "
-    avt ""
+    avt "\"Passt schon, alles gut. Ich bin mehr als zufrieden und- ich bin wirklich glücklich.\" "
 
 # game/script/17_r18.rpy:417
 translate german cg_lpd_h_57c0a75d:
 
     # b "I lean forward, letting Leopard slip out of me. "
-    b ""
+    b "Ich lehne mich vor und lasse Leopard aus mir rausgleiten. "
 
 # game/script/17_r18.rpy:419
 translate german cg_lpd_h_630d831d:
 
     # avt "\"I-{w=0.2}I think the point is whether I can feel your heart. And I have no doubts about that now.\" "
-    avt ""
+    avt "\"I-{w=0.2}Ich denke es geht darum ob ich dein Herz fühlen kann. Und daran hab ich nun keinen Zweifel mehr.\" "
 
 # game/script/17_r18.rpy:421
 translate german cg_lpd_h_a32c565f:
 
     # lpd_naked obsessed "\"...?\" "
-    lpd_naked obsessed ""
+    lpd_naked obsessed "\"...?\" "
 
 # game/script/17_r18.rpy:423
 translate german cg_lpd_h_49267830:
 
     # avt "\"Anyway. I'm happy now! Come on big guy, give me a hug!\" "
-    avt ""
+    avt "\"Wie auch immer. Ich bin glücklich! Komm her Großer, gib mir einen Umarmung!\" "
 
 # game/script/17_r18.rpy:425
 translate german cg_lpd_h_c0558199:
 
     # b "I don't really know how to phrase my exact feelings, so I just leave him puzzled and hold him tightly in my arms. Moving ever closer, we lean our heads into each other's shoulders, leaving us immersed in our intertwined warmth. "
-    b ""
+    b "Ich weis wirklich nicht genau wie ich meine Gefühle genau beschreiben soll, also lass ich ihn verwundert sein und halte ihn ganz doll in meinen Armen fest. Ganz dicht an ihn und unsere Köpfe auf den Schultern des Anderen ruhend, vertieft in unserer eng verflochtenen Zweisamkeit. "
 
 # game/script/17_r18.rpy:436
 translate german cg_lpd_h_8b2223b5:
@@ -1078,13 +1095,13 @@ translate german cg_lpd_h_8b2223b5:
     # voice voice_file.tig("17L",7)
     # tig frown "\"...About time we go forth and catch that fiendish cat, don't you agree?\" "
     voice voice_file.tig("17L",7)
-    tig frown ""
+    tig frown "\"...Wird Zeit dass wir den nächsten Schritt machen und uns diese teuflische Katze greifen, meinst du nicht auch?\" "
 
 # game/script/17_r18.rpy:439
 translate german cg_lpd_h_5320ac7c:
 
     # avt "\"Woah!\" " with vshake
-    avt "" with vshake
+    avt "\"Woah!\" " with vshake
 
 # game/script/17_r18.rpy:441
 translate german cg_lpd_h_1a723d22:
@@ -1092,13 +1109,13 @@ translate german cg_lpd_h_1a723d22:
     # voice voice_file.tig("17L",8)
     # tig frown "\"Hey— I didn't peep or anything. I just came out after you sounded done.\" "
     voice voice_file.tig("17L",8)
-    tig frown ""
+    tig frown "\"Hey- ich hab nicht zugeschaut. Ich kam wieder als es danach aussah dass ihr fertig wärt.\" "
 
 # game/script/17_r18.rpy:444
 translate german cg_lpd_h_90bb0de9:
 
     # avt "\"There's no need to rush! Geez, at least give us some time together!\" " with vshake
-    avt "" with vshake
+    avt "\"Kein Grund zur Eile! Ey, gib uns wenigstens etwas Zeit miteinander!\" " with vshake
 
 # game/script/17_r18.rpy:446
 translate german cg_lpd_h_ce6207da:
@@ -1106,25 +1123,25 @@ translate german cg_lpd_h_ce6207da:
     # voice voice_file.tig("17L",9)
     # tig frown "\"You two seem calm enough to me. Procrastinating further would serve little purpose but make possessing you more difficult.\" "
     voice voice_file.tig("17L",9)
-    tig frown ""
+    tig frown "\"Ihr Beide sieht befriedigt genug für mich aus. Weiter faulenzen würde kaum was bringen außer es schwerer zu machen, von dir Besitz zu ergreifen.\" "
 
 # game/script/17_r18.rpy:448
 translate german cg_lpd_h_2af58aba:
 
     # avt "\"Yeah... All right, whatever.\" "
-    avt ""
+    avt "\"Ja Ja, Schon gut, wie auch immer.\" "
 
 # game/script/17_r18.rpy:450
 translate german cg_lpd_h_62e3b6b8:
 
     # b "He ruined the mood anyway. I guess being calm like this is the best time to be possessed? I'm a little bit excited... "
-    b ""
+    b "Er hat den Moment eh versaut. Scheinbar ist es wohl die beste Zeit dafür, wenn ich so befriedigt bin wie jetzt? Ich bin ein wenig aufgeregt... "
 
 # game/script/17_r18.rpy:452
 translate german cg_lpd_h_a32c565f_1:
 
     # lpd_naked obsessed "\"...?\" "
-    lpd_naked obsessed ""
+    lpd_naked obsessed "\"...?\" "
 
 # game/script/17_r18.rpy:454
 translate german cg_lpd_h_1ec4fb85:
@@ -1132,36 +1149,38 @@ translate german cg_lpd_h_1ec4fb85:
     # voice voice_file.tig("17L",10)
     # tig embarrassed "\"Leopard, you may now attempt to possess his body and see if you can release your power.\" "
     voice voice_file.tig("17L",10)
-    tig embarrassed ""
+    tig embarrassed "\"Nebelparder, du kannst nun versuchen von seinem Körper Besitz zu ergreifen um zu schauen, ob du deine Kraft entfalten kannst. "
 
 # game/script/17_r18.rpy:459
 translate german cg_lpd_h_732649d1:
 
     # b "Leopard turns his head towards me. I give a slight nod in response. "
     # b "He holds out his paw and I reach for it with my hand. "
-    b ""
-
+    b "Likulau dreht seinen Kopf zu mir. Ich nicke kurz als Antwort. "
+    b "Er streckt eine Pfote nach mir aus und ich greife mit meiner Hand danach. "
+
 # game/script/17_r18.rpy:465
 translate german cg_lpd_h_4fd86cd7:
 
     # b "A great rush of power hits me as our fingers touch." with flash_cyan
     # b "It feels like I'm falling into an infinite pool of intensely hot water as I loose my balance and fall forwards onto the bed. "
-    b "" with flash_cyan
+    b "Ein großer Strom an Energie trifft mich als sich unsere Finger berühren. " with flash_cyan
+    b "Es fühlt sich an als würde ich in einem unendlich großen Pool heißem Wassers fallen, während ich die Balance verliere und nach vorne aufs Bett falle. "
 
 # game/script/17_r18.rpy:467
 translate german cg_lpd_h_72729239:
 
     # b "It's way stronger then being possessed by Lin Hu, but it doesn't feel like Leopard's trying to hurt me at all. "
-    b ""
+    b "Es ist deutlich stärker als von Lin Hu ergriffen zu werden, aber es fühlt sich überhaupt nicht danach an als würde Likulau mir weh tun wollen. "
 
 # game/script/17_r18.rpy:472
 translate german cg_lpd_h_64eb0ea2:
 
     # b "As if I was standing in the eye of a vortex, currents move around me, the edges gently caressing my spirit. "
-    b ""
+    b "Als würde ich im Auge des Sturms stehn, um mich herum die Strömung, dessen Ränder meinen Geist geradezu liebkosen. "
 
 # game/script/17_r18.rpy:474
 translate german cg_lpd_h_0aa42cf4:
 
     # b "I find myself lying on the bed, and as if by instinct I raise my head like a feline. "
-    b ""
+    b "Ich finde mich auf meinem Bett wieder und hebe instinktiv meinen Kopf wie eine Katze. "
