@@ -116,7 +116,7 @@ translate german s16_branch3_general_01_1b0800d4:
     # voice voice_file.tig("16N",7)
     # tig embarrassed "\"...It's true that I wished to possess you, but that was all to contend with that clouded leopard.\" "
     voice voice_file.tig("16N",7)
-    tig embarrassed "\"...Es ist war dass ich mir das wünschte, aber nur um gegen den Nebelparder zu kämpfen.\" "
+    tig embarrassed "\"...Es ist wahr dass ich mir das wünschte, aber nur um gegen Likulau zu kämpfen.\" "
 
 # game/script/16_general.rpy:44
 translate german s16_branch3_general_01_dd227333:
@@ -130,7 +130,7 @@ translate german s16_branch3_general_01_65a95fb2:
     # voice voice_file.tig("16N",8)
     # tig frown "\"...It's not like that.\" "
     voice voice_file.tig("16N",8)
-    tig frown "\"....So war das nicht.\" "
+    tig frown "\"....So war das nicht gemeint.\" "
 
 # game/script/16_general.rpy:50
 translate german s16_branch3_general_01_3a0cf6d9:
