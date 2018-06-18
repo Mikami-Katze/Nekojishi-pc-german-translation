@@ -280,7 +280,7 @@ translate german s18_branch5_general_02_7a9b3924:
     # voice voice_file.lpdcat("18N",18)
     # lpdcat_true normal "\"At the time I was... shocked. It couldn't have been easy for the old man and Kulau to break into his home.\" "
     voice voice_file.lpdcat("18N",18)
-    lpdcat_true normal "\"In dem Moment war ich... geschockt. Ich konnte nicht leicht für Kulau und dem alten Mann gewesen sein, in mein Haus einzubrechen.\" "
+    lpdcat_true normal "\"In dem Moment war ich... geschockt. Es konnte nicht leicht für Kulau und dem alten Mann gewesen sein, in mein Haus einzubrechen.\" "
 
 # game/script/18_general.rpy:105
 translate german s18_branch5_general_02_9421ca97:
@@ -304,7 +304,7 @@ translate german s18_branch5_general_02_b826956a:
     # voice voice_file.lpdcat("18N",20)
     # lpdcat_true laugh "\"When I said that I was going to return back to Miaoli, you offered to build a temple for me...\" "
     voice voice_file.lpdcat("18N",20)
-    lpdcat_true laugh "\"Als ich dir sagte dass ich nach Miaoli zurückkehren würde, hast du mir angeboten einen Tempel für dich zu bauen...\" "
+    lpdcat_true laugh "\"Als ich dir sagte dass ich nach Miaoli zurückkehren würde, hast du mir angeboten einen Tempel für mich zu bauen...\" "
 
 # game/script/18_general.rpy:115
 translate german s18_branch5_general_02_f0a6cd83:
@@ -312,7 +312,7 @@ translate german s18_branch5_general_02_f0a6cd83:
     # voice voice_file.lpdcat("18N",21)
     # lpdcat_true normal "\"I actually think that could work now.\" "
     voice voice_file.lpdcat("18N",21)
-    lpdcat_true normal "\"Ich denke dass das eigentlich klappen dürfte.\"
+    lpdcat_true normal "\"Ich denke mittlerweile dass das eigentlich klappen dürfte.\"
 
 # game/script/18_general.rpy:117
 translate german s18_branch5_general_02_74a2a2ce:
@@ -388,7 +388,7 @@ translate german cg_reveal_feelings_cat_f6e70ada:
     # lpdcat_true cry_1 "\"So I wanted to make the most out of the rest of my life and come to see you again.\" "
     # lpdcat_true cry_1 "\"I know it was just selfish, to see you just to make {i}me{/i} \ feel better... \nAfter all, you must hate me...\" "
     voice voice_file.lpdcat("18N",28)
-    lpdcat_true cry_1 "\"Ich dachte wirklich dass ich sterben würde wenn ich hier her käme. Wenn ich weggerannt wäre, hättest du mich vermutlich auch getötet.\" "
+    lpdcat_true cry_1 "\"Ich dachte wirklich dass ich sterben würde wenn ich hierher käme. Wenn ich weggerannt wäre, hättest du mich vermutlich auch getötet.\" "
     lpdcat_true cry_1 "\"Also wollte ich das Beste aus dem Rest meines Lebens machen und herkommen um dich wiederzusehen.\" "
     lpdcat_true cry_1 "\"Ich weis, ich war selbstsüchtig dass ich es tat nur damit {i}ich{/i} \ mich besser fühle...\nNach all dem was ich tat musst du mich einfach hassen...\" "
 
@@ -440,7 +440,7 @@ translate german cg_reveal_feelings_cat_ed34d0f4:
     # voice voice_file.lpdcat("18N",34)
     # lpdcat_true cry_1 "\"Why did you spare my life? I didn't believe it. I could {i}never{/i} \ believe that someone would be nice to me...\" "
     voice voice_file.lpdcat("18N",34)
-    lpdcat_true cry_1 "\"Warum lässt du mich lenen? Ich kanns immernoch nicht glauben. Ich hätte {i}nie{/i} \ glauben können dass Jemand so nett zu mir sein würde...\" "
+    lpdcat_true cry_1 "\"Warum lässt du mich leben? Ich kann's immernoch nicht glauben. Ich hätte {i}nie{/i} \ glauben können dass Jemand so nett zu mir sein würde...\" "
 
 # game/script/18_general.rpy:173
 translate german cg_reveal_feelings_cat_32fe5838:
