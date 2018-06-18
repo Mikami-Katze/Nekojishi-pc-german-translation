@@ -810,7 +810,7 @@ translate german s09_02_agree_dfd4e2a3:
     # b "Senpai tightens his hand around mine as he leads me away from the main streets and down some small village paths. "
     # b "He's skipping along, humming to himself, brimming with joy, clearly loving every minute of us being together. It's hard to imagine he's been held like a prisoner in his own \nhome. "
     b "Senpai strafft seine Hand um meine, während er mich von den Hauptstraßen zu ein paar kleinen Dorfstraßen führt. "
-    b "Er hüpft voller Freude, summend dahin und liebt deutlich jede Minute wo wir zusammen sind. Es ist hard sich vorzustellen, dass er wie ein Gefangener in seinem eigenen \nHaus gefangen gehalten. "
+    b "Er hüpft voller Freude, summend dahin und liebt deutlich jede Minute wo wir zusammen sind. Es ist hart sich vorzustellen, dass er wie ein Gefangener in seinem eigenen \nHaus gefangen gehalten wird. "
 
 # game/script/09.rpy:423
 translate german s09_02_agree_318a9558:
