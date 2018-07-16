@@ -1005,7 +1005,7 @@ translate german cg_reveal_feelings_cat_47d1e8e2:
 
     voice voice_file.lpdcat("18N",39)
 
-    lpdcat_true serious "\"Nun, wenn ich so tue als wäre ich Yan Shu-Chi- nein, wenn ich Yan Shu-Chi {i}bin{/i} \ ... dann bin ich doch der einzige Tiermench mit echtem physischen Körper.\" "
+    lpdcat_true serious "\"Nun, wenn ich so tue als wäre ich Yan Shu-Chi- nein, wenn ich Yan Shu-Chi {i}bin{/i} \ ... dann bin ich doch der einzige Tiermensch mit echtem physischen Körper.\" "
 
 
 
