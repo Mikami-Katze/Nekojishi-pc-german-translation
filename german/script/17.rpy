@@ -606,7 +606,7 @@ translate german s17_branch4_a831c220:
 
     phone "\"Mir ist kein spezielles Ritual bekannt aber normalerweise nehmen die Rukai Wein und Fleisch als Opfergaben.\" "
 
-    phone "\"Hol dir also {font=tl/None/NotoSansCJKtc-Bold.otf}Miletwein{/font} und gebratenes Schweinefleisch, geh nach draußen und bete. Ist das Einzige was mir dazu einfällt. Andere Methoden... werd ich erstmal erfragen müssen.\" "
+    phone "\"Hol dir also {font=tl/None/NotoSansCJKtc-Bold.otf}Hirsewein{/font} und gebratenes Schweinefleisch, geh nach draußen und bete. Ist das Einzige was mir dazu einfällt. Andere Methoden... werd ich erstmal erfragen müssen.\" "
 
 
 
@@ -618,7 +618,7 @@ translate german s17_branch4_2a774035:
 
     # avt "\"Millet wine and pork belly? Thank you! You're a massive help!\" "
 
-    avt "\"Miletwein und Schweinefleisch? Danke! Du hast mir damit sehr geholfen!\" "
+    avt "\"Hirsewein und Schweinefleisch? Danke! Du hast mir damit sehr geholfen!\" "
 
 
 
@@ -670,7 +670,7 @@ translate german s17_branch4_c3986b24:
 
     # avt "\"Millet wine and pork belly... It won't be hard to buy those form any market...\" "
 
-    avt "\"Miletwein und Schweinefleisch... sollte nicht schwierig sind das in einem Laden zu finden...\" "
+    avt "\"Hirsewein und Schweinefleisch... sollte nicht schwierig sind das in einem Laden zu finden...\" "
 
 
 
@@ -958,7 +958,7 @@ translate german s17_branch4_5fa986cf:
 
     # b "My offering consists of boar meat sausages and millet mochi from Old Street. "
 
-    b "Sie bestehen aus Schweinefleischwürsten und Miletkuchen aus der alten Straße. "
+    b "Sie bestehen aus Schweinefleischwürsten und Hirsekuchen aus der alten Straße. "
 
 
 
@@ -974,7 +974,7 @@ translate german s17_branch4_11807d74:
 
     # b "I drizzle some wine around the plastic sheet before pouring the rest into a cup next to the food. "
 
-    b "Ich habe den Nebelparder nie Alkohol trinken sehen aber ich habe dennoch eine Flasche Miletwein dabei. "
+    b "Ich habe den Nebelparder nie Alkohol trinken sehen aber ich habe dennoch eine Flasche Hirsewein dabei. "
 
     b "Ich weis nicht ob es reicht aber es ist meine beste Chance. "
 
