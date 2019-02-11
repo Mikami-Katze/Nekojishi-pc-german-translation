@@ -5553,7 +5553,7 @@ translate german s17_branch4_02_1e0d6330:
 
     # b "Once again we return home through the spirit paths. My body returned to me as soon as we get back. "
 
-    b "Wieder einmal kehren wir über die Geisterpfade nach Hause zurück. Mein Körper wurde mir wieder übergeben als wir dort ankomen. "
+    b "Wieder einmal kehren wir über die Geisterpfade nach Hause zurück. Mein Körper wurde mir wieder übergeben als wir dort ankommen. "
 
 
 
