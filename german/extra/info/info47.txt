@@ -5,3 +5,11 @@ Implements refer to the tools used in religious rituals.
 Some people also believe having implements around can bring good luck, so they are usually used as decorations.
 
 Items with unique powers from legends can also be described as implements, for example, Thor’s hammer Mjölnir. 
+
+Utensilien
+
+Utensilien dienen als Hilfsmittel zu religiösen Ritualen.
+
+Manche Mensche glauben daran dass sie ihnen Glück bringen und werden daher für gewöhnlich als Dekoration verwendet.
+
+Gegenstände mit einzigartiger Kraft die zu Legenden gehören können auch als Utensilien bezeichnet werden, zum Beispiel Thor's Hammer "Mjölnir".
