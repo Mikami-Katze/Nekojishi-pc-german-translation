@@ -38,7 +38,7 @@ translate german s07_9a8e5c9c:
 
     # avt "\"Ehh... What?!\" " with hshake
 
-    avt "" with hshake
+    avt "\"Ehh... Was?!\" " with hshake
 
 
 
@@ -50,7 +50,7 @@ translate german s07_d13b7b99:
 
     # b "Senpai jumps out of nowhere, determined to get my attention.\n(Shocking the living daylights out of me like usual.) "
 
-    b ""
+    b "Senpai springt aus dem Nichts mit dem Ziel, meine Aufmerksamkeit zu bekommen.\n(Erschreckt mich dabei zu Tode, wie immer.) "
 
 
 
@@ -66,7 +66,7 @@ translate german s07_4952f8b1:
 
     voice voice_file.lpdcat(7,2)
 
-    lpdcat happy ""
+    lpdcat happy "\"Hey, dieses Wochenende! Lass uns zusammen rausgehen!\" "
 
 
 
@@ -78,7 +78,7 @@ translate german s07_465ac3a6:
 
     # avt "\"Again? Senpai, you always want to go out. Aren't you tired?\" "
 
-    avt ""
+    avt "\"Schon wieder? Senpai, du willst immer rausgehen. Bist du nicht mal müde?\" "
 
 
 
@@ -94,7 +94,7 @@ translate german s07_91f2fc11:
 
     voice voice_file.lpdcat(7,3)
 
-    lpdcat normal ""
+    lpdcat normal "\"Wochenenden sind dafür da, um Spaß mit der Freizeit zu haben! Komm schon Liao, ist dir nicht langweilig, die ganze Zeit drinnen zu bleiben?\" "
 
 
 
@@ -106,7 +106,7 @@ translate german s07_33b8c151:
 
     # avt "\"Oh... I'm fine with staying in, it's a great chance to get a rest... \" "
 
-    avt ""
+    avt "\"Oh... Ich finde es ok, drinnen zu bleiben, es ist eine gute Gelegenheit mal Ruhe zu bekommen... \" "
 
 
 
@@ -120,8 +120,9 @@ translate german s07_8f55637a:
 
     # b "Sometimes I just want a day with nothing to do, just to stay at home, rest and take my mind off things. "
 
-    b ""
-
+    b "Mit dem drei Katzen um mich herum ist es schon schwer genug, mich jeden Tag um sie zu kümmern... dann wollen sie auch immer am Wochenende noch raus. "
+    
+    b "Manchmal will ich einfach einen Tag, an dem ich nichts zu tun habe, nur um zu Hause zu bleiben, mich auszuruhen und meine Gedanken loszulassen. "
 
 
 # game/script/07.rpy:43
@@ -136,7 +137,7 @@ translate german s07_22ed5103:
 
     voice voice_file.lpdcat(7,4)
 
-    lpdcat laugh ""
+    lpdcat laugh "\"Uuund dieses Wochenende ist das Ching Ming— das Grabfegefestival in Planung, was bedeutet, wir sollten dahin gehen!\" "
 
 
 
@@ -148,7 +149,7 @@ translate german s07_f59d6116:
 
     # avt "\"You always want to go somewhere {i}every{/i} \ week!\" "
 
-    avt ""
+    avt "\"Du willst immer irgendwo hingehen, {i}jede{/i} \ Woche!\" "
 
 
 
@@ -164,7 +165,7 @@ translate german s07_3fef34fd:
 
     voice voice_file.lpdcat(7,5)
 
-    lpdcat panic ""
+    lpdcat panic "\"Aber diese ist ganz anders als die anderen Wochenenden! Es ist die perfekte Zeit des Jahres, um auf ein Festival zu gehen!\" "
 
 
 
@@ -176,7 +177,7 @@ translate german s07_115d61a2:
 
     # avt "\"What's so special about this season?\" "
 
-    avt ""
+    avt "\"Was ist so besonders an dieser Jahreszeit?\" "
 
 
 
@@ -192,7 +193,7 @@ translate german s07_41d7e00e:
 
     voice voice_file.lpdcat(7,6)
 
-    lpdcat cute ""
+    lpdcat cute "\"Komm schon Liao, denke für eine Sekunde nach...\" "
 
 
 
@@ -204,7 +205,7 @@ translate german s07_7b19d6f6:
 
     # avt "\"Well, it's spring... we already went to the hot springs and you can't say there's many cherry blossoms in Taiwan...\" "
 
-    avt ""
+    avt "\"Nun, es ist Frühling... wir waren schon bei den heißen Quellen und du kannst nicht gerade sagen, es seien viele Kirschblüten in Taiwan...\" "
 
 
 
@@ -220,7 +221,7 @@ translate german s07_95e8aafd:
 
     voice voice_file.lpdcat(7,7)
 
-    lpdcat normal ""
+    lpdcat normal "\"Kirschblüten. Es wird wärmer! Vielleicht denke ich an einen anderen Baum?\" "
 
 
 
@@ -232,7 +233,7 @@ translate german s07_b122ce66:
 
     # avt "\"Uhh... Taiwan doesn't have any blossom festivals. What do you mean?\" "
 
-    avt ""
+    avt "\"Uhh... Taiwan keine Blütenfestivals. Was meinst du?\" "
 
 
 
@@ -248,7 +249,7 @@ translate german s07_14c96796:
 
     voice voice_file.lpdcat(7,8)
 
-    lpdcat laugh ""
+    lpdcat laugh "*Seufz* \"Du hast wirklich keine Ahnung, worüber ich rede, oder Liao? Ich rede über die Tung Blüten!\" "
 
 
 
@@ -260,7 +261,7 @@ translate german s07_032a96c8:
 
     # avt "\"Tung blossoms?\" "
 
-    avt ""
+    avt "\"Tung Blüten?\" "
 
 
 
@@ -276,7 +277,7 @@ translate german s07_6cea613c:
 
     voice voice_file.lpdcat(7,9)
 
-    lpdcat surprise_1 ""
+    lpdcat surprise_1 "\"Was? Wie kannst du denn nicht die Tung Blüten kennen? Sie sind wortwörtlich überall!\" "
 
 
 
@@ -292,7 +293,7 @@ translate german s07_54a50b86:
 
     voice voice_file.lpdcat(7,10)
 
-    lpdcat normal ""
+    lpdcat normal "\"So, bald werdem schon alle Tung Blüten-Gärten voll mit Touristen sein, die sie sehen wollen. Das bedeutet, jetzt ist die beste Zeit, zu gehen! Ads promoting {font=tl/None/NotoSansCJKtc-Bold.otf}the Hakka Tung Blossom Festival{/font} have been everywhere! (How have you not seen one by now?)\" "
 
 
 
