@@ -293,7 +293,7 @@ translate german s07_54a50b86:
 
     voice voice_file.lpdcat(7,10)
 
-    lpdcat normal "\"So, bald werdem schon alle Tung Blüten-Gärten voll mit Touristen sein, die sie sehen wollen. Das bedeutet, jetzt ist die beste Zeit, zu gehen! Ads promoting {font=tl/None/NotoSansCJKtc-Bold.otf}the Hakka Tung Blossom Festival{/font} have been everywhere! (How have you not seen one by now?)\" "
+    lpdcat normal "\"So, bald werdem schon alle Tung Blüten-Gärten voll mit Touristen sein, die sie sehen wollen. Das bedeutet, jetzt ist die beste Zeit, zu gehen! Werbung, welche für {font=tl/None/NotoSansCJKtc-Bold.otf}das Das Hakka Tung Blütenfest{/font} wirbt, war überall! (Wie konntest du bis jetzt noch keine sehen?)\" "
 
 
 
@@ -305,7 +305,7 @@ translate german s07_affa2c2f:
 
     # avt "\"Huh, the Hakka Tung Blossom Festival?\" "
 
-    avt ""
+    avt "\"Huh, das Hakka Tung Blütenfest?\" "
 
 
 
