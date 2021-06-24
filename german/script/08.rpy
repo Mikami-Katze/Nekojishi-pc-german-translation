@@ -111,7 +111,7 @@ translate german s08_4bce6f87:
     voice voice_file.tig(8,3)
 
     tig normal "\"Korrekt. Wie bereits gesagt ist jede Statue das Zuhause eines Wächter Tigers.\" "
-    
+
 
     voice voice_file.tig(8,3)
 
@@ -180,7 +180,7 @@ translate german s08_033aeb1f:
     # avt "\"They don't even know that I'm gay and I don't really want to explain that...\" "
 
     avt "\"Sie sollten mich nicht fragen, ob ich nach Hause komme, über mein Leben in Tapei, über Schule, oder Freundinnen...\" "
-    
+
     avt "\"Sie wissen nicht mal, dass ich schwul bin, und ich will das wirklich nicht erklären müssen...\" "
 
 
@@ -200,7 +200,7 @@ translate german s08_6c82b91b:
     voice voice_file.tig(8,5)
 
     tig normal "\"Wohl wahr... Ich tue mein Bestes, aber manchmal machen sie gerne Scherze.\" "
-    
+
     tig normal "\" Wie auch immer musst du dich früher oder später an sie gewöhnen.\" "
 
 
@@ -241,7 +241,7 @@ translate german s08_c436d1c7:
 
     # avt "\"Exactly. That's why I don't think it's best to go back yet. There's too much stuff to take care of first.\" "
 
-    avt ""
+    avt "\"Genau. Deshalb denke ich nicht, dass es das Beste ist, noch zurück zu gehen. Es gibt zu viel zu erledigen.\ " "
 
 
 
@@ -257,7 +257,7 @@ translate german s08_803ae67a:
 
     voice voice_file.tig(8,7)
 
-    tig normal ""
+    tig normal "\"Was ist mit der Sommerpause? Du kannst doch nicht den ganzen Sommer hier bleiben.\" "
 
 
 
@@ -269,7 +269,7 @@ translate german s08_3716b34d:
 
     # avt "\"...We'll see how it goes.\" "
 
-    avt ""
+    avt "... Wir werden sehen, wie es geht."
 
 
 
@@ -297,7 +297,7 @@ translate german s08_9ef37fa0:
 
     # avt "\"I know...\" "
 
-    avt ""
+    avt "\"Ich weiß...\" "
 
 
 
@@ -309,7 +309,7 @@ translate german s08_9f04d24f:
 
     # b "As much as I don't want to turn anyone away, keeping this up is just going to cause problems. "
 
-    b ""
+    b "So sehr ich niemanden abweisen möchte, wird es nur Probleme verursachen, wenn ich so weitermache. "
 
 
 
@@ -323,9 +323,9 @@ translate german s08_e9af40b7:
 
     # b "Maybe I should do it. Rip it off like a band-aid and just decide already... "
 
-    b ""
+    b "Wenn ich nur daran denke, mich zu entscheiden, bin ich von Nerven, Schuldgefühlen und Sorgen überwältigt."
 
-
+    b "Vielleicht sollte ich es tun. Abreißen wie ein Pflaster und mich einfach entscheiden..."
 
 # game/script/08.rpy:74
 
@@ -335,7 +335,7 @@ translate german s08_b526f2e7:
 
     # b "A day before the festival. "
 
-    b ""
+    b "Ein Tag vor dem Festival"
 
 
 
@@ -363,7 +363,7 @@ translate german s08_a0385362:
 
     # avt "\"Yeah, for sure. I have to prepare for the midterms. What about it?\" "
 
-    avt ""
+    avt "Ja, ganz sicher. Ich muss mich auf die Zwischenprüfungen vorbereiten. Was ist damit?"
 
 
 
@@ -391,7 +391,7 @@ translate german s08_8fffb293:
 
     # avt "\"Even if I'm not, I still don't want to fail.\" "
 
-    avt ""
+    avt "Auch wenn ich es nicht bin, möchte ich nicht scheitern."
 
 
 
@@ -421,7 +421,7 @@ translate german s08_14612d93:
 
     # avt "\"I {i}guess{/i} \ we could, but we've really been going out a lot lately... I just don't have the \ntime.\" "
 
-    avt ""
+    avt "\"Ich {i}denke schon.{/i} \ Wir könnten, aber wir sind in letzter Zeit wirklich viel ausgegangen... Ich habe einfach nicht die \nZeit.\" "
 
 
 
@@ -449,7 +449,7 @@ translate german s08_02_disagree_8e89cb80:
 
     # avt "\"Sorry Senpai, I really have to study.\" "
 
-    avt ""
+    avt "\"Tut mir leid Senpai, ich muss wirklich lernen.\ " "
 
 
 
@@ -477,7 +477,7 @@ translate german s08_02_disagree_4aa566f8:
 
     # avt "\"Well, I'm still a freshman! So even by your logic I {i}should{/i} \ care about this. \" "
 
-    avt ""
+    avt "\"Nun, ich bin immer noch ein Studienanfänger! Also selbst nach deiner Logik {i}sollte{/i} \ mich darum kümmern. \" "
 
 
 
@@ -505,7 +505,7 @@ translate german s08_02_disagree_c82cc086:
 
     # avt "\"If you really want to look at it like that, then yes, it is an excuse.\" "
 
-    avt ""
+    avt "\"Wenn du es wirklich so sehen willst, dann ja, es ist eine Ausrede.\" "
 
 
 
@@ -549,7 +549,7 @@ translate german s08_02_disagree_7d139f09:
 
     # avt "\"Huh? What do you mean?\" "
 
-    avt ""
+    avt "\"Hm? Was meinst du?\" "
 
 
 
@@ -577,7 +577,7 @@ translate german s08_02_disagree_5899dad1:
 
     # avt "\"Uhh— Yeah...\" "
 
-    avt ""
+    avt "\"Uhh— Ja...\" "
 
 
 
@@ -605,7 +605,7 @@ translate german s08_02_disagree_1eab16a8:
 
     # avt "\"Huh? Yeah, got it.\" "
 
-    avt ""
+    avt "\"Hm? Ja, ich hab's.\" "
 
 
 
@@ -633,7 +633,7 @@ translate german s08_02_agree_a7086bb1:
 
     # avt "\"I guess it'd be alright...\" "
 
-    avt ""
+    avt "\"Ich denke, es wäre in Ordnung...\" "
 
 
 
@@ -661,7 +661,7 @@ translate german s08_02_agree_ad360856:
 
     # avt "\"What do you have planned?\" "
 
-    avt ""
+    avt "\"Was hast du geplant?\" "
 
 
 
@@ -689,7 +689,7 @@ translate german s08_02_agree_aaec322d:
 
     # avt "\"Yeah. Okay, then I guess I'll see you later.\" "
 
-    avt ""
+    avt "\"Ja, klar. Okay, dann schätze ich sehe ich dich wohl später.\" "
 
 
 
@@ -717,7 +717,7 @@ translate german s08_03_a9572b86:
 
     # b "That night I waited, and waited, but for the first time in a very long time, Senpai didn't come home. "
 
-    b ""
+    b "In dieser Nacht wartete ich und wartete, aber zum ersten Mal seit langer Zeit kam Senpai nicht nach Hause."
 
 
 
@@ -745,7 +745,7 @@ translate german s08_03_ddd0dced:
 
     # avt "\"It is getting a bit late... he's usually home by now. Let me call and I'll see what's up...\" "
 
-    avt ""
+    avt "\"Es ist schon ein bisschen spät... er ist normalerweise schon zu Hause. Lass ihn mich anrufen und ich werde sehen, was los ist...\" "
 
 
 
@@ -757,7 +757,7 @@ translate german s08_03_abb2d7f1:
 
     # b "Worried that something bad might have happened I pick up my phone and call his number... {w=1}He doesn't pick up. "
 
-    b ""
+    b "Besorgt, dass etwas Schlimmes passiert sein könnte, nehme ich mein Telefon in die Hand und rufe seine Nummer an... {w=1}Er nimmt nicht ab. "
 
 
 
@@ -769,7 +769,7 @@ translate german s08_03_264d958e:
 
     # avt "\"If something came up, he would've at least left a message...\" "
 
-    avt ""
+    avt "\"Wenn etwas dazwischen gekommen wäre, hätte er wenigstens eine Nachricht hinterlassen...\" "
 
 
 
@@ -797,7 +797,7 @@ translate german s08_03_d5529a9d:
 
     # avt "\"He was going to get some things ready, I'd doubt he'd just fall asleep.\" "
 
-    avt ""
+    avt "\"Er wollte ein paar Sachen vorbereiten, ich bezweifle, dass er einfach einschlafen würde.\" "
 
 
 
@@ -811,9 +811,9 @@ translate german s08_03_ff3803d1:
 
     # b "We sat there waiting for any sign of him. The clock turning past midnight before I'm left with nothing to do but trudge over to my bed, taking my worries to sleep with me... "
 
-    b ""
+    b "Ich hatte immer das Gefühl, dass ich {i}wollte{/i}, dass Senpai zurück nach Hause geht... vielleicht will ein Teil von mir das immer noch, aber ich wollte nie, dass es so passiert."
 
-
+    b "Wir saßen da und warteten auf irgendein Zeichen von ihm. Die Uhr dreht sich nach Mitternacht, bevor mir nichts anderes übrig bleibt, als zu meinem Bett zu stapfen und meine Sorgen mit in den Schlaf zu nehmen..."
 
 # game/script/08.rpy:206
 
@@ -823,7 +823,7 @@ translate german s08_03_fb34baef:
 
     # b "The next day was the first day of Ching Ming... but Senpai was nowhere to be found. "
 
-    b ""
+    b "Der nächste Tag war der erste Tag von Ching Ming... aber Senpai war nirgends zu finden."
 
 
 
@@ -837,9 +837,9 @@ translate german s08_03_7e5c36b5:
 
     # b "Somewhere it annoys me, but I'm mostly just worried... I just don't know what I can \ndo. "
 
-    b ""
+    b "Wir wollten heute ausgehen... er hat sich nicht gemeldet. "
 
-
+    "Irgendwo ärgert es mich, aber größtenteils bin ich nur besorgt... Ich weiß einfach nicht, was ich \ntun kann. "
 
 # game/script/08.rpy:214
 
@@ -851,9 +851,9 @@ translate german s08_03_f29e53f5:
 
     # b "I'm a bit annoyed by it but I'm mostly worried... I just don't know what I can do. "
 
-    b ""
+    b "Selbst wenn ich ihm nicht versprochen hätte, zu gehen oder so, würde er wirklich einfach gehen, ohne etwas zu sagen? "
 
-
+    b "Es ärgert mich ein bisschen, aber vor allem macht es mir Sorgen... Ich weiß einfach nicht, was ich tun kann. "
 
 # game/script/08.rpy:216
 
@@ -863,7 +863,7 @@ translate german s08_03_de541676:
 
     # b "In a time like this... "
 
-    b ""
+    b "In einer Zeit wie dieser..."
 
 
 
@@ -875,7 +875,7 @@ translate german s08_04_tig_311d002d:
 
     # b "I sit at my desk, trying to study, but all I can think about is Senpai's disappearance. Unable to do any work I resort to distracting myself with social media. "
 
-    b ""
+    b "Ich sitze an meinem Schreibtisch und versuche zu lernen, aber alles, woran ich denken kann, ist Senpai's Verschwinden. Unfähig, irgendetwas zu tun, lenke ich mich mit sozialen Medien ab."
 
 
 
@@ -903,7 +903,7 @@ translate german s08_04_tig_28444525:
 
     # avt "\"Yeah... Of course. He just disappeared, like he wasn't here at all... \" "
 
-    avt ""
+    avt "\"Ja... natürlich. Er ist einfach verschwunden, als ob er nie hier gewesen wäre... \" "
 
 
 
@@ -933,9 +933,9 @@ translate german s08_04_tig_6d6838bb:
 
     # avt "\"What if something bad happened?\" "
 
-    avt ""
+    avt "\"Ich meine, es ist nicht so, dass ich mir nie gewünscht hätte, dass er geht... aber ich wollte es nie so.\" "
 
-
+    avt "\"Was ist, wenn etwas Schlimmes passiert ist?\" "
 
 # game/script/08.rpy:256
 
@@ -963,7 +963,7 @@ translate german s08_04_tig_88b5b4d0:
 
     # avt "\"Then where is he? Why hasn't he said anything yet?\" "
 
-    avt ""
+    avt "\"Wo ist er dann? Warum hat er noch nichts gesagt?\" "
 
 
 
@@ -991,7 +991,7 @@ translate german s08_04_tig_cee31dcc:
 
     # avt "\"Can you guarantee that?\" "
 
-    avt ""
+    avt "\"Kannst du das garantieren?\" "
 
 
 
@@ -1037,7 +1037,7 @@ translate german s08_04_tig_71a5d4b6:
 
     # avt "\"How?\" "
 
-    avt ""
+    avt "\"Wie?\" "
 
 
 
@@ -1065,7 +1065,7 @@ translate german s08_04_tig_f95671b3:
 
     # avt "\"Temples? There should be plenty of Mazu temples in Taipei, right?\" "
 
-    avt ""
+    avt "\"Tempel? Es sollte viele Mazu-Tempel in Taipei geben, richtig?\" "
 
 
 
@@ -1113,7 +1113,7 @@ translate german s08_04_tig_f83879ce:
 
     # avt "\"Hmm... so we should go to the temple of Taipei's highest City God?\" "
 
-    avt ""
+    avt "\"Hmm... wir sollten also zum Tempel des höchsten Stadtgottes von Taipei gehen?\" "
 
 
 
@@ -1141,7 +1141,7 @@ translate german s08_04_tig_a06b391b:
 
     # avt "\"So you won't ask Clairaudience?\" "
 
-    avt ""
+    avt "\"du wirst also nicht clairaudience fragen?\" "
 
 
 
@@ -1169,7 +1169,7 @@ translate german s08_04_tig_196d965c:
 
     # avt "\"So basically... you'll ask Clairvoyant and Clairaudience to go ask a guardian tiger at that temple for help?\" "
 
-    avt ""
+    avt "Also im Grunde... bittest du Clairvoyant und Clairaudience, einen Wächter-Tiger in diesem Tempel um Hilfe zu bitten?"
 
 
 
@@ -1197,7 +1197,7 @@ translate german s08_04_tig_43ceb6e8:
 
     # b "It'd be like asking a friend of a friend to go ask their friend... "
 
-    b ""
+    b "Das wäre so, als würde man einen Freund eines Freundes bitten, seinen Freund zu fragen..."
 
 
 
@@ -1209,7 +1209,7 @@ translate german s08_04_tig_4ac3e2dd:
 
     # avt "\"Would they be fine with that?\" "
 
-    avt ""
+    avt "\"Wären sie damit einverstanden?\" "
 
 
 
@@ -1237,7 +1237,7 @@ translate german s08_04_tig_63eed9c5:
 
     # avt "\"Yeah, if we tried that, people would just start spreading rumors about him...\" "
 
-    avt ""
+    avt "\"Ja, wenn wir das versuchen würden, würden die Leute nur anfangen, Gerüchte über ihn zu verbreiten...\" "
 
 
 
@@ -1265,7 +1265,7 @@ translate german s08_04_tig_e8521408:
 
     # avt "\"I... I guess you're right...\" "
 
-    avt ""
+    avt "\"I... Ich schätze, du hast Recht...\" "
 
 
 
@@ -1277,7 +1277,7 @@ translate german s08_04_tig_ask_7546d8d9:
 
     # b "We really don't have another choice. It's a better plan than what I could manage, and if something really did happen, sitting around isn't going to help anything. "
 
-    b ""
+    b "Wir haben wirklich keine andere Wahl. Es ist ein besserer Plan als das, was ich hinbekommen könnte, und wenn wirklich etwas passiert, hilft Herumsitzen auch nicht weiter."
 
 
 
@@ -1289,7 +1289,7 @@ translate german s08_04_tig_ask_9f8d5209:
 
     # avt "\"...Alright. Let's ask them.\" "
 
-    avt ""
+    avt "\"...In Ordnung. Fragen wir sie.\" "
 
 
 
@@ -1319,7 +1319,7 @@ translate german s08_04_tig_ask_aa95d370:
 
     # avt "\"Alright.\" "
 
-    avt ""
+    avt "\In Ordnung.\" "
 
 
 
@@ -1331,7 +1331,7 @@ translate german s08_04_tig_ask_87aae082:
 
     # b "Tiger stands up and proceeds to walk upwards, as if taking a flight of invisible stairs straight through the ceiling and up to the roof. "
 
-    b ""
+    b "Tiger steht auf und geht nach oben, als ob er eine unsichtbare Treppe direkt durch die Decke bis zum Dach nehmen würde."
 
 
 
@@ -1345,9 +1345,9 @@ translate german s08_04_tig_ask_4bdebb43:
 
     # b "A little shocked, I try to focus my mind again and get back to studying. "
 
-    b ""
+    b "...ich weiß, dass er ein Geist ist, aber ich kann mich trotzdem nicht daran gewöhnen, solche Dinge zu sehen. "
 
-
+    b "Ein wenig geschockt versuche ich, mich wieder zu konzentrieren und weiter zu lernen. "
 
 # game/script/08.rpy:345
 
@@ -1373,7 +1373,7 @@ translate german s08_04_tig_ask_2dd7fb8d:
 
     # avt "\"...Hmm? Yeah.\" "
 
-    avt ""
+    avt "\"...Hmm? Ja.\" "
 
 
 
@@ -1385,7 +1385,7 @@ translate german s08_04_tig_ask_f3da60ef:
 
     # b "Even Leopard can see how nervous I am, but I promised Tiger I'd try and study. I have to stay focused. "
 
-    b ""
+    b "Sogar Leopard kann sehen, wie nervös ich bin, aber ich habe Tiger versprochen, dass ich versuche zu lernen. Ich muss konzentriert bleiben. "
 
 
 
@@ -1397,7 +1397,7 @@ translate german s08_04_tig_ask_3ce33df5:
 
     # b "I flip through one of my textbooks. Okay, so what chapters here do I actually need to know for the test... "
 
-    b ""
+    b "Ich blättere in einem meiner Lehrbücher. Okay, welche Kapitel hier muss ich eigentlich für den Test wissen... "
 
 
 
@@ -1411,9 +1411,9 @@ translate german s08_04_tig_ask_c2b5fc1f:
 
     # b " Looking out the window I see the night sky beginning to fall over the bright city lights, the blue hue of day fading into the purple of night. He's still not back. "
 
-    b ""
+    b "Es ist schon eine Weile her, dass Tiger gegangen ist... "
 
-
+    b "Wenn ich aus dem Fenster schaue, sehe ich, wie sich der Nachthimmel langsam über die hellen Lichter der Stadt senkt, der blaue Farbton des Tages geht in das Violett der Nacht über. Er ist immer noch nicht zurück. "
 
 # game/script/08.rpy:362
 
@@ -1423,7 +1423,7 @@ translate german s08_04_tig_ask_319449fc:
 
     # b "He just went up to the roof, didn't he? How long could it take to speak to \nClairaudience? "
 
-    b ""
+    b "Er ist gerade auf das Dach gegangen, oder? Wie lange könnte es dauern, mit \nClairaudience zu sprechen? "
 
 
 
@@ -1439,9 +1439,11 @@ translate german s08_04_tig_ask_4cda4638:
 
     # b "Okay, so dinner plan. Get two meals, one for him and one for Leopard. "
 
-    b ""
+    b "Mein Magen knurrt, ich war zu besorgt, um ans Essen zu denken. "
 
+    b "Ich schätze, was auch immer Tiger macht, er würde sich wahrscheinlich freuen, wenn ich ihm eine kleinigkeit zum Abendessen gebe, um sein Chi wieder aufzufüllen. "
 
+    b "Okay, also Essensplan. Besorgen Sie zwei Mahlzeiten, eine für ihn und eine für Leopard. "
 
 # game/script/08.rpy:366
 
@@ -1451,7 +1453,7 @@ translate german s08_04_tig_ask_b80653ef:
 
     # avt "\"Leopard, can you please go up to the roof and ask Tiger what he'd like for dinner?\" "
 
-    avt ""
+    avt "\"Leopard, kannst du bitte auf das Dach gehen und Tiger fragen, was er zum Abendessen möchte?\" "
 
 
 
@@ -1479,7 +1481,7 @@ translate german s08_04_tig_ask_1f433ab4:
 
     # b "......... "
 
-    b ""
+    b "......... "
 
 
 
@@ -1491,7 +1493,7 @@ translate german s08_04_tig_ask_324c1c20:
 
     # b "It took just a moment before both of them returned. "
 
-    b ""
+    b "Es dauerte nur einen Moment, bis beide zurückkehrten. "
 
 
 
@@ -1519,7 +1521,7 @@ translate german s08_04_tig_ask_09732903:
 
     # avt "\"Huh? Where are you going?\" "
 
-    avt ""
+    avt "\"Hm? Wohin gehst du?\" "
 
 
 
@@ -1547,7 +1549,7 @@ translate german s08_04_tig_ask_c570936e:
 
     # avt "\"A place far from your statue?\" "
 
-    avt ""
+    avt "Ein Ort weit weg von deiner Statue?"
 
 
 
@@ -1577,7 +1579,7 @@ translate german s08_04_tig_ask_f2a87ea2:
 
     # avt "\"I see...\" "
 
-    avt ""
+    avt "\"Ich sehe...\" "
 
 
 
@@ -1591,9 +1593,9 @@ translate german s08_04_tig_ask_8d345483:
 
     # b "I guess this would be the first time he's left my side since coming here. "
 
-    b ""
+    b "Huh, also gibt es wirklich einen Weg, wie er seine Statue verlassen kann. Obwohl es sich nicht so anhört, als ob es einfach wäre, weit weg zu gehen. "
 
-
+    b "Ich schätze, das wäre das erste Mal, dass er von meiner Seite weicht, seit er hier ist. "
 
 # game/script/08.rpy:402
 
@@ -1619,7 +1621,7 @@ translate german s08_04_tig_ask_e49e15e7:
 
     # avt "\"Safe?\" "
 
-    avt ""
+    avt "\"Sicher?\" "
 
 
 
@@ -1665,7 +1667,7 @@ translate german s08_04_tig_ask_49284999:
 
     # avt "\"Don't worry. I'll be fine.\" "
 
-    avt ""
+    avt "\"Machen dir keine Sorgen. Ich komme schon klar.\" "
 
 
 
@@ -1693,7 +1695,7 @@ translate german s08_04_tig_ask_442df73e:
 
     # avt "\"Okay— Okay— I got it!\" " with hshake
 
-    avt "" with hshake
+    avt "\"Okay- Okay- Ich hab's!\" " with hshake
 
 
 
@@ -1721,7 +1723,7 @@ translate german s08_04_tig_ask_3374e805:
 
     # b "He pets my head softly before heading back up though the ceiling. "
 
-    b ""
+    b "Er streichelt sanft meinen Kopf, bevor er wieder durch die Decke nach oben geht."
 
 
 
@@ -1733,7 +1735,7 @@ translate german s08_04_tig_ask_a28d674e:
 
     # b "Seeing him leave like that... I don't know why, but my heart hurts. "
 
-    b ""
+    b "Zu sehen, wie er einfach so geht... Ich weiß nicht, warum, aber mein Herz schmerzt."
 
 
 
@@ -1745,7 +1747,7 @@ translate german s08_04_tig_ask_4ac226c2:
 
     # avt "\"...Do you want any dinner?\" "
 
-    avt ""
+    avt "\"...Möchtest du etwas zu Abendessen?\" "
 
 
 
@@ -1773,7 +1775,7 @@ translate german s08_04_tig_ask_95ba8ec0:
 
     # b "As such, we left my room to go get some. A dinner for just me and Leopard. "
 
-    b ""
+    b "So verließen wir mein Zimmer, um etwas zu holen. Ein Abendessen nur für mich und Leopard. "
 
 
 
@@ -1785,7 +1787,7 @@ translate german s08_04_tig_ask_5db0fedf:
 
     # b "After dinner, I focus back to my studies. "
 
-    b ""
+    b "Nach dem Abendessen konzentriere ich mich wieder auf mein Studium. "
 
 
 
@@ -1797,7 +1799,7 @@ translate german s08_04_tig_ask_1703602b:
 
     # b "With Tiger out to look for Senpai, I at least felt like I didn't need to worry. "
 
-    b ""
+    b "Da Tiger draußen war, um Senpai zu suchen, hatte ich wenigstens das Gefühl, dass ich mir keine Sorgen machen musste. "
 
 
 
@@ -1809,7 +1811,7 @@ translate german s08_04_tig_ask_26a749b3:
 
     # b "I actually managed to cover a lot of material. If I could do this every day, I'd be ready for the exams in no time. "
 
-    b ""
+    b "Ich habe es tatsächlich geschafft, eine Menge Stoff abzudecken. Wenn ich das jeden Tag machen könnte, wäre ich in kürzester Zeit für die Prüfungen bereit. "
 
 
 
@@ -1821,7 +1823,7 @@ translate german s08_04_tig_ask_339cf4fe:
 
     # b "I kept reading, revising and making notes until it was time for bed... "
 
-    b ""
+    b "Ich las weiter, überarbeitete und machte mir Notizen, bis es Zeit fürs Bett war... "
 
 
 
@@ -1833,7 +1835,7 @@ translate german s08_04_tig_ask_day1sleep_lpd_753ffcb0:
 
     # b "I have a shower, get out, and turn off the light in my apartment, ready to go to sleep. "
 
-    b ""
+    b "Ich dusche, steige raus und schalte das Licht in meiner Wohnung aus, bereit, schlafen zu gehen. "
 
 
 
@@ -1845,7 +1847,7 @@ translate german s08_04_tig_ask_day1sleep_lpd_35b7c179:
 
     # b "Leopard's the only one left home with me. "
 
-    b ""
+    b "Leopard ist der Einzige, der mit mir zu Hause ist. "
 
 
 
@@ -1857,7 +1859,7 @@ translate german s08_04_tig_ask_day1sleep_lpd_767dde3d:
 
     # b "As usual, he's already waiting for me on the bed. "
 
-    b ""
+    b "Wie immer wartet er schon auf dem Bett auf mich. "
 
 
 
@@ -1869,7 +1871,7 @@ translate german s08_04_tig_ask_day1sleep_lpd_8cea47b9:
 
     # b "We've been doing this every night, but he's never changed... "
 
-    b ""
+    b "Wir haben das jede Nacht gemacht, aber er hat sich nie verändert... "
 
 
 
@@ -1881,7 +1883,7 @@ translate german s08_04_tig_ask_day1sleep_lpd_2728bc13:
 
     # b "But tonight feels different... or is it just me? "
 
-    b ""
+    b "Aber heute Abend fühlt es sich anders an... oder liegt das nur an mir? "
 
 
 
@@ -1893,7 +1895,7 @@ translate german s08_04_tig_ask_day1sleep_lpd_d6dbb4ca:
 
     # b "I stand before the bed. I hesitate. "
 
-    b ""
+    b "Ich stehe vor dem Bett. Ich zögere."
 
 
 
@@ -1921,7 +1923,7 @@ translate german s08_04_tig_ask_day1sleep_lpd_97928dd4:
 
     # avt "\"Hm? Yeah...\" "
 
-    avt ""
+    avt "\"Hm? Ja...\" "
 
 
 
@@ -1937,9 +1939,11 @@ translate german s08_04_tig_ask_day1sleep_lpd_308df37f:
 
     # b "I kinda miss how Senpai was able to cut through any situation, always so bright and happy... "
 
-    b ""
+    b "Ich lege mich unter die Bettdecke. Leopard ist wie immer an die Wand gerollt."
 
+    b "Ich konnte mich einfach nicht entspannen. Ich lag einfach da und hörte mein eigenes Herz in meiner Brust pochen."
 
+    b "Ich vermisse irgendwie, wie Senpai in der Lage war, jede Situation zu überstehen, immer so fröhlich und glücklich..."
 
 # game/script/08.rpy:503
 
@@ -1949,7 +1953,7 @@ translate german s08_04_tig_ask_day1sleep_lpd_1c1d4e55:
 
     # lpd normal "\"......\" "
 
-    lpd normal ""
+    lpd normal "\"......\" "
 
 
 
@@ -1961,7 +1965,7 @@ translate german s08_04_tig_ask_day1sleep_lpd_2166e7b1:
 
     # avt "\"......\" "
 
-    avt ""
+    avt "\"......\" "
 
 
 
@@ -1989,7 +1993,7 @@ translate german s08_04_tig_ask_day1sleep_lpd_c5ade810:
 
     # avt "\"Hm? Yeah...\" "
 
-    avt ""
+    avt "\"Hm? Ja...\" "
 
 
 
@@ -2001,7 +2005,7 @@ translate german s08_04_tig_ask_day1sleep_lpd_c3c058f7:
 
     # b "So that's what he thinks my problem is... "
 
-    b ""
+    b "Das denkt er also, dass mein Problem ist..."
 
 
 
@@ -2015,9 +2019,9 @@ translate german s08_04_tig_ask_day1sleep_lpd_7205168d:
 
     # avt "\"I always thought he was just annoying... but I guess I got used to it? I mean, without him here, things just feel awkward.\" "
 
-    avt ""
+    avt "\"Es ist einfach {i}anders{/i} \ ohne Senpai in der Nähe.\" "
 
-
+    avt "\"Ich dachte immer, er wäre nur nervig... aber ich schätze, ich habe mich daran gewöhnt? Ich meine, ohne ihn hier, fühlen sich die Dinge einfach unangenehm an.\" "
 
 # game/script/08.rpy:515
 
@@ -2043,7 +2047,7 @@ translate german s08_04_tig_ask_day1sleep_lpd_d1712c13:
 
     # avt "\"No, nothing. It's just...\" "
 
-    avt ""
+    avt "\"Nein, nichts. Es ist nur...\" "
 
 
 
@@ -2071,7 +2075,7 @@ translate german s08_04_tig_ask_day1sleep_lpd_23a9d6ab:
 
     # avt "\"Yeah, at least, I hope nothing bad happens to him.\" "
 
-    avt ""
+    avt "\"Ja, ich hoffe zumindest, dass ihm nichts Schlimmes zustößt.\" "
 
 
 
@@ -7896,4 +7900,3 @@ translate german strings:
     old "讓虎爺睡地鋪。"
 
     new ""
-
