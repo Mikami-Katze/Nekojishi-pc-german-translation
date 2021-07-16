@@ -241,7 +241,7 @@ translate german s08_c436d1c7:
 
     # avt "\"Exactly. That's why I don't think it's best to go back yet. There's too much stuff to take care of first.\" "
 
-    avt "\"Genau. Deshalb denke ich nicht, dass es das Beste ist, noch zurück zu gehen. Es gibt zu viel zu erledigen.\ " "
+    avt "\"Genau. Deshalb denke ich nicht, dass es das Beste ist, noch zurück zu gehen. Es gibt zu viel zu erledigen.\" "
 
 
 
@@ -449,7 +449,7 @@ translate german s08_02_disagree_8e89cb80:
 
     # avt "\"Sorry Senpai, I really have to study.\" "
 
-    avt "\"Tut mir leid Senpai, ich muss wirklich lernen.\ " "
+    avt "\"Tut mir leid Senpai, ich muss wirklich lernen.\" "
 
 
 

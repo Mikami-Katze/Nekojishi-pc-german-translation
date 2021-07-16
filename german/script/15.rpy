@@ -1748,7 +1748,7 @@ translate german s15_02_dont_go_02_lpd_high_de79455a:
 
     # b "From my head to my feet. It hurts... "
 
-    # b "Alles von Kopf bis Fuß schmerzt... "
+    b "Alles von Kopf bis Fuß schmerzt... "
 
 
 
@@ -4178,7 +4178,7 @@ translate german s15_02_dont_go_02_runaway_a9083c47:
 
     # b "There's no way I can walk. Even if I tried to crawl away, my hands would not take me \nfar. "
 
-    b " Der verstauchte Fuß schmerzt bei Berührung. Mein Versuch mich hochzuziehen endet in einem weiteren Fall, ich stöhne vor Schmerz.
+    b " Der verstauchte Fuß schmerzt bei Berührung. Mein Versuch mich hochzuziehen endet in einem weiteren Fall, ich stöhne vor Schmerz. "
 
     b " Es geht nicht weiter. Gehen kann ich auf keinen Fall. Selbst wenn ich mich zusammenreiße und loskrieche würde ich kaum mehr weit kommen "
 
@@ -4340,7 +4340,7 @@ translate german s15_02_dont_go_02_runaway_3d0726d9:
 
     # b "Why... {w=0.5}Why did I have to be so stupid... "
 
-    b "Warum... {w=0.5}Wie konnte ich nur so dumm sein... 
+    b "Warum... {w=0.5}Wie konnte ich nur so dumm sein... "
 
 
 
@@ -5995,7 +5995,7 @@ translate german cg_lpd_cry_005b941d:
 
     # b "...I'll go back. "
 
-    b "...Ich gehe zurück. 
+    b "...Ich gehe zurück. "
 
 
 

@@ -1038,7 +1038,7 @@ translate german s18_branch5_6e18a889:
 
     voice voice_file.lpdcat(18,5)
 
-    lpdcat_true laugh "\"Hey Liao, lange nicht mehr gesehen... 
+    lpdcat_true laugh "\"Hey Liao, lange nicht mehr gesehen... "
 
 
 

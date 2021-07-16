@@ -5255,7 +5255,7 @@ translate german s17_branch4_02_f083933a:
 
     # b "Considering this is a path for spirits it makes sense... but it is no less incredible. "
 
-    b ""Likulau warnt mich in meinen Gedanken davor, dass wenn wir zu weit wandern möglicherweise ins Reich der Götter einbrechen. "
+    b "Likulau warnt mich in meinen Gedanken davor, dass wenn wir zu weit wandern möglicherweise ins Reich der Götter einbrechen. "
 
     b "Ergibt schon Sinn wenn man bedenkt dass dies ein Pfad für Geister ist... das macht es aber nicht weniger unglaublich"
 
