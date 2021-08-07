@@ -214,7 +214,7 @@ translate german s12_30843752:
 
     voice voice_file.lpdcat(12,7)
 
-    lpdcat pout "\"AUF KEINEN FALL.\"" with vshake
+    lpdcat pout "\"AUF KEINEN FALL.\" " with vshake
 
 
 
