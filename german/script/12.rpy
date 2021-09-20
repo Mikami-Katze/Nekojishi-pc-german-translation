@@ -523,7 +523,7 @@ translate german s12_reject_5eca2676:
 
     # lpdcat wronged "\"......\" "
 
-    lpdcat wronged ""
+    lpdcat wronged "\"......\" "
 
 
 
@@ -539,7 +539,7 @@ translate german s12_reject_7d81ee41:
 
     voice voice_file.lpdcat(12,19)
 
-    lpdcat laugh ""
+    lpdcat laugh "\"Gut. Wie gesagt, überstürzen wir es nicht. Wenn Liao es jetzt nicht will, kann ich warten.\" "
 
 
 
@@ -555,7 +555,7 @@ translate german s12_reject_67378beb:
 
     voice voice_file.lpdcat(12,20)
 
-    lpdcat pout ""
+    lpdcat pout "\"Es hat keinen Sinn, hier zu bleiben, zu Abend zu essen und einfach so zu tun, als wäre nichts passiert. Ich werde jetzt aufbrechen!\" "
 
 
 
@@ -571,7 +571,7 @@ translate german s12_reject_39e2a144:
 
     voice voice_file.lpdcat(12,21)
 
-    lpdcat laugh ""
+    lpdcat laugh "\"In Ordnung Liao! Bis Montag!\" "
 
 
 
@@ -583,7 +583,7 @@ translate german s12_reject_78405762:
 
     # avt "\"Wait, Senpai...\" "
 
-    avt ""
+    avt "\"Warte, Senpai...\" "
 
 
 
@@ -595,7 +595,7 @@ translate german s12_reject_872ab2c1:
 
     # b "Senpai bolts away fast as the wind can take him. "
 
-    b ""
+    b "Senpai rast schnell davon, wie der Wind ihn tragen kann. "
 
 
 
@@ -607,7 +607,7 @@ translate german s12_reject_12369afd:
 
     # avt "\"...we should eat together.\" "
 
-    avt ""
+    avt "\"... wir sollten zusammen essen.\" "
 
 
 
@@ -623,7 +623,7 @@ translate german s12_reject_49214bce:
 
     voice voice_file.tig(12,3)
 
-    tig normal ""
+    tig normal "\"Trotzdem wäre er nicht geblieben, nachdem er abgelehnt worden war. Das hat er auch gesagt.\" "
 
 
 
@@ -635,7 +635,7 @@ translate german s12_reject_2166e7b1:
 
     # avt "\"......\" "
 
-    avt ""
+    avt "\"......\" "
 
 
 
@@ -647,7 +647,7 @@ translate german s12_reject_7dae7a31:
 
     # avt "\"...Sorry.\" "
 
-    avt ""
+    avt "\"...Es tut mir leid.\" "
 
 
 
@@ -661,8 +661,9 @@ translate german s12_reject_a2bfa980:
 
     # b "Lost, I shuffle into the cafeteria and take a seat. "
 
-    b ""
-
+    b "Ich entschuldige mich, wissend, dass Senpai mich nicht hören kann und es auch nie werden wird. "
+    
+    b "Verloren schlurfe ich in die Cafeteria und setze mich."
 
 
 # game/script/12.rpy:182
@@ -673,7 +674,7 @@ translate german s12_accept_c8626bd3:
 
     # avt "\"Oh... well. Honestly, I'd be happy to go out with you Senpai.\" "
 
-    avt ""
+    avt "\"Oh... naja. Ehrlich gesagt würde ich mich freuen, mit dir auszugehen Senpai.\" "
 
 
 
@@ -689,7 +690,7 @@ translate german s12_accept_0ec5bfac:
 
     voice voice_file.lpdcat(12,22)
 
-    lpdcat laugh ""
+    lpdcat laugh "\"Ja! Du wirst jede Menge Spaß haben, mit jemandem auszugehen, der so super-duper liebenswert wie \nich ist!\""
 
 
 
@@ -701,7 +702,7 @@ translate german s12_accept_59f02047:
 
     # avt "\"Okay you big show off, keep that up and I won't ever compliment you again.\" "
 
-    avt ""
+    avt "\"Okay du großer Angeber, mach weiter so und ich werde dir nie wieder Komplimente machen.\" "
 
 
 
@@ -717,7 +718,7 @@ translate german s12_accept_42f02317:
 
     voice voice_file.lpdcat(12,23)
 
-    lpdcat normal ""
+    lpdcat normal "\"Waaa— Aber ich sage nur die Wahrheit~\" "
 
 
 
@@ -731,7 +732,9 @@ translate german s12_accept_f3b3e633:
 
     # avt "\"And tomorrow, I'll go on a date with, got it?\" "
 
-    avt ""
+    avt "\"Gut. Senpai ist {i}super-duper{/i} \ bezaubernd. Das ist kein Kompliment. \""
+
+    avt "\"Und morgen haben wir ein Date, verstanden?\" "
 
 
 
@@ -747,7 +750,7 @@ translate german s12_accept_bac18bf0:
 
     voice voice_file.lpdcat(12,24)
 
-    lpdcat happy "" with vshake
+    lpdcat happy "\"Ja! Du bist immer so nett, Liao!\" " with vshake
 
 
 
@@ -763,7 +766,7 @@ translate german s12_accept_9d29d51d:
 
     voice voice_file.lpdcat(12,25)
 
-    lpdcat laugh ""
+    lpdcat laugh "\"Ich werde nach Hause gehen und mich fertig machen! Bis morgen Liao! Freu mich drauf!\" "
 
 
 
@@ -777,7 +780,9 @@ translate german s12_accept_e5f4cdd9:
 
     # b "On top of that, we're already at the cafeteria. He could have at least had dinner with me before storming out of here. "
 
-    b ""
+    b "Senpai fällt praktisch nach hinten und winkt mir zu, als er weggeht... Wirklich, was müsste er überhaupt vorbereiten?  "
+    
+    b "Außerdem sind wir schon in der Cafeteria. Er hätte wenigstens mit mir zu Abend essen können, bevor er hier rausstürmte. "
 
 
 
@@ -789,7 +794,7 @@ translate german s12_accept_a938f0fb:
 
     # b "I'll never understand him will I? I decide to just leave it be and take a seat, eating my dinner for the night alone with Leopard and Tiger. "
 
-    b ""
+    b "Ich werde ihn nie verstehen, oder? Ich beschließe, es einfach so zu lassen, Platz zu nehmen und mein Abendessen für die Nacht allein mit dem Nebelparder und Tiger zu essen. "
 
 
 
@@ -801,7 +806,7 @@ translate german s12_accept_f04b9e98:
 
     # b "The next morning, I ask Tiger and Leopard to watch over my room. They couldn't come with me today after all. "
 
-    b ""
+    b "Am nächsten Morgen bitte ich Tiger und den Nebelparder, auf mein Zimmer aufzupassen. Sie konnten heute doch nicht mitkommen."
 
 
 
@@ -817,7 +822,7 @@ translate german s12_accept_803b124a:
 
     voice voice_file.tig(12,4)
 
-    tig normal ""
+    tig normal "\"Liao, ich möchte dich nicht belehren. Denk nur daran, dass du mit diesem Kätzchen nie irgendwo komisches hingehst, okay?\" "
 
 
 
@@ -829,7 +834,7 @@ translate german s12_accept_4fdf38e4:
 
     # avt "\"Yep, got it. It's not like there's any {i}strange places{/i} \ he'd take me to anyway. Don't worry, I'll see you later!\" "
 
-    avt ""
+    avt "\"Ja, verstanden. Es ist nicht so, dass er mich sowieso an {i}seltsamen Orten{/i} \ mitnehmen würde. Keine Sorge, wir sehen uns später!\" "
 
 
 
@@ -841,7 +846,7 @@ translate german s12_accept_2d759415:
 
     # tig normal "\"......\" "
 
-    tig normal ""
+    tig normal "\"......\" "
 
 
 
@@ -853,7 +858,7 @@ translate german s12_accept_9722285f:
 
     # avt "\"So, Senpai. Why are we here again?\" "
 
-    avt ""
+    avt "\"Also, Senpai. Warum sind wir wieder hier?\" "
 
 
 
@@ -869,7 +874,7 @@ translate german s12_accept_29be5af7:
 
     voice voice_file.lpdcat(12,26)
 
-    lpdcat laugh ""
+    lpdcat laugh "\"Weil es Spaß macht. Du kannst nicht nur einmal aneinen Ort hingehen und dann nie wieder! Ganz zu schweigen davon, dass der alte Mann bei uns war. Es gab so viele Orte, die ich dir nicht zeigen konnte. Diesmal werde ich dir alles zeigen! \" "
 
 
 
@@ -881,7 +886,7 @@ translate german s12_accept_9cab5001:
 
     # avt "\"Sounds more like you want to take me somewhere you can't say out loud...\" "
 
-    avt ""
+    avt "\"Klingt eher so, als ob du mich irgendwohin mitnehmen willst, was du nicht laut sagen kannst...\" "
 
 
 
@@ -897,7 +902,7 @@ translate german s12_accept_a5ebae82:
 
     voice voice_file.lpdcat(12,27)
 
-    lpdcat normal ""
+    lpdcat normal "\"Wa - Nur einer mit unreinem Herzen würde jemals meine Worte auf so lüsterne Weise verdrehen!\" "
 
 
 
@@ -909,7 +914,7 @@ translate german s12_accept_4d96b762:
 
     # avt "\"That's only because you made it sound shady!\" "
 
-    avt ""
+    avt "\"Das liegt nur daran, dass es bei dir zwielichtig klang!\" "
 
 
 
@@ -925,7 +930,7 @@ translate german s12_accept_34f48ad7:
 
     voice voice_file.lpdcat(12,28)
 
-    lpdcat laugh ""
+    lpdcat laugh "\"He-heh. Was auch immer du denkst, Liao. Ich muss dich dann einfach an einen tollen Ort bringen! Komm mit mir!\" "
 
 
 
@@ -941,7 +946,7 @@ translate german s12_accept_21f5b374:
 
     voice voice_file.lpdcat(12,29)
 
-    lpdcat normal ""
+    lpdcat normal "\"Hehe– du warst noch nie hier, oder?\" "
 
 
 
@@ -957,7 +962,7 @@ translate german s12_accept_de08df56:
 
     voice voice_file.lpdcat(12,30)
 
-    lpdcat laugh ""
+    lpdcat laugh "\"Es gibt eine Menge Orte, an die ich gerne gehen würde... aber ich möchte dich zuerst zu diesem bringen. Wir werden so eine tolle Zeit zusammen haben, Liao!\" "
 
 
 
@@ -969,7 +974,7 @@ translate german s12_accept_f97af424:
 
     # avt "\"W-{w=0.2}Where are we going?\" "
 
-    avt ""
+    avt "\"W-{w=0.2}Wohin gehen wir?\" "
 
 
 
@@ -985,7 +990,7 @@ translate german s12_accept_1aa6dfba:
 
     voice voice_file.lpdcat(12,31)
 
-    lpdcat laugh ""
+    lpdcat laugh "\"Du wirst es früh genug erfahren!\" "
 
 
 
@@ -997,7 +1002,7 @@ translate german s12_accept_2f078213:
 
     # b "Senpai's words are vague. I was getting worried he really was going to take me somewhere shady. But, in the end he leads me to an arcade that stretches across the basement of a department store. "
 
-    b ""
+    b "Senpais Worte sind vage. Ich machte mir langsam Sorgen, dass er mich wirklich an einen zwielichtigen Ort bringen würde. Aber am Ende führt er mich zu einer Arkade, die sich über den Keller eines Kaufhauses erstreckt. "
 
 
 
