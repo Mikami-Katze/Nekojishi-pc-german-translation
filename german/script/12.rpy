@@ -1014,7 +1014,7 @@ translate german s12_accept_6732ece0:
 
     # avt "\"...Hmm? What's so cool about this place?\" "
 
-    avt ""
+    avt "\"...Hmm? Was ist an diesem Ort so cool?\" "
 
 
 
@@ -1026,7 +1026,7 @@ translate german s12_accept_bd7da379:
 
     # b "As far as my eyes can see, arcade machines are lined up from wall to wall. Honestly, I'm not usually a fan of arcade games. "
 
-    b ""
+    b "Soweit mein Auge reicht, stehen Arcade-Automaten von Wand zu Wand aufgereiht. Ehrlich gesagt bin ich normalerweise kein Fan von Arcade-Spielen. "
 
 
 
@@ -1042,7 +1042,7 @@ translate german s12_accept_ea529fd1:
 
     voice voice_file.lpdcat(12,32)
 
-    lpdcat normal ""
+    lpdcat normal "\"Liao, spielst du irgendwelche Arcade-Rhythmusspiele?\" "
 
 
 
@@ -1056,7 +1056,9 @@ translate german s12_accept_827c89c2:
 
     # avt "\"That and they're usually all about tapping buttons to the beat. Why do that when you can just dance? I always find that heaps more fun.\" "
 
-    avt ""
+    avt "\"Nicht wirklich... ich habe normalerweise nicht das Geld dafür." "
+    
+    avt "\"Das, und normalerweise dreht sich alles darum, im Takt auf die Knöpfe zu tippen. Warum das tun, wenn man einfach tanzen kann? Ich finde das immer viel lustiger.\""
 
 
 
@@ -1072,7 +1074,7 @@ translate german s12_accept_2e5c610d:
 
     voice voice_file.lpdcat(12,33)
 
-    lpdcat normal ""
+    lpdcat normal "\"Wa- Was für eine traurige, behütete Seele du bist. Wie kann ein Mitglied des Tanzclubs es nicht wissen! Komm schon, hier entlang!\" "
 
 
 
@@ -1086,7 +1088,9 @@ translate german cg_cat_play_dancing_machine_8cd946e0:
 
     # b "I'm lost trying to work out what kind of game it is while Senpai runs up to the display, turning it on and standing in the middle of the play area. "
 
-    b ""
+    b "Senpai zieht mich am Handgelenk herum zu einem der größten Spiele in der Spielhalle. Im krassen Gegensatz zu den beengten Maschinen drumherum ist die Front offen gelassen mit etwas abgeklebtem Platz um die Front herum. "
+
+    b "Ich bin beschäftigt zu versuchen herauszufinden, was für ein Spiel es ist, während Senpai zum Display rennt, es einschaltet und in der Mitte des Spielbereichs steht."
 
 
 
@@ -1100,7 +1104,9 @@ translate german cg_cat_play_dancing_machine_2a58f37d:
 
     # b "Senpai puts on the same pose as the virtual figure. He starts to dance as the music kicks in. "
 
-    b ""
+    b "Auf dem Bildschirm erscheint eine Figur, die Senpais Position davor widerspiegelt. Moment– wie kann er es so weit weg von der Maschine kontrollieren? "
+
+    b "Senpai nimmt die gleiche Pose ein wie die virtuelle Figur. Er beginnt zu tanzen, als die Musik einsetzt. "
 
 
 
@@ -1114,7 +1120,9 @@ translate german cg_cat_play_dancing_machine_0bda5b1d:
 
     # b "Regardless, Senpai's moving so well I wouldn't be able to tell the difference between him or a demonstration of the dance anyway. He's beyond practice. "
 
-    b ""
+    b "Senpai bewegt sich geschickt, während alle paar Sekunden das Wort \"Perfekt\" auf dem Bildschirm aufblitzt. Verfolgt er die Animationen?"
+
+    b "Wie dem auch sei, Senpai bewegt sich so gut, dass ich sowieso keinen Unterschied zwischen ihm oder einer Vorführung des Tanzes erkennen könnte. Er ist jenseits der Praxis."
 
 
 
@@ -1128,7 +1136,9 @@ translate german cg_cat_play_dancing_machine_6f0cdb2b:
 
     # b "Senpai clicks his tongue in disappointment. Guess his accuracy on that move was off. "
 
-    b ""
+    b "Ungefähr dreißig Sekunden nach dem Song springt das Wort \"Großartig\" auf den Bildschirm und bricht seine \"Perfekt\"-Kombo. "
+
+    b "Senpai schnalzt enttäuscht mit der Zunge. Schätze, dass seine Genauigkeit bei diesem Zug nicht stimmte. "
 
 
 
@@ -1142,7 +1152,9 @@ translate german cg_cat_play_dancing_machine_c520b895:
 
     # b "Senpai keeps going, getting \"Perfect\" after \"Perfect\". Even without playing it I can tell it's super hard to be this perfect. "
 
-    b ""
+    b "Die Technik hat heutzutage wirklich einen langen Weg hinter sich ... Ich erinnere mich noch an diese Arcade-Tanz-\npads. "
+
+    b "Senpai macht weiter und bekommt \"Perfekt\" nach \"Perfekt\". Selbst ohne es zu spielen, kann ich sagen, dass es super schwer ist, so perfekt zu sein. "
 
 
 
@@ -1156,7 +1168,9 @@ translate german cg_cat_play_dancing_machine_50fda23b:
 
     # b "Even though the choreography is easier than what we're used, to it's still impressive how well he pulled it off within the framework of the game. "
 
-    b ""
+    b "Als Senpai das Lied beendet hat, kann ich nicht anders, als mit der Menge, die sich um ihn gebildet hat, mitzuklatschen. "
+
+    b "Auch wenn die Choreographie einfacher ist als wir es gewohnt sind, ist es dennoch beeindruckend, wie gut er es im Rahmen des Spiels hinbekommen hat. "
 
 
 
@@ -1168,7 +1182,7 @@ translate german cg_cat_play_dancing_machine_02cb4e99:
 
     # b "His moves were so fluid that you could barely tell he was even playing a game. Senpai really is awesome. "
 
-    b ""
+    b "Seine Bewegungen waren so flüssig, dass man kaum erkennen konnte, dass er überhaupt ein Spiel spielte. Senpai ist wirklich toll. "
 
 
 
@@ -1184,7 +1198,7 @@ translate german cg_cat_play_dancing_machine_fa469a13:
 
     voice voice_file.lpdcat(12,34)
 
-    lpdcat laugh ""
+    lpdcat laugh "\"Okay, jetzt bist du dran, Liao!\" "
 
 
 
@@ -1196,7 +1210,7 @@ translate german cg_cat_play_dancing_machine_8f3ed1dd:
 
     # avt "\"Hey! There's no way I can be as good as you!\" "
 
-    avt ""
+    avt "\"Hey! Ich kann auf keinen Fall so gut sein wie du!\" "
 
 
 
@@ -1210,7 +1224,9 @@ translate german cg_cat_play_dancing_machine_142091cc:
 
     # b "Not to mention I'll be going in after Senpai, talk about pressure! "
 
-    b ""
+    b "Klar, ich bin Tänzer, aber woher soll ich die Routinen im Spiel kennen. Ich kann nicht einfach da reingehen und erwarten, großartig zu sein, ohne es ein paar Mal zu üben. "
+
+    b "Ganz zu schweigen davon, dass ich nach Senpai gehen werde, wobei wir von Druck reden! "
 
 
 
@@ -1226,7 +1242,7 @@ translate german cg_cat_play_dancing_machine_200c269b:
 
     voice voice_file.lpdcat(12,35)
 
-    lpdcat normal ""
+    lpdcat normal "\"Es ist {i}okeeeeey{/i}. Es ist nicht so, als würde ich erwarten, dass dein erstes Mal gut wird. Keine Sorge, ich werde nicht lachen!\" "
 
 
 
@@ -1238,7 +1254,7 @@ translate german cg_cat_play_dancing_machine_082e6931:
 
     # avt "\"Everyone's watching!\" "
 
-    avt ""
+    avt "\"Alle schauen zu!\" "
 
 
 
@@ -1254,7 +1270,7 @@ translate german cg_cat_play_dancing_machine_a0dd6686:
 
     voice voice_file.lpdcat(12,36)
 
-    lpdcat laugh "" with vshake
+    lpdcat laugh "\"Es gibt ein erstes Mal für jeden! KOMM! SCHON! LIAO!\" " with vshake
 
 
 
@@ -1268,7 +1284,9 @@ translate german cg_cat_play_dancing_machine_0945cf05:
 
     # b "He picks something \"Easy\" for me but I still struggle to keep up with it on my first go, not to mention needing to work out the limits of the machine as I do so. In the end, I barely pass the track. "
 
-    b ""
+    b "Trotz meiner Proteste schiebt mich Senpai vor die Maschine und zwingt mich, es auszuprobieren. "
+
+    b "Er wählt etwas \"Einfaches\" für mich, aber ich habe immer noch Mühe, beim ersten Versuch damit Schritt zu halten, ganz zu schweigen davon, dass ich dabei die Grenzen der Maschine ausloten muss. Am Ende komme ich nur knapp am Track vorbei. "
 
 
 
@@ -1280,7 +1298,7 @@ translate german cg_cat_play_dancing_machine_eba4a972:
 
     # avt "\"I can't do it...\" "
 
-    avt ""
+    avt "\"Ich kann das nicht...\" "
 
 
 
@@ -1296,7 +1314,7 @@ translate german cg_cat_play_dancing_machine_ad387857:
 
     voice voice_file.lpdcat(12,37)
 
-    lpdcat normal ""
+    lpdcat normal "\"Die meisten Leute schaffen nicht einmal das Erste~\" "
 
 
 
@@ -1312,7 +1330,7 @@ translate german cg_cat_play_dancing_machine_44eb1a48:
 
     voice voice_file.jiahao(12,1)
 
-    question ""
+    question "\"Oh hey, Liao und Shu-Chi? Ihr seht wirklich aus, als hättet ihr Spaß!\" "
 
 
 
@@ -1324,7 +1342,7 @@ translate german cg_cat_play_dancing_machine_11ca2ff0:
 
     # b "It's a familiar voice. I turn around to see Jiahao. "
 
-    b ""
+    b "Es ist eine vertraute Stimme. Ich drehe mich um, um Jiahao zu sehen. "
 
 
 
@@ -1340,7 +1358,7 @@ translate german cg_cat_play_dancing_machine_1ab841f1:
 
     voice voice_file.jiahao(12,2)
 
-    jiahao ""
+    jiahao "\"Du hast es gut gemacht, aber Shu-Chi Senpai war großartig! Ich glaube, ich habe noch nie zuvor jemanden gesehen, der so gut im Spiel war! Wie lange trainierst du schon?\" "
 
 
 
@@ -1356,7 +1374,7 @@ translate german cg_cat_play_dancing_machine_bf671e1e:
 
     voice voice_file.lpdcat(12,38)
 
-    lpdcat laugh ""
+    lpdcat laugh "\"Haha- ich habe zu Hause ein bisschen geübt. Das ist keine große Sache. Viel Platz braucht es sowieso nicht wirklich.\" "
 
 
 
@@ -1372,7 +1390,7 @@ translate german cg_cat_play_dancing_machine_81004c84:
 
     voice voice_file.jiahao(12,3)
 
-    jiahao ""
+    jiahao "\"Liao... das war dein erstes Mal, oder? Du hast es ziemlich gut gemacht.\" "
 
 
 
@@ -1384,7 +1402,7 @@ translate german cg_cat_play_dancing_machine_9c48a5c1:
 
     # avt "\"Nah, I know I sucked. No need to try and make me feel better.\" " with vshake
 
-    avt "" with vshake
+    avt "\"Nah, ich weiß, dass ich schlecht war. Kein Grund zu versuchen, dass ich mich besser fühle.\" " with vshake
 
 
 
@@ -1400,7 +1418,7 @@ translate german cg_cat_play_dancing_machine_8c08916d:
 
     voice voice_file.jiahao(12,4)
 
-    jiahao ""
+    jiahao "\"Das versuche ich nicht. Verglichen damit...\" "
 
 
 
@@ -1412,7 +1430,7 @@ translate german cg_cat_play_dancing_machine_96d98c1b:
 
     # b "Jiahao pulls me to the side. "
 
-    b ""
+    b "Jiahao zieht mich zur Seite. "
 
 
 
@@ -1428,7 +1446,7 @@ translate german cg_cat_play_dancing_machine_4a9e5e59:
 
     voice voice_file.jiahao(12,5)
 
-    jiahao ""
+    jiahao "\"Liao, du hast gesagt, du würdest Shu-chi Senpai nicht daten, richtig? Weil ihr beide hier zusammen total wie ein Date ausseht alter.\" "
 
 
 
@@ -1440,7 +1458,7 @@ translate german cg_cat_play_dancing_machine_25e4a0f5:
 
     # avt "\"Uhh...\" " with hshake
 
-    avt "" with hshake
+    avt "\"Uhh...\" " with hshake
 
 
 
@@ -1452,7 +1470,7 @@ translate german cg_cat_play_dancing_machine_d6c68e74:
 
     # b "I stammer as I feel my face flush with embarrassment. "
 
-    b ""
+    b "Ich stammle, als ich spüre, wie mein Gesicht vor Peinlichkeit rot wird."
 
 
 
@@ -1464,7 +1482,7 @@ translate german cg_cat_play_dancing_machine_c822aba8:
 
     # avt "\"S-{w=0.2}Senpai just wanted to hang out and decided to take me here... There's really nothing going on.\" "
 
-    avt ""
+    avt "\"S-{w=0.2}Senpai wollte nur abhängen und beschloss, mich hierher zu bringen... Es ist wirklich nichts los zwischen uns.\" "
 
 
 
@@ -1482,7 +1500,9 @@ translate german cg_cat_play_dancing_machine_49e8be2e:
 
     voice voice_file.jiahao(12,6)
 
-    jiahao ""
+    jiahao "\"Nun, Liao, es ist mir egal. Aber du willst nicht, dass die Leute denken, dass etwas zwischen euch ist, oder?\" "
+
+    jiahao "\"Leute aus dem Tanzclub kommen die ganze Zeit hierher. Siehst du? Schau da drüben.\" "
 
 
 
