@@ -1058,7 +1058,7 @@ translate german s12_accept_827c89c2:
 
     avt "\"Nicht wirklich... ich habe normalerweise nicht das Geld dafür." "
     
-    avt "\"Das, und normalerweise dreht sich alles darum, im Takt auf die Knöpfe zu tippen. Warum das tun, wenn man einfach tanzen kann? Ich finde das immer viel lustiger.\""
+    avt "\"Das, und normalerweise dreht sich alles darum, im Takt auf die Knöpfe zu tippen. Warum das tun, wenn man einfach tanzen kann? Ich finde das immer viel lustiger.\" "
 
 
 
@@ -2000,7 +2000,7 @@ translate german cg_cat_play_dancing_machine_bffdc448:
 
     # avt "\"Then yesterday you straight up asked to go out with me out of the blue... Now you're telling me you might be leaving. It doesn't make sense.\" "
 
-    avt ""Zunächst hast du nicht einmal wirklich versucht, Zeit mit mir zu verbringen. Klar, es ist Prüfungswoche, aber es ist nicht so schwer.\" "
+    avt "\"Zunächst hast du nicht einmal wirklich versucht, Zeit mit mir zu verbringen. Klar, es ist Prüfungswoche, aber es ist nicht so schwer.\" "
 
     avt "\"Dann hast du gestern aus heiterem Himmel gebeten, mit mir auszugehen... Jetzt erzählst du mir, dass du vielleicht gehst. Es ergibt keinen Sinn.\" "
 
