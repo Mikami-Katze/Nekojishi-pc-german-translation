@@ -1514,7 +1514,7 @@ translate german cg_cat_play_dancing_machine_fa4a8346:
 
     # b "I turn my head to see someone I recognise from dance club. "
 
-    b ""
+    b "Ich drehe meinen Kopf, um jemanden zu sehen, den ich aus dem Tanzclub kenne. "
 
 
 
@@ -1526,7 +1526,7 @@ translate german cg_cat_play_dancing_machine_6daf5257:
 
     # b "And considering he's staring right at me, I'd hazard a guess they're a member of Shu-Chi's fan club. "
 
-    b ""
+    b "Und wenn man bedenkt, dass er mich direkt anstarrt, würde ich vermuten, dass er ein Mitglied von Shu-Chis Fanclub ist. "
 
 
 
@@ -1538,7 +1538,7 @@ translate german cg_cat_play_dancing_machine_3b23b615:
 
     # avt "\"Umm...\" "
 
-    avt ""
+    avt "\"Umm...\" "
 
 
 
@@ -1550,7 +1550,7 @@ translate german cg_cat_play_dancing_machine_10e4bef0:
 
     # b "I can't believe this... "
 
-    b ""
+    b "Ich kann das nicht glauben... "
 
 
 
@@ -1566,7 +1566,7 @@ translate german cg_cat_play_dancing_machine_21090df7:
 
     voice voice_file.jiahao(12,7)
 
-    jiahao ""
+    jiahao "\"Ich dachte nur, ich lasse es dich wissen. Jetzt benimm dich, Liao. Wir sehen uns später.\" "
 
 
 
@@ -1578,7 +1578,7 @@ translate german cg_cat_play_dancing_machine_0c155c3c:
 
     # avt "\"Oh... yeah...\" "
 
-    avt ""
+    avt "\"Oh... ja...\" "
 
 
 
@@ -1590,7 +1590,7 @@ translate german cg_cat_play_dancing_machine_11d84a0e:
 
     # b "I wave Jiahao goodbye and return back to Senpai. "
 
-    b ""
+    b "Ich winke Jiahao zum Abschied und kehre zu Senpai zurück. "
 
 
 
@@ -1602,7 +1602,7 @@ translate german cg_cat_play_dancing_machine_5485b788:
 
     # avt "\"Hey... Senpai... mind if we go somewhere else?\" "
 
-    avt ""
+    avt "\"Hey... Senpai... stört es, wenn wir woanders hingehen?\" "
 
 
 
@@ -1618,7 +1618,7 @@ translate german cg_cat_play_dancing_machine_845f7a08:
 
     voice voice_file.lpdcat(12,39)
 
-    lpdcat normal ""
+    lpdcat normal "\"Wa - ich dachte, du hättest Spaß.\" "
 
 
 
@@ -1630,7 +1630,7 @@ translate german cg_cat_play_dancing_machine_2f16d9ff:
 
     # avt "\"Well...\" "
 
-    avt ""
+    avt "\"Nun...\" "
 
 
 
@@ -1642,7 +1642,7 @@ translate german cg_cat_play_dancing_machine_5589f65e:
 
     # b "I glance towards the guy from dance club staring at me. "
 
-    b ""
+    b "Ich schaue zu dem Typen vom Tanzclub, der mich anstarrt. "
 
 
 
@@ -1658,7 +1658,7 @@ translate german cg_cat_play_dancing_machine_b3c24fc7:
 
     voice voice_file.lpdcat(12,40)
 
-    lpdcat laugh ""
+    lpdcat laugh "\"Oh? Dieser Kerl? Kümmere dich nicht um ihn.\" "
 
 
 
@@ -1670,7 +1670,7 @@ translate german cg_cat_play_dancing_machine_34fa1fcb:
 
     # avt "\"I mind...\" " with vshake
 
-    avt "" with vshake
+    avt "\"Es kümmert mich aber...\" " with vshake
 
 
 
@@ -1686,7 +1686,7 @@ translate german cg_cat_play_dancing_machine_f8e49a76:
 
     voice voice_file.lpdcat(12,41)
 
-    lpdcat normal ""
+    lpdcat normal "\"Okay – Okay – Bleib hier und warte.\" "
 
 
 
@@ -1698,7 +1698,7 @@ translate german cg_cat_play_dancing_machine_93714ce7:
 
     # b "Senpai walks off to the side and makes a phone call. "
 
-    b ""
+    b "Senpai geht zur Seite und macht einen Anruf. "
 
 
 
@@ -1710,7 +1710,7 @@ translate german cg_cat_play_dancing_machine_b073b5e8:
 
     # avt "\"Senpai, is everything okay?\" "
 
-    avt ""
+    avt "\"Senpai, ist alles in Ordnung?\" "
 
 
 
@@ -1726,7 +1726,7 @@ translate german cg_cat_play_dancing_machine_f1627642:
 
     voice voice_file.lpdcat(12,42)
 
-    lpdcat laugh ""
+    lpdcat laugh "\"Jap. Komm schon! Lass uns spielen~\" "
 
 
 
@@ -1738,7 +1738,7 @@ translate german cg_cat_play_dancing_machine_d71b1ba9:
 
     # b "I'm just about to ask what he was up to when... "
 
-    b ""
+    b "Ich bin gerade dabei zu fragen, was er vorhatte, als... "
 
 
 
@@ -1752,7 +1752,9 @@ translate german cg_cat_play_dancing_machine_156822ee:
 
     # b "Obviously terrified, he walks away with the man in black after a few words are exchanged. "
 
-    b ""
+    b "Ein Mann im schwarzen Anzug mit einer dunkel getönten Sonnenbrille nähert sich Shu-chi's Verehrer von hinten und tippt ihm auf die Schulter. "
+    
+    b "Offensichtlich verängstigt geht er nach ein paar Worten mit dem Mann in Schwarz davon. "
 
 
 
@@ -1764,7 +1766,7 @@ translate german cg_cat_play_dancing_machine_c9c02275:
 
     # b "No argument, no fight. The man in black just took them away without any dispute. "
 
-    b ""
+    b "Kein Streit, kein Kampf. Der Mann in Schwarz hat ihn einfach ohne Auseinandersetzung mitgenommen. "
 
 
 
@@ -1776,7 +1778,7 @@ translate german cg_cat_play_dancing_machine_d2663355:
 
     # avt "\"............\" "
 
-    avt ""
+    avt "\"............\" "
 
 
 
@@ -1788,7 +1790,7 @@ translate german cg_cat_play_dancing_machine_0dc977e5:
 
     # avt "\"...Senpai, what did you do?\" " with vshake
 
-    avt "" with vshake
+    avt "\"...Senpai, was hast du getan?\"" with vshake
 
 
 
@@ -1804,7 +1806,7 @@ translate german cg_cat_play_dancing_machine_02c09723:
 
     voice voice_file.lpdcat(12,43)
 
-    lpdcat laugh ""
+    lpdcat laugh "\"{i}Nichts{/i}. Es ist meine seltene Chance, ein Date mit dir zu haben, Liao. Ich werde nicht zulassen, dass mich jemand daran hindert. Und...\" "
 
 
 
@@ -1820,7 +1822,7 @@ translate german cg_cat_play_dancing_machine_7b363b80:
 
     voice voice_file.lpdcat(12,44)
 
-    lpdcat cute ""
+    lpdcat cute "\"...Vielleicht gehe ich bald. Also egal was, ich möchte diese Chance nicht verpassen.\" "
 
 
 
@@ -1832,7 +1834,7 @@ translate german cg_cat_play_dancing_machine_f8f0ad90:
 
     # avt "\"Leaving?\" " with flash
 
-    avt "" with flash
+    avt "\"Gehen?\" " with flash
 
 
 
@@ -1848,7 +1850,7 @@ translate german cg_cat_play_dancing_machine_c35def9e:
 
     voice voice_file.lpdcat(12,45)
 
-    lpdcat normal ""
+    lpdcat normal "\"Das ist keine große Sache. Hey, Liao! Das hier sollten wir mal ausprobieren!\" "
 
 
 
@@ -1860,7 +1862,7 @@ translate german cg_cat_play_dancing_machine_5039ad6f:
 
     # b "I see through Senpai's abysmal attempt at changing the topic. "
 
-    b ""
+    b "Ich durchschaue Senpais abgründigen Versuch, das Thema zu wechseln. "
 
 
 
@@ -1872,7 +1874,7 @@ translate german cg_cat_play_dancing_machine_0381aa70:
 
     # avt "\"Senpai wait, you're leaving?\" "
 
-    avt ""
+    avt "\"Senpai warte, du gehst?\" "
 
 
 
@@ -1888,7 +1890,7 @@ translate german cg_cat_play_dancing_machine_ddd6170d:
 
     voice voice_file.lpdcat(12,46)
 
-    lpdcat laugh ""
+    lpdcat laugh "\"Es ist überhaupt nichts. Keine Sorge, du hast nichts damit zu tun. Nur ein schlechter Scherz.\" "
 
 
 
@@ -1902,7 +1904,9 @@ translate german cg_cat_play_dancing_machine_ef2c0135:
 
     # avt "\"You just made a phone call to have someone taken away by your mysterious secret service! He's going to think there's something between us for sure now!\" "
 
-    avt "" with vshake
+    avt "\"Es spielt keine Rolle? Ich habe nichts damit zu tun? Wie? Ob du oder Shu-chi Senpai gehen würde, ist mir wichtig!\" " with vshake
+
+    avt "\"Du hast gerade angerufen, um jemanden von deinem mysteriösen Geheimdienst abholen zu lassen! Er wird jetzt sicher denken, dass etwas zwischen uns ist!\" " with vshake
 
 
 
@@ -1918,7 +1922,7 @@ translate german cg_cat_play_dancing_machine_d2b3b02a:
 
     voice voice_file.lpdcat(12,47)
 
-    lpdcat normal ""
+    lpdcat normal "\"Wirklich... Es spielt keine Rolle. Ich werde die Dinge klären, überhaupt kein Problem!\" "
 
 
 
@@ -1930,7 +1934,7 @@ translate german cg_cat_play_dancing_machine_64249b4b:
 
     # avt "\"No problem?! What in the world could you say to explain that! ...You weren't like this before. What the hell's wrong with you Senpai?\" "
 
-    avt ""
+    avt "\"Kein Problem?! Was in aller Welt könntest du sagen, um das zu erklären! ...Du warst vorher nicht so. Was zum Teufel ist mit dir Senpai?\" "
 
 
 
@@ -1942,7 +1946,7 @@ translate german cg_cat_play_dancing_machine_2eb346dd:
 
     # avt "\"Ever since you came back after the Ching Ming break I've felt like somethings been wrong. What happened? I care about you! Please, tell me everything!\" "
 
-    avt ""
+    avt "\"Seit du nach der Ching-Ming-Pause zurückgekommen bist, habe ich das Gefühl, dass etwas nicht stimmt. Was ist passiert? Du bist mir wichtig! Bitte erzähl mir alles!\" "
 
 
 
@@ -1954,7 +1958,7 @@ translate german cg_cat_play_dancing_machine_b7b0a689:
 
     # b "My raised voice blends into background of the noisy arcade. I take Senpai and pull him into a nearby corner. "
 
-    b ""
+    b "Meine erhobene Stimme verschmilzt mit dem Hintergrund der lauten Spielhalle. Ich nehme Senpai und ziehe ihn in eine nahe Ecke. "
 
 
 
@@ -1970,7 +1974,7 @@ translate german cg_cat_play_dancing_machine_21d240af:
 
     voice voice_file.lpdcat(12,48)
 
-    lpdcat difficult ""
+    lpdcat difficult "\"Wo- Wovon redest du? Liao, du überreagierst. Ich bin... nun, ich bin nur sauer, weil ich gehe. Es ist keine große Sache!\""
 
 
 
@@ -1982,7 +1986,7 @@ translate german cg_cat_play_dancing_machine_0c630fde:
 
     # avt "\"Really, I don't think so. The past few day's you've been {i}different{/i}.\" "
 
-    avt ""
+    avt "\"Wirklich, ich glaube nicht. In den letzten Tagen warst du {i}anders{/i}.\" "
 
 
 
@@ -1996,7 +2000,9 @@ translate german cg_cat_play_dancing_machine_bffdc448:
 
     # avt "\"Then yesterday you straight up asked to go out with me out of the blue... Now you're telling me you might be leaving. It doesn't make sense.\" "
 
-    avt ""
+    avt ""Zunächst hast du nicht einmal wirklich versucht, Zeit mit mir zu verbringen. Klar, es ist Prüfungswoche, aber es ist nicht so schwer.\" "
+
+    avt "\"Dann hast du gestern aus heiterem Himmel gebeten, mit mir auszugehen... Jetzt erzählst du mir, dass du vielleicht gehst. Es ergibt keinen Sinn.\" "
 
 
 
