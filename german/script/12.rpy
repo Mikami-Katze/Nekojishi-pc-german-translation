@@ -690,7 +690,7 @@ translate german s12_accept_0ec5bfac:
 
     voice voice_file.lpdcat(12,22)
 
-    lpdcat laugh "\"Ja! Du wirst jede Menge Spaß haben, mit jemandem auszugehen, der so super-duper liebenswert wie \nich ist!\""
+    lpdcat laugh "\"Ja! Du wirst jede Menge Spaß haben, mit jemandem auszugehen, der so super-duper liebenswert wie \nich ist!\" "
 
 
 
