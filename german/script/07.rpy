@@ -10,7 +10,7 @@ translate german s07_2683a0de:
 
     # b "It's Friday. Another weeks gone by, and I still have no clue what to do. "
 
-    b "Es ist Freitag. Eine weitere Woche ist vorbeigelaufen und ich habe immernoch keine Ahnung, was ich machen soll. "
+    b "Es ist Freitag. Eine weitere Woche ist vorbei und ich habe immernoch keine Ahnung, was ich machen soll. "
 
 
 
@@ -66,7 +66,7 @@ translate german s07_4952f8b1:
 
     voice voice_file.lpdcat(7,2)
 
-    lpdcat happy "\"Hey, dieses Wochenende! Lass uns zusammen rausgehen!\" "
+    lpdcat happy "\"Hey, dieses Wochenende! Lass uns gemeinsam ausgehen!\" "
 
 
 
@@ -78,7 +78,7 @@ translate german s07_465ac3a6:
 
     # avt "\"Again? Senpai, you always want to go out. Aren't you tired?\" "
 
-    avt "\"Schon wieder? Senpai, du willst immer rausgehen. Bist du nicht mal müde?\" "
+    avt "\"Schon wieder? Senpai, du willst immer ausgehen. Bist du nicht mal müde?\" "
 
 
 
@@ -94,7 +94,7 @@ translate german s07_91f2fc11:
 
     voice voice_file.lpdcat(7,3)
 
-    lpdcat normal "\"Wochenenden sind dafür da, um Spaß mit der Freizeit zu haben! Komm schon Liao, ist dir nicht langweilig, die ganze Zeit drinnen zu bleiben?\" "
+    lpdcat normal "\"Wochenenden sind dafür da, um Spaß an der Freizeit zu haben! Komm schon Liao, ist dir nicht langweilig, die ganze Zeit drinnen zu bleiben?\" "
 
 
 
@@ -293,7 +293,7 @@ translate german s07_54a50b86:
 
     voice voice_file.lpdcat(7,10)
 
-    lpdcat normal "\"So, bald werdem schon alle Tung Blüten-Gärten voll mit Touristen sein, die sie sehen wollen. Das bedeutet, jetzt ist die beste Zeit, zu gehen! Werbung, welche für {font=tl/None/NotoSansCJKtc-Bold.otf}das Das Hakka Tung Blütenfest{/font} wirbt, war überall! (Wie konntest du bis jetzt noch keine sehen?)\" "
+    lpdcat normal "\"So, bald werden schon alle Tung Blüten-Gärten voll mit Touristen sein, die sie sehen wollen. Das bedeutet, jetzt ist die beste Zeit, zu gehen! Werbung, welche für {font=tl/None/NotoSansCJKtc-Bold.otf}das Das Hakka Tung Blütenfest{/font} wirbt, war überall! (Wie konntest du bis jetzt noch keine sehen?)\" "
 
 
 
@@ -321,7 +321,7 @@ translate german s07_6214960f:
 
     voice voice_file.lpdcat(7,11)
 
-    lpdcat normal ""
+    lpdcat normal "\"Naja ich kann nicht {i}wirklich{/i} \ behaupten mich informiert zu haben, dennnoch ist aktuell der beste Zeitpunkt sie zu Gesicht zu bekommen. Alsooo- sollten wir gemeinsam hin!\" "
 
 
 
@@ -333,7 +333,7 @@ translate german s07_a2cc66c8:
 
     # avt "\"Flower blossoms, huh...\" "
 
-    avt ""
+    avt "\"Blüten, hmm...\" "
 
 
 
@@ -347,7 +347,9 @@ translate german s07_115a965f:
 
     # b "Honestly, as it stands I've only even seen cherry blossoms bloom in manga... "
 
-    b ""
+    b "Ich weiß garnicht wie Tungblüten wirklich aussehen... aber ich denke ein Tungblütengarten wird in etwa so sein wie einer mit Kirschblüten. "
+
+    b "Um ehrlich zu sein habe ich auch die bisher nur im Manga gesehen... "
 
 
 
@@ -359,7 +361,7 @@ translate german s07_2ce1179d:
 
     # avt "\"So where can we go to see them?\" "
 
-    avt ""
+    avt "\"Und wo müssen wir hin um sie zu sehen?\" "
 
 
 
@@ -377,7 +379,9 @@ translate german s07_e5a7ac9c:
 
     voice voice_file.lpdcat(7,12)
 
-    lpdcat laugh ""
+    lpdcat laugh "\"Naja es gibt Tungblütengärten in Hsinchu and Miaoli. So gerne ich dir meine Heimatstadt in einem Meer von Blüten zeigen würde, das wäre dir wohl zu weit entfernt.\" "
+
+    lpdcat laugh "\"Aber die Orte hier sind auch total klasse!\" "
 
 
 
@@ -389,7 +393,7 @@ translate german s07_02e279b5:
 
     # avt "\"So where are they around here?\" "
 
-    avt ""
+    avt "\"WO genau sollen solche Orte hier sein?\" "
 
 
 
@@ -405,7 +409,7 @@ translate german s07_3cd87c39:
 
     voice voice_file.lpdcat(7,13)
 
-    lpdcat cute ""
+    lpdcat cute "\"Der Berg hinter unserem Campus ist bekannt für seine wundervollen Gärten. Ein perfekter Tagesausflug nur für uns zwei~\" "
 
 
 
@@ -415,9 +419,9 @@ translate german s07_158ee4f4:
 
 
 
-    # avt "\"Huh, that's actually not that far out. But since it's in the mountains... that that means we have to hike up, don't we?\" "
+    # avt "\"Huh, that's actually not that far out. But since it's in the mountains... that means we have to hike up, don't we?\" "
 
-    avt ""
+    avt "\"Oh, das ist wirklich nicht all zu weit. Doch in den Bergen bedeutet... wir werden hinaufwandern müssen, oder?\" "
 
 
 
@@ -433,7 +437,7 @@ translate german s07_c0f03d98:
 
     voice voice_file.lpdcat(7,14)
 
-    lpdcat normal ""
+    lpdcat normal "\"Du wanderst nicht gerne?\" "
 
 
 
@@ -445,7 +449,7 @@ translate german s07_2a45be63:
 
     # avt "\"Oh— It's not that, I'm just thinking out loud.\" "
 
-    avt ""
+    avt "\"Ach- So meinte ich das nicht. Ich habe nur laut gedacht.\" "
 
 
 
@@ -457,7 +461,7 @@ translate german s07_901edee6:
 
     # b "Honestly, it sounds a lot nicer than the usual \"Liao, let's go look at some shops full of stuff we can't buy!\" I don't know why but I prefer places that don't have many people \naround. "
 
-    b ""
+    b "Ganz ehrlich, das klingt auch viel netter als das übliche \"Liao, lass uns Dinge in Geschäften anschauen die wir eh nicht kaufen könnten!\" Ich kann zwar nicht sagen warum, aber ich ziehe Orte ohne zu viele Leute vor. "
 
 
 
@@ -469,7 +473,7 @@ translate german s07_fc3d9fc0:
 
     # avt "\"Okay. So what do we need to bring?\" "
 
-    avt ""
+    avt "\"Also gut, was müssen wir mitnehmen?\" "
 
 
 
@@ -485,7 +489,7 @@ translate german s07_9730d899:
 
     voice voice_file.lpdcat(7,15)
 
-    lpdcat laugh ""
+    lpdcat laugh "\"Nunja, wir können etwas für ein Picknick mitnehmen. Das wäre auch nicht zu aufwendig. Ich kann es sogar für dich vorbereiten wenn du magst~\" "
 
 
 
@@ -497,7 +501,7 @@ translate german s07_415146c2:
 
     # avt "\"Yeah sounds good, I'm all for it... but I'm not sure about how the other two feel about it.\" "
 
-    avt ""
+    avt "\"Das klingt gut, ich bin dafür... aber ich bin unsicher was die anderen beiden davon halten.\" "
 
 
 
@@ -509,7 +513,7 @@ translate german s07_17a95166:
 
     # b "I turn to look at the other two cats. The tiger shrugs his shoulders, and the leopard is just sitting there looking blankly like usual. "
 
-    b ""
+    b "Ich wende mich den anderen beiden Katzen zu. Tiger zuckt mit den Schultern, Leopard sitzt wie gewohnt da, mit seinem leeren Ausdruck. "
 
 
 
@@ -525,7 +529,7 @@ translate german s07_94a392c0:
 
     voice voice_file.tig(7,1)
 
-    tig normal ""
+    tig normal "\"Ich hätte nichts gegen einen Ausflug.\" "
 
 
 
@@ -537,7 +541,7 @@ translate german s07_3b5e46f7:
 
     # lpd obsessed "\"......\" "
 
-    lpd obsessed ""
+    lpd obsessed "\"......\" "
 
 
 
@@ -553,7 +557,7 @@ translate german s07_bf518b3d:
 
     voice voice_file.lpdcat(7,16)
 
-    lpdcat happy "" with flash
+    lpdcat happy "\"Dann steht es fest! Morgen werden wir die Blüten sehen!\" " with flash
 
 
 
@@ -565,7 +569,7 @@ translate german s07_cd28dcca:
 
     # b "And that's how yet another weekend was planned out for me. "
 
-    b ""
+    b "Und so wurde noch ein weiteres Wochenende für mich geplant. "
 
 
 
@@ -577,7 +581,7 @@ translate german s07_e730f137:
 
     # avt "\"Brr— It's so cold...\" "
 
-    avt ""
+    avt "\"Brr— Ziemlich kühl hier...\" "
 
 
 
@@ -593,7 +597,7 @@ translate german s07_9dd1e6fb:
 
     voice voice_file.lpdcat(7,17)
 
-    lpdcat normal ""
+    lpdcat normal "\"Richtig. Und die Briese ist super erfrischend~\" "
 
 
 
@@ -605,7 +609,7 @@ translate german s07_706b14df:
 
     # avt "\"Are you even capable of felling cold Senpai...\" "
 
-    avt ""
+    avt "\"Bist du überhaupt in der Lage zu frieren Senpai...\" "
 
 
 
@@ -621,7 +625,7 @@ translate german s07_218b196f:
 
     voice voice_file.lpdcat(7,18)
 
-    lpdcat normal ""
+    lpdcat normal "\"Hää? es ist schon April. Wer braucht um diese Jahreszeit noch eine Jacke?\" "
 
 
 
@@ -633,7 +637,7 @@ translate german s07_30eab263:
 
     # avt "\"This high up of course you need a jacket!\" "
 
-    avt ""
+    avt "\"In diesen Höhen braucht man auf jeden Fall eine Jacke!\" "
 
 
 
@@ -649,7 +653,7 @@ translate german s07_72857542:
 
     voice voice_file.lpdcat(7,19)
 
-    lpdcat pu ""
+    lpdcat pu "\"Awww— Liao hält keine kalte Briese aus.\" "
 
 
 
@@ -661,7 +665,7 @@ translate german s07_2ad11504:
 
     # avt "\"But you have fur! That's hardly fair!\" "
 
-    avt ""
+    avt "\"Hey, du hast Fell! Das ist wohl kaum fair!\" "
 
 
 
@@ -677,7 +681,7 @@ translate german s07_0a266b58:
 
     voice voice_file.lpdcat(7,20)
 
-    lpdcat cute ""
+    lpdcat cute "\"Ach, nicht wirklich~\" "
 
 
 
@@ -689,7 +693,7 @@ translate german s07_40daf286:
 
     # avt "\"Tiger and Leopard are spirits so it's not like they feel the cold.\" "
 
-    avt ""
+    avt "\"Tiger und Leopard sind Geister, sie würden sich an Kälte wohl kaum stören.\" "
 
 
 
@@ -705,7 +709,7 @@ translate german s07_7fbbd371:
 
     voice voice_file.tig(7,2)
 
-    tig frown ""
+    tig frown "\"Genug, ihr beide. Kätzchen, ermutige Liao nicht noch sich zu erkälten.\" "
 
 
 
@@ -721,7 +725,7 @@ translate german s07_7155c647:
 
     voice voice_file.lpdcat(7,21)
 
-    lpdcat pout ""
+    lpdcat pout "\"Aww— Der Alte wird dir immer sagen mehr anzuziehen. Es ist so nervif immer so viel mitzunehmen, nur um es später ohnehin wieder auszuziehen~\" "
 
 
 
@@ -737,7 +741,7 @@ translate german s07_08071315:
 
     voice voice_file.tig(7,3)
 
-    tig normal ""
+    tig normal "\"Ach, mehr als das erleiden einer Krankheit?\" "
 
 
 
@@ -749,7 +753,7 @@ translate german s07_1c1d4e55:
 
     # lpd normal "\"......\" "
 
-    lpd normal ""
+    lpd normal "\"......\" "
 
 
 
@@ -761,7 +765,7 @@ translate german s07_152ee5de:
 
     # b "Leopard comes over to me. Before I work out what he's doing, he presses his paws against my ears, sending his warmth right through me. It really cuts through the cold. "
 
-    b ""
+    b "Leopard tritt an mich heran. Ohne zu begreifen, was er dort versucht hält er seine Tatzen gegen meine Ohren, um Wärme durch meinen Körper zu leiten. Er vertreibt die Kälte vollkommen."
 
 
 
@@ -773,7 +777,7 @@ translate german s07_95679788:
 
     # avt "\"Oh... Thank you.\" " with hshake
 
-    avt "" with hshake
+    avt "\"Oh... Vielen Dank.\" " with hshake
 
 
 
@@ -789,7 +793,7 @@ translate german s07_35c30c41:
 
     voice voice_file.lpdcat(7,22)
 
-    lpdcat not_reconcile ""
+    lpdcat not_reconcile "\"Ooooh— Lass mich auch mal!\" "
 
 
 
@@ -801,7 +805,7 @@ translate german s07_ea36143d:
 
     # b "Senpai runs over and gives me a big hug. " with vshake
 
-    b "" with vshake
+    b "Senpai kommt rüber und umarmt mich herzlich. " with vshake
 
 
 
@@ -817,7 +821,7 @@ translate german s07_12481c35:
 
     voice voice_file.tig(7,4)
 
-    tig lift ""
+    tig lift "\"Kätzchen...\" *seufz* "
 
 
 
@@ -829,7 +833,7 @@ translate german s07_f7f4dde7:
 
     # b "I was expecting Tiger to come over and Pull Senpai off me, instead he pulls all of us— including Senpai and Leopard— into his arms with one big hug. " with vshake
 
-    b "" with vshake
+    b "Entgegen meiner Erwartung hat Tiger mich nicht von Senpai befreit, statdessen nimmt er uns alle- einschließlich Leopard und Senpai- mit seinen Armen in eine große Umarmung. " with vshake
 
 
 
@@ -841,7 +845,7 @@ translate german s07_1633430b:
 
     # avt "\"Waa— ngh. Okay... I-{w=0.2}I think that's enough...\" "
 
-    avt ""
+    avt "\"Ahh— ngh. Okay... Ich-{w=0.2}Ich denke das genügt...\" "
 
 
 
@@ -853,7 +857,7 @@ translate german s07_fa1fda07:
 
     # b "Being hugged by the three of them really is heartwarming. But I'm kinda anxious over someone seeing us, well me and Senpai that is... It's weird for two guys to be hugging like this out in the open! "
 
-    b ""
+    "Von allen dreien umarmt zu werden erwärmt mir unglaublich das Herz. Irgendwie befürchte ich trotzdem, dass jemand uns, also mich mit Senpai, sehen könnte... es ist ungewöhnlich wenn sich zwei Typen so in der Öffentlichkeit umarmen!"
 
 
 
@@ -865,7 +869,7 @@ translate german s07_5d74d62f:
 
     # avt "\"Hey, okay— okay—\" "
 
-    avt ""
+    avt "\"Hey, okay— ist ja gut—\" "
 
 
 
@@ -881,7 +885,11 @@ translate german s07_b0fcb109:
 
     # b "Worried about anyone having seen us, I rush them to move on. "
 
-    b ""
+    b "Ich hab ohne nachzudenken versucht sie von mir abzustreifen, wohl wissend sie nicht loswerden zu können. Also stehe ich nun dort- ihre Wärme und Zuneigung genießend. "
+
+    b "Schließlich lassen sie mich doch irgendwann los. "
+
+    b "Besorgt gesehen zu sein, dränge ich sie weiterzugehen. "
 
 
 
@@ -897,7 +905,7 @@ translate german s07_499467a2:
 
     voice voice_file.lagu(7,1)
 
-    lagu2 normal ""
+    lagu2 normal "\"...Das sind sie also, hah. Ich hätte die Gerüchte kaum für wahr gehalten. Oh, das wird amüsant.\" "
 
 
 
@@ -909,7 +917,7 @@ translate german s07_f3201230:
 
     # b "We follow Senpai to a small path going up the mountain. "
 
-    b ""
+    b "Wir folgen Senpai einen schmalen Pfad bergauf. "
 
 
 
@@ -921,7 +929,7 @@ translate german s07_ceaf744e:
 
     # b "While this mountain has been built up for tourism, the hiking trails wind all over the place. Without Senpai, we'd probably have gotten lost by now. "
 
-    b ""
+    "Obwohl die Wege auf diesem Berg für Touristen errichtet sind, winden sich die Wanderpfade in alle Richtungen. Ohne Senpai hätten wir uns längst veraufen. "
 
 
 
@@ -937,7 +945,7 @@ translate german s07_5ce48905:
 
     voice voice_file.lpdcat(7,23)
 
-    lpdcat normal ""
+    lpdcat normal "\"Mal sehen... gut. Der Karte nach müsste der Beste Ort die Blüten zu erleben bald erreicht sein. Dort entlang...\" "
 
 
 
@@ -949,7 +957,7 @@ translate german s07_b1125a14:
 
     # avt "\"Hey Senpai, what do tung flowers even look like?\" "
 
-    avt ""
+    avt "\"Hey Senpai, wie sehen Tungblüten eigentlich aus?\" "
 
 
 
@@ -965,7 +973,7 @@ translate german s07_34906972:
 
     voice voice_file.lpdcat(7,24)
 
-    lpdcat normal ""
+    lpdcat normal "\"Oh? SIe sind weiß und wenn sie zu Boden fallen sieht es aus wie Schnee... Mich überrascht, dass wir noch keine gefunden haben, sie sollten gleich hier sein...\" "
 
 
 
@@ -977,7 +985,7 @@ translate german s07_07794539:
 
     # b "We walk down the path, enjoying the fresh mountain air, but still not seeing any flowers other than than a few bushes growing alongside the hiking trails. "
 
-    b ""
+    b "Wir schreiten den Pfad weiter entlang, die Bergluft tut wirklich gut. Dennoch sehe ich keine Blüten außer ein paar Büschen am Wegesrand. "
 
 
 
@@ -993,7 +1001,7 @@ translate german s07_a768c091:
 
     voice voice_file.lpdcat(7,25)
 
-    lpdcat difficult ""
+    lpdcat difficult "\"Vielleicht wenn wir weiter hinein gehen...\" "
 
 
 
@@ -1007,7 +1015,9 @@ translate german s07_80aa76ad:
 
     # b "The neatly placed stone walkways make hiking up a mountain feel like a leisurely walk through the park. "
 
-    b ""
+    b "Wir gehen voran bis sich eine Treppe mit Steinstufen vor uns ausbreitet. (Allein sich vorzustellen wie viele Steine jemand für all die Stufen hochtragen müsste.) "
+
+    b "Die ordentlich angeordneten Stufen lassen die Wanderung nun wie einen gemächlichen Spaziergang im Park wirken. "
 
 
 
@@ -1019,7 +1029,7 @@ translate german s07_b7c704cc:
 
     # b "A little further on and the walkways ceased to be paved with stone, becoming dirt paths, stamped out by visitors over decades of use. Thankfully the weather had been nice the last few days so it wasn't muddy. "
 
-    b ""
+    b "Ein kleines Stück weiter wird aus dem Steinweg ein Fußpfad, entstanden durch jahrzehntelanger Nutzung der Besucher. Dem klaren Wetter der letzten Tage zu verdanken ist er auch nicht matschig. "
 
 
 
@@ -1035,7 +1045,7 @@ translate german s07_e8a712a4:
 
     voice voice_file.lpdcat(7,26)
 
-    lpdcat difficult ""
+    lpdcat difficult "\"Wie merkwürdig... so weit hinein und noch immer keine Blüten.\" "
 
 
 
@@ -1047,7 +1057,7 @@ translate german s07_30457b43:
 
     # avt "\"You think we went the wrong way?\" "
 
-    avt ""
+    avt "\"Denkst du wir könnten den falsche Weg genommen haben?\" "
 
 
 
@@ -1063,7 +1073,7 @@ translate german s07_479dd5e0:
 
     voice voice_file.lpdcat(7,27)
 
-    lpdcat difficult ""
+    lpdcat difficult "\"Oder vielleicht...\" "
 
 
 
@@ -1075,7 +1085,7 @@ translate german s07_e627c9f5:
 
     # avt "\"Maybe what?\" "
 
-    avt ""
+    avt "\"Vielleicht was?\" "
 
 
 
@@ -1087,7 +1097,7 @@ translate german s07_9001b2ba:
 
     # b "Senpai didn't answer and just kept walking quickly ahead, the map held tightly in his hand. There was nothing I could do but follow. "
 
-    b ""
+    b "Senpai antwortet nicht und geht zügig vorwärts, die Karte fest in den Händen haltend. Ich konnte nichts weiter tun als nachzulaufen. "
 
 
 
@@ -1103,7 +1113,7 @@ translate german s07_a18c76dc:
 
     voice voice_file.lpdcat(7,28)
 
-    lpdcat confused ""
+    lpdcat confused "\"Hier sollte es sein...\" "
 
 
 
@@ -1115,7 +1125,7 @@ translate german s07_0d77fad4:
 
     # b "We arrived at a place that looked like an abandoned farm with a small hut on the far \nside. "
 
-    b ""
+    b "Wir errichen einen ort der einer verlassenen Farm ähnelt mit einer kleinen Hütte am hinteren Ende."
 
 
 
@@ -1127,7 +1137,7 @@ translate german s07_6b5fdb40:
 
     # b "Next to the empty field stood a grand tree. It's shade reaching out over the ground below where a large boulder laid beneath. It seemed like the perfect place to sit and have a \nrest. "
 
-    b ""
+    b "Neben dem leeren Feld steht ein riesiger Baum. Seine Form reicht über einen Felslock hinaus, der zu seinen Wurzeln steht. Sieht nach einem perfekten ort zum Sitzen und Ausruhen aus. "
 
 
 
@@ -1143,7 +1153,7 @@ translate german s07_bba4d995:
 
     voice voice_file.lpdcat(7,29)
 
-    lpdcat serious ""
+    lpdcat serious "\"Also, das ist der Ort... Aber ich schätze die Bäume haben noch nicht begonnen zu blühen... Was für ein Reinfall.\" "
 
 
 
@@ -1155,7 +1165,7 @@ translate german s07_ebe610d3:
 
     # avt "\"So this is a tung tree?\" "
 
-    avt ""
+    avt "\"Das ist also ein Tungblütenbaum?\" "
 
 
 
@@ -1171,7 +1181,7 @@ translate german s07_2c5070e7:
 
     voice voice_file.lpdcat(7,30)
 
-    lpdcat serious ""
+    lpdcat serious "\"Richtig, und ein ganz schön großer auch noch, aber wir sind wohl zu früh. In Miaoli stehen sie zu dieser jahreszeit in voller Blüte...\" "
 
 
 
@@ -1187,7 +1197,7 @@ translate german s07_a2fd38cd:
 
     voice voice_file.tig(7,5)
 
-    tig lift ""
+    tig lift "\"Hmm... Wohlmöglich sind wir dafür zu weit im Norden.\" "
 
 
 
@@ -1203,7 +1213,7 @@ translate german s07_a3fcfcdf:
 
     voice voice_file.lpdcat(7,31)
 
-    lpdcat pout ""
+    lpdcat pout "\"Was macht das für einen Unterschied?\" "
 
 
 
@@ -1219,7 +1229,7 @@ translate german s07_a4f481dc:
 
     voice voice_file.tig(7,6)
 
-    tig normal ""
+    tig normal "\"Taipei ist weit nördlich von Miaoli, möglicherweise beginnt die Blütensaison später?\" "
 
 
 
@@ -1235,7 +1245,7 @@ translate german s07_f285941c:
 
     voice voice_file.lpdcat(7,32)
 
-    lpdcat surprise_1 ""
+    lpdcat surprise_1 "\"Wa— Das kann nicht stimmen!\" "
 
 
 
@@ -1251,7 +1261,7 @@ translate german s07_ee66432d:
 
     voice voice_file.lpdcat(7,33)
 
-    lpdcat panic ""
+    lpdcat panic "\"Ich-{w=0.2}Ich wollte Liao doch hier hinbringen um die Blüten gemeinsam zu sehen...\" "
 
 
 
@@ -1263,7 +1273,7 @@ translate german s07_83f9137c:
 
     # avt "\"Senpai... I still think this place is really nice. Isn't it the perfect time to have our picnic anyway?\" "
 
-    avt ""
+    avt "\"Senpai... Es ist trotzdem sehr schön hier. Ist es nicht dennnoch ein guter Zeitpunkt für unser Picknick?\" "
 
 
 
@@ -1275,7 +1285,7 @@ translate german s07_7319f5af:
 
     # b "It's a shame we didn't see the blossoms, but I didn't know what to expect anyway so it's not like I feel like I missed out on anything. "
 
-    b ""
+    b "Es ist schon schade dass wir die Blüten nicht sehen können, aber ich weiß ja auch nicht was mich erwarten würde. Ich würde es also auch nicht vermissen. "
 
 
 
@@ -1291,7 +1301,7 @@ translate german s07_6b321e1d:
 
     voice voice_file.lpdcat(7,34)
 
-    lpdcat serious ""
+    lpdcat serious "\"Hmm— Vielleicht gibt es doch einen Weg...\" "
 
 
 
@@ -1303,7 +1313,7 @@ translate german s07_f6c00385:
 
     # b "Senpai runs over to the tree, holding his paws against the trunk... "
 
-    b ""
+    b "Senpai läuft auf den Baum zu, und hält seine Tatzen gegen den Stamm... "
 
 
 
@@ -1319,7 +1329,7 @@ translate german s07_686b5464:
 
     voice voice_file.lpdcat(7,35)
 
-    lpdcat normal ""
+    lpdcat normal "\"Vielleicht kann ich das versuchen... Liao, hab kurz Geduld. Ich versuche jetzt etwas ziemlich anstrengendes.\" "
 
 
 
@@ -1331,7 +1341,7 @@ translate german s07_d69c5801:
 
     # avt "\"Woah— Really? \" "
 
-    avt ""
+    avt "\"Was— Ernsthaft? \" "
 
 
 
@@ -1343,7 +1353,7 @@ translate german s07_7b821894:
 
     # b "Senpai stands before the tree, puts his paws up to his chest, and performs some kind of ritualistic hand sign. A green aura slowly starts to emanate from within him. " with flash_green
 
-    b "" with flash_green
+    b "Er steht vor dem Baum, legt sich eine Tatze auf den Brustkorb und formt eine Art ritualistisches Handzeichen. Eine grüne Aura strahlt aus seinem Inneren hinaus. " with flash_green
 
 
 
@@ -1359,7 +1369,7 @@ translate german s07_cca21f11:
 
     voice voice_file.tig(7,7)
 
-    tig frown ""
+    tig frown "\"Ähh...\" "
 
 
 
@@ -1371,7 +1381,7 @@ translate german s07_3b5e46f7_1:
 
     # lpd obsessed "\"......\" "
 
-    lpd obsessed ""
+    lpd obsessed "\"......\" "
 
 
 
@@ -1383,7 +1393,7 @@ translate german s07_c1f67a18:
 
     # b "Tiger and Leopard seem kinda nervous. What's going on? "
 
-    b ""
+    b "Tiger und Leopard sehen etwas nervös aus. Was passiert gerade? "
 
 
 
@@ -1395,7 +1405,7 @@ translate german s07_f11cf5cd:
 
     # b "The green aura quickly surrounds the tree, slowly seeping into it. As this happens, the tree begins to shake irrespective of the breeze... "
 
-    b ""
+    b "Die grüne Aura umhüllt den Baum und dringt langsam in ihn hinein. Als das passiert, schüttelt der Baum sich trotz des fehlenden Windes... "
 
 
 
@@ -1407,9 +1417,11 @@ translate german s07_05d74253:
 
     # b "Some of the flower buds begin to open up on top of the tree. Suddenly, as if a wave of energy had shot down the tree, all the flowers blossom at once. "
 
-    # b "A sea of white petals cover the branches of the grand tung tree before me. Some of them even begin to fall to the lone boulder below. It's breathtaking. "
+    # b "A sea of white petals cover the branches of the grand tung tree before me. Some of them even begin to fall to the lone boulder below. It's breathtaking. 
 
-    b ""
+     b "Einige der Knospen öffnen sich in der Baumkrone. Als würde eine Welle an Energie durch den Baum schießen blühen nun alle Blüten des gesamten Baumes.
+
+    b "Vor meinen Augen bedeckt eine Flut an weißen Blüten die Äste des riesigen Tungbaumes. Einzelne fallen auf den einsamen Fels vor ihm. Wie atemberaubend. "
 
 
 
@@ -1425,7 +1437,7 @@ translate german s07_2b99aab9:
 
     voice voice_file.tig(7,8)
 
-    tig gaze ""
+    # tig gaze "\"...Nicht schlecht.\" "
 
 
 
@@ -1441,7 +1453,7 @@ translate german s07_b7f821c1:
 
     voice voice_file.lpd(7,1)
 
-    lpd laugh ""
+    # lpd laugh "\"...Hübsch.\" "
 
 
 
@@ -1453,7 +1465,7 @@ translate german s07_2fecde5e:
 
     # b "I go over to pick up one of the tung petals. It's pure white, not a blemish to be seen. The flowers even had pollen inside them. If I didn't know any better I would have thought the petal had blossomed normally just like any other. "
 
-    b ""
+    b "Ich gehe hinüber und hebe eine der Tungblütenblätter auf. Sie ist vollkommen weiß, kein bisschen unreinheit zu erkennen. DIe Blüten tragen sogar Pollen in sich. Wenn ich es nicht besser wüsste würde ich glauben dass sie völlig natürlich blühen, wie jede andere auch."
 
 
 
@@ -1465,7 +1477,7 @@ translate german s07_647e2b81:
 
     # avt "\"...Senpai, that was awesome.\" "
 
-    avt ""
+    avt "\"...Senpai, das war großartig.\" "
 
 
 
@@ -1481,7 +1493,7 @@ translate german s07_4f2e5c2f:
 
     voice voice_file.lpdcat(7,36)
 
-    lpdcat cute ""
+    # lpdcat cute "\"Hehe— Erstaunlich, oder nicht?\" "
 
 
 
@@ -1497,7 +1509,7 @@ translate german s07_5f397f44:
 
     voice voice_file.lpdcat(7,37)
 
-    lpdcat happy ""
+    lpdcat happy "\"Es mag zwar nur ein Baum sein, aber jetzt können wir gemeinsam die Tungblüten sehen Liao!\" "
 
 
 
@@ -1509,7 +1521,7 @@ translate german s07_4b94f945:
 
     # avt "\"But Senpai, I thought you didn't have any god powers? How'd you manage something like that?\" "
 
-    avt ""
+    avt "\"Aber Senpai, ich dachte du hast keine göttlichen Kräfte? Wie hast du das anstellen können?\" "
 
 
 
@@ -1525,7 +1537,7 @@ translate german s07_f437c6f9:
 
     voice voice_file.lpdcat(7,38)
 
-    lpdcat normal ""
+    lpdcat normal "\"Oh, diese Kraft habe ich seit ich ein Yaoguai geworden bin. Solche tricks lernt man immerhin nicht von einem Gott der Erde~\" "
 
 
 
@@ -1537,7 +1549,7 @@ translate german s07_b93c5936:
 
     # avt "\"Oh...\" "
 
-    avt ""
+    avt "\"Oh...\" "
 
 
 
@@ -1553,7 +1565,7 @@ translate german s07_87bb3b49:
 
     voice voice_file.lpdcat(7,39)
 
-    lpdcat happy ""
+    lpdcat happy "\"Also, nun wo ich diesen wundervollen Ausblick vorbereitet habe, lass uns endlich unser Picknick verspeisen!\" "
 
 
 
@@ -1565,7 +1577,7 @@ translate german s07_060f3c6b:
 
     # b "Senpai swiftly takes the blanket out from his backpack and spreads it down between falling tung petals. "
 
-    b ""
+    b "Senpai swiftly takes the blanket out from his backpack and spreads it down between falling tung petals. "
 
 
 
@@ -1581,7 +1593,7 @@ translate german s07_27fc29de:
 
     voice voice_file.lpdcat(7,40)
 
-    lpdcat happy ""
+    lpdcat happy "\"Wenn Wandern Picknicks bedeuten, bedeuten Picknicks dass ich Süßigkeiten habe um die Energie für den Heimweg zu tanken! Und was hast du für uns eingepackt, Liao?!\" "
 
 
 
@@ -1593,7 +1605,7 @@ translate german s07_7ffb4237:
 
     # avt "\"Sweets? We aren't kids you know... {i}Mister Big College Senpai{/i}.\" "
 
-    avt ""
+    avt "\"Süßigkeiten? Du weißt wir sind keine Kinder mehr... {i}großer Herr Oberschulsenpai{/i}.\" "
 
 
 
@@ -1609,7 +1621,7 @@ translate german s07_a74d99ff:
 
     voice voice_file.lpdcat(7,41)
 
-    lpdcat happy ""
+    lpdcat happy "\"Und ich sage: Genieße deine Jugend!\" "
 
 
 
@@ -1621,7 +1633,7 @@ translate german s07_270eb852:
 
     # b "Senpai drops his backpack down and takes out some cookies, crackers and an assortment of pastries. I mean you {i}could{/i} \ eat that all in one go, but it's hardly a proper meal. "
 
-    b ""
+    b "Senpai stellt seinen Rucksack zu boden und breitet seine Kekse, Kracker und weiteres Gebäck auf der Decke aus. Ich meine man {i}könnte{/i} \ all das auf einmal essen, aber eine vernünftige Mahlzeit kann man das kaum nennen. "
 
 
 
@@ -1637,7 +1649,7 @@ translate german s07_9a7adbdf:
 
     voice voice_file.lpdcat(7,42)
 
-    lpdcat normal ""
+    "\"Also, was für Köstlichkeiten hat Liao dabei?\" "
 
 
 
@@ -1649,7 +1661,7 @@ translate german s07_e4acb9d8:
 
     # b "I open my backpack and silently take out a bento box I prepared earlier this morning. "
 
-    b ""
+    b "Leise öffne ich meinen Rucksack und nehme eine Bento Box heraus, die ich heute früh vorbereitet habe. "
 
 
 
@@ -1661,7 +1673,7 @@ translate german s07_68295b75:
 
     # b "I made it while Senpai was still sleeping. I never cook so I just used some recipe I found on the internet— so it probably didn't turn out any good. "
 
-    b ""
+    b "Ich habe sie Zubereitet als Senpai noch geschlafen hat. Normalerweise koche ich nie, daher musste ein Rezept aus dem Internet herhalten- vermutlich wird es nichtmal sonderlich gut sein. "
 
 
 
@@ -1673,7 +1685,7 @@ translate german s07_fb9c6053:
 
     # b "Not to mention those mistakes I made while putting it together... Thankfully Tiger was there to help me fix them. I tried my best to cook a variety of vegetables and meat. At the very least it should be good for me. "
 
-    b ""
+    b b "Von den vielen Fehlern die ich gemacht habe ganz abgesehen... Zum Glück hat Tiger mir geholfen sie zu retten. Ich habe mein Bestes bei der Zubereitung der Zahlreichen Gemüsesorten und des Fleisches gegeben. Zumindest meinen Ansprüchen sollte es genügen. "
 
 
 
@@ -1685,7 +1697,7 @@ translate german s07_b5610490:
 
     # lpd surprise "\"...!\" "
 
-    lpd surprise ""
+    lpd surprise "\"...!\" "
 
 
 
@@ -1701,7 +1713,7 @@ translate german s07_85b85e5c:
 
     voice voice_file.lpdcat(7,43)
 
-    lpdcat shy_2 ""
+    lpdcat shy_2 "\"Wow- Das ist ja fast wie eine köstlich zubereitete Mahlzeit einer Ehefrau für ihren Mann!\" "
 
 
 
@@ -1713,7 +1725,7 @@ translate german s07_546979bf:
 
     # avt "\"Hey no way! I was just thinking that I should try making a bento for our picnic.\" "
 
-    avt ""
+    avt "\"Niemals! Ich dachte nur ich könnte mal versuchen ein Bento zum picknicken zu machen.\" "
 
 
 
@@ -1729,7 +1741,7 @@ translate german s07_28453bc2:
 
     voice voice_file.lpdcat(7,44)
 
-    lpdcat shy_1 ""
+    lpdcat shy_1 "\"Wow— Liao, Ich hätte nie für möglich gehalten dass du soetwas für mich machst...\" "
 
 
 
@@ -1745,7 +1757,7 @@ translate german s07_59d1f526:
 
     voice voice_file.tig(7,9)
 
-    tig frown ""
+    tig frown "\"Genug, Kätzchen! Liao hat nie behauptet, dass es für dich sei.\" "
 
 
 
@@ -1761,7 +1773,7 @@ translate german s07_cd6e8c56:
 
     voice voice_file.lpdcat(7,45)
 
-    lpdcat angry ""
+    lpdcat angry "\"Für wen hätte er es sonst gemacht? Es ist ja nicht so, dass ihr Essen braucht!\" "
 
 
 
@@ -1777,7 +1789,7 @@ translate german s07_2d32681d:
 
     voice voice_file.tig(7,10)
 
-    tig lift ""
+    tig lift "\"Nachdem er es geopfert hat, könnte er es natürlich aufessen.\" "
 
 
 
@@ -1793,7 +1805,7 @@ translate german s07_ba794f64:
 
     voice voice_file.lpdcat(7,46)
 
-    lpdcat cry_2 ""
+    lpdcat cry_2 "\"Whhhää... Was für eine verschwendung!\" "
 
 
 
@@ -1809,7 +1821,7 @@ translate german s07_1ddf9d7a:
 
     voice voice_file.tig(7,11)
 
-    tig lift ""
+    tig lift "\"Ich sehe nicht was du meinst.\" "
 
 
 
@@ -1825,7 +1837,7 @@ translate german s07_a04918d2:
 
     voice voice_file.lpdcat(7,47)
 
-    lpdcat cry_2 "" with hshake
+    lpdcat cry_2 "\"Liao, du hast das Bento doch für mich gemacht, oder?!\" " with hshake
 
 
 
@@ -1841,7 +1853,7 @@ translate german s07_2b38af45:
 
     voice voice_file.tig(7,12)
 
-    tig lift ""
+    tig lift "\"Ich habe Liao dabei geholfen es anzurichten. Wenn überhaupt würde er es mir anbieten.\" "
 
 
 
@@ -1857,7 +1869,7 @@ translate german s07_a57c5dfb:
 
     voice voice_file.lpd(7,2)
 
-    lpd normal ""
+    lpd normal "\"Liaos bento... möchte ich.\" "
 
 
 
@@ -1869,7 +1881,7 @@ translate german s07_56e3dde0:
 
     # avt "\"Wait, wait. It's only a bento...\" " with hshake
 
-    avt "" with hshake
+    avt "\"Hey, wartet mal kurz... es ist nur ein Bento...\" " with hshake
 
 
 
@@ -1881,7 +1893,7 @@ translate german s07_a6d245f6:
 
     # b "I quickly hide the bento behind my back to keep it away from any funny ideas they might have. "
 
-    b ""
+    b "Bevor sie auf dumme Ideen kommen halte verstecke ich es hinter meinem Rücken. "
 
 
 
@@ -1893,7 +1905,7 @@ translate german s07_36f0d126:
 
     # avt "\"Hey, no need to bicker over it. I made this for my lunch today. Why would you think I made it for you?\" "
 
-    avt ""
+    avt "\"Hört auf euch darüber zu streiten. Das ist die Mahlzeit, das ich für mein eigenes Mittagessen gemacht habe. Warum glaubt ihr es wäre für einen von euch?\" "
 
 
 
@@ -1909,7 +1921,7 @@ translate german s07_fb19eff1:
 
     voice voice_file.tig(7,13)
 
-    tig normal ""
+    tig normal "\"Aber Liao, wäre es nicht sinnvoll es erst einem von uns anzubieten bevor du es isst?. Du hättest überhaupt keinen Nachteil davon.\" "
 
 
 
@@ -1921,7 +1933,7 @@ translate german s07_9a212324:
 
     # avt "\"That's true... It'd be kinda mean to not let you guys have at it for no reason.\" "
 
-    avt ""
+    avt "\"Das stimmt schon... Ich müsste auch ziemlich gemein sein es euch ohne Grund vorzuenthalten.\" "
 
 
 
@@ -1937,7 +1949,7 @@ translate german s07_d6fb3c23:
 
     voice voice_file.lpdcat(7,48)
 
-    lpdcat not_reconcile ""
+    lpdcat not_reconcile "\"Wa— Warte! Das würde ja bedeuten jeder außer mir etwas davon bekommt! Unfair!\" "
 
 
 
@@ -1953,7 +1965,7 @@ translate german s07_64be22cb:
 
     voice voice_file.lpd(7,3)
 
-    lpd normal ""
+    lpd normal "\"...Du brauchst nicht.\" "
 
 
 
@@ -1969,7 +1981,7 @@ translate german s07_e812743a:
 
     voice voice_file.lpdcat(7,49)
 
-    lpdcat not_reconcile ""
+    lpdcat not_reconcile "\"Kulau, du auch noch?! Ich möchte doch auch nur Liaos selbstgemachte Kost probieren! Ist das zu viel verlangt...\" "
 
 
 
@@ -1981,7 +1993,7 @@ translate german s07_9bd9b0b8:
 
     # b "Senpai looks at me with unconvincing sad puppy eyes while Tiger and Leopard slowly close in on me... What should I do? "
 
-    b ""
+    b "Senpai blickt mich mit wenig überzeugenden Hundeblick an, während Tiger und Leopard mir langsam näher kommen... Was soll ich tun? "
 
 
 
@@ -1993,7 +2005,7 @@ translate german s07_02_tig_9b5183b0:
 
     # avt "\"Woah, okay. If you guys are going to be like this I'll have to pick... I guess I'll offer it \ntoo—\" "
 
-    avt ""
+    avt "\"Wow, okay. Wenn ihr euch so benehmt werd ich es wohl jemandem geben müssen... Ich denke ich gebe es—\" "
 
 
 
@@ -2009,7 +2021,7 @@ translate german s07_02_tig_80e8d856:
 
     voice voice_file.lpd(7,4)
 
-    lpd angry_1 ""
+    lpd angry_1 "\"Wer?\" "
 
 
 
@@ -2021,7 +2033,7 @@ translate german s07_02_tig_17f833be:
 
     # avt "\"What?\" "
 
-    avt ""
+    avt "\"Was?\" "
 
 
 
@@ -2033,7 +2045,7 @@ translate german s07_02_tig_b04fd5c0:
 
     # b "Leopard cut me off before I could finish. He's being awfully jumpy over this... probably anxious to hear my answer. Unnerved, I quickly look away. "
 
-    b ""
+    b "Leopard fiel mir ins Wort ohne ohne mich ausreden zu lassen. Solche Nervosität ist ungewöhnlich für ihn... vermutlich mag er meine Antwort garnicht hören. Unbeeindruckt wende ich mich davon ab. "
 
 
 
@@ -2045,7 +2057,7 @@ translate german s07_02_lpd_16f33d17:
 
     # avt "\"Hey, okay now... you three just need to stop fighting over this. I made this and it's my choice to give it to one of you. Got it?\" "
 
-    avt ""
+    avt "\Hey, es ist nun gut... ihr drei solltet wirklich nicht über soetwas streiten. Ich habe es gekocht und es ist meine Wahl mit wem von euch ich es teile. Verstanden?\" "
 
 
 
@@ -2061,7 +2073,7 @@ translate german s07_02_lpd_bf4067da:
 
     voice voice_file.lpdcat(7,50)
 
-    lpdcat laugh ""
+    lpdcat laugh "\"Na klar!\" "
 
 
 
@@ -2073,7 +2085,7 @@ translate german s07_02_lpd_c861bbea:
 
     # avt "\"I guess I'll... offer it to Leopa—\" "
 
-    avt ""
+    avt "\"Ich denke ich... biete es Leopa—\" "
 
 
 
@@ -2089,7 +2101,7 @@ translate german s07_02_lpd_fcf02a1b:
 
     voice voice_file.lpd(7,5)
 
-    lpd angry_1 ""
+    lpd angry_1 "\"Was machst du!\" "
 
 
 
@@ -2101,7 +2113,7 @@ translate german s07_02_lpd_ed874ff5:
 
     # avt "\"Huh?\" "
 
-    avt ""
+    avt "\"Huh?\" "
 
 
 
@@ -2113,7 +2125,7 @@ translate german s07_02_lpd_a94bdfdf:
 
     # b "What's got Leopard so tense? I watch him, trying to scrutinise what's going on, I think he's... looking behind me? Quickly, I turn my head to see what's up. "
 
-    b ""
+    b "Weshalb ist Leopard so angespannt? Ich beobachte ihm um begreifen zu können was vorgeht, scheinbar sieht er... hinter mich? Zügig drehe ich meinen Kopf um etwas zu sehen. "
 
 
 
@@ -2125,7 +2137,7 @@ translate german s07_02_lpdcat_5285c24b:
 
     # avt "\"Okay... At this rate I'll just {i}have{/i} \ to pick someone... Hmm...\" "
 
-    avt ""
+    avt "\"Okay... unter diesen Umständen {i}muss{/i} \ ich jemanden auswählen... Hmm...\" "
 
 
 
@@ -2137,7 +2149,7 @@ translate german s07_02_lpdcat_146d5ef0:
 
     # avt "\"Senpai, that junk food is all you brought, right?\" "
 
-    avt ""
+    avt "\"Senpai, du hast vermutlich nur dieses Junkfood mitgebracht, richtig?\" "
 
 
 
@@ -2153,7 +2165,7 @@ translate german s07_02_lpdcat_3347f9d9:
 
     voice voice_file.lpdcat(7,51)
 
-    lpdcat normal ""
+    lpdcat normal "\"Na Klar! Zur Wanderung ist energiereiche Nahrung perfekt geeignet!\" "
 
 
 
@@ -2165,7 +2177,7 @@ translate german s07_02_lpdcat_4dcd1172:
 
     # b "(Senpai's idea of perfect hiking food would just make most people ill...) "
 
-    b ""
+    b "(Senpais Vorstellung einer perfekt geeigneten Mahlzeit würde die meißten Menschen krank werden lassen...) "
 
 
 
@@ -2177,7 +2189,7 @@ translate german s07_02_lpdcat_9d69d330:
 
     # avt "\"It's just gonna be {i}really{/i} \ weird having a proper meal while you sit there and eat a bunch of junk. So, you can have some if you wan—\" "
 
-    avt ""
+    avt "\"Es würde sich auch {i}wirklich{/i} \ merkwürdig anfühlen etwas vernünftiges zu Essen und dichmit dem Junkfood sehen zu müssen. Wenn du magst bekomms—\" "
 
 
 
@@ -2193,7 +2205,7 @@ translate german s07_02_lpdcat_80e8d856:
 
     voice  voice_file.lpd(7,4)
 
-    lpd angry_1 ""
+    lpd angry_1 "\"Hey!\" "
 
 
 
@@ -2205,7 +2217,7 @@ translate german s07_02_lpdcat_2a197922:
 
     # b "Huh? Leopard's sudden outburst catches me of guard my attention quickly focusing on him. "
 
-    b ""
+    b "Huh? Leopards plötzlicher Aufschrei trifft mich völlig unvorbereitet, meine ganze Aufmerksamkeit richtet sich auf ihn. "
 
 
 
@@ -2221,7 +2233,7 @@ translate german s07_03_f8b41742:
 
     voice voice_file.lagu(7,2)
 
-    lagu2 normal "" with flash
+    lagu2 normal "\"Uhrg— Das Fleisch ist ganz schön versalzen, findest du nicht auch?\" " with flash
 
 
 
@@ -2233,7 +2245,7 @@ translate german s07_03_643713a9:
 
     # avt "\"W-{w=0.2}Who are you?!\" "
 
-    avt ""
+    avt "\"W-{w=0.2}Wer bist du?!\" "
 
 
 
@@ -2249,7 +2261,7 @@ translate german s07_03_f677a282:
 
     voice voice_file.lagu(7,3)
 
-    lagu2 normal ""
+    lagu2 normal "\"Scheinbar, Kindchen, ist das dein  {i}aller{/i} \ erster Versuch etwas zu kochen? Daran kannst du wirklich noch arbeiten.\" "
 
 
 
@@ -2261,7 +2273,7 @@ translate german s07_03_44b299ea:
 
     # avt "\"I know that! Why do you think I was going to eat it by myself!\" "
 
-    avt ""
+    avt "\"Das weiß ich sehr wohl! Was glaubst du weshalb ich es selbst essen wollte!\" "
 
 
 
@@ -2277,7 +2289,7 @@ translate german s07_03_117c654b:
 
     voice voice_file.lagu(7,4)
 
-    lagu2 normal ""
+    lagu2 normal "\"Ach? Für mich erscheint es, dass du es jemandem anbieten wolltest. Jemandem ein selbstgemachtes, {i}warmes{/i}, Bento zu überreichen ist ein großartiger Weg seine Zuneigung auszudrücken!\" "
 
 
 
@@ -2289,7 +2301,7 @@ translate german s07_03_7d2ccfca:
 
     # avt "\"It's not like that! Don't jump to conclusions!\" "
 
-    avt ""
+    avt "\"So ist das doch überhaupt nicht! Zieh keine voreiligen Schlüsse!\" "
 
 
 
@@ -2305,7 +2317,7 @@ translate german s07_03_b233e9fe:
 
     voice voice_file.lagu(7,5)
 
-    lagu2 normal ""
+    lagu2 normal "\"Sind diese drei nicht deine Verehrer... oder verstehen sie dich falsch?\" "
 
 
 
@@ -2317,7 +2329,7 @@ translate german s07_03_54d3b4c4:
 
     # avt "\"You're mistaken! Also, who are you? Don't you know not to go around and steal other people's food?!\" "
 
-    avt ""
+    avt "\"Du verstehst es falsch! Und außerdem wer bist du? Du weißt es gehört sich nicht anderen das Essen zu klauen?!\" "
 
 
 
@@ -2333,7 +2345,7 @@ translate german s07_03_ab92ade2:
 
     voice voice_file.lagu(7,6)
 
-    lagu2 laugh ""
+    lagu2 laugh "\"Ehh— Ich nehme an die drei würden sich darüber streiten. Also habe ich mich der sache angenommen und es selbst probiert. Natürlich um dir zu helfen.\" "
 
 
 
@@ -2345,7 +2357,7 @@ translate german s07_03_597b77fd:
 
     # avt "\"That's still stealing! You should at least ask me first!\" "
 
-    avt ""
+    avt "\"Es ist trotzdem gestohlen! Du hättest wenigstens fragen sollen!\" "
 
 
 
@@ -2361,7 +2373,7 @@ translate german s07_03_ad6c9fd5:
 
     voice voice_file.tig(7,14)
 
-    tig frown ""
+    tig frown "\"...Korrekt. Für gewöhnlich verhalte ich mich höflich gegenüber Göttern der Erde wie dir, scheinbar liegen dir solche Manieren jedoch nicht nahe.\" "
 
 
 
@@ -2373,7 +2385,7 @@ translate german s07_03_a1cfa12b:
 
     # avt "\"It's easy just to ask. How dare you be so...\" "
 
-    avt ""
+    avt "\"Es wäre einfach gewesen vorher zu fragen. Wie kannst du nur so...\" "
 
 
 
@@ -2385,7 +2397,7 @@ translate german s07_03_0b81de29:
 
     # avt "\"...Huh? God of Soil?\" " with hshake
 
-    avt "" with hshake
+    avt "\"...Was? Gott der Erde\" " with hshake
 
 
 
@@ -2401,7 +2413,7 @@ translate german s07_03_0518cee3:
 
     voice voice_file.tig(7,15)
 
-    tig normal ""
+    tig normal "\"Ja. Stimmt etwas nicht?\" "
 
 
 
@@ -2417,7 +2429,7 @@ translate german s07_03_8507f98e:
 
     voice voice_file.lpdcat(7,52)
 
-    lpdcat normal ""
+    lpdcat normal "\"Huh- Der Typ sieht zwar aus wie ein Drache, hat aber devinitiv das Chi eines Gottes der Erde. Ich kann aber kaum SagenGötter wie dich vorher hier gesehen zu haben.\" "
 
 
 
@@ -2433,7 +2445,7 @@ translate german s07_03_ba162b92:
 
     voice voice_file.lpd(7,6)
 
-    lpd obsessed ""
+    lpd obsessed "\"...Komischer Mann.\" "
 
 
 
@@ -2449,7 +2461,7 @@ translate german s07_03_ab38ce9b:
 
     voice voice_file.lagu(7,7)
 
-    lagu2 laugh ""
+    lagu2 laugh "\"Wahaha— Alle sind so zu mir. Ich bin wirklich was Besonderes, ja?\" "
 
 
 
@@ -2465,7 +2477,7 @@ translate german s07_03_873db362:
 
     voice voice_file.lagu(7,8)
 
-    lagu normal ""
+    lagu normal "\"Wie auch immer Jungs- Ich bin Ragoo Laront, ein {font=tl/None/NotoSansCJKtc-Bold.otf}ehrwürdiger Baumgott{/font}. Ihr dürft mich Ragoo nennen.\" "
 
 
 
@@ -2477,7 +2489,7 @@ translate german s07_03_129c1c4a:
 
     # avt "\"Wha... Grand Tree Lord?\" "
 
-    avt ""
+    avt "\"Wa... ehrwürdiger Baumgott?\" "
 
 
 
@@ -2493,7 +2505,7 @@ translate german s07_03_2ff9cbb3:
 
     voice voice_file.tig(7,16)
 
-    tig normal ""
+    tig normal "\"Anders gesagt, er ist ein Gott der in einem Baum verweilt. Solch antike Bäume werden zu örtlichen Erdgöttern wenn sie von den Anwohnern verehrt werden.\" "
 
 
 
@@ -2505,7 +2517,7 @@ translate german s07_03_eb5e9463:
 
     # avt "\"Oh, I see...\" "
 
-    avt ""
+    avt "\"Oh, Ich verstehe...\" "
 
 
 
@@ -2517,7 +2529,7 @@ translate german s07_03_9c151db2:
 
     # b "So he's a tree spirit that looks like a dragon? Okaaay... What kind of tree looks like that?! Not to mention those clothes... everything about this guy is just weird! \n(Where did he even come from?) "
 
-    b ""
+    b "Also er ist ein Baumgeist der wie ein Drache aussieht? Okaay... Welche Baumsorte soll denn bitte so aussehen? Und dann auch noch diese Kleidung... alles an diesem Typ ist merkwürdig! (Wo kam der überhaupt her?) "
 
 
 
@@ -2533,7 +2545,7 @@ translate german s07_03_7b1bf063:
 
     voice voice_file.lpdcat(7,53)
 
-    lpdcat angry ""
+    lpdcat angry "\"Wwwhäää— Wie fang ich mit dir an! Was wagst du Liaos Bento zu klauen, welches er für mich gemacht hat! Jetzt wo du daran rumgesabbert hast wird es niemand mehr essen wollen!\" "
 
 
 
@@ -2549,7 +2561,7 @@ translate german s07_03_f2753767:
 
     voice voice_file.tig(7,17)
 
-    tig frown ""
+    tig frown "\"Keiner sagt es wäre {i}deines{/i}, Kätzchen.\" "
 
 
 
@@ -2565,7 +2577,7 @@ translate german s07_03_76654174:
 
     voice voice_file.lpdcat(7,54)
 
-    lpdcat angry "" with hshake
+    lpdcat angry "\"Genauso hat keiner gesagt es wäre {i}deines{/i} \, alter Mann!\" " with hshake
 
 
 
@@ -2581,7 +2593,7 @@ translate german s07_03_7874ce1a:
 
     voice voice_file.tig(7,18)
 
-    tig frown ""
+    tig frown "\"...Du hast nur nach einer Gelegenheit gesucht mich alten Mann zu nennen, oder nicht?\" "
 
 
 
@@ -2593,7 +2605,7 @@ translate german s07_03_7b6ba118:
 
     # avt "\"Hey! Hold up! We're getting {i}way{/i} \ off topic again! More importantly, this guy's a God of Soil?\" " with vshake
 
-    avt "" with vshake
+    avt "\"Hey! Wartet mal! Wir sind schon wieder {i}weit{/i} \ weg vom Thema! Der Kerl ist ein Gott der Erde?\" " with vshake
 
 
 
@@ -2605,7 +2617,7 @@ translate german s07_03_576165bb:
 
     # b "If he's a God of Soil for real, then I {i}should{/i} \ probably show more respect... Not that the way he's treated me has been respectful at all. "
 
-    b ""
+    b "Wenn er wirklich ein Gott der Erde ist, {i}sollte{/i} \ ich vermutlich viel respektvoller sein... Auch wenn er mich kein bisschen respektvoll behandelt hat. "
 
 
 
@@ -2617,7 +2629,7 @@ translate german s07_03_a3daccc6:
 
     # avt "\"But how could a God of Soil look like that? I've {i}absolutely{/i} \ never learnt about any gods that look like {i}that!{/i}\" "
 
-    avt ""
+    avt "\"Aber wie kann ein Erdgott nur so aussehen? Ich hätte {i}absolut{/i} \ nirgends von Göttern lernen können die {i}so{/i} aussehen!\" "
 
 
 
@@ -2633,7 +2645,7 @@ translate german s07_03_a696b05a:
 
     voice voice_file.tig(7,19)
 
-    tig lift ""
+    tig lift "\"Erdengötter gibt es in vielen Formen Liao...\" "
 
 
 
@@ -2649,7 +2661,7 @@ translate german s07_03_3e62365c:
 
     voice voice_file.lpdcat(7,55)
 
-    lpdcat normal ""
+    lpdcat normal "\"Er mag zwar außergewöhnlich sein, aber mit einem Chi wie seinem... Ist er absolut echt.\" "
 
 
 
@@ -2661,7 +2673,7 @@ translate german s07_03_c8c58da8:
 
     # avt "\"You've got to be the weirdest god I've ever seen...\" "
 
-    avt ""
+    avt "\"Du musst wirklich der komischste Gott sein, den ic hje  gesehen habe...\" "
 
 
 
@@ -2677,7 +2689,7 @@ translate german s07_03_08f1bd26:
 
     voice voice_file.lagu(7,9)
 
-    lagu laugh ""
+    lagu laugh "\"Wahaha— Das ist wohl wahr. Sogar ich halte mich für einzigartig!\" "
 
 
 
@@ -2689,7 +2701,7 @@ translate german s07_03_f5be6c9f:
 
     # b "Well at least he's proud of himself, but that doesn't really answer why he's dressed like that! "
 
-    b ""
+    b "Schön, dass er wenigstens so stolz auf sich ist, aber das beantwortet noch immer nicht die Frage nach seinem Outfit! "
 
 
 
@@ -2705,7 +2717,7 @@ translate german s07_03_deee93a0:
 
     voice voice_file.lpd(7,7)
 
-    lpd obsessed ""
+    lpd obsessed "\"Liao... ich glaube, will wissen... warum anders?\" "
 
 
 
@@ -2723,7 +2735,9 @@ translate german s07_03_843b879f:
 
     voice voice_file.lagu(7,10)
 
-    lagu normal ""
+    lagu normal "\"Hmmm... Ich war wohl schon immer so...\" "
+
+    lagu normal "\"Ursprünglich war ich ein alter Baum, als ich ein Baumgott wurde, danach... ach ja! Meine Kleidung, willst du nicht mal raten was das ist?!\" "
 
 
 
@@ -2735,7 +2749,7 @@ translate german s07_03_42ce5908:
 
     # b "How are we supposed to know where his weird clothes came from? "
 
-    b ""
+    b "Woher sollen wir wissen wo seine komische Kleidung herkommt? "
 
 
 
@@ -2751,7 +2765,7 @@ translate german s07_03_5013848f:
 
     voice voice_file.lagu(7,11)
 
-    lagu laugh ""
+    lagu laugh "\"Aww— Du willst mich nichteinmal versuchen zu amüsieren? Was solls dann kann ichs dir euch auch sagen. Es ist ein Bergrutsch-Sicherheitsnetz.\" "
 
 
 
@@ -2763,7 +2777,7 @@ translate german s07_03_4f66307d:
 
     # avt "\"Oh, you mean those ones along the edges of cliffs to prevent rocks from falling?\" "
 
-    avt ""
+    avt "\"Oh, du meinst solche wie sie an Klippenrändern hängen um vor fallenden Steinen zu schürzen?\" "
 
 
 
@@ -2779,7 +2793,7 @@ translate german s07_03_f95947ec:
 
     voice voice_file.lagu(7,12)
 
-    lagu normal ""
+    lagu normal "\"Genau so eines. Einige Steine fielen herab und haben dieses Netz um mich gewickelt, und meine Anbeter haben mich dann so gesehen.\" "
 
 
 
@@ -2791,7 +2805,7 @@ translate german s07_03_b7c6a3c9:
 
     # avt "\"...All right, I guess that makes sense. But why would a Grand Tree Lord look like a dragon?\" "
 
-    avt ""
+    avt "\"...Ich verstehe, das ergibt wohl Sinn. Aber warum sollte ein Baumgott wie ein Drache aussehen?\" "
 
 
 
@@ -2807,7 +2821,7 @@ translate german s07_03_fcd01b29:
 
     voice voice_file.lagu(7,13)
 
-    lagu laugh ""
+    lagu laugh "\"Wahahaha! Nun, natürlich weil mein Baumstamm genau wie ein Drache aussieht.\" "
 
 
 
@@ -2819,7 +2833,7 @@ translate german s07_03_966e0100:
 
     # avt "\"Really? A dragon?\" "
 
-    avt ""
+    avt "\"Wirklich? Ein Drache?\" "
 
 
 
@@ -2835,7 +2849,7 @@ translate german s07_03_3a0a0c8f:
 
     voice voice_file.lagu(7,14)
 
-    lagu normal ""
+    lagu normal "\"Richtig. Vor einiger Zeit schlug ein Blitz in mich ein. Seither denken die Leute, dass ich wie ein Drache aussehe.\" "
 
 
 
@@ -2853,7 +2867,9 @@ translate german s07_03_80dcc0cf:
 
     voice voice_file.lagu(7,15)
 
-    lagu normal ""
+    lagu normal "\"Zunächst habe ich das garnicht so empfunden, doch eines Tages hat ein Künstler mich auf einer Leinwand gemalt.\" "
+
+    lagu normal "\"Diese Person malte mich als wäre ich ein Drache der in den dunklen Wolken eines Gewittersturmes schläft. Ich bin mir nicht sicher, ob mir das gefällt... aber es war definitiv das Werk eines Meisters.\" "
 
 
 
@@ -2869,7 +2885,7 @@ translate german s07_03_0a8a1fdc:
 
     voice voice_file.lagu(7,16)
 
-    lagu laugh ""
+    lagu laugh "\"Immerhin hatte ich auf dem Bild kein einziges Kleidungsstück. Und ich kann doch nicht völlig {i}nakt{/i} \ herumtreiben, oder nicht? Wahaha—\" "
 
 
 
@@ -2881,7 +2897,7 @@ translate german s07_03_0580cc84:
 
     # avt "\"So instead, you gallivant around in a {i}net?{/i}\" "
 
-    avt ""
+    avt "\"Und stattdessen treibst du dich so herum, in einem {i}Netz?{/i}\" "
 
 
 
@@ -2897,7 +2913,7 @@ translate german s07_03_cb4515d8:
 
     voice voice_file.lagu(7,17)
 
-    lagu normal ""
+    lagu normal "\"Richtig. Wie schlau du doch bist!\" "
 
 
 
@@ -2911,7 +2927,9 @@ translate german s07_03_5b9dad18:
 
     # avt "\"So, what about the nickname? I couldn't imagine many Grand Tree Lords who would want to be called Ragoo.\" "
 
-    avt ""
+    avt "\"...Ich bin ein Student, nur am Rande.\" "
+
+    avt "\"Und was ist mit deinem Spitznamen? Ich kann mir nicht viele ehrwürdige Baumgötter vorstellen die Ragoo genannt werden wollen.\" "
 
 
 
@@ -2927,7 +2945,7 @@ translate german s07_03_548132bd:
 
     voice voice_file.lagu(7,18)
 
-    lagu laugh ""
+    "\"Ich bin wohl kaum ehrwürdig. Ich werde als Drache gemalt, die Leute sehen, wie ich {i}dies{/i}. trage. Ich bediene wohl kaum die Formalitäten, also ist es Ragoo. \" "
 
 
 
@@ -2939,7 +2957,7 @@ translate german s07_03_fb5ed486:
 
     # avt "\"...Well then. What are you doing here, Mister Ragoo?\" "
 
-    avt ""
+    "\"...Also dann, Was machst du dann hier, Herr Ragoo?\" "
 
 
 
@@ -2955,7 +2973,7 @@ translate german s07_03_8cbc3b1a:
 
     voice voice_file.tig(7,20)
 
-    tig frown ""
+    tig frown "\"Liao, don't be rude.\" "
 
 
 
@@ -2967,7 +2985,7 @@ translate german s07_03_91e4c917:
 
     # avt "\"All right, sorry, sorry. But... why did you choose to grace us with your presence?\" "
 
-    avt ""
+    avt "\"Ach ja, sorry, sorry. Aber... warum entscheidest du dich, uns mit deiner Anwesenheit zu beglücken?\" "
 
 
 
@@ -2983,7 +3001,7 @@ translate german s07_03_a20f1d15:
 
     voice voice_file.lagu(7,19)
 
-    lagu laugh ""
+    lagu laugh "\"Haha— Kein grund so ernst zu sein, Kindchen. Ich unterhalte mich einfach gerne mit meinen Anbetern.\" "
 
 
 
@@ -2999,7 +3017,7 @@ translate german s07_03_5663da1c:
 
     voice voice_file.lpdcat(7,56)
 
-    lpdcat pu ""
+    lpdcat pu "\"Und sich dabei möglichst wenig gottgleich zu verhalten...\" "
 
 
 
@@ -3015,7 +3033,7 @@ translate german s07_03_6208421f:
 
     voice voice_file.lagu(7,20)
 
-    lagu normal ""
+    lagu normal "\"Wahaha- Das bedeutet natürlich nicht, dass man nicht seine Götter respektlos behandeln sollte. Ich mag ddie ganzen Formalitäten einfach nur nicht. Sie verdrängen das, worauf es wirklich ankommt.\" "
 
 
 
@@ -3027,7 +3045,7 @@ translate german s07_03_1a782959:
 
     # b "This guy really is a unique god that's for sure. "
 
-    b ""
+    b "Dieser Kerl ist wirklich absolut einzigartig. "
 
 
 
@@ -3039,7 +3057,7 @@ translate german s07_03_f0d8f711:
 
     # avt "\"Hmm... But why did you choose to talk to us? Not to mention steal my bento.\" "
 
-    avt ""
+    avt "\"Hmm... Und warum sprichst du dann ausgerechnet mit uns? Mal ganz abgesehen von meinem geklauten Bento.\" "
 
 
 
@@ -3055,7 +3073,7 @@ translate german s07_03_09212a4d:
 
     voice voice_file.lagu(7,21)
 
-    lagu normal ""
+    lagu normal "\"Ich wollte euch einfach kennenlernen.\" "
 
 
 
@@ -3067,7 +3085,7 @@ translate german s07_03_1c89add0:
 
     # avt "\"See us?\" "
 
-    avt ""
+    avt "\"Uns kennenlernen?\" "
 
 
 
@@ -3083,7 +3101,7 @@ translate german s07_03_ae9e91d2:
 
     voice voice_file.lagu(7,22)
 
-    lagu normal "" with flash
+    lagu normal "\"Na Klar, ihr seit berühmt, wusstest du das nicht?\" " with flash
 
 
 
@@ -3095,7 +3113,7 @@ translate german s07_03_1340efcc:
 
     # avt "\"Huh? Famous? How can that be...\" "
 
-    avt ""
+    avt "\"Wie bitte? Berühmt? Wie soll das denn sein...\" "
 
 
 
@@ -3111,7 +3129,7 @@ translate german s07_03_adfc9c6b:
 
     voice voice_file.lagu(7,23)
 
-    lagu normal ""
+    lagu normal "\"Ein Junge der Geister sehen kann und mit drei Katzengöttern umherläuft! Die Yaoguai reden heutzutage nur über euch! Wie kannst du das nicht wissen?\" "
 
 
 
@@ -3127,7 +3145,7 @@ translate german s07_03_6b0df202:
 
     voice voice_file.lpd(7,8)
 
-    lpd obsessed ""
+    lpd obsessed "\"...Nicht wissen.\" "
 
 
 
@@ -3143,7 +3161,7 @@ translate german s07_03_75f1c71b:
 
     voice voice_file.lpdcat(7,57)
 
-    lpdcat surprise_1 ""
+    lpdcat surprise_1 "\"Waaa— Nie im Leben! ...Aber ich hab wohl auch nicht wirklich mit anderen Yaoguai geredet seit ich mit Yan Shu-Chis Leben beschäftigt bin.\" "
 
 
 
@@ -3159,7 +3177,7 @@ translate german s07_03_4dd9b346:
 
     voice voice_file.tig(7,21)
 
-    tig embarrassed ""
+    tig embarrassed "\"...Ich wusste das würde Liao beunruhigen.\" "
 
 
 
@@ -3171,7 +3189,7 @@ translate german s07_03_e9d05b08:
 
     # avt "\"Huh, Tiger, you {i}knew{/i} \ about this?\" "
 
-    avt ""
+    avt "\"Huh, Tiger, du {i}wusstest{/i} \ davon?\" "
 
 
 
@@ -3187,7 +3205,7 @@ translate german s07_03_38b528a2:
 
     voice voice_file.tig(7,22)
 
-    tig normal ""
+    tig normal "\"Ich {i}weiß{/i} \ dass yaoguai Klatsch und Tratsch lieben, es wäre also unausweichlich dass wir irgendeine art Aufmerksamkeit erregen.\" "
 
 
 
@@ -3203,7 +3221,7 @@ translate german s07_03_3972e469:
 
     voice voice_file.lagu(7,24)
 
-    lagu normal ""
+    lagu normal "\"Nun, ich hörte ein Hengst wie du- der sich von den Dreien umgarnen lässt, ohne sich zu entscheiden wen du liebst...\" "
 
 
 
@@ -3215,7 +3233,7 @@ translate german s07_03_2a3b6bc7:
 
     # avt "\"What! That's what they're saying?! What do the yaoguai think they know about \nthis?!\" " with hshake
 
-    avt "" with hshake
+    avt "\"Was! Sowas erzählen die? Was wissen die Yaoguai eigentlich wirklich?!\" " with hshake
 
 
 
@@ -3233,7 +3251,9 @@ translate german s07_03_c041c71a:
 
     voice voice_file.lagu(7,25)
 
-    lagu laugh ""
+    lagu laugh "\"Wahaha— Yaoguai müssen sch auch irgendwie unterhalten. Die meißten spielen heutzutage Games oder lesen Manga.\" "
+
+    lagu laugh "\"Einer meiner Anbeter gab mir einen 3DS, also kann sogar ich hin und wieder mal spielen. Es macht wirklich Spaß!\" "
 
 
 
@@ -3245,7 +3265,7 @@ translate german s07_03_a5d514de:
 
     # avt "\"...What! How?\" "
 
-    avt ""
+    avt "\"...Was! Wie?\" "
 
 
 
@@ -3261,7 +3281,7 @@ translate german s07_03_d7a038df:
 
     voice voice_file.lagu(7,26)
 
-    lagu normal ""
+    lagu normal "\"Naja, Knöpfe drücken ist kein Problem für mich, ich würde es halt nur nicht tun solange meine Anbeter dabei zusehen.\" "
 
 
 
@@ -3273,7 +3293,7 @@ translate german s07_03_389920b6:
 
     # avt "\"Wait— Wait— That's not important! What other rumours are there about us?\" "
 
-    avt ""
+    avt "\"Warte— Warte— Das ist doch garnicht wichtig. Was für Gerüchte werden sonst von uns erzählt?\" 
 
 
 
@@ -3289,7 +3309,7 @@ translate german s07_03_f7879f9a:
 
     voice voice_file.lagu(7,27)
 
-    lagu normal ""
+    lagu normal "\"Genau was ich gesagt habe. Du lässt diese drei für dich schwärmen, ohne ihnen etwas zurückzugeben. Man könnte schon meinen, dass du sie ausnutzt.\" "
 
 
 
@@ -3303,7 +3323,9 @@ translate german s07_03_c042abdf:
 
     # avt "\"Not to mention all three of them are male! Even if the yaoguai are being really open-minded about it, they surely can't expect me to want to be like {i}that{/i} \ with all three of them!\" "
 
-    avt ""
+    avt "\"Das stimmt doch garnicht! Sie sind es die mich aufgesucht haben... Es stimmt zwar, dass sie von mir wollen fortzugehen um Ihnen zu helfen, aber ich kann doch nicht solche großen Versprechungen machen. So kamen wir in diese Lage.\" "
+
+    avt "\"Außerdem sind sie alle Männer, selbst wenn die Yaoguai offen und tolerant wären, kann doch keiner auf die Idee kommen, dass ich {i}so eine{/i} \ Beziehung mit allen Dreien habe!\" "
 
 
 
@@ -3319,7 +3341,7 @@ translate german s07_03_a7ea96c0:
 
     voice voice_file.lagu(7,28)
 
-    lagu normal ""
+    lagu normal "\"Oh? Also siehst du die drei als Kerle?\" "
 
 
 
@@ -3331,7 +3353,7 @@ translate german s07_03_edadb744:
 
     # avt "\"What? How, how else would I see them?\" "
 
-    avt ""
+    avt "\"Was? Wie sollte ich sie denn sonst sehen?\" "
 
 
 
@@ -3347,7 +3369,7 @@ translate german s07_03_d7891895:
 
     voice voice_file.lagu(7,29)
 
-    lagu normal ""
+    lagu normal "\"Hmm... SO ist das also... Aus deiner Sicht bin ich also auch männlich?\" "
 
 
 
@@ -3359,7 +3381,7 @@ translate german s07_03_323ed4db:
 
     # avt "\"Yes, a young dragon man...\" "
 
-    avt ""
+    avt "\"Ja, ein junger, männlicher Drache...\" "
 
 
 
@@ -3375,7 +3397,7 @@ translate german s07_03_a2e16b23:
 
     voice voice_file.lagu(7,30)
 
-    lagu laugh ""
+    "\"Wahaha— Und ich halte mich selbst immer für ein fröhliches altes Tantchen. Götter haben immerhin kein Geschlecht. Anbeter sehen ihre Götter in dem Geschlecht, dass ihr Geist sehen will.\" "
 
 
 
@@ -3391,7 +3413,7 @@ translate german s07_03_05e7906c:
 
     voice voice_file.lagu(7,31)
 
-    lagu normal ""
+    lagu normal "\"Die Erscheinung in der du sie siehst ist also nicht unbedingt so wie sie wirklich sind... Grundsätzlich könntest du sie als das Geschlecht sehen, welches du am meißten magst.\" "
 
 
 
@@ -3403,7 +3425,7 @@ translate german s07_03_bdfe9b12:
 
     # avt "\"Huh? ...What?\" "
 
-    avt ""
+    "\"Huh? ...Was?!\" "
 
 
 
@@ -3415,7 +3437,7 @@ translate german s07_03_3eb51545:
 
     # b "I thought that I'd been seeing beast-men just because they're animal gods. That's normal, right? "
 
-    b ""
+    b "Ich dachte ich sehe sie als Bestienmenschen weil sie Tiergötter sind. Das ist doch normal, richtig? "
 
 
 
@@ -3427,7 +3449,7 @@ translate german s07_03_a1572020:
 
     # b "I guess different worshippers would perceive gods differently according what they believe. After all, I've heard stories about {font=tl/None/NotoSansCJKtc-Bold.otf}Guanyin{/font} being male or female, but I never thought their genders weren't actually a set thing. "
 
-    b ""
+    b "Ich schätze jeder Anbeter würde den Gott anders sehen abhängig vom Glauben. Ich kenne Geschichten von {font=tl/None/NotoSansCJKtc-Bold.otf}Guanyin{/font}, der sowohl männlich als auch weiblich sein soll. Aber ich habe nie gedacht, dass Ihr Geschlecht nicht festgelegt ist. "
 
 
 
@@ -3439,7 +3461,7 @@ translate german s07_03_743bb4bc:
 
     # avt "\"Well... at least I know Senpai is a—\" "
 
-    avt ""
+    avt "\"Naja... also zumindest weiß ich sicher dass Senpai—\" "
 
 
 
@@ -3455,7 +3477,7 @@ translate german s07_03_07c08d19:
 
     voice voice_file.lpdcat(7,58)
 
-    lpdcat serious ""
+    lpdcat serious "\"Ähh— Liao. Ich habe Yan Shu-Chis Körper erst in Besitz genommen {i}nachdem{/i} \ ich erfuhr von welchem Ufer du kommst.\" "
 
 
 
@@ -3471,7 +3493,7 @@ translate german s07_03_b3bf9cc4:
 
     voice voice_file.lagu(7,32)
 
-    lagu normal ""
+    lagu normal "\"Schwul oder nicht, {i}jeder{/i} \ liebt den Jungen mit Milchgesicht, richtig?\" "
 
 
 
@@ -3483,7 +3505,7 @@ translate german s07_03_87641466:
 
     # avt "\"What are you talking about!\" " with vshake
 
-    avt "" with vshake
+    avt "\"Wovon redet ihr da eigentlich!\" " with vshake
 
 
 
@@ -3499,7 +3521,7 @@ translate german s07_03_ad4afdf9:
 
     voice voice_file.lagu(7,33)
 
-    lagu normal ""
+    lagu normal "\"WIe auch immer du es ausdrückst, aus Sicht der Yaoguai sieht es aus als würdest du sie ausführen. Zum Beispiel das Bento könnte geplant sein, weil du sie um dich streiten sehen {i}willst{/i}.\" "
 
 
 
@@ -3511,7 +3533,7 @@ translate german s07_03_d31f4539:
 
     # avt "\"It's not like that's what I meant to happen! How could you think like that? I'm just a guy, they're gods!\" "
 
-    avt ""
+    avt "\"So wollte ich das mit sicherheit nicht! Wie können Sie das denken? Ich bin nur ein Kerl, und sie sind Götter!\" "
 
 
 
@@ -3527,7 +3549,7 @@ translate german s07_03_4d619f77:
 
     voice voice_file.lagu(7,34)
 
-    lagu normal ""
+    agu normal "\"Also hast du noch nie von Menschen gehört, die sich in eine Gottheit verlieben?\" "
 
 
 
@@ -3539,7 +3561,7 @@ translate german s07_03_41918e67:
 
     # avt "\"You must have been misinformed!\" "
 
-    avt ""
+    avt "\"Das musst du falsch verstanden haben!\" "
 
 
 
@@ -3555,7 +3577,7 @@ translate german s07_03_ff94a8ce:
 
     voice voice_file.lpdcat(7,59)
 
-    lpdcat cute ""
+    lpdcat cute "\"Nun, Liao immerhin wohnen wir alle zusammen...\" "
 
 
 
@@ -3567,7 +3589,7 @@ translate german s07_03_140bc049:
 
     # avt "\"Senpai, please don't make it worse!\" "
 
-    avt ""
+    avt "\"Senpai, mach es bitte nicht noch schlimmer!\" "
 
 
 
@@ -3583,8 +3605,7 @@ translate german s07_03_21fb5e92:
 
     voice voice_file.tig(7,23)
 
-    tig frown ""
-
+    tig frown "\"Ich halte deine Aussagen für Unfug. Wir Götter könnten wohl kaum romantische gefühle für Liao haben. Alles was ich mir für ihn wünsche ist dass er die anderen Zwei ignoriert und nach seinem Schulabschluss heimkehrt. Am wenigsten denke ich an eine Beziehung.\" "
 
 
 # game/script/07.rpy:864
@@ -3595,7 +3616,7 @@ translate german s07_03_936d2db6:
 
     # b "I understand his words but that doesn't make hearing them any better..."
 
-    b ""
+    b "Ich verstehe die Worte die er sagt, sie zu hören macht sie aber kein wenig besser..."
 
 
 
@@ -3607,7 +3628,7 @@ translate german s07_03_1553364e:
 
     # lpd obsessed "\"...?\" "
 
-    lpd obsessed ""
+    lpd obsessed "\"...?\" "
 
 
 
@@ -3619,7 +3640,7 @@ translate german s07_03_0d77ee07:
 
     # b "The conversation seems to be lost on Leopard, which is probably for the best! "
 
-    b ""
+    b "Die Unterhaltung geht wohl an Leopard vorbei, das ist wohl auch das beste! "
 
 
 
@@ -3635,7 +3656,7 @@ translate german s07_03_b3c88c72:
 
     voice voice_file.lagu(7,35)
 
-    lagu laugh ""
+    lagu laugh "\"Waha— Alles okay ich sollte aufhören mit euch rum zu albern. Ich weiß dass sie für sich so nicht fühlen... Außer vielleicht das kleine—\" "
 
 
 
@@ -3651,7 +3672,7 @@ translate german s07_03_823cd0cc:
 
     voice voice_file.lpdcat(7,60)
 
-    lpdcat angry ""
+    lpdcat angry "\"Nenn mich nicht klein!\" "
 
 
 
@@ -3669,7 +3690,9 @@ translate german s07_03_b5c27545:
 
     voice voice_file.lagu(7,36)
 
-    lagu laugh ""
+    lagu laugh "\"Wahaha— Also dann, Leopardkatze. Aber bei den Gerüchten die um umlauf sind musste ich das für mich selbst sehen.\" "
+
+    lagu laugh "\"So, Kindchen, du hast also {i}gar/i} \ keine romantischen Gefühle für diese drei Katzen?\" 
 
 
 
@@ -3681,7 +3704,7 @@ translate german s07_03_99ada234:
 
     # avt "\"N-{w=0.2}None at all!\" "
 
-    avt ""
+    avt "\"N-{w=0.2}Natürlich nicht!\" "
 
 
 
@@ -3697,7 +3720,7 @@ translate german s07_03_84966e16:
 
     voice voice_file.lagu(7,37)
 
-    lagu normal ""
+    lagu normal "\"Wirklich? Zumindest seid ihr euch alle so nah, ich denke egal was passiert, ihr wäret klasse Gefährten. \" "
 
 
 
@@ -3709,7 +3732,7 @@ translate german s07_03_38d11c80:
 
     # avt "\"Great companions? Would that really be how it works out? You still don't know everything. You don't even know what they're asking me to do.\" "
 
-    avt ""
+    avt "\"Klasse Gefährten? Würde soetwas wirklich funktionieren? Du weißt immer noch nicht alles. Du weißt nichteinmal was sie von mir verlangen.\" "
 
 
 
@@ -3725,7 +3748,7 @@ translate german s07_03_603f5dec:
 
     voice voice_file.lagu(7,38)
 
-    lagu serious ""
+    lagu serious "\"Bitte erzähl weiter, was für Forderungen haben sie denn?\" "
 
 
 
@@ -3737,7 +3760,7 @@ translate german s07_03_db161acc:
 
     # avt "\"A jitong, a priest, an oracle... I would have to choose one of those roles and perform it for years for just one of them, perhaps even my whole life. I can't just make a promise like that to all of them!\" "
 
-    avt ""
+    avt "Ein Jitong, ein Priester, ein Orakel... Ich müste mich für einzig einen der Drei entscheiden um die Rolle für Jahre, vielleicht sogar für mein ganzes Leben zu erfüllen. Ich kann einfach nicht jedem dieses Versprechen geben!"
 
 
 
@@ -3753,7 +3776,7 @@ translate german s07_03_80eb3a33:
 
     voice voice_file.lagu(7,39)
 
-    lagu serious ""
+    lagu serious "\"Also wirst du wohl demjenigen dein Versprechen geben, mit dem du den Rest deines Lebens verbringen willst.\" "
 
 
 
@@ -3765,7 +3788,7 @@ translate german s07_03_fc72b07f:
 
     # avt "\"Why'd you have to put it like that!\" "
 
-    avt ""
+    avt "Musstest du das genau so formulieren!"
 
 
 
@@ -3781,7 +3804,7 @@ translate german s07_03_b4ace494:
 
     voice voice_file.lagu(7,40)
 
-    lagu normal ""
+    lagu normal "\"Ist das aber nicht genau die Wahrheit? Wen auch immer du wählst, er wird dein Lebensgefährte sein.\" "
 
 
 
@@ -3797,7 +3820,7 @@ translate german s07_03_bc94eae6:
 
     voice voice_file.lagu(7,41)
 
-    lagu serious ""
+    lagu serious "\"So schwierig diese Entscheidung für dich auch sein mag... Findest du es nicht auch etwas respektlos dich von den Göttern begleiten zu lassen, ohne ihre Erwartungen erfüllen zu können?\" "
 
 
 
@@ -3809,7 +3832,7 @@ translate german s07_03_fb70ab9d:
 
     # avt "\"I-{w=0.2}I never thought of it like that...\" "
 
-    avt ""
+    avt "\"So-{w=0.2}so habe ich nie darüber nachgedacht...\" "avt ""
 
 
 
@@ -3825,7 +3848,7 @@ translate german s07_03_ac8c732a:
 
     voice voice_file.lagu(7,42)
 
-    lagu serious ""
+    lagu serious "\"Diese Entscheidung wirst du nicht ewig vor dir hinschieben können. Ich würde dir raten dir den Gefährten zu wählen, mit dem du am besten zurecht kommst und mit diesem zu verweilen.\" "
 
 
 
@@ -3837,7 +3860,7 @@ translate german s07_03_b5127b36:
 
     # avt "\"It's not like that's an {i}easy{/i} \ thing to choose. Not to mention there's other things I want to do in life...\" "
 
-    avt ""
+    avt "\"Das ist aber keine {i}leichte{/i} \ Entscheidung. Und all die anderen dinge die ich in meinem Leben noch machen möchte...\" "
 
 
 
@@ -3855,7 +3878,9 @@ translate german s07_03_416484ac:
 
     voice voice_file.lagu(7,43)
 
-    lagu serious ""
+    lagu serious "\"Egal wie es weitergeht, der Einfluss der anderen wird immer den Weg deines Lebens beeinflussen.\" "
+
+    lagu serious "\"Stell dir eine Beziehung zu einem anderen Menschen vor, würde die nicht genauso dein Leben verändern?\" "
 
 
 
@@ -3867,7 +3892,7 @@ translate german s07_03_1664a1da:
 
     # avt "\"That doesn't make it any easier! Even if I refuse all three, it's none of your business!\" "
 
-    avt ""
+    avt "\"Das macht es kein bisschen leichter! Selbst wenn ich mich allen dreien verweigere, geht es dich nichts an!\" "
 
 
 
@@ -3883,7 +3908,7 @@ translate german s07_03_8fb81fac:
 
     voice voice_file.lagu(7,44)
 
-    lagu laugh ""
+    lagu laugh "\"Wahaha— Jetzt wo ich weiß wie sehr dich das mitnimmt, {i}möchte{/i} \ ich dir umso mehr helfen. Du umgibst dich mit Göttern, also ist es in unser allem Interesse.\" "
 
 
 
@@ -3895,7 +3920,7 @@ translate german s07_03_7ace18e9:
 
     # avt "\"I want to make my own decision! Please, I don't want you trying to make my {i}own{/i} \ decisions for me!\" "
 
-    avt ""
+    avt "\"Das hast du nicht zu bestimmen! Lass mich bitte meine {i}eigene{/i} \ Entscheidung für mich selbst treffen!\" "
 
 
 
@@ -3911,7 +3936,7 @@ translate german s07_03_ced7ee9c:
 
     voice voice_file.lagu(7,45)
 
-    lagu normal ""
+    lagu normal "\"Kindchen du bist besonders. Von daher sind deine Angelegenheiten auch für uns von Bedeutung.\" "
 
 
 
@@ -3923,7 +3948,7 @@ translate german s07_03_4c6a9850:
 
     # b "...As annoying as it is, he's not wrong. "
 
-    b ""
+    b "...So nervig das auch sein mag, damit liegt er nicht falsch. "
 
 
 
@@ -3939,7 +3964,7 @@ translate german s07_03_997568cd:
 
     voice voice_file.lagu(7,46)
 
-    lagu normal ""
+    lagu normal "\"Selbst wenn es keine {i}perfekte{/i} \ Lösung für dich gibt, rate ich dir trotzdem dich zügig zu entscheiden. Zeit zu schinden wird sich irgendwann als respektlos darstellen.\" "
 
 
 
@@ -3955,7 +3980,7 @@ translate german s07_03_57aba9be:
 
     voice voice_file.tig(7,24)
 
-    tig normal ""
+    tig normal "\"Mir macht das nichts aus. Es ist völlig in Ordnung wenn Liao nach deinem Schulabschluss heimkehrt. Er wird keine Zeit dafür haben sich als Tempelpriester oder Aboriginie-Orakel auszugeben.\" "tig normal ""
 
 
 
@@ -3971,7 +3996,7 @@ translate german s07_03_29a924f6:
 
     voice voice_file.lpdcat(7,61)
 
-    lpdcat angry ""
+    lpdcat angry "\"Sei nicht so Egoistisch alter Mann! Mein Tempel ist ohnehin schon in Notlage!\" "
 
 
 
@@ -3987,7 +4012,7 @@ translate german s07_03_ec2eb7c3:
 
     voice voice_file.tig(7,25)
 
-    tig lift ""
+    tig lift "\"Nun, deine eigene Situation wäre wohl garnicht so schlecht wenn du einfach wieder zurück ins Yaoguaidasein trittst.\" "
 
 
 
@@ -4003,7 +4028,7 @@ translate german s07_03_deb4e435:
 
     voice voice_file.lpdcat(7,62)
 
-    lpdcat angry ""
+    lpdcat angry "\"Und wass wenn mein Fudegong all seine Geisteskraft verliert?!\" "
 
 
 
@@ -4021,7 +4046,10 @@ translate german s07_03_e22eade7:
 
     voice voice_file.tig(7,26)
 
-    tig normal ""
+    tig normal "\"Das ist die einzige Folge. Ein Erdgott würde seine Kraft verlieren. Es ist nicht so, dass er stirbt.\" "
+
+    tig normal "\"Wenn die Bewohner in der Umgebung es nicht für nötig halten ihn zu verehren, ist das der Lauf der Dinge..\" "
+
 
 
 
@@ -4037,7 +4065,7 @@ translate german s07_03_0e4150b7:
 
     voice voice_file.lpdcat(7,63)
 
-    lpdcat not_reconcile ""
+    lpdcat not_reconcile "*schluchz* "
 
 
 
@@ -4049,7 +4077,7 @@ translate german s07_03_47b1bc96:
 
     # avt "\"Please, just stop you two. It's hard enough to decide as it is without you making each other cry. This {i}really{/i} \ is difficult for me...\" "
 
-    avt ""
+    avt "\"Hört bitte auf ihr Zwei. Es ist schon so schwer genug ohne dass ihr euch gegenseitig zum Heulen bringt. Das ist {i}wirklich{/i} \ schwer für mich...\" """
 
 
 
@@ -4065,7 +4093,7 @@ translate german s07_03_2c3f4c8c:
 
     voice voice_file.lagu(7,47)
 
-    lagu serious ""
+    lagu serious "\"Mir ist bewusst unter welchem Druck du stehst. Es abzuwälzen wird dir aber nicht helfen. So wirst du keinen Fortschritt machen.\" "
 
 
 
@@ -4077,7 +4105,7 @@ translate german s07_03_744a7185:
 
     # avt "\"Maybe... Unless something else comes up.\" "
 
-    avt ""
+    avt "\"Vielleicht... Außer etwas komplett anderes ergibt sich.\" "
 
 
 
@@ -4093,7 +4121,7 @@ translate german s07_03_0b2d446e:
 
     voice voice_file.lpd(7,9)
 
-    lpd worry ""
+    lpd worry "\"Liao muss schnell nach Wutai. Etwas schlimmes.\" "
 
 
 
@@ -4105,7 +4133,7 @@ translate german s07_03_2c39d80f:
 
     # avt "\"What is it?\" "
 
-    avt ""
+    avt "\"Was ist es?\" "
 
 
 
@@ -4121,7 +4149,7 @@ translate german s07_03_e169a0a6:
 
     voice voice_file.lpd(7,10)
 
-    lpd worry ""
+    lpd worry "\"Gefahr. Wir müssen warnen.\" "
 
 
 
@@ -4137,7 +4165,7 @@ translate german s07_03_e4d5ca5d:
 
     voice voice_file.lpdcat(7,64)
 
-    lpdcat serious ""
+    lpdcat serious "\"Jeder Tempel hält Geschichten über Götter die ihre Anbeter vor einer Untergangsprophezeihung bewahren, Sorry Kulau, dein Problem ist nichts besonderes.\" "
 
 
 
@@ -4149,7 +4177,7 @@ translate german s07_03_3b5e46f7:
 
     # lpd obsessed "\"......\" "
 
-    lpd obsessed ""
+    lpd obsessed "\"......\" "
 
 
 
@@ -4165,7 +4193,7 @@ translate german s07_03_1d17e2be:
 
     voice voice_file.tig(7,27)
 
-    tig frown ""
+    tig frown "\"Aus {i}genau{/i} \ diesem Grund solltest du nicht zu irgendeinem Tempel reisen. Du gehörst zur Lin Familie. Du solltest dich um deinen Eigenen Mazu Tempel und die Belange deiner Familie kümmern. Umherlaufen und jedermanns Anbeter aller Tempel zu retten ist vergebliche Mühe.\" "
 
 
 
@@ -4181,7 +4209,7 @@ translate german s07_03_88687f8c:
 
     voice voice_file.lpdcat(7,65)
 
-    lpdcat angry ""
+    lpdcat angry "\"Du bist so egoistisch!\" "
 
 
 
@@ -4197,7 +4225,7 @@ translate german s07_03_d655acfd:
 
     voice voice_file.tig(7,28)
 
-    tig frown ""
+    tig frown "\"Du bist hier der Egoist!\" "
 
 
 
@@ -4209,7 +4237,7 @@ translate german s07_03_d5170dd2:
 
     # avt "*sigh* "
 
-    avt ""
+    avt "*seufz* "
 
 
 
@@ -4225,7 +4253,7 @@ translate german s07_03_24ad747b:
 
     voice voice_file.lagu(7,48)
 
-    lagu laugh ""
+    lagu laugh "\"Wahaha— Du bist da eine ganz schön brenzlige Situation geraten, Kindchen.\" "
 
 
 
@@ -4237,7 +4265,7 @@ translate german s07_03_3b3e3eb0:
 
     # avt "\"You guys don't get it. I'm not playing around. I'm stressed every day...\" "
 
-    avt ""
+    avt "\"Ihr Leute versteht das nicht. Das ist keine Spielerei für mich. Ich stehe wirklich jeden Tag unter Druck...\" "
 
 
 
@@ -4253,7 +4281,7 @@ translate german s07_03_ed7cc6bc:
 
     voice voice_file.lagu(7,49)
 
-    lagu serious ""
+    lagu serious "\"Ich finde du solltest im Kopf behalten, dass diese Situation sich nicht von selbst löst. Du wirst dich weiter damit belasten bis du eine Entscheidung triffst. Ich schätze keiner von Ihnen will dir das antun.\" "
 
 
 
@@ -4265,7 +4293,7 @@ translate german s07_03_79133a7e:
 
     # avt "\"I guess so...\" "
 
-    avt ""
+    avt "\"Ich denke nicht...\" "
 
 
 
@@ -4281,7 +4309,7 @@ translate german s07_03_e436235a:
 
     voice voice_file.lagu(7,50)
 
-    lagu serious ""
+    lagu serious "\"Und die Yaoguai... erzählen weiter Gerüchte. Je schneller du das hinter dich bringst, desto besser.\" "
 
 
 
@@ -4293,7 +4321,7 @@ translate german s07_03_05964337:
 
     # avt "\"What does that mean?\" "
 
-    avt ""
+    avt "\"Was soll das heißen?\" "
 
 
 
@@ -4309,7 +4337,7 @@ translate german s07_03_e9643862:
 
     voice voice_file.lagu(7,51)
 
-    lagu normal ""
+    lagu normal "\"Wahah— Nichts. Denk einfach darüber nach mit wem du dich zusammentust. Egal wie, deine Entscheidung wird jemanden verletzen. Mach es möglichst einfach, um Ihretwillen.\" "
 
 
 
@@ -4321,7 +4349,8 @@ translate german s07_03_9e6bd210:
 
     # avt "\"Why do you have to make it sound like I'm breaking up with someone!\" " with hshake
 
-    avt "" with hshake
+    avt "\"Warum lässt du es so klingen als würde ich mit jemandem Schluss machen!\" " with hshake
+
 
 
 
@@ -4339,7 +4368,9 @@ translate german s07_03_12df7488:
 
     voice voice_file.lagu(7,52)
 
-    lagu laugh ""
+    lagu laugh "\"Liege ich etwa falsch? Ihre Erscheinung ist immerhin an deinen Vorlieben orientiert. Nicht zu vergessen bei welchen Dingen sie dir {i}helfen{/i} \ könnten.\" "
+
+    lagu laugh "\"Ich habe gehört wie diese Götter eine {i}besondere Vorliebe{/i} \ von dir bedienen, oder nicht Kindchen?\" "
 
 
 
@@ -4351,7 +4382,7 @@ translate german s07_03_5c26bb70:
 
     # avt "\"How do you know about that!\" "
 
-    avt ""
+    avt "\"Woher weißt du das denn wieder!\" "
 
 
 
@@ -4367,7 +4398,7 @@ translate german s07_03_366b9e5b:
 
     voice voice_file.lagu(7,53)
 
-    lagu laugh ""
+    lagu laugh "\"Es stimmt also? Ich hab nur geraten.\" "
 
 
 
@@ -4379,7 +4410,7 @@ translate german s07_03_b0c055e1:
 
     # avt "\"W-{w=0.2}Why...\" "
 
-    avt ""
+    avt "\"W-{w=0.2}Warum...\" "
 
 
 
@@ -4391,7 +4422,7 @@ translate german s07_03_8029f2e7:
 
     # b "The yaoguai are gossiping about me like that? About {i}that{/i} \ stuff?! Thinking about it is almost too embarrassing to handle... "
 
-    b ""
+    b "Die yaoguai lästern etwa so über mich? Über {i}solche{/i} \ Dinge?! Das ist mir fast schon zu peinlich um darüber nachzudenken... "
 
 
 
@@ -4407,7 +4438,7 @@ translate german s07_03_269fe102:
 
     voice voice_file.lagu(7,54)
 
-    lagu normal ""
+    lagu normal "\"Mach es dir selbst nicht zu schwer Kindchen. Denk einfach darüber nach und entscheide möglichst bald.\" "
 
 
 
@@ -4419,7 +4450,7 @@ translate german s07_03_a816c7f3:
 
     # avt "\"Think simple...\" "
 
-    avt ""
+    avt "\"Denk einfach...\" "
 
 
 
@@ -4435,7 +4466,7 @@ translate german s07_03_f80b230a:
 
     voice voice_file.lagu(7,55)
 
-    lagu laugh ""
+    lagu laugh "\"Wahaha— Nimm dir meinen geistlichen Rat an dich zu Herzen, Kindchen.\" "
 
 
 
@@ -4447,7 +4478,7 @@ translate german s07_03_21e2048c:
 
     # b "Ragoo pets me on the head. " with vshake
 
-    b "" with vshake
+    b "Ragoo streichelt mir über den Kopf. " with vshake
 
 
 
@@ -4459,7 +4490,7 @@ translate german s07_03_d5170dd2_1:
 
     # avt "\"Aah...\" "
 
-    avt ""
+    avt "\"Aah...\" "
 
 
 
@@ -4475,7 +4506,7 @@ translate german s07_03_c2eaf585:
 
     voice voice_file.lagu(7,56)
 
-    lagu normal ""
+    lagu normal "\"Nun gut kleiner Bursche, entspann dich. Ich bleibe die nächste Zeit hier in der Nähe falls du mich brauchst. Wir sehen uns!\" "
 
 
 
@@ -4487,7 +4518,7 @@ translate german s07_03_ae3537db:
 
     # b "Ragoo says goodbye with a hearty smile before starting to fade away, as if he wasn't ever there to begin with. "
 
-    b ""
+    b "Ragoo verabschiedet sich mit einem Herzlichen Lächeln und verblasst immer weiter, als wäre er nie da gewesen. "
 
 
 
@@ -4499,7 +4530,7 @@ translate german s07_03_ee5d3c67:
 
     # avt "\"Huh? Wait!\" "
 
-    avt ""
+    avt "\"Huch? Warte!\" "
 
 
 
@@ -4511,7 +4542,7 @@ translate german s07_03_780bbc85:
 
     # b "He was gone. What kind of god just brings up a topic like {i}that{/i} \ and then just leaves!"
 
-    b ""
+    b "Und schon ist war er verschwunden. Erst {i}dasthat{/i} \ und nun macht er sich einfach aus dem Staub!"
 
 
 
@@ -4523,7 +4554,7 @@ translate german s07_03_9d287521:
 
     # avt "\"...What a weird god.\" "
 
-    avt ""
+    avt "\"...Was für ein merkwürdiger Gott.\" "
 
 
 
@@ -4539,7 +4570,7 @@ translate german s07_03_eb6d3d8b:
 
     voice voice_file.tig(7,29)
 
-    tig disappointed ""
+    tig disappointed "\"Ich hätte nie von ihm erwartet dieses Thema aufzuwerfen. Wenn ich das gewusst hätte, hätte ich ihn um Geduld gebeten bis wir selbst dazu die Gelegenheit hätten.\" "
 
 
 
@@ -4551,7 +4582,7 @@ translate german s07_03_fb35b5ef:
 
     # avt "\"Why!\" "
 
-    avt ""
+    avt "\"Warum!\" "
 
 
 
@@ -4569,7 +4600,9 @@ translate german s07_03_76cfdfbe:
 
     voice voice_file.tig(7,30)
 
-    tig normal ""
+    tig normal "\"Ich war besorgt dass dir das unangenehm ist, und ich lag damit wohl richtig. \" "
+
+    tig normal "\"Du solltest die Gerüchte der Yaoguai ignorieren bis sie schwinden, sie sind ohnehin keineswegs schädlich.\" "
 
 
 
@@ -4585,7 +4618,7 @@ translate german s07_03_6c9a17ad:
 
     voice voice_file.lpdcat(7,66)
 
-    lpdcat serious ""
+    lpdcat serious "\"Allerdings hat Ragoo auch irgendwo recht, Liao. Du solltest nicht abwarten bis etwas schlechtes passiert!\" "
 
 
 
@@ -4601,7 +4634,7 @@ translate german s07_03_2d47e741:
 
     voice voice_file.lpdcat(7,67)
 
-    lpdcat cute ""
+    lpdcat cute "\"Wir sollten uns also bald möglichst nach Miaoli aufmachen~\" "
 
 
 
@@ -4613,7 +4646,7 @@ translate german s07_03_534d912d:
 
     # avt "\"Senpai, please!\" "
 
-    avt ""
+    avt "\"Senpai, please!\" "
 
 
 
@@ -4629,7 +4662,7 @@ translate german s07_03_9cd186e6:
 
     voice voice_file.lpdcat(7,68)
 
-    lpdcat shy_1 ""
+    lpdcat shy_1 "\"BA-{w=0.2}Aber wir verstehen uns so gut. Es wäre so schön für immer bei dir zu bleiben...\" "
 
 
 
@@ -4641,7 +4674,7 @@ translate german s07_03_705a4a8a:
 
     # avt "\"I {i}don't{/i} know! Please don't say things like that!\" " with hshake
 
-    avt "" with hshake
+    avt "\"Ich weiß es {i}nicht{/i}! Bitte sag sowas nicht andauernd!\" " with hshake
 
 
 
@@ -4653,7 +4686,7 @@ translate german s07_03_00651d91:
 
     # b "Leopard raises a paw and gently taps Senpai on the head. Senpai plays along, acting stunned as if he just smacked him. "
 
-    b ""
+    b b "Leopard hebt seine Tatze und tippt Senpai sanft auf den Kopf. Senpai spielt mit und tut so als wäre er benommen von einem Schlag. "
 
 
 
@@ -4665,7 +4698,7 @@ translate german s07_03_24a2418b:
 
     # b "Finally able to collect my thoughts, I look back towards the picnic and bento laid out before us. Now that Ragoo has taken a bite out of the Chi, would any of them even want to eat it? "
 
-    b ""
+    b "Ich habe meine Gedanken wieder gesammelt, mein Blick richtet sich auf das Picknick und das vor uns ausgebreitete Bento. Nun wo Ragoo einen Happen aus dem Chi genommen hat, würde überhaupt einer von denen das noch Essen wollen? "
 
 
 
@@ -4677,7 +4710,7 @@ translate german s07_03_426698ea:
 
     # b "I've never seen them even go near anything touched by one of the others. Last time I asked Senpai about it he just said it's practically like being able to smell someone else's drool while you're eating it... "
 
-    b ""
+    b "Bisher haben sie immer einen großen Bogen um Dinge gemacht, die einer der anderen berührt hat. Letztens erklärte Senpai dass es sich etwa so anfühlt als könnte man die Sabber des anderen noch riechen während man es isst... "
 
 
 
@@ -4689,7 +4722,7 @@ translate german s07_03_9a785ce7:
 
     # b "But it was only one bite, so maybe the rest of it is still fine? "
 
-    b ""
+    b "Aber es war nur ein Happen, vielleicht ist der Rest noch in Ordnung? "
 
 
 
@@ -4701,7 +4734,7 @@ translate german s07_03_6eed90a5:
 
     # avt "\"So... what do we do about the bento?\" "
 
-    avt ""
+    avt "\"Also... was machen wir nun mit dem Bento?\" "
 
 
 
@@ -4713,7 +4746,7 @@ translate german s07_03_4e5c3a7e:
 
     # b "All three of them remain silent. None of them wanted the bento anymore. "
 
-    b ""
+    b "Alle drei Schweigen. Keiner von ihnen möchte es mehr. "
 
 
 
@@ -4725,7 +4758,7 @@ translate german s07_03_d67db1d7:
 
     # avt "*sigh* "
 
-    avt ""
+    avt "*seufz* "
 
 
 
@@ -4737,7 +4770,7 @@ translate german s07_03_34cc2afc:
 
     # b "There was kind of a weird mood, but I should still eat my lunch. I did make it for {i}myself{/i}, after all. "
 
-    b ""
+    b "Es ist zwar eine merkwürdige Stimmung, aber ich sollte trotzdem mein Mittag essen. Immerhin habe ich es für {i}mich{/i} gemacht. "
 
 
 
@@ -4749,7 +4782,7 @@ translate german s07_03_3549e646:
 
     # b "I picked up my chopsticks and looked down at the bento. All the pieces of roasted meat laid untouched in a tidy row, but I couldn't help but recall Ragoo picking up one and eating it. "
 
-    b ""
+    b "Ich nehme meine Stäbchen und schaue auf das bento herab. Jede der Scheiben des gebratenen Fleisches liegt unberührt in der Reihe. Es geht mir jedoch nicht aus dem Kopf wie Ragoo sich eines geschnappt und gegessen hat. "
 
 
 
@@ -4763,8 +4796,9 @@ translate german s07_03_68af747d:
 
     # b "Nothing good will come from just waiting. Especially for Senpai... his Fudegong's powers probably won't hold out much longer. "
 
-    b ""
+    b "Ich setze mich und versuche zur Ruhe zu kommen. Ragoo hatte recht, meine Entscheidung herauszuzögern wird uns nicht helfen. "
 
+    b "Nichts wird sich bessern wenn ich es weiter aussitze. Besonders bei Senpai... die Kraft seines Fudegong wird nicht mehr lange standhalten. "
 
 
 # game/script/07.rpy:1144
@@ -4775,7 +4809,7 @@ translate german s07_03_8a19c8dd:
 
     # b "I... {w=0.5}I always thought I could keep this up until graduation. Time's running out, isn't it? "
 
-    b ""
+    b b "Ich... {w=0.5}Ich habe mir gewünscht es bis zu meinem Abschluss so halten zu können. Die Zeit läuft mir wohl davon oder? "
 
 
 
@@ -4787,9 +4821,7 @@ translate german s07_03_0f7851c8:
 
     # b "But that doesn't mean I should be hasty. I need to {i}think{/i} \ about this. This is my life we're talking about. I still need to think about what's best for me. If that means I need to refuse all three, I should do it sooner rather than later... "
 
-    b ""
-
-
+    b "Aber ich sollte trotzdem nicht voreilig sein. Ich muss darüber {i}nachdeken{/i} \ Wir reden hier immerhin von meinem Leben. Ich muss auch darüber nachdenken, was für mich das Beste ist. Wenn das bedeutet alle drei abzulehnen, treffe ich diese Entscheidung lieber früher als später... "
 
 # game/script/07.rpy:1148
 
@@ -4799,7 +4831,7 @@ translate german s07_03_c2a89a96:
 
     # b "However, if it was so easy to make them leave then I wouldn't have to stress out over it. What should I do? "
 
-    b ""
+    b "Allerdings würde ich wohl kaum so sehr unter Druck stehen wenn sie loszuwerden so einfach ginge. Was soll ich tun? "
 
 
 
@@ -4811,7 +4843,7 @@ translate german s07_03_d7aa7fa0:
 
     # b "I raise my chopsticks, about to snatch up some lunch, then suddenly— "
 
-    b ""
+    b "Ich greife meine Essstäbchen, greife nach meinem Mittagessen, plötzlich— "
 
 
 
@@ -4823,7 +4855,7 @@ translate german s07_04_tig_1e6fa859:
 
     # b "Tiger grabs the bento away. "
 
-    b ""
+    b "Tiger nimmt sich das Bento. "
 
 
 
@@ -4835,7 +4867,7 @@ translate german s07_04_tig_a17d2909:
 
     # b "Of course the real bento is still on my lap, but now he's taken Chi of it. With two fingers, he picks up a piece of meat and places it into his mouth. "
 
-    b ""
+    b "Natürlich ist das echte Bento noch immer auf meinem Schoß, doch nun hat er das Chi davon an sich genommen. Mit zwei Fingern nimmt er sich eines der Fleischstückchen und legt es sich in den Mund. "
 
 
 
@@ -4851,7 +4883,7 @@ translate german s07_04_tig_447501bd:
 
     voice voice_file.tig(7,31)
 
-    tig lift ""
+    tig lift "\"...Ich habe mein bestes gegeben dir bei dem Rezept unter die Arme zu Greifen, dennoch kam am ende das dabei heraus... trotz größter Mühe.\" "
 
 
 
@@ -4863,7 +4895,7 @@ translate german s07_04_tig_4d70ec06:
 
     # avt "\"Wait... you're eating it? Is it really that bad?\" "
 
-    avt ""
+    avt "\"Moment mal... du isst es? Ist es wirklich so schlecht?\" "
 
 
 
@@ -4879,7 +4911,7 @@ translate german s07_04_tig_b13efd33:
 
     voice voice_file.tig(7,32)
 
-    tig normal ""
+    tig normal "\"Es ist etwas zu salzig geworden, und zu ölig.\" "
 
 
 
@@ -4895,7 +4927,7 @@ translate german s07_04_tig_2f2243de:
 
     voice voice_file.tig(7,33)
 
-    tig laugh_1 ""
+    tig laugh_1 "\"Jedoch ist es für einen Anfänger ein durchaus bemerkenswerter erster Versuch. Außerdem ist noch reichlich Raum für Fortschritt, lass und also ein andermal weiterüben um uns gemeinsam köstliche Speisen zubereiten.\" "
 
 
 
@@ -4907,7 +4939,7 @@ translate german s07_04_tig_67329c5e:
 
     # avt "\"Sure... whenever we get a chance.\" "
 
-    avt ""
+    avt "\"Klar... wenn wir eine Möglichkeit bekommen.\" "
 
 
 
@@ -4919,7 +4951,7 @@ translate german s07_04_tig_0eda6195:
 
     # b "It's not easy to use the kitchen in my apartment. If I set everything up to cook every day they'd just complain because I'd be taking up too much space all night. "
 
-    b ""
+    b "Mit der Küche meines Apartments ist es nicht sonderlich einfach. Wenn ich alles zum Kochen jederzeit bereitliegen hätte würden sie sich Nachts über den fehlenden Freiraum beschweren."
 
 
 
@@ -4931,7 +4963,7 @@ translate german s07_04_tig_da6f98c9:
 
     # avt "\"But... Tiger? Is it okay for you to eat that? Ragoo already had a bite after all.\" "
 
-    avt ""
+    avt "\"Aber... Tiger? Ist es für dich überhaupt in Ordnung das zu essen? Ragoo hat davon ja schon einen Bissen genommen.\" "
 
 
 
@@ -4947,7 +4979,7 @@ translate german s07_04_tig_02918c86:
 
     voice voice_file.tig(7,34)
 
-    tig normal ""
+    tig normal "\"Es stimmt, dass es ungewöhnlich riecht, das beeinflusst den Geschmack jedoch nicht weiter. Ich konnte einfach nicht ruhen ohne zu erfahren wie es geworden ist.\" "
 
 
 
@@ -4959,7 +4991,7 @@ translate german s07_04_tig_90720c67:
 
     # avt "\"Oh... sorry to trouble you.\" "
 
-    avt ""
+    avt "\"Oh... tut mir leid dich zu endtäuschen.\" "
 
 
 
@@ -4975,7 +5007,7 @@ translate german s07_04_tig_06ef747e:
 
     voice voice_file.tig(7,35)
 
-    tig laugh_1 ""
+    tig laugh_1 "\"Keine Sorge. Immerhin war ich es, der dir bei der Zubereitung geholfen hat.\" "
 
 
 
@@ -4987,7 +5019,7 @@ translate german s07_04_tig_c7a03b2c:
 
     # b "Tiger swallowed another piece of meat, then another, seeming to enjoy it all the same. Watching him eat just reminds me of my own hunger. "
 
-    b ""
+    b "Tiger verspeiste ein weiteres Stück Fleisch, und dann noch eines. Ihn so offensichtlich vergnügt dabei zuzusehen erinnert mich an meinen eigenen Hunger. "
 
 
 
@@ -4999,7 +5031,7 @@ translate german s07_04_tig_c04c072e:
 
     # b "I pick up a small piece of meat and put it into my mouth. "
 
-    b ""
+    b "Ich nehme mir eines der Fleischstückchen und lege es mir in den Mund. "
 
 
 
@@ -5011,7 +5043,7 @@ translate german s07_04_tig_e8aade84:
 
     # b "...it's too salty, and too oily, but that's probably from the meat getting cold. I swallow it down with a mouthful of rice. "
 
-    b ""
+    b b "...zu salzig und zu ölig, vermutlich aber auch weil das Fleisch kalt ist. Ich schlucke es mit einer Portion Reis herunter. "
 
 
 
@@ -5023,7 +5055,7 @@ translate german s07_04_tig_589beedb:
 
     # b "The rice helps the taste, but I still wouldn't call it great. Next time I'll have to do better than this. "
 
-    b ""
+    b "Der Reis hilft bei dem Geschmack, trotzdem ist es nicht außerordentlich gut. Nächstes mal werde ich mich mehr anstrengen müssen."
 
 
 
@@ -5035,7 +5067,7 @@ translate german s07_04_tig_55b994c6:
 
     # b "Moving on, I try the rest of the meal. The fried veggies taste a bit metallic. And the tamagoyaki was soggy, but for some reason I didn't find that too bad. Huh, guess I like soggy tamagoyaki. "
 
-    b ""
+    b "Ich fahre fort, den rest des Gerichtes zu verspeisen. Das gebratene gemüse schmeckt etwas metallern. Außerdem war das Tamagoyaki weich, dennoch fand ich es wirklich garnicht schlecht. Hmm, ich denke ich mag weiches Tamagoyaki sogar."
 
 
 
@@ -5047,7 +5079,7 @@ translate german s07_04_tig_4293da37:
 
     # b "Tiger and I sat together quietly eating our bento. "
 
-    b ""
+    b "Tiger und Ich saßen gemeinsam und essen zügig unser Bento. "
 
 
 
@@ -5059,7 +5091,7 @@ translate german s07_04_lpd_b6b7f4a6:
 
     # b "Swiftly, I see a paw reach in and snatch away a piece of meat from my bento. "
 
-    b ""
+    b b "Rasch griff eine Tatze nach meinem Bento und schnappt sich eines der Fleischstücke. "
 
 
 
@@ -5099,7 +5131,7 @@ translate german s07_04_lpd_76198880:
 
     voice voice_file.lpd(7,11)
 
-    lpd obsessed ""
+    lpd obsessed "\"...Köstlich.\" "
 
 
 
@@ -5111,7 +5143,7 @@ translate german s07_04_lpd_1d522a3b:
 
     # b "One look at Leopard's expression exposed his white lie. It wasn't delicious at all! "
 
-    b ""
+    b "Ein einziger Blick in Leopards Gesichtsausdruck offenbart seine Notlüge. Es war alles andere als köstlich! "
 
 
 
@@ -5123,8 +5155,7 @@ translate german s07_04_lpd_1019724a:
 
     # b "I might as well try it. So I pick up the piece that Leopard just consumed the Chi from and place it on my tongue. "
 
-    b ""
-
+    b "Trotzdem sollte ich es erstmal probieren. Ich nahm also das Stück Fleisch dessen Chi bereits von Leopard konsumiert wurde, und lege es mir auf die Zunge.
 
 
 # game/script/07.rpy:1240
@@ -5137,7 +5168,9 @@ translate german s07_04_lpd_557679dd:
 
     # b "If someone ever tells you that you can't use too much soy sauce, they're wrong! "
 
-    b ""
+    b "Yep... es ist viel zu salzig. "
+
+    b "Falls jemals wer behaupten sollte, dass zu viel Sojasauße unmöglich ist, liegt er falsch! "
 
 
 
@@ -5149,7 +5182,7 @@ translate german s07_04_lpd_f655ad04:
 
     # b "The other pieces were cold and oily. It {i}was{/i} \ better with the rice, but by no stretch of imagination would I consider it delicious. "
 
-    b ""
+    b "Die übrigen Stücke waren zu kalt und ölig. Es {i}war{/i} \ mit Reis weitaus besser, aber es köstlich zu nennen würde mir nicht im Traum einfallen. "
 
 
 
@@ -5161,7 +5194,7 @@ translate german s07_04_lpd_1b404969:
 
     # b "Moving on, I try the rest of the meal. The fried veggies tasted metallic somehow. the biscuit was soggy, and while the seasoning wasn't bad, you couldn't call what's here a Tamagoyaki anymore... "
 
-    b ""
+    b "Ich nehme den rest des Gerichtes zu mir. Das Gebratene Gemüse schmeckt etwas metallern. Der Teig war zu matschig, jedoch ist es angenehm gewürzt. Es noch Tamagoyaki zu nennen war allerdings nicht angebracht... "
 
 
 
@@ -5173,7 +5206,7 @@ translate german s07_04_lpd_24f788b4:
 
     # b "As I was thinking over how it didn't turn out too well, Leopard's paw reaches over the bento, snatching another two pieces of meat. "
 
-    b ""
+    b "Ich dachte darüber nach wie unüberzeugend mein Gericht geworden ist, Leopard beugt sich erneut zu mir rüber um zwei weitere Fleischstücke zu schnappen. "
 
 
 
@@ -5185,7 +5218,7 @@ translate german s07_04_lpd_c86e030e:
 
     # avt "\"But... Leopard? Is it okay for you to eat that? Ragoo already had a bite after all.\" "
 
-    avt ""
+    avt  "\"Aber... Leopard? Ist es überhaupt in Ordnung für dich das zu essen? Ragoo hat immerhin schon davon abgebissen.\" "
 
 
 
@@ -5201,7 +5234,7 @@ translate german s07_04_lpd_79242ea2:
 
     voice voice_file.lpd(7,12)
 
-    lpd normal ""
+    lpd normal "\"...Weil Liao es gemacht hat.\" "
 
 
 
@@ -5213,7 +5246,7 @@ translate german s07_04_lpd_59831773:
 
     # avt "\"It's not that good.\" "
 
-    avt ""
+    avt "\"Es ist garnicht so gut geworden.\" "
 
 
 
@@ -5229,7 +5262,7 @@ translate german s07_04_lpd_f12a5063:
 
     voice  voice_file.lpd(7,12)
 
-    lpd normal ""
+    lpd normal "\"...Weil Liao es gemacht hat.\" "
 
 
 
@@ -5241,7 +5274,7 @@ translate german s07_04_lpd_544b4775:
 
     # avt "\"There's no need to force yourself just because of that...\" "
 
-    avt ""
+    avt "Du brauchst dich nicht nur deswegen zu zwingen..."
 
 
 
@@ -5257,7 +5290,7 @@ translate german s07_04_lpd_f12a5063_1:
 
     voice voice_file.lpd(7,13)
 
-    lpd normal ""
+    lpd normal "\"Weil Liao es gemacht hat.\" "
 
 
 
@@ -5269,7 +5302,7 @@ translate german s07_04_lpd_c673cf91:
 
     # b "He just keeps saying the same thing over and over again! Why is he always so determined... "
 
-    b ""
+    b "Er wiederholt sich andauernd! Weshalb ist er dabei so entschlossen... "
 
 
 
@@ -5281,7 +5314,7 @@ translate german s07_04_lpd_bed69587:
 
     # b "You can't just say the same thing again and again and expect that to be a reasonable response to someone! "
 
-    b ""
+    b "Man kann nicht immer wieder das gleiche sagen und dabei eine Vernünftige antwort von jemandem erwarten! "
 
 
 
@@ -5293,7 +5326,7 @@ translate german s07_04_lpd_1ae550e6:
 
     # avt "\"Really, it's okay. you don't need to force yourself. Someone already had some, and it's not even that good. I don't expect you to eat it.\" "
 
-    avt ""
+    avt "\"Ehrlich, es ist in Ordnung du musst dich nicht zwingen. Jemand hatte davon schon gegessen, und es ist nichtmal sonderlich lecker. Ich verlange von dir nicht es zu essen.\" "
 
 
 
@@ -5309,7 +5342,7 @@ translate german s07_04_lpd_5037593b:
 
     voice voice_file.lpd(7,14)
 
-    lpd normal ""
+    lpd normal "\"Aber ich möchte essen.\" "
 
 
 
@@ -5321,7 +5354,7 @@ translate german s07_04_lpd_0c737645:
 
     # b "I look down at the mess of a bento I made. It doesn't taste good, and it doesn't look good either... "
 
-    b ""
+    b "Ich blicke auf mein chaotisches Bento herab. Es schmeckt nicht, und gut aussehen tut es auch nicht... "
 
 
 
@@ -5333,7 +5366,7 @@ translate german s07_04_lpd_e1539ebd:
 
     # b "Leopard takes another piece of meat, including some veggies with it this time as well. He never eats veggies! Before I knew it he took another mouthful, and then another. Before long he'll have eaten the whole thing! "
 
-    b ""
+    b "Leopard genehmigt sich ein weiteres Stück Fleisch zusammen mit etwas von dem Gemüse. Er ist nie Gemüse! Und bevor ich mich darüber wundern konnte nahm er eine weitere Hand voll, und noch eine, bis er es schon vollständig verzehrt hatte.! "
 
 
 
@@ -5345,7 +5378,7 @@ translate german s07_04_lpd_f5789dfa:
 
     # b "Considering the quality, it'd be rude to not follow his lead... So I proceed to dig in, eating the whole thing quietly before finishing up by clipping the lid back on the bento box. "
 
-    b ""
+    b "Wenn man die Qualität bedenkt wäre es unhöflich es ihm nicht gleich zu tun... Also spachtelte ich weiter leise vor mir hin und klickte den Deckel der Bentobox zu, nachdem ich zum Ende gekommen bin. "
 
 
 
@@ -5361,7 +5394,7 @@ translate german s07_04_lpdcat_b860959b:
 
     voice voice_file.lpdcat(7,69)
 
-    lpdcat laugh ""
+    lpdcat laugh "\"Weit auf machen, Liao~\" "
 
 
 
@@ -5373,7 +5406,7 @@ translate german s07_04_lpdcat_d5045f3c:
 
     # avt "\"Huh— Senpai? What are you on about...\" "
 
-    avt ""
+    avt "\"Huh- Senpai? Was treibst du da...\" "
 
 
 
@@ -5385,7 +5418,7 @@ translate german s07_04_lpdcat_77d5a8a7:
 
     # b "As I look up to check what he's up to, Senpai deftly drops one of his crackers into my mouth! "
 
-    b ""
+    b "Ich schaue mich um um zu sehen was er vorhat, geschickt lässt Senpai mir einen Cracker in den Mund gleiten! "
 
 
 
@@ -5397,7 +5430,7 @@ translate german s07_04_lpdcat_a8da58c7:
 
     # avt "\"Ak!\" " with hshake
 
-    avt "" with hshake
+    avt "\"Ack!\" " with hshake
 
 
 
@@ -5409,7 +5442,7 @@ translate german s07_04_lpdcat_ce922667:
 
     # b "It took me completely off guard. Through involuntary coughs and a bit of chewing I eventually manage to swallow the cracker whole. I could have choked on that! "
 
-    b ""
+    b "Er hat mich völlig unvorbereitet überwältigt. Unfreiwillig huste ich auf und kaue den Cracker bis ich ihn endlich vollständig runterschlucke. Ich hätte ersticken können! "
 
 
 
@@ -5421,7 +5454,7 @@ translate german s07_04_lpdcat_f59d5c34:
 
     # avt "\"Senpai! Are you trying to kill me?!\" " with vshake
 
-    avt "" with vshake
+    avt "\"Senpai! Versuchst du mich umzubringen?!\" " with vshake
 
 
 
@@ -5437,7 +5470,7 @@ translate german s07_04_lpdcat_0e2f3701:
 
     voice voice_file.lpdcat(7,70)
 
-    lpdcat not_reconcile ""
+    lpdcat not_reconcile "\"Jetzt wo du etwas von meinem Mittagessen hattest, kann ich etwas von deinem haben!\" "
 
 
 
@@ -5449,7 +5482,7 @@ translate german s07_04_lpdcat_74f5d47a:
 
     # avt "\"Uh, What...!\" "
 
-    avt ""
+    avt "\"Äh, was...!\" "
 
 
 
@@ -5461,7 +5494,7 @@ translate german s07_04_lpdcat_ce83ee50:
 
     # b "Senpai snatchs the chopsticks from my hands and picks up a piece of roasted meat. "
 
-    b ""
+    b "Senpai schnappt dir die Essstäbchen aus der Hand und nimmt ein Stückchen gebratenes Fleisch. "
 
 
 
@@ -5477,7 +5510,7 @@ translate german s07_04_lpdcat_e05d5dd4:
 
     voice voice_file.lpdcat(7,71)
 
-    lpdcat normal ""
+    lpdcat normal "\"Om... nom...\" "
 
 
 
@@ -5493,7 +5526,7 @@ translate german s07_04_lpdcat_e53a9bc5:
 
     voice voice_file.lpdcat(7,72)
 
-    lpdcat serious ""
+    lpdcat serious "\"Mm... Hmm...\" "
 
 
 
@@ -5509,7 +5542,7 @@ translate german s07_04_lpdcat_167a2c78:
 
     voice voice_file.lpdcat(7,73)
 
-    lpdcat laugh "" with flash
+    lpdcat laugh "\"Köstlich!\" " with flash
 
 
 
@@ -5521,7 +5554,7 @@ translate german s07_04_lpdcat_2166e7b1:
 
     # avt "\"...!\" "
 
-    avt ""
+    avt "\"...!\" "
 
 
 
@@ -5533,7 +5566,7 @@ translate german s07_04_lpdcat_f69c5b57:
 
     # lpdcat normal "\"...!\" "
 
-    lpdcat normal ""
+    lpdcat normal "\"...!\" "
 
 
 
@@ -5545,7 +5578,7 @@ translate german s07_04_lpdcat_01b0ba85:
 
     # avt "\"I don't believe you, Senpai.\" "
 
-    avt ""
+    avt "\"Ich glaube dir kein Wort, Senpai.\" "
 
 
 
@@ -5561,7 +5594,7 @@ translate german s07_04_lpdcat_e85c3f70:
 
     voice voice_file.lpdcat(7,74)
 
-    lpdcat cute ""
+    lpdcat cute "\"Wa— Niemals.\" "
 
 
 
@@ -5573,7 +5606,7 @@ translate german s07_04_lpdcat_ec7df51c:
 
     # avt "\"Senpai, there's no need to lie about it, I know it's not made well.\" "
 
-    avt ""
+    avt "\"Senpai du kannst ruhig ehrlich sein, ich weiß dass es nicht gut gemacht ist.\" "
 
 
 
@@ -5589,7 +5622,7 @@ translate german s07_04_lpdcat_ac561d7e:
 
     voice voice_file.lpdcat(7,75)
 
-    lpdcat normal ""
+    lpdcat normal "\"Das spielt keine Rolle. Du hast es gemacht, also werde ich es auch essen. \" "
 
 
 
@@ -5601,7 +5634,7 @@ translate german s07_04_lpdcat_1f4a89fc:
 
     # avt "\"But... aren't you bothered by eating that after Ragoo already had some? You're the one who was so grossed out over the idea before...\" "
 
-    avt ""
+    avt "\"Aber... Stört es dich denn garnicht obwohl Ragoo zuvor schon davon gegessen hat? Du hast mir doch erklärt, wie dich sowas anwidert...\" "
 
 
 
@@ -5613,7 +5646,7 @@ translate german s07_04_lpdcat_1860709d:
 
     # avt "\"Senpai... you ate it even thogh another god had some, which honestly would have just made it taste worse than it already did. Why would you even do that?\" "
 
-    avt ""
+    avt "\"Senpai... du hast es gegessen obwohl ein anderer Gott sich schon bedient hat, es würde dir dann doch nur umso schlechter schmecken. Warum tust du es überhaupt?\" "
 
 
 
@@ -5629,7 +5662,7 @@ translate german s07_04_lpdcat_16997c86:
 
     voice voice_file.lpdcat(7,76)
 
-    lpdcat normal ""
+    lpdcat normal "\"Es war nur ein Bissen, außerdem ist es dein Hausgemachtes Bento! Wie könnte ich das abweisen!\" "
 
 
 
@@ -5641,7 +5674,7 @@ translate german s07_04_lpdcat_149af9a5:
 
     # avt "\"Haha— Thanks Senpai... It still tasted pretty bad, didn't it?\" "
 
-    avt ""
+    avt "\"Haha— Danke Senpai... Es schmeckt trotzdem ziemlich schlecht, oder?\" "
 
 
 
@@ -5651,9 +5684,9 @@ translate german s07_04_lpdcat_8678e909:
 
 
 
-    # b "It's my first attempt at making a bento, it couldn't possibly be good. Even Ragoo said as much. "
+    # b "It's my first attempt at making a bento, it couldn't possibly be good. Even Ragoo said as much. "
 
-    b ""
+    b "Das war mein erster Versuch ein Bento zuzubereiten, es kann garnicht gelungen sein. Selbst Ragoo hat das schon gesagt. "
 
 
 
@@ -5669,7 +5702,7 @@ translate german s07_04_lpdcat_b5416253:
 
     voice voice_file.lpdcat(7,77)
 
-    lpdcat laugh ""
+    lpdcat laugh "\"Der Geschmack ist nicht so wichtig wie die Gefühle die beim Kochen einfließen. Darauf kommt es doch an!\" "
 
 
 
@@ -5681,7 +5714,7 @@ translate german s07_04_lpdcat_c3a0c453:
 
     # avt "\"...Even though I didn't really make it for you?\" "
 
-    avt ""
+    avt "\"...Obwohl ich es garnicht wirklich für dich gekocht habe?\" "
 
 
 
@@ -5697,7 +5730,7 @@ translate german s07_04_lpdcat_45ddb6c5:
 
     voice voice_file.lpdcat(7,78)
 
-    lpdcat laugh ""
+    lpdcat laugh "\"Nun, da ich jetzt der bin der es isst, wurde es auch für mich gemacht!\" "
 
 
 
@@ -5709,7 +5742,7 @@ translate german s07_04_lpdcat_5543b57a:
 
     # avt "\"Your logic doesn't make any sense Senpai.\" "
 
-    avt ""
+    avt "\"Deine Logik ergibt keinen Sinn, Senpai.\" "
 
 
 
@@ -5725,7 +5758,7 @@ translate german s07_04_lpdcat_37d2bd3a:
 
     voice voice_file.lpdcat(7,79)
 
-    lpdcat happy ""
+    lpdcat happy "\"Tut sie wohl, denn ich bin super duper Genial!\" "
 
 
 
@@ -5737,7 +5770,7 @@ translate german s07_04_lpdcat_a6f77aba:
 
     # avt "\"That makes even less sense!\" "
 
-    avt ""
+    avt "\"Das ergibt noch weniger Sinn!\" "
 
 
 
@@ -5753,7 +5786,7 @@ translate german s07_04_lpdcat_e85c3f70_1:
 
     voice voice_file.lpdcat(7,80)
 
-    lpdcat cute ""
+    lpdcat cute "\"Yep!\" "
 
 
 
@@ -5765,7 +5798,7 @@ translate german s07_04_lpdcat_60ef1df5:
 
     # avt "\"...Really, Senpai. I don't get you sometimes.\" "
 
-    avt ""
+    avt "\"...Ernsthaft, Senpai. Manchmal verstehe ich dich kein Stück.\" "
 
 
 
@@ -5781,7 +5814,7 @@ translate german s07_04_lpdcat_82634e29:
 
     voice voice_file.lpdcat(7,81)
 
-    lpdcat laugh ""
+    lpdcat laugh "\"TDas ist nicht wichtig, okay? Ich hatte etwas von dem bento, du kannst welche von meinen Snacks bekommen. Ich habe sie extra für dich eingepackt!\" "
 
 
 
@@ -5793,7 +5826,7 @@ translate german s07_04_lpdcat_703e2d55:
 
     # avt "\"Whaa— No!\" "
 
-    avt ""
+    avt "\"Waa— Nein!\" "
 
 
 
@@ -5805,7 +5838,7 @@ translate german s07_04_lpdcat_f64baf4d:
 
     # b "As full-on as he is, Senpai's ridiculous assertions made me chuckle. And in that moment, he swiftly takes the bento from my hands and starts to force down big mouthfuls of rice, meat and vegetables. "
 
-    b ""
+    b "So schonungslos wie er ist, Senpais lächerliche Aussagen bringen mich zum lächeln. In dieser Senkunde schhnappt er mir rasch das Bento aus den Händen und beginnt, eine Große Portion Reis mit Fleisch und Gemüse zu verputzen "
 
 
 
@@ -5817,7 +5850,7 @@ translate german s07_04_lpdcat_47641331:
 
     # b "There's no getting that off him now... So I guess I have no other choice. I silently nibble away at the snacks Senpai packed for me as I watch him gobble down the rest of the bento I worked so hard on. "
 
-    b ""
+    b "Das werde ich ihm nicht mehr austreiben können... Also habe ich wohl keine andere Wahl. Leise knabbere ich einige der für mich mit gebrachten Snacks und beobachte ihn dabei, wie er den Rest meines hart erarbeiteten Bentos verschlingt. "
 
 
 
@@ -5829,7 +5862,7 @@ translate german cg_05_42638676:
 
     # b "Once we finish eating, I pack up the leftover rubbish. We have to keep the field clean after all. "
 
-    b ""
+    b "Nun wo wir fertig mit dem Essen sind, packen wir die Reste und den Müll zusammen. Wir sollten zumindest die Umwelt sauber halten. "
 
 
 
@@ -5841,7 +5874,7 @@ translate german cg_05_3fa523c7:
 
     # b "Senpai pulls out a bottle of juice and passes it to me. I take a swig and lay down against the rock under the tree, taking in the breezy scenery around me. "
 
-    b ""
+    b "Senpai zieht eine Flasche Saft hervor und reicht sie mir. Ich nehme einen Schluck und wir legen uns an den Stein unter dem Baum heran, um die frische Atmosphäre zu genießen. "
 
 
 
@@ -5853,7 +5886,7 @@ translate german cg_05_04dc46b0:
 
     # b "Clouds had gathered over a distant mountain peak, creating fog in shades of white and grey, a thick haze obscures the lush forest underneath. "
 
-    b ""
+    b "Wolken sammeln sich über der fernen Bergspitze. Grau-weißlicher Dunst breitet sich über die Berglanschaft und vernebelt die üppigen Wälder am Fuße. "
 
 
 
@@ -5867,7 +5900,9 @@ translate german cg_05_41e6c470:
 
     # b "As I look up, I see some tung flower petals drift down onto my shoulders. I brush them off, leaving them to fall on the picnic blanket below, brilliant white petal snow forming around me a petal at a time. "
 
-    b ""
+    b "Obwohl es schon Frühling ist, bläst der Wind kalt durch die Berge. Ich schließe den Reißverschluss meiner Jacke und entspanne mich ein wenig. "
+
+    b "Beim Heraufblicken fällt mir eine Tungblute auf die Schultern. Ich streife sie herunter und sie sinkt auf die Picknickdecke herab. Mit der Zeit bildet sich brilliant weißer Blütenschnee um mich herum aus. "
 
 
 
@@ -5883,7 +5918,7 @@ translate german cg_05_91015e1c:
 
     voice voice_file.lpdcat(7,82)
 
-    lpdcat normal ""
+    lpdcat normal "\"Liao, möchtest du einige der Tungblüten mit heim bringen?\" "
 
 
 
@@ -5895,7 +5930,7 @@ translate german cg_05_c1544158:
 
     # avt "\"Home? But where would we put them?\" "
 
-    avt ""
+    avt "\"Heim? Aber wo sollen wir sie reinlegen?\" "
 
 
 
@@ -5909,7 +5944,9 @@ translate german cg_05_9c9be81d:
 
     # b "The fallen flowers didn't have stems. So I guess a vase wouldn't even work. "
 
-    b ""
+    b "Ich beobachte die auf die Picknickdecke fallenden Tungblüten. Senpai hat sie nur für mich erblühen lassen. "
+
+    b "Die Blüten haben nichteinmal Stängel, sodass nichtmal eine Vase dafür geeignet wäre. "
 
 
 
@@ -5925,7 +5962,7 @@ translate german cg_05_d7089e8b:
 
     voice voice_file.tig(7,36)
 
-    tig normal ""
+    tig normal "\"Hm? Solche Blumen auf einem Tablett mit etwas Wasser auszulegen wird vollkommen ausreichen. In diesem fall sollten sie einige Tage hübsch bleiben. \" "
 
 
 
@@ -5939,7 +5976,7 @@ translate german cg_05_72113bd0:
 
     # b "I imagine a picture of serenity as the tung flowers drift across the water on a nice little plate on my bookshelf. "
 
-    b ""
+    b "Ich stelle mir die Szene mit schwimmenden Tungblüten auf meinem Bücherregal auf einem kleinen Tablett sehr angenehm vor. "
 
 
 
@@ -5951,7 +5988,7 @@ translate german cg_05_bf71a521:
 
     # avt "\"But how'd we get them home without crushing them? That's the problem.\" "
 
-    avt ""
+    avt "\"Doch wie sollen wir sie zurückbringen ohne sie zu zerdrücken? Das ist ein Problem.\" "
 
 
 
@@ -5967,7 +6004,7 @@ translate german cg_05_f5ffb2d8:
 
     voice voice_file.lpdcat(7,83)
 
-    lpdcat serious ""
+    lpdcat serious "\"Hmm... Sie einfach in meine Tasche zu legen würde sie zerstören. Vielleicht wenn wir die Leere Bentobox auswaschen um sie hineinzulegen...\" "
 
 
 
@@ -5979,7 +6016,7 @@ translate german cg_05_e0b01c31:
 
     # avt "\"...Wouldn't they just smell like food then?\" "
 
-    avt ""
+    avt "\"...Würden sie dann nicht nurnoch nach Essen riechen?\" "
 
 
 
@@ -5995,7 +6032,7 @@ translate german cg_05_08154118:
 
     voice voice_file.lpdcat(7,84)
 
-    lpdcat pout ""
+    lpdcat pout "\"Schade dass ich nicht an Seife gedacht habe—\" "
 
 
 
@@ -6007,7 +6044,7 @@ translate german cg_05_66c029e8:
 
     # b "Wait, what kind of person would bring {i}soap{/i} \ to a picnic? Packing an extra box would make way more sense. "
 
-    b ""
+    b "Moment mal, welcher Mensch würde denn {i}Seife{/i} \ zu einem Picknick bringen? Eine zusätzliche Box würde viel mehr Sinn ergeben. "
 
 
 
@@ -6019,7 +6056,7 @@ translate german cg_05_b4ffd258:
 
     # b "Senpai gathers the flower petals into a small pile, about the size of a fist. They're beautiful, but I couldn't imagine how to keep them pristine during the trek back home. "
 
-    b ""
+    b "Senpai schaufelt die Blüten zu einem kleinen Häufchen zusammen, etwa eine Hand voll. Sie sehen wunderschön aus, aber ich kann mir nicht vorstellen, dass sie den Bergpfad unbeschadet überstehen. "
 
 
 
@@ -6031,7 +6068,7 @@ translate german cg_05_c9ecacef:
 
     # b "As I watched Senpai gather more flowers, I thought through what to do. This lasts just a moment as my attention shifts to Leopard walking over to the tung tree. "
 
-    b ""
+    b "Ich beobachte wie Senpai weitere Blüten zusammenträgt, hoffentlich Fällt mir etwas ein. Meine Aufmerksamkeit richtet sich auf Leipard, er begibt sich zum Tungbaum herüber. "
 
 
 
@@ -6045,7 +6082,9 @@ translate german cg_05_1d25e78b:
 
     # b "However, none of the flowers fall back down, instead Leopard must be using his powers to suspend them in the breeze. "
 
-    b "" with flash
+    b "Ehe ich mich versehe wirft Leupard einige der Büten in die Luft und Hält seine Tatzen auf als würde er sie versuchen aus dem Fall zu fangen. " with flash
+
+    b "Jedoch fallen die Blüten nicht durch ihn durch zu Boden. Er muss seine Kräfte eingesetzt haben, um die Blüten in der Luft zu halten. "
 
 
 
@@ -6061,7 +6100,7 @@ translate german cg_05_a5b24bd6:
 
     voice voice_file.lpdcat(7,85)
 
-    lpdcat happy "" with vshake
+    lpdcat happy "\"Wow Kulau! Das ist total cool!\" " with vshake
 
 
 
@@ -6077,7 +6116,7 @@ translate german cg_05_7dc65cdf:
 
     voice voice_file.tig(7,37)
 
-    tig normal ""
+    tig normal "\"...Ziemliche Verschwendung deiner göttlichen Kräfte.\" "
 
 
 
@@ -6089,7 +6128,7 @@ translate german cg_05_130f0d48:
 
     # b "Leopard looks around a bit while keeping the flowers suspended over his paws. Soon enough Senpai comes over with his backpack. "
 
-    b ""
+    b "Leopard sieht sich eine Weile lang um während er die Blüten mit seinen Kräften über seinen Tatzen schweben lässt. Schon bald bringt Senpai seinen Rucksack zu ihm. "
 
 
 
@@ -6105,7 +6144,7 @@ translate german cg_05_cbd3f685:
 
     voice voice_file.lpdcat(7,86)
 
-    lpdcat laugh ""
+    lpdcat laugh "\"Kulau! Kannst du die Blüten in meiner Tasche schweben lassen?\" "
 
 
 
@@ -6121,7 +6160,7 @@ translate german cg_05_dbb64960:
 
     voice voice_file.lpd(7,15)
 
-    lpd normal ""
+    # lpd normal "\"Ja.\" "
 
 
 
@@ -6137,7 +6176,7 @@ translate german cg_05_85674928:
 
     voice voice_file.lpdcat(7,87)
 
-    lpdcat normal ""
+    lpdcat normal "\"Den Ganzen Weg entlang?\" "
 
 
 
@@ -6153,7 +6192,7 @@ translate german cg_05_dbb64960_1:
 
     voice  voice_file.lpd(7,15)
 
-    lpd normal ""
+    lpd normal "\"Ja.\" "
 
 
 
@@ -6169,7 +6208,7 @@ translate german cg_05_68116a1c:
 
     voice voice_file.lpdcat(7,88)
 
-    lpdcat happy "" with vshake
+    lpdcat happy "\"Yay! Beifall für Kulau! SO können wir dank ihm die Blüten mitnehmen!\" " with vshake
 
 
 
@@ -6181,7 +6220,7 @@ translate german cg_05_437c80d3:
 
     # b "Senpai dances happily around Leopard. It's nice to be able to take the flowers home and all, but does he really need to be so excited about it? "
 
-    b ""
+    b "Senpai tanzt glücklich um Leipard herum. Es ist zwar schön die Blüten mitnehmen zu können, aber muss er wirklich so aufgeregt sein? "
 
 
 
@@ -6197,7 +6236,7 @@ translate german cg_05_503eaff4:
 
     voice voice_file.lpdcat(7,89)
 
-    lpdcat laugh "" with vshake
+    lpdcat laugh "\"Hehe... Liao wird mit den Blüten sein Zimmer schmücken!\" " with vshake
 
 
 
@@ -6209,7 +6248,7 @@ translate german cg_05_9dc2a845:
 
     # avt "\"I guess so.\" "
 
-    avt ""
+    avt "\"Ich denke schon.\" "
 
 
 
@@ -6225,7 +6264,7 @@ translate german cg_05_9402fdf2:
 
     voice voice_file.lpdcat(7,90)
 
-    lpdcat laugh ""
+    lpdcat laugh "\"Und jedes mal wenn du sie siehst wirst du an mich denken!\" "
 
 
 
@@ -6237,7 +6276,7 @@ translate german cg_05_4bcc01fe:
 
     # avt "\"Why would I!\" "
 
-    avt ""
+    avt "\"Warum sollte ich!\" "
 
 
 
@@ -6253,7 +6292,7 @@ translate german cg_05_2f16770a:
 
     voice voice_file.lpdcat(7,91)
 
-    lpdcat cute ""
+    lpdcat cute "\"Weil es meine Idee war sie mit zu dir zu bringen~\" "
 
 
 
@@ -6265,7 +6304,7 @@ translate german cg_05_620e01ee:
 
     # avt "\"I mean, Leopard's the one who's actually letting us be able to bring them home.\" "
 
-    avt ""
+    avt "\"Nun, Leopard ist derjenige der es uns eigentlich möglich macht sie mitzunehmen.\" "
 
 
 
@@ -6281,7 +6320,7 @@ translate german cg_05_cc98b94c:
 
     voice voice_file.lpdcat(7,92)
 
-    lpdcat panic ""
+    lpdcat panic "\"Aber— Aber!\" "
 
 
 
@@ -6297,7 +6336,7 @@ translate german cg_05_a1fba034:
 
     voice voice_file.lpdcat(7,93)
 
-    lpdcat cute "" with flash
+    lpdcat cute "\"Findest du etwa nicht, dass ich so schön bin wie die Tungblüten!\" " with flash
 
 
 
@@ -6309,7 +6348,7 @@ translate german cg_05_d6a2f7a3:
 
     # avt "\"...How so.\" "
 
-    avt ""
+    avt "\"...Wieso das.\" "
 
 
 
@@ -6325,7 +6364,7 @@ translate german cg_05_f56c26b4:
 
     voice voice_file.lpdcat(7,94)
 
-    lpdcat not_reconcile ""
+    lpdcat not_reconcile "\"Waaaa—\" "
 
 
 
@@ -6337,7 +6376,7 @@ translate german cg_05_43e28c73:
 
     # b "Senpai is frozen with shock, so I walk over and help Leopard open the bag so he can float the petals inside. "
 
-    b ""
+    b "Senpai vor Schock erstarrt, also helfe ich Leopard die Tasche für die schwebenden Blüten zu öffnen. "
 
 
 
@@ -6353,7 +6392,7 @@ translate german cg_05_b1295b75:
 
     voice voice_file.lpd(7,16)
 
-    lpd normal ""
+    lpd normal "\"Liao, magst du Blumen?\" "
 
 
 
@@ -6365,7 +6404,7 @@ translate german cg_05_7beda9de:
 
     # avt "\"I guess so... It's a long way up here. If anything it's a nice idea to bring them back as souvenirs for this trip.\" "
 
-    avt ""
+    avt "\"I schätze schon... Es ist ein ganz schön weiter Weg bis hier hin. Sie mitzunehmen ist immerhin ein schönes Souvenir für unseren Trip.\" "
 
 
 
@@ -6377,7 +6416,7 @@ translate german cg_05_1c1d4e55:
 
     # lpd normal "\"......\" "
 
-    lpd normal ""
+    lpd normal "\"......\" "
 
 
 
@@ -6391,7 +6430,9 @@ translate german cg_05_30ddb936:
 
     # b "I wonder if they'll end up getting crushed during the walk home anyway... "
 
-    b ""
+    b "Ich verschließe den Rucksack. Er ist schon ziemlich voll... schweben die Blüten dort drin herum? "
+
+    b "Ich bin gespannt ob sie den Heimweg überstehen... "
 
 
 
@@ -6403,7 +6444,7 @@ translate german cg_05_2b878758:
 
     # b "I'm not so sure, but Leopard's face remains unchanged, so I guess it's okay. "
 
-    b ""
+    b "Ich bin mir nicht sicher, aber Leopards Gesichtsausdruck bleibt unverändert, es wird wohl in Ordnung sein. "
 
 
 
@@ -6415,7 +6456,7 @@ translate german cg_05_85fb95e5:
 
     # avt "\"Well, now that we've got our souvenirs. We should head back, right?\" "
 
-    avt ""
+    avt "\"Nun, wo wir unser Souvenir haben, sollten wir aufbrechen, richtig?\" "
 
 
 
@@ -6431,7 +6472,7 @@ translate german cg_05_6ece4302:
 
     voice voice_file.lpdcat(7,95)
 
-    lpdcat panic ""
+    lpdcat panic "\"Es ist doch noch so früh~\" "
 
 
 
@@ -6443,7 +6484,7 @@ translate german cg_05_6ee5eae7:
 
     # avt "\"Are there any more places to see?\" "
 
-    avt ""
+    avt "\"Möchtest du noch einen weiteren Ort sehen?\" "
 
 
 
@@ -6459,7 +6500,7 @@ translate german cg_05_b18f07f4:
 
     voice voice_file.lpdcat(7,96)
 
-    lpdcat normal ""
+    lpdcat normal "\"Wir können immer einen neuen Weg nehmen und schauen ob er uns zu einem schönen Ort bringt!\" "
 
 
 
@@ -6471,7 +6512,7 @@ translate german cg_05_00a13468:
 
     # b "I guess Senpai's idea isn't bad, but we took ages for us to get here. I'm just worried about going out too far at this point. The paths are well marked but I'm still afraid of getting \nlost. "
 
-    b ""
+    "Ich schätze sein Vorschlag ist nicht schlecht, aber wir haben ewig bis hier hin gebraucht. Ich würde mir sorgen machen zu weit rauszugehen. Die bisherigen Wege waren gut beschildert, aber ich bin doch besorgt mich zu verlaufen. "
 
 
 
@@ -6483,7 +6524,7 @@ translate german cg_05_7319d7e9:
 
     # avt "\"We don't really know where those paths go, and we'll be in big trouble if it gets tack and we can't find our way back.\" "
 
-    avt ""
+    avt "\"Wir wissen garnicht wirklich wohin sie führen, und wenn wir den Rückweg nicht finden sollten stecken wir in ganz schönen Schwierigkeiten.\" "
 
 
 
@@ -6499,7 +6540,7 @@ translate german cg_05_08b51815:
 
     voice voice_file.lpdcat(7,97)
 
-    lpdcat pout ""
+    lpdcat pout "\"Es ist kaum nach Mittags!\" "
 
 
 
@@ -6511,7 +6552,7 @@ translate german cg_05_15a8bf44:
 
     # avt "\"I just don't want to go too far from the metro station...\" "
 
-    avt ""
+    avt "\"Ich möchte mich nicht zu weit von der Haltestelle entfernen...\" "
 
 
 
@@ -6529,7 +6570,9 @@ translate german cg_05_38e5659d:
 
     voice voice_file.lpdcat(7,98)
 
-    lpdcat normal ""
+    lpdcat normal "\"Jaa... du hast schon recht. Sich hier zu verlaufen wäre ätzend.\" "
+
+    lpdcat normal "\"Aber! Wenn wir dann schon mehr Freizeit haben schaffen wir die Metro zurück und können vor dem Abendessen noch ein paar Geschäfte abbummeln!\" "
 
 
 
@@ -6541,7 +6584,7 @@ translate german cg_05_2059e23a:
 
     # avt "\"Yeah, sure.\" "
 
-    avt ""
+    avt "\"Oh ja, sicher.\" "
 
 
 
@@ -6553,7 +6596,7 @@ translate german cg_05_2d23f422:
 
     # b "Senpai and I plan out our trip back down the mountain. As we backtrack our steps on the map, none of us mention our encounter with that weird God of Soil. I wonder if it was awkward for all of them too? "
 
-    b ""
+    b "Senpai und ich planen unseren Rückweg den Berg hinab. Wie wir die Wegpunkte auf der Karte zurückverfolgen erwähnt keiner unsere Begegnung mit diesem merkwürdigen Erdgott. Ich frage mich ob es für sie auch so komisch war? "
 
 
 
@@ -6569,7 +6612,7 @@ translate german cg_05_79a20e65:
 
     voice voice_file.lpdcat(7,99)
 
-    lpdcat laugh ""
+    lpdcat laugh "\"Also dann! Seid ihr alle bereit für den Rückweg?\" "
 
 
 
@@ -6581,7 +6624,7 @@ translate german cg_05_ae9438f5:
 
     # b "I start packing up the remains of our picnic. Afterwards we head off back down the mountain. "
 
-    b ""
+    b "Ich beginne damit die Überreste unseres Picknick einzupacken. Anschließend brechen wir auf. "
 
 
 
@@ -6593,7 +6636,7 @@ translate german s07_06_5a354b02:
 
     # b "The pathways were narrow here so we end up walking single file. "
 
-    b ""
+    b "Die Pfade sind so verengt dass wir alle in einer Reihe hintereinander voranschreiten. "
 
 
 
@@ -6607,7 +6650,9 @@ translate german s07_06_d95522dc:
 
     # b "It really was a lot quieter than on the way up this morning, but words to start a nice conversation just couldn't come to me. "
 
-    b ""
+    b "In dieser Konstellation ist es wirklich nicht einfach ein Gespräch zu führen, aber ich denke jeder von uns hat eigene Gedanken nach so einem Tag. "
+
+    b "Es ist wirklich wesentlich rugiger als auf dem Weg bergauf heute früh, aber mir fehlen gute Worte um eine Unterhaltung zu beginnen. "
 
 
 
@@ -6619,7 +6664,7 @@ translate german s07_06_62e02dff:
 
     # b "...Ragoo. Do the other yaoguai really think that I'm just keeping those three around just to take advantage of them? "
 
-    b ""
+    b b "...Ragoo. Glauben die anderen Yaoguai wirklich dass ich die drei nur beschäftige um sie zu meinem Vorteil auszunutzen? "
 
 
 
@@ -6631,7 +6676,7 @@ translate german s07_06_5120fc3b:
 
     # b "I mean, I don't know any of these yaoguai, so why should I care what they think? ...That doesn't stop me from feeling annoyed over everything they think about me though. "
 
-    b ""
+    b "I mean, I don't know any of these yaoguai, so why should I care what they think? ...That doesn't stop me from feeling annoyed over everything they think about me though. "
 
 
 
@@ -6643,7 +6688,7 @@ translate german s07_06_6825314a:
 
     # b "But, I {i}do{/i} \ care about how those three feel. "
 
-    b ""
+    b "Aber mir {i}ist{/i} \ wichtig wie die drei sich fühlen. "
 
 
 
@@ -6655,7 +6700,7 @@ translate german s07_06_b5c4809b:
 
     # b "Do they think that I'm just keeping them around because of some selfish wish to have them all to myself? "
 
-    b ""
+    b "Glauben sie wirklich dass ich sie nur für egoistische Wünsche nur für mich behalten möchte? "
 
 
 
@@ -6667,7 +6712,7 @@ translate german s07_06_3b2f1b72:
 
     # b "Probably not... or at least I don't think that they do. Definitely not Senpai, after all he's the one always {i}trying{/i} \ to make everything about romance, not me. "
 
-    b ""
+    b "Vermutlich nicht... zumindest glaube ich nicht dass sie so denken. Auf jeden fall Senpai nicht, immerhin {i}versucht{/i} er ständig aus allem eine Romanze zu machen, nicht ich.  "
 
 
 
@@ -6679,7 +6724,7 @@ translate german s07_06_b902c19e:
 
     # b "But, I guess it would be true that by not deciding anything with him, he just ends up trying to please me— trying to {i}make{/i} \ me want to like him... "
 
-    b ""
+    b "Aber es stimmt schon dass ich solange ich keine Entscheidung für oder gegen ihn treffe, er mich weiter umgarnen wird- mich dazu zu{i}bringen{/i} \ ihn zu mögen... "
 
 
 
@@ -6693,7 +6738,9 @@ translate german s07_06_f2d643bf:
 
     # b "Tiger knows me— he knows my troubles— he knows my likes... but even then he says he's not interested in romance. "
 
-    b ""
+    b "Tiger und Leopard würden mehr von mir halten, oder? "
+
+    b "Tiger kennt mich-er kennt meine Sorgen- kennt meine Vorlieben... doch sogar er sagt er habe kein interesse an einer Romanze. "
 
 
 
@@ -6707,7 +6754,9 @@ translate german s07_06_494d2369:
 
     # b "Could it just be because he wants me to go with him? Or could it be more? ...Does he even know what romance is? "
 
-    b ""
+    b "Leopard redet nicht viel, er ist aber immer da wenn ich ihn brauche. "
+
+    b "Kann es sein dass er nur möchte, dass ich mit ihm gehe? Oder ist da noch mehr? ... Weiß er überhaupt was eine Beziehung ist? "
 
 
 
@@ -6719,7 +6768,7 @@ translate german s07_06_a79f7942:
 
     # b "Ragoo said that gods don't have set genders. In his own eyes, could Leopard be a girl? Would that make it better? ...Maybe it's just weird. "
 
-    b ""
+    b "Ragoo sagt Götter haben kein festgelegtes Geschlecht. Könnte Leopard in seinen Augen weiblich sein? Würde es das überhaupt besser machen? ...Vielleicht ist es einfach nur komisch. "
 
 
 
@@ -6733,7 +6782,9 @@ translate german s07_06_15c44a47:
 
     # b "But, I've still held back on making any promises with him... I wonder how that makes him feel? "
 
-    b ""
+    b "Was sowas betrifft wirkt Leopard für mich sehr naiv. Sollche Gedanken könnte er garnicht haben. "
+
+    b "Aber ich habe mich immernoch zurückgehalten ihm Versprechungen zu machen.... Ich frage mich wie er sich dabei fühlt? "
 
 
 
@@ -6745,7 +6796,7 @@ translate german s07_06_03cc216f:
 
     # b "He just doesn't speak enough for me even take a guess as to what he's thinking about. I really do hope he doesn't think I'm using him... "
 
-    b ""
+    b "Dafür redet er einfach nicht genug mit mir, ich kann mit garnicht vorstellen was in ihm vorgeht. Ich hoffe wirklich dass er sich von mir nicht ausgenutzt fühlt... "
 
 
 
@@ -6757,7 +6808,7 @@ translate german s07_06_328664fb:
 
     # b "I should ask him what he really thinks, if I get the chance... "
 
-    b ""
+    b "Ich sollte ihn mal fragen was er wirklich denkt, sobald ich eine Chance bekomme... "
 
 
 
@@ -6771,7 +6822,9 @@ translate german s07_06_f18e6940:
 
     # b "Some distance separates each of us. Would this be a good time to ask them? "
 
-    b ""
+    b "Ich sehe mich dach den dreien um als wir hintereinander die eng verwundenen Pfade herabsteigen. "
+
+    b "Zwischen uns liegt etwas Abstand. Wäre das eine passende Gelegenheit sie zu fragen? "
 
 
 
@@ -6785,7 +6838,9 @@ translate german s07_06_105d0179:
 
     # b "It's embarrassing... but I've gotta just suck it up and go for it. "
 
-    b ""
+    b "Aber wie soll ich das anstellen? "
+
+    b "Mir ist es peinlich... doch ich muss es einfach unterdrücken und es angehen. "
 
 
 
@@ -6797,7 +6852,7 @@ translate german s07_07_tig_f196782b:
 
     # b "Perhaps it's best to ask Tiger about stuff like this. I'm more comfortable talking to him. "
 
-    b ""
+    b "Vermutlich ist es am besten Tiger so ein Thema anzuvertrauen. Mir fällt es leichter mit ihm zu reden. "
 
 
 
@@ -6809,7 +6864,7 @@ translate german s07_07_tig_ec4c24ca:
 
     # avt "\"Um... Tiger? What do you think about what Ragoo said?\" "
 
-    avt ""
+    avt "\"Ähm... Tiger? Was hältst du von dem was Ragoo gesagt hat?\" "
 
 
 
@@ -6825,7 +6880,7 @@ translate german s07_07_tig_ed7a6556:
 
     voice voice_file.tig(7,38)
 
-    tig frown ""
+    tig frown "\"Hmm? Wie gesagt, du solltest solche Gerüchte nicht beherzigen. Es war geschmacklos von ihm soetwas zu erzählen.\" "
 
 
 
@@ -6837,7 +6892,7 @@ translate german s07_07_tig_d8971933:
 
     # avt "\"Right... but with what they say about me. You don't think I have any of {i}those{/i} \ kinds of feelings towards you... do you?\" "
 
-    avt ""
+    avt "\"Stimmt... aber was ist mit dem was er über mich gesagt hat. Du glaubst nicht, dass ich {i}solche{/i} \ Art von Gefühlen für dich haben könnte... oder?\" "
 
 
 
@@ -6853,7 +6908,7 @@ translate german s07_07_tig_103ca192:
 
     voice voice_file.tig(7,39)
 
-    tig normal ""
+    tig normal "\"...Ich wäre geschmeichelt Liao. Aber ich bin ein Gott, sicherlich ist es besser für dich einen echten Partner zu finden.\" "
 
 
 
@@ -6865,7 +6920,7 @@ translate german s07_07_tig_727ee6bd:
 
     # avt "\"So you think I should be with a human?\" "
 
-    avt ""
+    avt "\"Also findest du ich sollte einen Menschen suchen?\" "
 
 
 
@@ -6881,7 +6936,7 @@ translate german s07_07_tig_7f2e8a2e:
 
     voice voice_file.tig(7,40)
 
-    tig normal ""
+    tig normal "\"Das wäre ein enormer Unterschied. Denk mal darüber nach, wir Götter haben nichtmals einen Körper.\" "
 
 
 
@@ -6897,7 +6952,7 @@ translate german s07_07_tig_a6d990cc:
 
     voice voice_file.tig(7,41)
 
-    tig normal ""
+    tig normal "\"Es wäre untauglich. Andere Leute könnten uns nicht sehen, Paaraktivitäten wären unrealistisch für alle anderen Paare in der Öffentlichkeit. Zuletzt sind viele Götter auch an ihren Ort gebunden, ohne ihn jemals verlassen zu können.\" "
 
 
 
@@ -6915,7 +6970,9 @@ translate german s07_07_tig_ea688cfc:
 
     voice voice_file.tig(7,42)
 
-    tig normal ""
+    tig normal "\"Du könntest nichtmal heiraten... Nun, vermutlich würdest du das auch garnicht unbedingt wollen.\" "
+
+    tig normal "\"Aber selbst als Geisterbeschwörer ist eine Beziehung zu einem Geist ein unheimlicher Aufwand, einer den man am besten meiden sollte.\" "
 
 
 
@@ -6927,7 +6984,7 @@ translate german s07_07_tig_f023193f:
 
     # avt "\"...I guess that's true. But, you know I like beast-men, and as you know those don't exist. So wouldn't an animal god like yourself be a good alternative.\" "
 
-    avt ""
+    avt "\"...Ich denke das ist wahr. Aber du weißt wie sehr ich Bestienmenschen mag, genau so wie du weißt dass sie nicht existieren. Wäre ein Tiergott wie du keine gute Alternative?\" "
 
 
 
@@ -6943,7 +7000,7 @@ translate german s07_07_tig_7b1f3747:
 
     voice voice_file.tig(7,43)
 
-    tig normal ""
+    tig normal "\"Bezüglich des Aussehens mag das stimmen. Aber man kann keine Beziehung nur wegen Äüßerlichkeiten führen.\" "
 
 
 
@@ -6955,7 +7012,7 @@ translate german s07_07_tig_2b497b7b:
 
     # avt "\"...I guess that's also true.\" "
 
-    avt ""
+    avt "\"...Auch da ist was Wahres dran.\" "
 
 
 
@@ -6971,7 +7028,7 @@ translate german s07_07_tig_18c59b60:
 
     voice voice_file.tig(7,44)
 
-    tig normal ""
+    tig normal "\"Götter können nicht nur einen einzigen Anbeter beachten. Als solcher wäre es merkwürdig, sich zu verlieben. \" "
 
 
 
@@ -6983,7 +7040,7 @@ translate german s07_07_tig_6d36198c:
 
     # avt "\"...Yeah. I get that you don't want me getting involved with you.\" " with vshake
 
-    avt "" with vshake
+    avt "\"...Ja. Ich verstehe dass du mich nicht in sowas mit dir reinziehen möchtest.\" " with vshake
 
 
 
@@ -6995,7 +7052,7 @@ translate german s07_07_tig_7374c3f6:
 
     # b "I understood what he said, but his words felt detatched. "
 
-    b ""
+    b "Ich verstehe zwar was er sagt, aber seine Wörte fühlen sich so distanziert an. "
 
 
 
@@ -7007,7 +7064,7 @@ translate german s07_07_tig_2f4f7c1a:
 
     # avt "\"Tiger... what if I really don't go home after graduation? Would you care about what I do? What would you do?\" "
 
-    avt ""
+    avt "\"Tiger... Falls ich nach meinem Abschluss wirklich nicht heimkehren möchte, kümmert es dich dann was ich mache? Was würdest du tun?\" "
 
 
 
@@ -7025,7 +7082,9 @@ translate german s07_07_tig_bd820bc9:
 
     voice voice_file.tig(7,45)
 
-    tig normal ""
+    tig normal "\"Das ist eine... verzwickte Frage. Natürlich wünsche ich mir dass du heimkehrst, wenn du aber andere Pläne hast, ist das auch in Ordnung.\" "
+
+    tig normal "\"Heißt das du hast dich zu einer Tanzkarriere entschlossen?\" "
 
 
 
@@ -7037,7 +7096,7 @@ translate german s07_07_tig_a4a6162f:
 
     # avt "\"No— It's just... Ragoo urged me to decide as soon as possible, but choosing one of you means that I would {i}have{/i} \ to leave Taipei...\" "
 
-    avt ""
+    avt "\"Nein— Es ist nur... Ragoo drängt mich zu einer schnellstmöglichen Entscheidung, aber einen von euch Auszuwählen würde bedeuten Taipei verlassen zu {i}müssen{/i} \ ...\" "
 
 
 
@@ -7053,7 +7112,7 @@ translate german s07_07_tig_0e62677e:
 
     voice voice_file.tig(7,46)
 
-    tig angry ""
+    tig angry "\"Habe ich dir nicht grade erst geraten dich {i}nicht{/i} \ bei Göttern einzumischen!\" "
 
 
 
@@ -7065,7 +7124,7 @@ translate german s07_07_tig_2345ba9b:
 
     # avt "\"I don't mean it like that! I only mean to {i}help{/i} \ you guys. But, no matter what, that would mean I'd have to leave, right? I don't want that, but the idea of refusing all of you makes me feel horrible...\" "
 
-    avt ""
+    avt "\"Das ist nicht was ich meinte! Ich möchte euch {i}helfen{/i} \. Doch egal wie ich mich entscheide, am Ende müsste ich gehen, richtig? Ich möchte nicht, aber der Gedanke euch alle zurückzuweisen fühlt sich fürchterlich an...\" "
 
 
 
@@ -7081,7 +7140,7 @@ translate german s07_07_tig_53fbd7e0:
 
     voice voice_file.tig(7,47)
 
-    tig angry ""
+    tig angry "\"Liao, du weißt, dass man nicht allen helfen kann. Wenn du wirklich den Leuten helfen willst solltest du an erster Stelle an deine Familie und den Tempel denken. Da sind{i}viele{/i} \ Gläubige die dich dort brauchen!\" "
 
 
 
@@ -7093,7 +7152,7 @@ translate german s07_07_tig_b8f4916b:
 
     # avt "\"But... Tiger, I don't know if I should say this...\" "
 
-    avt ""
+    avt "\"Aber... Tiger, Ich weiß nicht ob ich das sagen sollte...\" "
 
 
 
@@ -7109,7 +7168,7 @@ translate german s07_07_tig_73c65fee:
 
     voice voice_file.tig(7,48)
 
-    tig angry ""
+    tig angry "\"...Was möchtest du damit sagen?\" "
 
 
 
@@ -7123,7 +7182,9 @@ translate german s07_07_tig_20ddae8a:
 
     # avt "\"For the most part everyone's happy, the yaoguai don't cause trouble and everyone's big problems are just a part of everyday life.\" "
 
-    avt ""
+    avt "\"Als ich zuletzt dort war, sah es so aus als würde es allen ganz gut gehen. Sie beten nur für Wohlstand, Liebe und Frieden.\" "
+
+    avt "\"Insgesamt scheint jeder dort Glücklich zu sein, die Yaoguai machen dort auch keine Schwierigkeiten und ihre größeren Sorgen gehören zum Alltag.\" "
 
 
 
@@ -7133,9 +7194,9 @@ translate german s07_07_tig_e2ddd913:
 
 
 
-    # avt "\"Honestly, from he sounds of it the aboriginal people of the Rukai tribe are the ones who would really {i}need{/i} \ my help...\" "
+    # avt "\"Honestly, from the sounds of it the aboriginal people of the Rukai tribe are the ones who would really {i}need{/i} \ my help...\" "
 
-    avt ""
+    avt "\"Erhlich gesagt, dem Anschein nach sind es die Aboriginie der Rukai Stämme die ehesten, die meine Hilfe wirklich {i}brauchen{/i} \ ...\" "
 
 
 
@@ -7151,7 +7212,7 @@ translate german s07_07_tig_ef3363ab:
 
     voice voice_file.tig(7,49)
 
-    tig angry ""
+    tig angry "\"Erzähl keinen Unsinn!\" "
 
 
 
@@ -7167,7 +7228,7 @@ translate german s07_07_tig_cef2fd06:
 
     voice voice_file.tig(7,50)
 
-    tig angry ""
+    tig angry "\"Seine Worte sind vage und kaum verständlich. Glaub nicht alles was du hörst, du weißt garnicht, wie ihre Situation in Wirklichkeit ist...\" "
 
 
 
@@ -7179,7 +7240,7 @@ translate german s07_07_tig_1553364e:
 
     # lpd obsessed "\"......?\" "
 
-    lpd obsessed ""
+    lpd obsessed "\"......?\" "
 
 
 
@@ -7195,7 +7256,7 @@ translate german s07_07_tig_e425b1b0:
 
     voice voice_file.lpdcat(7,100)
 
-    lpdcat normal ""
+    lpdcat normal "\"Huh? Was ist los?\" "
 
 
 
@@ -7207,7 +7268,7 @@ translate german s07_07_tig_311fc9fd:
 
     # avt "\"Honestly, Senpai could be the one who actually {i}needs{/i} \ my immediate help. Without worshippers he may...\" "
 
-    avt ""
+    avt "\"Außerdem scheint Senpai der zu sein der meine Hilfe rasch {i}benötigt{/i} \. Ohne Anbeter könnte er...\" "
 
 
 
@@ -7223,7 +7284,7 @@ translate german s07_07_tig_ef3363ab_1:
 
     voice  voice_file.tig(7,49)
 
-    tig angry ""
+    tig angry "\"Genug von dem Unsinn!\" "
 
 
 
@@ -7239,7 +7300,7 @@ translate german s07_07_tig_4047623f:
 
     voice voice_file.tig(7,51)
 
-    tig angry ""
+    tig angry "\"Schenke den Phrasen dieses kleinen Yaoguai keinen Glauben. Du weißt nicht wie seine Situation in Wirklichkeit ist...\" "
 
 
 
@@ -7253,9 +7314,9 @@ translate german s07_07_tig_fd159a70:
 
     # lpdcat pout "\"Don't call me a little yaoguai! What are you two so getting so excited over?\" "
 
-    voice voice_file.lpdcat(7,101)
+    # voice voice_file.lpdcat(7,101)
 
-    lpdcat pout ""
+    lpdcat pout "\"Nenn micht nicht klein! Worüber seid ihr so aufgeregt?\" "
 
 
 
@@ -7267,7 +7328,7 @@ translate german s07_07_tig_1553364e_1:
 
     # lpd obsessed "\"......?\" "
 
-    lpd obsessed ""
+    lpd obsessed "\"......?\" "
 
 
 
@@ -7283,7 +7344,7 @@ translate german s07_07_tig_5a1152eb:
 
     voice voice_file.tig(7,52)
 
-    tig frown ""
+    tig frown "\"...Garnichts.\" "
 
 
 
@@ -7299,7 +7360,7 @@ translate german s07_07_tig_c5d618d3:
 
     voice voice_file.lpdcat(7,102)
 
-    lpdcat normal ""
+    lpdcat normal "\"Wirklich... es {i}fühlt{/i} \ sich nach mehr als Garnichts an. ist alles in Ordnung?\" "
 
 
 
@@ -7311,7 +7372,7 @@ translate german s07_07_tig_cd2dc92b:
 
     # avt "\"Yes. It's nothing... really.\" "
 
-    avt ""
+    avt "\"Ja, es ist nichts... wirklich.\" "
 
 
 
@@ -7327,7 +7388,7 @@ translate german s07_07_tig_195b58df:
 
     voice voice_file.tig(7,53)
 
-    tig frown ""
+    tig frown "*Hmpf* "
 
 
 
@@ -7343,7 +7404,7 @@ translate german s07_07_tig_91f559fa:
 
     voice voice_file.lpdcat(7,103)
 
-    lpdcat normal ""
+    lpdcat normal "\"Liao, zerbrich dir nicht den Kopf mit etwas das er sagt! Wenn der Alte dich mobbt, lass es mich einfach wissen.\" "
 
 
 
@@ -7359,7 +7420,7 @@ translate german s07_07_tig_3af56b93:
 
     voice voice_file.tig(7,54)
 
-    tig normal ""
+    tig normal "\"Ich würde Liao niemals mobben!\" "
 
 
 
@@ -7375,7 +7436,7 @@ translate german s07_07_tig_6ada1426:
 
     voice voice_file.lpdcat(7,104)
 
-    lpdcat confused ""
+    lpdcat confused "\"Hmm~ wirklich, nach all dem Geschrei? Was sollt das sonst sein?\" "
 
 
 
@@ -7391,7 +7452,7 @@ translate german s07_07_tig_5d123363:
 
     voice voice_file.tig(7,55)
 
-    tig embarrassed ""
+    # tig embarrassed "\"Ich-{w=0.2} habe nur...\" "
 
 
 
@@ -7407,7 +7468,7 @@ translate german s07_07_tig_44d3b498:
 
     voice voice_file.lpdcat(7,105)
 
-    lpdcat laugh ""
+    lpdcat laugh "\"Okay— Okay— Ich wollte euch nicht unterbrechen. Versuch bitte nur freundlich zu bleiben!\" "
 
 
 
@@ -7419,7 +7480,7 @@ translate german s07_07_tig_3b5e46f7:
 
     # lpd obsessed "\"......\" "
 
-    lpd obsessed ""
+    lpd obsessed "\"......\" "
 
 
 
@@ -7431,7 +7492,7 @@ translate german s07_07_tig_6da9f03b:
 
     # b "The two of them walk off down the track ahead of us. Tiger waits until they're out of earshot before continuing. "
 
-    b ""
+    b "Die anderen beiden gehen weiter vor uns voraus. Tiger wartet viss sie außer Hörweite sind bevor er fortfährt. "
 
 
 
@@ -7449,7 +7510,9 @@ translate german s07_07_tig_6ed197a1:
 
     voice voice_file.tig(7,56)
 
-    tig normal ""
+    tig normal "\"...Liao. Alles was sie erzählen ist ledeglich die {i}Oberfläche{/i} \ ihrer probleme.\" "
+
+    tig normal "\"Ich denke du solltest keine Versprechungen machen bevor du nicht sicher bist, was sie {i}wirklich{/i} \ wollen.\" "
 
 
 
@@ -7461,7 +7524,7 @@ translate german s07_07_tig_3938602d:
 
     # avt "\"Still, I'd have to go there to see for myself.\" "
 
-    avt ""
+    avt "\"Ich müsste also doch vor Ort sein um mich davon zu überzeugen.\" "
 
 
 
@@ -7477,7 +7540,7 @@ translate german s07_07_tig_3acd34f8:
 
     voice voice_file.tig(7,57)
 
-    tig normal ""
+    tig normal "\"...Liao, willst du wirklich garnicht zurückkehren?\" "
 
 
 
@@ -7489,7 +7552,7 @@ translate german s07_07_tig_25327b79:
 
     # avt "\"It's not like that, I just..\" "
 
-    avt ""
+    avt "\"Das ist es nicht, Ich...\" "
 
 
 
@@ -7501,7 +7564,7 @@ translate german s07_07_tig_dont_return_6b1b4dfb:
 
     # avt "\"...I don't know. What if I just really don't feel like going home? It isn't just because of those two...\" "
 
-    avt ""
+    avt "\"...Ich weiß es nicht. Was wenn ich wirklich einfach nicht zurückkehren möchte. Das ist ja nicht nur wegen den beiden...\" "
 
 
 
@@ -7519,7 +7582,9 @@ translate german s07_07_tig_dont_return_5698c8a1:
 
     voice voice_file.tig(7,58)
 
-    tig normal ""
+    tig normal "\"Liao, Ich habe nichts dagegen wenn du in Taipei bleibst- aber du bist ein Jitong- ein Sohn der Lin Familie.\" "
+
+    tig normal "\"Es fühlt sich für mich einfach nicht richtig an dich zu irgendeines Anderen Tempel laufen zu lassen.\" "
 
 
 
@@ -7531,7 +7596,7 @@ translate german s07_07_tig_dont_return_ddc79b4d:
 
     # avt "\"Maybe I just don't want to be a Lin family Jitong. I came to college in Taipei to get away from my family.\" "
 
-    avt ""
+    avt "\"Vielleicht möchte ich gar kein Jitong der Lin Familie sein. Ich bin im College in Taipei um von meiner Familie Abstand zu nehmen.\" "
 
 
 
@@ -7547,7 +7612,7 @@ translate german s07_07_tig_dont_return_76786c8f:
 
     voice voice_file.tig(7,59)
 
-    tig normal ""
+    tig normal "\"I verstehe wenn du nicht heimkehren möchtest, aber...\" "
 
 
 
@@ -7563,7 +7628,7 @@ translate german s07_07_tig_dont_return_6411b325:
 
     voice voice_file.tig(7,60)
 
-    tig gentle ""
+    tig gentle "\"...Brich zumindest nicht den Kontakt zu deiner Familie ab.\" "
 
 
 
@@ -7575,7 +7640,7 @@ translate german s07_07_tig_dont_return_69e91219:
 
     # avt "\"I-{w=0.2}I wouldn't, but—\" "
 
-    avt ""
+    avt "\"Ich-{w=0.2}Ich würde das nicht, aber—\" "
 
 
 
@@ -7593,7 +7658,9 @@ translate german s07_07_tig_dont_return_a2b8494c:
 
     voice voice_file.tig(7,61)
 
-    tig normal ""
+    tig normal "\"Wenn du dich den Aboriginie Stämmen anschließt wäre es genau so als würdest du die Lin Familie verlassen.\" "
+
+    tig normal "\"Gleiches gilt für das Kätzchen. Dich zu Fragen einem anderen Tempel zu dienen, so eine Dreistigkeit.\" "
 
 
 
@@ -7609,7 +7676,7 @@ translate german s07_07_tig_dont_return_47e28bd7:
 
     voice voice_file.tig(7,62)
 
-    tig frown ""
+    tig frown "\"Solltest du das tun, kann ich nicht versprechen bei dir bleiben zu können.\" "
 
 
 
@@ -7621,7 +7688,7 @@ translate german s07_07_tig_dont_return_a0aa2adc:
 
     # avt "\"...So if I go to help others, you wouldn't come along?\" "
 
-    avt ""
+    avt "\"...Wenn ich also jemand anderem helfe, würdest du nicht mitkommen?\" "
 
 
 
@@ -7637,7 +7704,7 @@ translate german s07_07_tig_dont_return_f490a7b0:
 
     voice voice_file.tig(7,63)
 
-    tig frown ""
+    tig frown "\"...Es steht mir nicht zu. Meine Aufgabe liegt in deiner Heimat.\" "
 
 
 
@@ -7649,7 +7716,7 @@ translate german s07_07_tig_dont_return_05dee384:
 
     # avt "\"You can make it back by yourself?\" "
 
-    avt ""
+    avt "\"Schaffst du es allein zurück?\" "
 
 
 
@@ -7665,7 +7732,7 @@ translate german s07_07_tig_dont_return_207dde7d:
 
     voice voice_file.tig(7,64)
 
-    tig normal ""
+    tig normal "\"Ich würde dich darum Bitten müssen meine Statue zurück zum Tempel zu senden.\" "
 
 
 
@@ -7677,7 +7744,7 @@ translate german s07_07_tig_dont_return_3b37a70a:
 
     # avt "\"...and, in theory. What if I didn't?\" "
 
-    avt ""
+    avt "\"...und, rein hypothetisch. Wenn ich das nicht tue?\" "
 
 
 
@@ -7693,7 +7760,7 @@ translate german s07_07_tig_dont_return_2902c7f8:
 
     voice voice_file.tig(7,65)
 
-    tig disappointed ""
+    tig disappointed "\"...Liao. Bitte sei nicht so.\" "
 
 
 
@@ -7705,7 +7772,7 @@ translate german s07_07_tig_dont_return_f291bf8a:
 
     # avt "\"It's okay. I know.\" "
 
-    avt ""
+    avt "\"Schon gut. Ich weiß.\" "
 
 
 
@@ -7717,7 +7784,7 @@ translate german s07_07_tig_dont_return_385e2a77:
 
     # avt "\"What... if I stay in Taipei. Would you stay with me all the time?\" "
 
-    avt ""
+    avt "\"Was... Wenn ich in Taiper bleibe, würdest du dann weiter bei mir bleiben?\" "
 
 
 
@@ -7733,7 +7800,7 @@ translate german s07_07_tig_dont_return_dc133309:
 
     voice voice_file.tig(7,66)
 
-    tig normal ""
+    tig normal "\"Natürlich. Taipei ist eine zu große Stadt um allein zu bleiben.\" "
 
 
 
@@ -7745,7 +7812,7 @@ translate german s07_07_tig_dont_return_21eb6419:
 
     # avt "\"Hmm...\" "
 
-    avt ""
+    avt "\"Hmm...\" "
 
 
 
@@ -7757,7 +7824,7 @@ translate german s07_07_tig_dont_return_d550fbd5:
 
     # avt "\"Yeah, let me think about it...\" "
 
-    avt ""
+    avt "\"Ja, lass mich darüber nachdenken...\" "
 
 
 
@@ -7769,7 +7836,7 @@ translate german s07_07_tig_dont_return_e2e73bf2:
 
     # b "Tiger pats my head." with hshake
 
-    b "" with hshake
+    b "Tiger streichelt mir den Kopf." with hshake
 
 
 
@@ -7785,7 +7852,7 @@ translate german s07_07_tig_dont_return_f04f3e5d:
 
     voice voice_file.tig(7,67)
 
-    tig normal ""
+    tig normal "\"Ich weiß unter welchem Stress du stehst. Mach es dir nicht zu schwer. Die Belange der beiden Katzen gingen dich von Anfang an nichts an.\" "
 
 
 
@@ -7797,7 +7864,7 @@ translate german s07_07_tig_dont_return_aad98484:
 
     # avt "\"But I would feel bad if I didn't help.\" "
 
-    avt ""
+    avt "\"Aber ich würde mich schlecht fühlen nichts zu tun.\" "
 
 
 
@@ -7813,7 +7880,7 @@ translate german s07_07_tig_dont_return_91b9e9d7:
 
     voice voice_file.tig(7,68)
 
-    tig laugh_1 ""
+    tig laugh_1 "\"Hahaha— Du weißt solche Bürden solltest du niemals Schultern müssen.\" "
 
 
 
@@ -7825,7 +7892,7 @@ translate german s07_07_tig_dont_return_21eb6419_1:
 
     # avt "\"Yeah...\" "
 
-    avt ""
+    avt "\"Ja...\" "
 
 
 
@@ -7839,7 +7906,9 @@ translate german s07_07_tig_dont_return_4fc8de55:
 
     # b "Senpai seemed a bit peeved, I guess I didn't really give him much attention on the way back. "
 
-    b ""
+    b "Mit dem Gespräch vorüber holen wir die anderen ein und erreichen bald die Haltestelle "
+
+    b "Senpai ist ein wenig verärgert, vermutlich habe ich ihm auf dem Rückweg ziemlich wenig Aufmerksamkeit gewidmet. "
 
 
 
@@ -7853,8 +7922,9 @@ translate german s07_07_tig_dont_return_bb3b2616:
 
     # b "After everything today, I felt like I had to. So, I ended getting stuff for both of them."
 
-    b ""
+    b "Als Wiedergutmachung sollte ich ein paar seiner Lieblingssnacks besorgen... aber ich würde auch etwas von den Sachen die Tiger wollte besorgen... "
 
+    b "Ich fühle mich nach so einem Tag als müsste ich das wirklich tun. Letztendlich habe ich also das Zeug für beide eingepackt."
 
 
 # game/script/07.rpy:1947
@@ -7865,7 +7935,7 @@ translate german s07_07_tig_dont_return_f72ddd0a:
 
     # b "My poor wallet... "
 
-    b ""
+    b "Mein armes Portemonnaie... "
 
 
 
@@ -7877,7 +7947,7 @@ translate german s07_07_tig_return_fc66d2ad:
 
     # avt "\"I don't mean to say I'll never go back... I just need some time to think about it...\" "
 
-    avt ""
+    avt "\"Ich meinte nicht dass ich niemals zurückkehren würde... Ich brauche einfach nur etwas Zeit darüber nachzudenken...\" "
 
 
 
@@ -7893,7 +7963,7 @@ translate german s07_07_tig_return_d698c5d5:
 
     voice voice_file.tig(7,69)
 
-    tig frown ""
+    tig frown "\"Falls du Zeit brauchst um darüber nachzudenken, solltest du mit keinem der beiden mitgehen. Wer weiß ob du jemals wieder zurück könntest.\" "
 
 
 
@@ -7905,7 +7975,7 @@ translate german s07_07_tig_return_543f2e0f:
 
     # avt "\"I don't know. Maybe... I just don't want to feel like my whole life is just shackled to returning home someday.\" "
 
-    avt ""
+    avt "\"Ich weiß es nicht. Vielleicht... mag ich auch nur nicht das Gefühl ertragen am Ende doch nur zurück Nachhaus gezogen zu werden.\" "
 
 
 
@@ -7921,7 +7991,7 @@ translate german s07_07_tig_return_b133e104:
 
     voice voice_file.tig(7,70)
 
-    tig frown ""
+    tig frown "\"Wünschst du dir eine Weile hier bleiben zu können?\" "
 
 
 
@@ -7933,7 +8003,7 @@ translate german s07_07_tig_return_32538262:
 
     # avt "\"Yeah. And I also think I should still {i}try{/i} \ and help them out.\" "
 
-    avt ""
+    avt "\"Schon. Aber ich denke auch ich sollte dennoch {i}versuchen{/i} \ ihnen zu helfen.\" "
 
 
 
@@ -7949,7 +8019,7 @@ translate german s07_07_tig_return_7d26e9d8:
 
     voice voice_file.tig(7,71)
 
-    tig frown ""
+    tig frown "\"...Liao, So klingt es als würdest du ihnen nur helfen um nicht zurück zu müssen. Findest du so eine Entschuldigung zu benutzen nicht unehrlich?\" "
 
 
 
@@ -7961,7 +8031,7 @@ translate german s07_07_tig_return_348330b5:
 
     # avt "\"If I go, I'd do my best to help. You know why I'm hesitant... this is going to change my life. It's a big deal.\" "
 
-    avt ""
+    avt "\"Falls ich gehe werde ich mein Bestes geben auch zu Helfen. Du weißt weshalb ich so zurückhaltend bin... das wird eine Veränderung für mein Leben. Das ist eine große Entscheidung.\" "
 
 
 
@@ -7977,7 +8047,7 @@ translate german s07_07_tig_return_3c439229:
 
     voice voice_file.tig(7,72)
 
-    tig normal ""
+    tig normal "\"Sicherlich. Aber Liao, würdest du irgendwann zurückkommen? Selbst nachdem du ihnen eine Weile lang hilfst... du wirst kommen, oder?\" "
 
 
 
@@ -7989,7 +8059,7 @@ translate german s07_07_tig_return_f6aaac29:
 
     # avt "\"Haha... I guess, you could say that.\" "
 
-    avt ""
+    avt "\"Haha... Ich denke damit liegst du richtig.\" "
 
 
 
@@ -8007,7 +8077,9 @@ translate german s07_07_tig_return_74a8c1be:
 
     voice voice_file.tig(7,73)
 
-    tig normal ""
+    tig normal "\"Nunja, ich werde dich trotzdem nicht ermutigen ihnen zu helfen.\" "
+
+    tig normal "\"Es wäre vieleicht gut möglich dem Kätzchen entgegenzukommen, aber wie willst du ein Jitong sein nachdem du versprichst ein Orakel der Aboriginie zu werden?\" "
 
 
 
@@ -8023,7 +8095,7 @@ translate german s07_07_tig_return_8ba61470:
 
     voice voice_file.tig(7,74)
 
-    tig normal ""
+    tig normal "\"Doch ich schweife ab, solange du irgendwann heimkehren wirst, zählt für mich nur dass du in Sicherheit bist.\" "
 
 
 
@@ -8039,7 +8111,7 @@ translate german s07_07_tig_return_852c6cca:
 
     voice voice_file.tig(7,75)
 
-    tig gentle ""
+    tig gentle "\"Was auch immer geschieht, Liao... du bist ein Sohn der Lin Familie, und ich sehe dich nicht als jemanden der geht ohne etwas Erreicht zu haben.\" "
 
 
 
@@ -8055,7 +8127,7 @@ translate german s07_07_tig_return_dec1cd8d:
 
     voice voice_file.tig(7,76)
 
-    tig gentle ""
+    tig gentle "\"Ihre Sorgen sind nicht deine. Du schuldest ihnen keine Dienste, erst recht nicht dein Leben für ihre Zwecke.\" "
 
 
 
@@ -8067,7 +8139,7 @@ translate german s07_07_tig_return_9a907e54:
 
     # avt "\"...What if I said that I {i}wanted{/i} \ to help them?\" "
 
-    avt ""
+    avt "\"...Und was wenn ich sage ich {i}möchte{/i} \ ihnen helfen?\" "
 
 
 
@@ -8083,7 +8155,7 @@ translate german s07_07_tig_return_34552092:
 
     voice voice_file.tig(7,77)
 
-    tig normal ""
+    tig normal "\"...Dann würde ich dich lassen müssen. Selbst wenn ich mich dabei schlecht fühle... besonders wenn du Orakel für diese Aboriginie wirst.\" "
 
 
 
@@ -8099,7 +8171,7 @@ translate german s07_07_tig_return_b57ef426:
 
     voice voice_file.tig(7,78)
 
-    tig disappointed ""
+    tig disappointed "\"Natürlich, als Beschützer deiner Familie wäre es für mich sehr traurig sich zu einem anderen Stamm als Orakel gehen zu lassen.\" "
 
 
 
@@ -8115,8 +8187,7 @@ translate german s07_07_tig_return_04dec4ac:
 
     voice voice_file.tig(7,79)
 
-    tig gentle ""
-
+    tig gentle "\"Wenigstens... denk gut über all deine Möglichkeiten nach bevor du Versprechen gibst.\" "
 
 
 # game/script/07.rpy:1989
@@ -8127,7 +8198,7 @@ translate german s07_07_tig_return_21eb6419:
 
     # avt "\"Mm-hmm...\" "
 
-    avt ""
+    avt "\"Mm-hmm...\" "
 
 
 
@@ -8139,7 +8210,7 @@ translate german s07_07_tig_return_3341f454:
 
     # avt "\"I know. Trust me. I won't make any rash decisions.\" "
 
-    avt ""
+    avt "\"Ich weiß. Glaub mir, ich werde keine voreilige Entscheidung fällen.\" "
 
 
 
@@ -8155,7 +8226,7 @@ translate german s07_07_tig_return_a7c60c45:
 
     voice voice_file.tig(7,80)
 
-    tig laugh_1 ""
+    tig laugh_1 "\"Guter Junge.\" "
 
 
 
@@ -8167,7 +8238,7 @@ translate german s07_07_tig_return_23262753:
 
     # b "Tiger pats my head. I don't know why... but this time it feels a little less reassuring than usual. " with hshake
 
-    b "" with hshake
+    b "Tiger streichelt mir über den Kopf. Ich weiß nicht warum... aber dieses mal fühlt es sich weniger berühigend an als sonst. " with hshake
 
 
 
@@ -8179,7 +8250,7 @@ translate german s07_07_tig_return_48a49aea:
 
     # b "We continued down the mountain trail together in silence. "
 
-    b ""
+    b "Wir gehen gemeinsam Rest des Bergweges schweigend entlang. "
 
 
 
@@ -8191,7 +8262,7 @@ translate german s07_07_tig_return_0f793455:
 
     # b "Senpai seemed a bit annoyed, I guess I didn't really give him much attention on the way back. "
 
-    b ""
+    b "Senpai wirkt etwas genervt, Ich denke ich habe ihm nicht wirklich viel Aufmerksamkeit auf dem Rückweg gewidmet. "
 
 
 
@@ -8203,7 +8274,7 @@ translate german s07_07_tig_return_3f13ea3c:
 
     # b "To make up for leaving the other two cats to walk down the mountain in silence I ended up getting them some treats. A hotdog for Senpai, and some tea flavoured ice cream for Leopard. "
 
-    b ""
+    b "Als Wiedergutmachung für die beiden Katzen die auf dem Rückweg bergab allein gelassen wurden habe ich ihnen ein paar Leckereien besorgt. Ein Hotdog für Senpai und Eiscreme mit Teegeschmack für Leopard. "
 
 
 
@@ -8215,7 +8286,7 @@ translate german s07_07_tig_return_f70e97f4:
 
     # b "Leopard was completely perplexed by the ice cream until Senpai bought another one, showing him how to eat it. It was really lovely of him, but..."
 
-    b ""
+    b "Leopard war völlig überfordert mit der Eiscreme bis Senpai eine weitere besorgt hat, um ihm zu Zeigen wie man sie isst. Es war wirklich lieb von ihm, aber..."
 
 
 
@@ -8231,7 +8302,11 @@ translate german s07_07_tig_return_ff5e2d45:
 
     # b "For the rest of the night, Senpai and Leopard had fun while pulling me around to various shops, before finally we headed home... "
 
-    b ""
+    b "Tiger saß irgendwie nur dabei und beobachtete wie wir uns vergnügen. "
+
+    b "Ich wusste garnicht was ich sagen soll. Er hat aber auch keine Anstalten gemacht uns davon abzuhalten. "
+
+    b "Für den Rest des Abends haben Leopard und Senpai sich vergnügt und mich zu verschiedenen Geschäften gezerrt, bis wir endlich heimkehrten... "
 
 
 
@@ -8243,7 +8318,7 @@ translate german s07_07_lpd_fa64782e:
 
     # b "I hesitate for a second, then I speed up my pace to catch up to Leopard in front of me. "
 
-    b ""
+    b "Ich zögere erst einen Moment, dann beschleunige ich mein Tempo um Leopard vor mir einzuholen. "
 
 
 
@@ -8257,7 +8332,9 @@ translate german s07_07_lpd_79ffe0a4:
 
     # b "He just keep on moving forward silently. I'm not sure why but I find him relaxing to just be around. "
 
-    b ""
+    b "Leopards Augen erkennen mich als ich mich ihm nähere, allerdings sagt er nichts. "
+
+    b "Unbeirrt schreitet er weiter schweigend voran. Ich kann es nicht erklären, aber allein schon seine Präsenz beruhigt mich. "
 
 
 
@@ -8269,7 +8346,7 @@ translate german s07_07_lpd_7cfe25e2:
 
     # b "For a while we just walked together. It gave me time to organise my thoughts and gather the words to say something. "
 
-    b ""
+    b "Zunächst gehen wir einfach eine Weile lang gemeinsam voran. Die Zeit hilft mir meien Gedanken zu ordnen und die Worte zu finden etwas zu sagen. "
 
 
 
@@ -8281,7 +8358,7 @@ translate german s07_07_lpd_c8c2970d:
 
     # avt "\"Um... Leopard? About what that Grand Tree Lord, Ragoo was saying... Did you understand any of it?\" "
 
-    avt ""
+    avt "\"Ähm... Leopard? Was der große Baumlord, Ragoo gesagt hat... hast du etwas davon verstanden?\" "
 
 
 
@@ -8293,7 +8370,7 @@ translate german s07_07_lpd_325e874e:
 
     # b "Leopard appeared to be deep in thought over my question. "
 
-    b ""
+    b "Leopard scheint von meiner Frage tief in Gedanken versunken zu sein. "
 
 
 
@@ -8309,7 +8386,7 @@ translate german s07_07_lpd_002b0947:
 
     voice voice_file.lpd(7,17)
 
-    lpd obsessed ""
+    lpd obsessed "\"...Das meißte.\" "
 
 
 
@@ -8321,7 +8398,7 @@ translate german s07_07_lpd_7d2d489a:
 
     # avt "\"So... do you feel like I've been keeping you with me on purpose?\" "
 
-    avt ""
+    avt "\"Also... glaubst du auch von mir absichtlich zurückgehalten?\" "
 
 
 
@@ -8333,7 +8410,7 @@ translate german s07_07_lpd_9aa9ca3a:
 
     # b "Leopard shakes his head. "
 
-    b ""
+    b "Leopard schüttelt den Kopf. "
 
 
 
@@ -8349,7 +8426,7 @@ translate german s07_07_lpd_818004ac:
 
     voice voice_file.lpd(7,18)
 
-    lpd normal ""
+    lpd normal "\"Liao... ist gestresst. Ich weiß Liao muss nachdenken.\" "
 
 
 
@@ -8361,7 +8438,7 @@ translate german s07_07_lpd_b856e238:
 
     # avt "\"...Thank you.\" "
 
-    avt ""
+    avt "\"...Danke dir.\" "
 
 
 
@@ -8373,7 +8450,7 @@ translate german s07_07_lpd_161dff43:
 
     # b "I'm glad that he understands where I'm coming from. And that's way better than if he had believed those rumors. Man, that would have been awkward."
 
-    b ""
+    b "Ich bin froh dass er meine Bedenken versteht. Das ist wesentlich besser als wenn er einfach den gerüchten glauben würde. Mann, das wäre merkwürdig gewesen."
 
 
 
@@ -8385,7 +8462,7 @@ translate german s07_07_lpd_3b5e46f7:
 
     # lpd obsessed "\"......\" "
 
-    lpd obsessed ""
+    lpd obsessed "\"......\" "
 
 
 
@@ -8397,7 +8474,7 @@ translate german s07_07_lpd_b7f77e4d:
 
     # b "He doesn't think I'm taking advantage of him... {w=0.5}But still, but does he think that I may have feelings for him? "
 
-    b ""
+    b "Er versteht wohl dass ich ihn nicht ausnutze... {w=0.5}Dennoch, denkt er vielleicht dass ich Gefühle für ihn hege? "
 
 
 
@@ -8409,7 +8486,7 @@ translate german s07_07_lpd_3b5e46f7_1:
 
     # lpd obsessed "\".....\" "
 
-    lpd obsessed ""
+    lpd obsessed "\".....\" "
 
 
 
@@ -8421,7 +8498,7 @@ translate german s07_07_lpd_b7a1ee46:
 
     # b "I've always had the feeling that he's pretty innocent, that he probably doesn't think those kinds of thoughts. Or is it just that he's naïve? It's hard to ask these questions in the right way... "
 
-    b ""
+    b "Ich dachte immer er sei ziemlich unschuldig, er wird wohl kaum solche Gedanken haben. Oder ist er vielleicht nur naiv? Solche Fragen sind schwierig in die richtigen Worte zu fassen... "
 
 
 
@@ -8433,7 +8510,7 @@ translate german s07_07_lpd_3b5e46f7_2:
 
     # lpd obsessed "\".....\" "
 
-    lpd obsessed ""
+    lpd obsessed "\".....\" "
 
 
 
@@ -8445,7 +8522,7 @@ translate german s07_07_lpd_9cd9297c:
 
     # avt "\"Hmm... Is there something you want to say?\" "
 
-    avt ""
+    avt "\"Hmm... Möchtest du dazu denn etwas sagen?\" "
 
 
 
@@ -8457,7 +8534,7 @@ translate german s07_07_lpd_74fbf9b4:
 
     # b "Looking at him, I'd guess he's ready to say something... but it's almost as though he's biting down the words as they reach the tip of his tongue. "
 
-    b ""
+    b "Ihm ist die Bereitschaft etwas zu sagen anzusehen... es ist fast so als würde er sich die Worte runterschlucken bevor sie seine Lippen verlassen. "
 
 
 
@@ -8473,7 +8550,7 @@ translate german s07_07_lpd_22d8fbad:
 
     voice voice_file.lpd(7,19)
 
-    lpd obsessed ""
+    lpd obsessed "\"Liao...\" "
 
 
 
@@ -8489,7 +8566,7 @@ translate german s07_07_lpd_c72f8b13:
 
     voice voice_file.lpd(7,20)
 
-    lpd disappointed ""
+    lpd disappointed "\"Muss bald mitkommen. Habe Angst.\" "
 
 
 
@@ -8501,7 +8578,7 @@ translate german s07_07_lpd_541c9a44:
 
     # avt "\"Come to Wutai? Why?\" "
 
-    avt ""
+    avt "\"Nach Wutai kommen? Warum?\" "
 
 
 
@@ -8517,7 +8594,7 @@ translate german s07_07_lpd_88a5db47:
 
     voice voice_file.lpd(7,21)
 
-    lpd disappointed ""
+    lpd disappointed "\"...Was schlimmes passiert.\" "
 
 
 
@@ -8529,7 +8606,7 @@ translate german s07_07_lpd_80f6a304:
 
     # avt "\"What could happen?\" "
 
-    avt ""
+    avt "\"Was könnte passieren?\" "
 
 
 
@@ -8545,7 +8622,7 @@ translate german s07_07_lpd_18d373b2:
 
     voice voice_file.lpd(7,22)
 
-    lpd disappointed ""
+    lpd disappointed "\"Sommer. Viel Regen, viel Wind.\" "
 
 
 
@@ -8557,7 +8634,7 @@ translate german s07_07_lpd_57e0b1c5:
 
     # avt "\"Summer? Uh... A typhoon?\" "
 
-    avt ""
+    avt "\"Sommer? Äh... ein Taifun?\" "
 
 
 
@@ -8573,7 +8650,7 @@ translate german s07_07_lpd_4e5cc2b2:
 
     voice voice_file.lpd(7,23)
 
-    lpd disappointed ""
+    lpd disappointed "\"...Ja.\" "
 
 
 
@@ -8585,7 +8662,7 @@ translate german s07_07_lpd_d94691b7:
 
     # avt "\"But there's typhoons every year. Is something going to happen?\" "
 
-    avt ""
+    avt "\"Taifune gibt es doch jedes Jahr. Wird etwas besonderes passieren?\" "
 
 
 
@@ -8601,7 +8678,7 @@ translate german s07_07_lpd_840bd641:
 
     voice voice_file.lpd(7,24)
 
-    lpd disappointed ""
+    lpd disappointed "\"Der Boden könnte laufen.\" "
 
 
 
@@ -8613,7 +8690,7 @@ translate german s07_07_lpd_b6e97cc5:
 
     # avt "\"Land could run? Oh... I get it. You mean a landslide.\" "
 
-    avt ""
+    avt "\"Der Boden laufen? Oh... Ich verstehe. Du meinst einen Erdrutsch.\" "
 
 
 
@@ -8629,7 +8706,7 @@ translate german s07_07_lpd_b3293b7a:
 
     voice voice_file.lpd(7,25)
 
-    lpd happy ""
+    lpd happy "\"Ja.\" "
 
 
 
@@ -8641,7 +8718,7 @@ translate german s07_07_lpd_5075bdf0:
 
     # avt "\"Do you know when it could happen?\" "
 
-    avt ""
+    avt "\"Weißt du wann es passieren wird?\" "
 
 
 
@@ -8657,7 +8734,7 @@ translate german s07_07_lpd_368732dc:
 
     voice voice_file.lpd(7,26)
 
-    lpd disappointed ""
+    lpd disappointed "\"Weiß es nicht. Habe Angst. Es ist gefährlich.\" "
 
 
 
@@ -8669,7 +8746,7 @@ translate german s07_07_lpd_22a17a5d:
 
     # avt "\"I get it. You think that due to the typhoons this summer, a landslide will hit your village. Basically, you want me to warn the townspeople to stop that from happening?\" "
 
-    avt ""
+    avt "\"Ich verstehe es. Du denkst dass diesen Sommer wegen der Taifune ein Erdrutsch dein Dorf treffen könnte. Im wesentlichen möchtest du deine Gemeinde vor diesem Ereignis bewahren?\" "
 
 
 
@@ -8685,7 +8762,7 @@ translate german s07_07_lpd_aea11c58:
 
     voice voice_file.lpd(7,27)
 
-    lpd normal ""
+    lpd normal "\"Ja.\" "
 
 
 
@@ -8697,7 +8774,7 @@ translate german s07_07_lpd_0feb1845:
 
     # avt "\"But it's not like I can suddenly appear and start talking about landslides. Would anyone believe me?\" "
 
-    avt ""
+    avt "\"Aber ich kann doch nicht einfach dort auftauchen und von Erdrutschen erzählen. Wer würde mir da glauben?\" "
 
 
 
@@ -8713,7 +8790,7 @@ translate german s07_07_lpd_f5557db2:
 
     voice voice_file.lpd(7,28)
 
-    lpd obsessed ""
+    lpd obsessed "\"...Ich weiß wo Boden läuft.\" "
 
 
 
@@ -8725,7 +8802,7 @@ translate german s07_07_lpd_03777461:
 
     # avt "\"Even so that's not proof...\" "
 
-    avt ""
+    avt "\"Selbst das ist kein Beweis...\" "
 
 
 
@@ -8741,7 +8818,7 @@ translate german s07_07_lpd_c4cf290d:
 
     voice voice_file.lpd(7,29)
 
-    lpd normal ""
+    lpd normal "\"Müssen schnell sein. Liao muss kommen. Ich helfe, Bewohner verstehen. Leute werden Liao glauben.\" "
 
 
 
@@ -8753,7 +8830,7 @@ translate german s07_07_lpd_21eb6419:
 
     # avt "\"Hmm...\" "
 
-    avt ""
+    avt "\"Hmm...\" "
 
 
 
@@ -8767,7 +8844,9 @@ translate german s07_07_lpd_b3317e9e:
 
     # b "But to them, I'd just be some Han kid that left school to go warn them of impending doom. There's no way anyone would believe me! "
 
-    b ""
+    b "Er möchte mich also früher mitnehmen damit ich deren Vertrauen gewinnen kann... "
+
+    b "Für sie wäre ich aber nur ein Han Junge der die Schule verlassen hat um ihren Untergang zu verkünden. Niemand würde sowas je glauben! "
 
 
 
@@ -8779,7 +8858,7 @@ translate german s07_07_lpd_a411e9ae:
 
     # b "To those people, I'm a complete stranger. I guess Tiger talked about this as well. If I have the power to help, it would be easier to use it for the people of my hometown. "
 
-    b ""
+    b "Für die Leute wäre ich ein völlig Fremder. Ich denke Tiger hat das auch schon erwähnt. Ich habe die Kraft zu helfen, aber es wäre viel leichter für die Leute in meiner Heimat da zu sein. "
 
 
 
@@ -8791,7 +8870,7 @@ translate german s07_07_lpd_98a1372b:
 
     # b "Even still, it's not like I feel that I have much of a connection to the Mazu people in my hometown that I've never met before either. "
 
-    b ""
+    b "Selbst dort fehlt mir die Verbundenheit zu den Mazu Leuten meiner Heimat, ich bin ihnen noch nie begegnet. "
 
 
 
@@ -8803,7 +8882,7 @@ translate german s07_07_lpd_8c76a979:
 
     # avt "\"Ok. I understand.\" "
 
-    avt ""
+    avt "\"Okay. Ich verstehe.\" "
 
 
 
@@ -8815,7 +8894,7 @@ translate german s07_07_lpd_ff4a1624:
 
     # lpd surprise "\"?\" "
 
-    lpd surprise ""
+    lpd surprise "\"?\" "
 
 
 
@@ -8827,7 +8906,7 @@ translate german s07_07_lpd_eff3ac7b:
 
     # avt "\"I'll think about it. When the first typhoon strikes this summer, I will try to contact your tribe there.\" "
 
-    avt ""
+    avt "\"Ich denke darüber nach. Wenn die Taifunsaison beginnt werde ich versuchen deinen Stamm zu kontaktieren.\" "
 
 
 
@@ -8841,7 +8920,9 @@ translate german s07_07_lpd_3a197bbc:
 
     # b "They'd definitely believe his message more than mine. It might be a good idea to talk to him about it when we get home... "
 
-    b ""
+    b "Jetzt wo ich darüber nachdenke, ich habe doch einen Rukai Freund. Viellicht könnte ich Jihao die Warnung für seine Leute überbingen lassen. "
+
+    b "Ihm würden sie die Botschaft definitiv eher glauben als mir. Ich sollte mit ihm reden wenn wir zuhause sind... "
 
 
 
@@ -8857,7 +8938,7 @@ translate german s07_07_lpd_3a6f5f79:
 
     voice voice_file.lpd(7,30)
 
-    lpd disappointed ""
+    lpd disappointed "\"Liao, kommt nicht?\" "
 
 
 
@@ -8869,7 +8950,7 @@ translate german s07_07_lpd_c07eeb09:
 
     # avt "\"I'm not sure yet... Let me think about it, okay? If there's any real danger, I will do my best to help.\" "
 
-    avt ""
+    avt "\"Ich weiß es noch nicht... Lass mich darüber nachdenken. Wenn es um eine echte Gefahr geht, werde ich mein bestes geben um zu Helfen.\" "
 
 
 
@@ -8885,7 +8966,7 @@ translate german s07_07_lpd_9a3ddb58:
 
     voice voice_file.lpd(7,31)
 
-    lpd obsessed ""
+    lpd obsessed "\"...Ich bin besorgt.\" "
 
 
 
@@ -8899,7 +8980,9 @@ translate german s07_07_lpd_929fe58d:
 
     # avt "\"I can do my best, but if the people don't believe me then it would be useless.\" "
 
-    avt ""
+    avt "\"Ich weiß, aber ich sollte die Schule nicht schon im ersten Jahr verlassen. Und wirklich der beste Überbringer der Warnung wäre ich nicht.\" "
+
+    avt "\"Ich gebe mein bestes, aber wenn die Leute mir nicht glauben, bin ich nutzlos.\" "
 
 
 
@@ -8915,7 +8998,7 @@ translate german s07_07_lpd_f08e0fd1:
 
     voice voice_file.lpd(7,32)
 
-    lpd normal ""
+    lpd normal "\"Liao kommt, ich helfe. Sie werden glauben.\" "
 
 
 
@@ -8927,7 +9010,7 @@ translate german s07_07_lpd_f54fa58c:
 
     # avt "\"You can help make them believe me? Maybe, but...\" "
 
-    avt ""
+    avt "\"Kannst du dabei helfen ob sie mir trauen? Vielleicht schon, aber...\" "
 
 
 
@@ -8941,7 +9024,9 @@ translate german s07_07_lpd_73a768c6:
 
     # avt "\"Then if we waited for summer break I'd still need my family's permission to tavel there. Without it I'd have no money for the trip.\" "
 
-    avt ""
+    avt "\"Lass mir bitte noch etwas Zeit, in Ordnung? Selbst wenn ich beschließe sofort zu gehen ist das alles andere als einfach. Es könnte scon an der Erlaubnis beim Unterricht zu fehlen scheitern.\" "
+
+    avt "\"Und wenn ich bis zur Sommerpause abwarte bräuchte ich trotzdem die Erlaubnis meiner Eltern zum verreisen. Ohne sie hätte ich gar kein Geld für die Reise.\" "
 
 
 
@@ -8953,7 +9038,7 @@ translate german s07_07_lpd_d19f2f79:
 
     # lpd disappointed "\"......\" "
 
-    lpd disappointed ""
+    lpd disappointed "\"......\" "
 
 
 
@@ -8965,7 +9050,7 @@ translate german s07_07_lpd_fccd8aa2:
 
     # avt "\"There's still a good while until the typhoon season comes. Until then, I'll do my best to help.\" "
 
-    avt ""
+    avt "\"Bis zur Taifunsaison bleibt uns noch ein gutes Stück Zeit übrig. Bis dahin werde ich mich dafür einsetzen zu helfen.\" "
 
 
 
@@ -8977,7 +9062,7 @@ translate german s07_07_lpd_d19f2f79_1:
 
     # lpd disappointed "\"......\" "
 
-    lpd disappointed ""
+    lpd disappointed "\"......\" "
 
 
 
@@ -8989,7 +9074,7 @@ translate german s07_07_lpd_6e87db82:
 
     # avt "\"Leopard. Please don't be so nervous, okay?\" "
 
-    avt ""
+    avt "\"Leopard. Sei bitte nicht so nervös, okay?\" "
 
 
 
@@ -9001,7 +9086,7 @@ translate german s07_07_lpd_1c1d4e55:
 
     # lpd normal "\"......\" "
 
-    lpd normal ""
+    lpd normal "\"......\" "
 
 
 
@@ -9017,7 +9102,7 @@ translate german s07_07_lpd_e2d3e057:
 
     voice voice_file.lpd(7,33)
 
-    lpd laugh ""
+    lpd laugh "\"Ok.\" "
 
 
 
@@ -9029,7 +9114,7 @@ translate german s07_07_lpd_84a50fb0:
 
     # b "Leopard still seemed nervous, but he tried his best to give a smile through that. But seeing his smile was emotional for me all the same. Even if I couldn't make any promises. "
 
-    b ""
+    b "Seine Nervosität ist immernoch zu spüren, Leopard gibt aber sein bestes trotzdem zu lächeln. Sein Lächeln so zu sehen berührt mich emotional. Selbst wenn ich keine Versprechen machen kommte. "
 
 
 
@@ -9041,7 +9126,7 @@ translate german s07_07_lpd_eb25e575:
 
     # b "After all, it'd just be irresponsible to pack my bags and run off to Wutai. I need to know how this is all going to work out before then. But I hope it does work out. "
 
-    b ""
+    b "Immerhin wäre es ziemlich unverantwortlich einfach meine Taschen zu packen und nach Wutai zu laufen. Ich muss wissen dass es funktioniert bevor ich loslege. Hoffentlich geht alles gut."
 
 
 
@@ -9055,7 +9140,9 @@ translate german s07_07_lpd_646abeb2:
 
     # b "Senpai couldn't help himself from running around between the stalls, his eyes lighting up as he browses through the various snacks. Even Tiger couldn't hold himself back, the two of them happily checking out the entire marketplace. "
 
-    b ""
+    b "Mit dem Gespräch vorüber wandern wir den Rest des Bergweges ohne weitere Worte herab. Irgendwann kommen wir bei der Haltestelle an und vertreiben uns die verbleibende Zeit auf den Märkten."
+
+    b "Senpai wusste sich überhaupt nicht zu helfen und blitzte zwischen den Geschäften hin und her, seine Augen leuchten beim Anblick verschiedener Snacks. Selbst Tiger konnte sich kaum zurückhalten, sie hatten sichtlich Spaß mit der Erkundung der Marktlandschaft."
 
 
 
@@ -9067,7 +9154,7 @@ translate german s07_07_lpd_37249e28:
 
     # b "With lifted spirits, and lighter wallets, and a setting sun we board the bus home. "
 
-    b ""
+    b "Mit gehobenen Geistern und leichteren Geldbörsen steigen wir bei Sonnenuntergang in den Bus nachhaus."
 
 
 
@@ -9079,7 +9166,7 @@ translate german s07_07_lpdcat_060fa505:
 
     # b "I guess senpai would know the most about {i}that{/i} \ kind of stuff. The other guys probably wouldn't know what I'm talking about... "
 
-    b ""
+    b "Ich schätze Senpai wird sich mit {i}diesen{/i} \ Themen am besten auskennen. Die anderen beiden würden vermutlich garnicht berstehen wovon ich rede... "
 
 
 
@@ -9091,7 +9178,7 @@ translate german s07_07_lpdcat_19922e21:
 
     # b "I slow my walking pace to fall back towards Senpai, leaving the others to walk ahead. "
 
-    b ""
+    b "Ich verlangsame meinen Gang um Senpai aufholen zu lassen, die Anderen gehen ohne uns voran. "
 
 
 
@@ -9103,7 +9190,7 @@ translate german s07_07_lpdcat_2ddf519c:
 
     # avt "\"So... Senpai, what do you think of what Ragoo was talking about?\" "
 
-    avt ""
+    avt "\"Also... Senpai, was hältst du von dem was Ragoo gesagt hat?\" "
 
 
 
@@ -9119,7 +9206,7 @@ translate german s07_07_lpdcat_9d666a31:
 
     voice voice_file.lpdcat(7,106)
 
-    lpdcat normal ""
+    lpdcat normal "\"Hmm? meinst du die Gerüchte von den Yaoguai? Oder...\" "
 
 
 
@@ -9135,7 +9222,7 @@ translate german s07_07_lpdcat_c0c3652f:
 
     voice voice_file.lpdcat(7,107)
 
-    lpdcat laugh ""
+    lpdcat laugh "\"Denkst du ich wäre endtäuscht wenn wie kein Liebespaar werden?\" "
 
 
 
@@ -9147,7 +9234,7 @@ translate german s07_07_lpdcat_d7718051:
 
     # avt "\"Ah, em... that's not it...\" "
 
-    avt ""
+    avt "\"Ah, ähm... das ist es nicht...\" "
 
 
 
@@ -9163,7 +9250,7 @@ translate german s07_07_lpdcat_93044cba:
 
     voice voice_file.lpdcat(7,108)
 
-    lpdcat normal ""
+    lpdcat normal "\"Also kümmert dich doch was diese Yaoguai denken? Wie wärs wenn ich dir dabei helfe die Gerüchte zu beseitigen?\" "
 
 
 
@@ -9175,7 +9262,7 @@ translate german s07_07_lpdcat_70c25b83:
 
     # avt "\"Can you?\" "
 
-    avt ""
+    avt "\"Kannst du das?\" "
 
 
 
@@ -9191,7 +9278,7 @@ translate german s07_07_lpdcat_22c4c4a3:
 
     voice voice_file.lpdcat(7,109)
 
-    lpdcat laugh ""
+    lpdcat laugh "\"Ich war auch mal ein Yaoguai, ich würde immer irgendwelche Freunde finden die uns helfen das klarzustellen.\" "
 
 
 
@@ -9203,7 +9290,7 @@ translate german s07_07_lpdcat_e700c498:
 
     # avt "\"Is that alright? You're kind of a guardian tiger now... You still get in contact with your old friends?\" "
 
-    avt ""
+    avt "\"Ist das überhaupt in Ordnung? Du bist ja jetzt irgendwie ein Beschützertiger... Kannst du dich mit deinen alten Freunden überhaupt noch abgeben?\" "
 
 
 
@@ -9219,7 +9306,7 @@ translate german s07_07_lpdcat_fb130bd2:
 
     voice voice_file.lpdcat(7,110)
 
-    lpdcat normal ""
+    lpdcat normal "\"Nicht alle Yaoguai sind boshaft. Einige sind sogar wirklich nett. Die zu überzeigen wäre ein Klacks!\" "
 
 
 
@@ -9231,7 +9318,7 @@ translate german s07_07_lpdcat_9c432384:
 
     # avt "\"Mmm... maybe it would be better if we didn't.\" "
 
-    avt ""
+    avt "\"Hmm... vermutlich wäre es besser wenn wir das lassen.\" "
 
 
 
@@ -9247,7 +9334,7 @@ translate german s07_07_lpdcat_1b0ee238:
 
     voice voice_file.lpdcat(7,111)
 
-    lpdcat laugh ""
+    lpdcat laugh "\"Bist du etwa meinetwegen besorgt~\" "
 
 
 
@@ -9259,7 +9346,7 @@ translate german s07_07_lpdcat_febc68fb:
 
     # avt "\"Stop joking around!\" "
 
-    avt ""
+    avt "\"Hör auf herumzualbern!\" "
 
 
 
@@ -9277,7 +9364,9 @@ translate german s07_07_lpdcat_39c97772:
 
     voice voice_file.lpdcat(7,112)
 
-    lpdcat serious ""
+    lpdcat serious "\"Weißt du, du musst nicht glauben was dieser verrückte Baumlord sagt.\" "
+
+    lpdcat serious "\"Wir haben dich aufgesucht um unsere eigenen Probleme zu lösen. Es ist völlig verständlich wenn du nicht für einen von uns dein ganzes Leben auf den Kopf stellen willst.\" "
 
 
 
@@ -9291,9 +9380,9 @@ translate german s07_07_lpdcat_847f9979:
 
     # lpdcat cute "\"But if you want to, we can still be a couple!\" "
 
-    voice voice_file.lpdcat(7,113)
+    # voice voice_file.lpdcat(7,113)
 
-    lpdcat cute ""
+    lpdcat cute "\"Wenn du willst können wir aber immernoch ein Pärchen werden!\" "
 
 
 
@@ -9305,7 +9394,7 @@ translate german s07_07_lpdcat_65b82300:
 
     # avt "\"Senpai... could you even see us as a couple after you leave Yan Shu-Chi's body?\" "
 
-    avt ""
+    avt "\"Senpai... würdest du uns überhaupt noch als Partner sehen wenn du Yan Shu-Chis Körper verlässt?\" "
 
 
 
@@ -9321,7 +9410,7 @@ translate german s07_07_lpdcat_673f4d64:
 
     voice voice_file.lpdcat(7,114)
 
-    lpdcat laugh ""
+    lpdcat laugh "\"Wenn Liao sich dafür entscheidet meinen Tempel auf dem Hügel wieder aufzubauen ist es doch klar dass ich dir beistehe, oder?\" "
 
 
 
@@ -9337,7 +9426,7 @@ translate german s07_07_lpdcat_45c791d6:
 
     voice voice_file.lpdcat(7,115)
 
-    lpdcat normal ""
+    lpdcat normal "\"Es ist ein ziemlich einsamer Ort, also würde ich auch mein Bestes geben dich glücklich zu machen... Du könntest sogar deinen Computer mitnehmen!\" "
 
 
 
@@ -9349,7 +9438,7 @@ translate german s07_07_lpdcat_8f260dcf:
 
     # avt "\"It'd be nice to have a computer there, but that's not what's important...\" "
 
-    avt ""
+    avt "\"Einen Computer da zu haben wäre schon ganz nett, aber das ist doch nicht wichtig...\" "
 
 
 
@@ -9365,7 +9454,7 @@ translate german s07_07_lpdcat_cbde5f51:
 
     voice voice_file.lpdcat(7,116)
 
-    lpdcat normal ""
+    lpdcat normal "\"Ich weiß, Liao. Wenn du nicht mit mir nach Miaoli kommst wäre ich dir nicht böse, aber...\" "
 
 
 
@@ -9381,7 +9470,7 @@ translate german s07_07_lpdcat_aa40a5a1:
 
     voice voice_file.lpdcat(7,117)
 
-    lpdcat wronged ""
+    lpdcat wronged "\"Wenn du zu mir kommst um mir solche Fragen zu stellen... hast du wohl schon längst entschieden mich abzuweisen...\" "
 
 
 
@@ -9393,7 +9482,7 @@ translate german s07_07_lpdcat_a96533ff:
 
     # avt "\"No. Not at all. I'm just...\" "
 
-    avt ""
+    avt "\"Nein, das stimmt überhaupt nicht. Es ist nur...\" "
 
 
 
@@ -9409,7 +9498,7 @@ translate german s07_07_lpdcat_02f31478:
 
     voice voice_file.lpdcat(7,118)
 
-    lpdcat wronged ""
+    lpdcat wronged "\"Nur was?\" "
 
 
 
@@ -9421,7 +9510,7 @@ translate german s07_07_lpdcat_10627ff0:
 
     # avt "\"Just wondering... about whether or not you'd give me more time to think about it.\" "
 
-    avt ""
+    avt "\"Ich frage mich... ob du mir überhaupt noch mehr Zeit lassen würdest darüber nachzudenken.\" "
 
 
 
@@ -9437,7 +9526,7 @@ translate german s07_07_lpdcat_813691f5:
 
     voice voice_file.lpdcat(7,119)
 
-    lpdcat laugh ""
+    lpdcat laugh "\"Aber klar doch! Aber jetzt bin ich an der Reihe mit Fragenstellen!\" "
 
 
 
@@ -9453,7 +9542,7 @@ translate german s07_07_lpdcat_3f6473a4:
 
     voice voice_file.lpdcat(7,120)
 
-    lpdcat normal ""
+    lpdcat normal "\"Liao, wärest du lieber... mit den anderen beiden zusammen?\" "
 
 
 
@@ -9465,7 +9554,7 @@ translate german s07_07_lpdcat_56ba2e58:
 
     # avt "\"You can't just drop a question like that!\" "
 
-    avt ""
+    avt "\"Du kannst doch nicht einfach so eine Frage in den Raum werfen!\" "
 
 
 
@@ -9481,7 +9570,7 @@ translate german s07_07_lpdcat_fe38a6eb:
 
     voice voice_file.lpdcat(7,121)
 
-    lpdcat laugh ""
+    lpdcat laugh "\"So wie ich es verstehe, wenn Liao mich mögen würde. Sollten ihn die Gerüchte dann doch überhaupt nicht interessieren.\" "
 
 
 
@@ -9499,7 +9588,9 @@ translate german s07_07_lpdcat_8a209950:
 
     voice voice_file.lpdcat(7,122)
 
-    lpdcat normal ""
+    lpdcat normal "\"Es ist offensichtlich wie sehr dich diese Gerüchte beschäftigen...\" "
+
+    lpdcat normal "\"Wenn es hier nicht um mich oder die anderen zwei Katzen geht, was ist es sonst?\" "
 
 
 
@@ -9511,7 +9602,7 @@ translate german s07_07_lpdcat_01fc7bda:
 
     # avt "\"That... I'm not...\" "
 
-    avt ""
+    avt "\"Dass... Ich nicht...\" "
 
 
 
@@ -9527,7 +9618,7 @@ translate german s07_07_lpdcat_581c27bd:
 
     voice voice_file.lpdcat(7,123)
 
-    lpdcat normal ""
+    lpdcat normal "\"Nicht was?\" "
 
 
 
@@ -9539,7 +9630,7 @@ translate german s07_07_lpdcat_02_lpdcat_230a7add:
 
     # avt "\"I-{w=0.2}I'm just curious about how things would be after you leave Senpai's body...\" "
 
-    avt ""
+    avt "\"Ich-{w=0.2}frage mich wie es überhaupt weitergehen würde wenn du Senpais Körper verlässt...\" "
 
 
 
@@ -9555,7 +9646,7 @@ translate german s07_07_lpdcat_02_lpdcat_ca95a55d:
 
     voice voice_file.lpdcat(7,124)
 
-    lpdcat happy "" with flash
+    lpdcat happy "\"Was? Also denkt Liao noch darüber nach mit mir nach Miaoli zu kommen!\" " with flash
 
 
 
@@ -9567,7 +9658,7 @@ translate german s07_07_lpdcat_02_lpdcat_12ef5d2b:
 
     # b "Senpai almost pounces on me with happiness, but I manage to keep him off. "
 
-    b ""
+    b "Senpai hüpft springt mir vor Freude schon entgegen, doch ich schaffe es noch ihn von mir fernzuhalten. "
 
 
 
@@ -9581,7 +9672,9 @@ translate german s07_07_lpdcat_02_lpdcat_5f537ecd:
 
     # avt "\"Will things be different after you leave his body? How will we deal with the rumors about us at dance club?\" "
 
-    avt ""
+    avt "\"Ich versuche nur irgendwie diese Situation aufzuklären. Ich kenne dich nur als meinen Senpai.\" "
+
+    avt "\"Was wäre anders nachdem du seinen Körper verlässt? Wie sollen wir dann mit den Gerüchten im Tanzclub umgehen?\" "
 
 
 
@@ -9599,7 +9692,9 @@ translate german s07_07_lpdcat_02_lpdcat_87969b0b:
 
     voice voice_file.lpdcat(7,125)
 
-    lpdcat laugh ""
+    lpdcat laugh "\"Ich wäre eigentlich so wie vorher, allerdings würde ich wohl andere Kleidung tragen.\" "
+
+    lpdcat laugh "\"Sieh mal, das mit den Gerüchten wäre doch kein großes Ding, wir tun einfach so als hätten wir einen übelen Streit, und alle denken wir sind getrennt!\" "
 
 
 
@@ -9611,7 +9706,7 @@ translate german s07_07_lpdcat_02_lpdcat_fb100930:
 
     # avt "\"Would it really be that easy...\" "
 
-    avt ""
+    avt "\"Ob es wirklich so leicht wäre...\" "
 
 
 
@@ -9627,7 +9722,7 @@ translate german s07_07_lpdcat_02_lpdcat_3c638da9:
 
     voice voice_file.lpdcat(7,126)
 
-    lpdcat laugh ""
+    lpdcat laugh "\"Keine Sorge. Hehe~ Ich hätte nie gedacht wie wichtig Liao meine Sorgen sind.\" "
 
 
 
@@ -9639,7 +9734,7 @@ translate german s07_07_lpdcat_02_lpdcat_a91d2597:
 
     # avt "\"You don't think I care?\" "
 
-    avt ""
+    avt "\"Denkst du mir wäre es egal?\" "
 
 
 
@@ -9655,7 +9750,7 @@ translate german s07_07_lpdcat_02_lpdcat_e5f8260c:
 
     voice voice_file.lpdcat(7,127)
 
-    lpdcat difficult ""
+    lpdcat difficult "\"Liao sagt es nicht. Ich dachte aber...\" "
 
 
 
@@ -9667,7 +9762,7 @@ translate german s07_07_lpdcat_02_lpdcat_04bd3294:
 
     # b "Senpai seems hesitant."
 
-    b ""
+    b "Senpai wirkt zurückhaltend."
 
 
 
@@ -9679,7 +9774,7 @@ translate german s07_07_lpdcat_02_lpdcat_442be7ca:
 
     # avt "\"What is it?\" "
 
-    avt ""
+    avt "\"Was ist los?\" "
 
 
 
@@ -9695,7 +9790,7 @@ translate german s07_07_lpdcat_02_lpdcat_93cc3fa8:
 
     voice voice_file.lpdcat(7,128)
 
-    lpdcat laugh ""
+    lpdcat laugh "\"Ach nichts. Nur eine romantische Vorstellung.\" "
 
 
 
@@ -9707,7 +9802,7 @@ translate german s07_07_lpdcat_02_lpdcat_0531578a:
 
     # b "I was curious, but the sweet smile across Senpai's face let me know it was alright. I don't have to pursue the subject. "
 
-    b ""
+    b "Ich war neugierig, aber das süße Lächeln auf Senpais gesicht lässt mich wissen, dass alles in Ordnung ist. Ich muss darauf nicht weiter eingehen. "
 
 
 
@@ -9719,7 +9814,7 @@ translate german s07_07_lpdcat_02_tig_c695aed5:
 
     # avt "\"I mean, I've been thinking about home...\" "
 
-    avt ""
+    avt "\"Ich meine, ich habe mir schon über meine Heimat gedanken gemacht...\" "
 
 
 
@@ -9735,7 +9830,7 @@ translate german s07_07_lpdcat_02_tig_2e94fcd8:
 
     voice voice_file.lpdcat(7,129)
 
-    lpdcat serious "" with flash
+    lpdcat serious "\"Ich dachte du versuchst möglichst nicht zurückgehen zu müssen?\" " with flash
 
 
 
@@ -9747,7 +9842,7 @@ translate german s07_07_lpdcat_02_tig_84696693:
 
     # avt "\"I'd have to go home eventually. Even if I found a job in Taipei after graduation, I'd still have to go home during holidays...\" "
 
-    avt ""
+    avt "\"Irgendwann werde ich zurückgehen müssen. Selbst wenn ich nach meinen Abschluss einen Job in Taipei finde, wenigstens zur Urlaubszeit...\" "
 
 
 
@@ -9763,7 +9858,7 @@ translate german s07_07_lpdcat_02_tig_a719fe07:
 
     voice voice_file.lpdcat(7,130)
 
-    lpdcat pout ""
+    lpdcat pout "\"Wie, hast du deine Meinung jetzt doch geändert? Das ist komisch!\" "
 
 
 
@@ -9775,7 +9870,7 @@ translate german s07_07_lpdcat_02_tig_a93196ca:
 
     # avt "\"It's not that. It's just that even if I {i}tried{/i} \ to keep from going home, how long could I realistically stay away...\" "
 
-    avt ""
+    avt "\"Nein, das ist es nicht. Doch selbst wenn ich {i}versuche{/i} \ es zu vermeiden, wie lange könnte ich in Wirklichkeit fortbleiben...\" "
 
 
 
@@ -9791,7 +9886,7 @@ translate german s07_07_lpdcat_02_tig_cd2372ff:
 
     voice voice_file.lpdcat(7,131)
 
-    lpdcat wronged ""
+    lpdcat wronged "\"Du würdest irgendwann zurück müssen?\" "
 
 
 
@@ -9803,7 +9898,7 @@ translate german s07_07_lpdcat_02_lpd_951b0beb:
 
     # avt "\"It's not like that, just..\" "
 
-    avt ""
+    avt "\"Das auch nicht, nur..\" "
 
 
 
@@ -9815,7 +9910,7 @@ translate german s07_07_lpdcat_02_lpd_3a7cbaa8:
 
     # b "Senpai threw what I said back to me. I'd \"have to go back sometime\". It reminds me of leopard and his kindness towards me even though I can't promise him anything, I'm very grateful. "
 
-    b ""
+    b "Senpai wirft mir meine Worte entgegen. Ich \"müsste irgendwann zurückgehen\". Ich denke da ein wenig an Leopards Freundlichkeit mir gegenüber, obwohl ich garnichts versprechen konnte. Ich bin sehr dankbar. "
 
 
 
@@ -9827,7 +9922,7 @@ translate german s07_07_lpdcat_02_lpd_65773bac:
 
     # b "He's had to stay in Taipei for so long because of me. Is it okay for him to stay away from his land for so long? "
 
-    b ""
+    b "Er müsste wegen mir so lange in Taipei bleiben. Ist es für ihn überhaupt in Ordnung so lange von seinem Land fernzubleiben? "
 
 
 
@@ -9839,7 +9934,7 @@ translate german s07_07_lpdcat_02_lpd_a24b109a:
 
     # b "Senpai probably wouldn't know how to answer even if I asked."
 
-    b ""
+    b "Senpai könnte das sicherlich garnicht beantworten, selbst wenn ich fragen würde."
 
 
 
@@ -9855,7 +9950,7 @@ translate german s07_07_lpdcat_02_lpd_865c8ccd:
 
     voice voice_file.lpdcat(7,132)
 
-    lpdcat pout ""
+    lpdcat pout "\"Wirklich? Für mich sieht es so aus als wolltest du mir etwas sagen.\" "
 
 
 
@@ -9867,7 +9962,7 @@ translate german s07_07_lpdcat_02_lpd_2f9834fd:
 
     # avt "\"Not really. I just feel bad about not making a promise with them. But, even if I feel bad, that doesn't mean I can make a promise...\" "
 
-    avt ""
+    avt "\"Eigentlich nicht. Ich fühle mich nur unwohl dabei ihnen keine Zusage geben zu können. Aber nur weil ich mich unwohl fühle heißt das nicht dass ich einfach etwas Versprechen kann...\" "
 
 
 
@@ -9883,7 +9978,7 @@ translate german s07_07_lpdcat_02_lpd_7544acf4:
 
     voice voice_file.lpdcat(7,133)
 
-    lpdcat pout ""
+    lpdcat pout "\"Wie unklar von dir...\" "
 
 
 
@@ -9895,7 +9990,7 @@ translate german s07_08_41137571:
 
     # b "Suddenly I feel a cold sensation hit my nose. It's starting to pour down. "
 
-    b ""
+    b "Plötzlich trifft ein Kältegefühl auf meine Nase. Es fängt an zu regnen. "
 
 
 
@@ -9907,7 +10002,7 @@ translate german s07_08_73006ef6:
 
     # avt "\"Huh? Rain?\" "
 
-    avt ""
+    avt "\"Huh? Regen?\" "
 
 
 
@@ -9919,7 +10014,7 @@ translate german s07_08_c7fb83ba:
 
     # b "I look around to see veil of damp fog overtaking the mountain, a misty sea of grey that begins to envelop us. It was already cold enough up here without the rain..."
 
-    b ""
+    b "Als ich mich umsehe fällt mir der dichte Nebel auf wie er sich über den Berg ausbreitet, ein dichter grauer Schleier umhüllt uns. Es war ohnehin schon kalt genug ohne den Regen..."
 
 
 
@@ -9931,7 +10026,7 @@ translate german s07_08_4b6e0205:
 
     # avt "\"Hey, where's everyone else?\" "
 
-    avt ""
+    avt "\"Hey, wo sind die anderen?\" "
 
 
 
@@ -9943,7 +10038,7 @@ translate german s07_08_2aaf0f93:
 
     # b "They seem to have wandered off and I couldn't see them in the fog."
 
-    b ""
+    b "Sie sind wohl ohne uns vorgegangen, und ich kann sie bei dem Nebel nicht finden."
 
 
 
@@ -9959,7 +10054,7 @@ translate german s07_08_8ace2234:
 
     voice voice_file.lpdcat(7,134)
 
-    lpdcat normal ""
+    lpdcat normal "\"Ich weiß nicht... waren wir etwa zu langsam?\" "
 
 
 
@@ -9971,7 +10066,7 @@ translate german s07_08_1401ba10:
 
     # b "Senpai looks all around, ahead, and then back from where we came, but they couldn't be behind us. "
 
-    b ""
+    b "Senpai sieht sich nach allen Richtungen um, vorwärts, auf der anderen Seite, aber hinter uns könnten sie garnicht sein. "
 
 
 
@@ -9983,7 +10078,7 @@ translate german s07_08_ecfc1b1a:
 
     # avt "\"Let's go faster and catch up to them!\" "
 
-    avt ""
+    avt "\"Beeilen wir uns damit wir sie einholen!\" "
 
 
 
@@ -9999,7 +10094,7 @@ translate german s07_08_bba72d41:
 
     voice voice_file.lpdcat(7,135)
 
-    lpdcat normal ""
+    lpdcat normal "\"Keine Sorge es führt hier nur ein Pfad herunter, wir können uns garnicht verlaufen.\" "
 
 
 
@@ -10011,7 +10106,7 @@ translate german s07_08_a0f98e26:
 
     # avt "\"Still, it's not very responsible for me to just lose track of them.\" "
 
-    avt ""
+    avt "\"Es ist trotzdem nicht sonderlich verantwortlich von mir sie so aus den Augen zu verlieren.\" "
 
 
 
@@ -10027,7 +10122,7 @@ translate german s07_08_2df54808:
 
     voice voice_file.lpdcat(7,136)
 
-    lpdcat laugh ""
+    lpdcat laugh "\"Ich wollte schon immer etwas Zweisamkeit mit Liao~\" "
 
 
 
@@ -10039,7 +10134,7 @@ translate german s07_08_77612dd9:
 
     # avt "\"Please, Senpai, enough of that.\" "
 
-    avt ""
+    avt "\"Bitte, Senpai, es ist genug damit.\" "
 
 
 
@@ -10055,7 +10150,7 @@ translate german s07_08_77d2cfe1:
 
     voice voice_file.lpdcat(7,137)
 
-    lpdcat laugh ""
+    lpdcat laugh "\"Oohh, aber wir hatten noch nie die Gelegenheit...\" "
 
 
 
@@ -10067,7 +10162,7 @@ translate german s07_08_f4eeff5e:
 
     # b "Senpai stops mid-sentence, suddenly looking up. "
 
-    b ""
+    b "Senpai bricht mitten im Satz ab und schaut aufwärts. "
 
 
 
@@ -10083,7 +10178,7 @@ translate german s07_08_89cbf73a:
 
     voice voice_file.lpdcat(7,138)
 
-    lpdcat serious "" with vshake
+    lpdcat serious "\"Oh nein.\" " with vshake
 
 
 
@@ -10095,7 +10190,7 @@ translate german s07_08_442be7ca:
 
     # avt "\"What's wrong?\" "
 
-    avt ""
+    avt "\"Was ist los?\" "
 
 
 
@@ -10113,7 +10208,9 @@ translate german s07_08_ebcc359f:
 
     voice voice_file.lpdcat(7,139)
 
-    lpdcat serious ""
+    lpdcat serious "\"Liao. Wir könnten einen unangenehmen Gott an den Fersen haben wenn wir uns nicht beeilen. Wir waren so im Gespräch vertieft, ich hätte nicht gedacht dass er uns hier findet.\" "
+
+    lpdcat serious "\"Schnell! Lauf mir einfach hinterher!\" "
 
 
 
@@ -10125,7 +10222,7 @@ translate german s07_08_a61d025a:
 
     # avt "\"What? W-Wait! Senpai!\" " with hshake
 
-    avt "" with hshake
+    avt "\"Was? W-Warte! Senpai!\" " with hshake
 
 
 
@@ -10139,7 +10236,9 @@ translate german s07_08_e871a2cc:
 
     # b "I couldn't keep up, and soon his image faded into the fog. I was left alone. "
 
-    b ""
+    b "Er wartet nicht. Bevor ich noch etwas sagen konnte ist er schon den Weg hinabgelaufen. "
+
+    b "Ich konnte nicht Schritt halten, schon bald waren seine Umrisse vom Nebel verschlungen. Und ich wurde allein gelassen. "
 
 
 
@@ -10151,7 +10250,7 @@ translate german s07_08_f646f1c1:
 
     # avt "\"What just happened...\" "
 
-    avt ""
+    avt "\"Was ist gerade passiert...\" "
 
 
 
@@ -10163,7 +10262,7 @@ translate german s07_08_3b46bd67:
 
     # b "I couldn't run on the wet stones, but I hurried as fast as I could. "
 
-    b ""
+    b "Ich konnte auf den nassen Steinen nicht laufen, trotzdem eile ich so schnell ich kann. "
 
 
 
@@ -10175,7 +10274,7 @@ translate german s07_08_332c11dd:
 
     # b "Suddenly, a white shadow appears next to me. " with flash
 
-    b "" with flash
+    b "Plötzlich erscheint ein weißer Schatten neben mir. " with flash
 
 
 
@@ -10187,7 +10286,7 @@ translate german s07_08_0a81b0a5:
 
     # avt "\"...Woa—\" "
 
-    avt ""
+    avt "\"...Woa—\" "
 
 
 
@@ -10201,7 +10300,9 @@ translate german s07_08_872b30ac:
 
     # b "It makes a sudden stop, it seems to have noticed me. "
 
-    b ""
+    b "Ich weiß nicht was es ist, aber auf jeden fall kein Mensch. "
+
+    b "Plötzlich hält es an, scheinbar hat es mich bemerkt. "
 
 
 
@@ -10217,7 +10318,7 @@ translate german s07_08_85f8e4e5:
 
     voice voice_file.xiunuosi(7,1)
 
-    xiunuosi2 eyes_close ""
+    xiunuosi2 eyes_close "\"Du kannst mich sehen, junger Mann?\" "
 
 
 
@@ -10229,7 +10330,7 @@ translate german s07_08_9a951502:
 
     # avt "\"Uh... yes.\" "
 
-    avt ""
+    avt "\"Ähm... ja.\" "
 
 
 
@@ -10245,7 +10346,7 @@ translate german s07_08_4d57ef99:
 
     voice voice_file.xiunuosi(7,2)
 
-    xiunuosi2 eyes_close ""
+    xiunuosi2 eyes_close "\"Du besitzt das {font=tl/None/NotoSansCJKtc-Bold.otf}Yin-Yang Auge{/font}? Wenn das der Fall ist, hast du in der Nähe eine merkwürdige Katze gesehen?\" "
 
 
 
@@ -10257,7 +10358,7 @@ translate german s07_08_a74cd9bc:
 
     # b "Is he looking for Senpai? I don't think I should just tell him... "
 
-    b ""
+    b "Sucht er nach Senpai? Ich denke nicht dass ich ihm das sagen sollte... "
 
 
 
@@ -10273,7 +10374,7 @@ translate german s07_08_07652e37:
 
     voice voice_file.xiunuosi(7,3)
 
-    xiunuosi2 eyes_close ""
+    xiunuosi2 eyes_close "\"...Hat man dir etwas gesagt?\" "
 
 
 
@@ -10285,7 +10386,7 @@ translate german s07_08_0d7a0d97:
 
     # avt "\"Hmm?\" "
 
-    avt ""
+    avt "\"Hmm?\" "
 
 
 
@@ -10301,7 +10402,7 @@ translate german s07_08_edb7dd27:
 
     voice voice_file.xiunuosi(7,4)
 
-    xiunuosi2 eyes_close ""
+    xiunuosi2 eyes_close "\"Oh, dem scheint nicht so. Junger mann, du solltest vorsichtiger sein. In den Bergen wandert man nicht allein.\" "
 
 
 
@@ -10313,7 +10414,7 @@ translate german s07_08_fcdbb20e:
 
     # avt "\"I came here with some friends...\" "
 
-    avt ""
+    avt "\"Ich bin mit meinen Freunden hier her gekommen...\" "
 
 
 
@@ -10329,7 +10430,7 @@ translate german s07_08_039561d4:
 
     voice voice_file.xiunuosi(7,5)
 
-    xiunuosi2 eyes_close ""
+    xiunuosi2 eyes_close "\"Dann solltest du sie besser schnell finden. Ich muss nun weitergehen.\" "
 
 
 
@@ -10341,7 +10442,7 @@ translate german s07_08_77c1e22f:
 
     # b "I didn't have a chance to say anything before he turned away, vanishing in an instant back into the fog from which he came. " with flash
 
-    b "" with flash
+    b "Ich hatte nichtmal die Chance etwas zu sagen bevor er sich abkehrte, und genau so schnell im Nebel verschwandt wie er aufgetaucht ist. " with flash
 
 
 
@@ -10353,7 +10454,7 @@ translate german s07_08_3bd8bcc6:
 
     # avt "\"...What's with all these spirits today?\" "
 
-    avt ""
+    avt "\"...Was ist heute mit all diesen Geistern los?\" "
 
 
 
@@ -10365,7 +10466,7 @@ translate german s07_08_e5930c9b:
 
     # b "By now the rain had left me soaking wet. At least I'm lucky that there's only one path. If I hurry, I'll be able to reach the others. "
 
-    b ""
+    b "Der Regen lässt zwar nach, aber ich bleibe klatschnass. Wenigstens habe ich das Glück nur einen Weg vorzufinden. Wenn ich mich beeile kann ich die anderen noch einhholen. "
 
 
 
@@ -10377,7 +10478,7 @@ translate german s07_08_585c91d1:
 
     # b "The fog lifted as I walked. Finally, once I reached the end of the path where I found the three cats waiting for me. "
 
-    b ""
+    b "Der Nebel lichtet sich je weiter ich vorankomme. Am ende des Pfades warten die drei Katzen schon auf mich. "
 
 
 
@@ -10393,7 +10494,7 @@ translate german s07_08_32767d45:
 
     voice voice_file.tig(7,81)
 
-    tig nervous ""
+    tig nervous "\"Liao, wohin bist du gelaufen?\" "
 
 
 
@@ -10405,7 +10506,7 @@ translate german s07_08_2791066a:
 
     # b "Tiger walked up to me worried, inspecting me all over to see if I'd been hurt. "
 
-    b ""
+    b "Tiger kommt besorgt auf mich zu um mich auf Verletzungen zu untersuchen. "
 
 
 
@@ -10417,7 +10518,7 @@ translate german s07_08_0bc601ce:
 
     # avt "\"I don't know. I was walking, then the fog came and I couldn't see any of you guys...\" "
 
-    avt ""
+    avt "\"Ich weiß nicht. Als ich ging kam dieser Nebel und ich konnte keinen von euch mehr sehen...\" "
 
 
 
@@ -10433,7 +10534,7 @@ translate german s07_08_98854d5f:
 
     voice voice_file.tig(7,82)
 
-    tig nervous ""
+    tig nervous "\"Wirklich... du warst viel zu langsam. Kannst du dir vorstellen wie besorgt ich bin?\" "
 
 
 
@@ -10445,7 +10546,7 @@ translate german s07_08_54064926:
 
     # avt "\"I'm fine. It all worked out fine...\" "
 
-    avt ""
+    avt "\"Mir gehts gut, es ist alles gut gegangen...\" "
 
 
 
@@ -10457,7 +10558,7 @@ translate german s07_08_9650fcc6:
 
     # b "Suddenly, Tiger pulls me into a tight hug. " with vshake
 
-    b "" with vshake
+    b "Plötzlich schließt Tiger mich fest in seine Arme. " with vshake
 
 
 
@@ -10475,7 +10576,9 @@ translate german s07_08_b59bc738:
 
     voice voice_file.tig(7,83)
 
-    tig nervous ""
+    tig nervous "\"Mach mir bitte nie wieder so eine Angst. Du weißt wie es ist. Du ahnst nicht was ein boshafter Yaoguai dir antun könnte, {i}besonders{/i} \ solche die von diesen Gerüchten wissen.\" "
+
+    tig nervous "\"Das ist alles meine Schuld. Ich hätte besser auf dich Acht geben müssen.\" "
 
 
 
@@ -10487,7 +10590,7 @@ translate german s07_08_163c253c:
 
     # avt "\"Huh? I thought the worst yaoguai do is tell rumors...\" "
 
-    avt ""
+    avt "\"Hä? Ich dachte das schlimmste an den Yaoguai sind die Lästerein...\" "
 
 
 
@@ -10505,7 +10608,9 @@ translate german s07_08_9eb301e4:
 
     voice voice_file.tig(7,84)
 
-    tig disappointed ""
+    tig disappointed "\"Yaoguai sind ungewöhnliche Kreaturen. Einige entführen Menschen aus reiner Neugier.\" "
+
+    tig disappointed "\"Ich muss besser auf dich aufpassen. Besonders in solch nebeligen Bergen...\" "
 
 
 
@@ -10521,7 +10626,7 @@ translate german s07_08_852159e5:
 
     voice voice_file.tig(7,85)
 
-    tig frown ""
+    tig frown "\"Wenn wir in der Wildnis sind, bleib bitte immer an meiner Seite, okay?\" "
 
 
 
@@ -10533,7 +10638,7 @@ translate german s07_08_76c01ac1:
 
     # avt "\"...Yeah, I know.\" "
 
-    avt ""
+    avt "\"...Ja, Ich weiß.\" "
 
 
 
@@ -10545,7 +10650,7 @@ translate german s07_08_151ed44f:
 
     # b "I thought he was overreacting, but today really has been a weird day... I wonder who that other spirit was? I guess Senpai knew who they were..."
 
-    b ""
+    b "Ich denke zwar dass er etwas überreagiert, aber der heutige Tag war wirklich merkwürdig... Fragt sich nur wer dieser andere Geist war? Vielleicht weiß Senpai mehr darüber..."
 
 
 
@@ -10557,7 +10662,7 @@ translate german s07_08_a0efadc5:
 
     # b "But with everyone here I'll have to wait for another chance to ask Senpai about them in private. "
 
-    b ""
+    b "Aber gerade sind alle hier. Ich werde wohl abwarten müssen um unter vier Augen mit ihm darüber zu reden. "
 
 
 
@@ -10573,7 +10678,7 @@ translate german s07_08_7b3c616f:
 
     voice voice_file.lpdcat(7,140)
 
-    lpdcat normal ""
+    lpdcat normal "\"Ein Glück dass nichts schlimmes passiert ist. Ich denke es ist schon Zeit nachhaus zu gehen.\" "
 
 
 
@@ -10589,7 +10694,7 @@ translate german s07_08_68a8cc44:
 
     voice voice_file.tig(7,86)
 
-    tig normal ""
+    tig normal "\"Ich schätze schon. Wir sollten aufbrechen und uns für heute entspannen.\" "
 
 
 
@@ -10605,7 +10710,11 @@ translate german s07_08_85c4df7a:
 
     # b "I guess when I got lost in the fog with Senpai we ended up too far away from Leopard for him to keep them safe. "
 
-    b ""
+    b "Der Beschützertiger drängt uns in den nächstmöglichen Bus, um zügig gemeinsam zurückzufahren... "
+
+    b "Nachdem wir angekommen sind bemerkte ich dass die Tungblüten in der Tasche alle zerdrückt wurden. "
+
+    b "Ich schätze als ich mit Senpai im Nebel zurückfiel waren wir zu weit von Leopard entfernt. "
 
 
 
@@ -10617,7 +10726,7 @@ translate german s07_08_f7975776:
 
     # b "It's a shame but they were only flowers. I could always go get more if I really wanted \nto. "
 
-    b ""
+    b "Es ist zwar schade, aber es waren nur Blumen. Ich könnte immer neue besorgen wenn ich es wollte. "
 
 
 
@@ -10629,7 +10738,7 @@ translate german strings:
 
     old "手製便當要給誰吃呢？"
 
-    new ""
+    new "Mit wem soll ich mein selbstgemachtes Bento teilen?"
 
 
 
@@ -10637,7 +10746,7 @@ translate german strings:
 
     old "虎爺。"
 
-    new ""
+    new "Beschützertiger"
 
 
 
@@ -10645,7 +10754,7 @@ translate german strings:
 
     old "雲豹。"
 
-    new ""
+    new "Nebelparder"
 
 
 
@@ -10653,7 +10762,7 @@ translate german strings:
 
     old "石虎。"
 
-    new ""
+    new "Leopardkatze"
 
 
 
@@ -10661,7 +10770,7 @@ translate german strings:
 
     old "要跟哪隻大貓討論這種疑似戀愛的話題？"
 
-    new ""
+    new "Mit wem sollte ich über das ganze Beziehungsding sprechen?"
 
 
 
@@ -10669,7 +10778,7 @@ translate german strings:
 
     old "是否不想回老家？"
 
-    new ""
+    new "Mochte ich wirklich niemals heimkehren?"
 
 
 
@@ -10677,7 +10786,7 @@ translate german strings:
 
     old "不想被老家給束縛住。"
 
-    new ""
+    new "Ich möchte nicht an meine Familie gebunden sein."
 
 
 
@@ -10685,5 +10794,4 @@ translate german strings:
 
     old "還是會回去的。"
 
-    new ""
-
+    new "Ich denke ich werde irgendwann zurückkehren."
