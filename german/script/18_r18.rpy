@@ -250,7 +250,6 @@ translate german cg_lpdcat_h_d21827cd:
     # b "And then a third finger is pushed inside. Leopard Cat stops wailing completely— I-{w=0.2}I think he's into it. "
 
     b "Und dann drang der dritte Finger in ihn. Er hörte mit dem Jammern komplett auf- I-{w=0.2}Ich denke, es gefällt ihm. "
- "
 
 
 # game/script/18_r18.rpy:59
@@ -1511,7 +1510,7 @@ translate german s18_branch5_r18_02_6b17dc73:
 
     voice  voice_file.lpdcat("18N",5)
 
-    lpdcat_true wronged "\"Egal... ich weis... du willst dass ich Yan Shu-Chi am Leben erhalte, hab ich Recht?"\ "
+    lpdcat_true wronged "\"Egal... ich weis... du willst dass ich Yan Shu-Chi am Leben erhalte, hab ich Recht?\" "
 
     lpdcat_true wronged "Ich weis nicht warum, aber irgendwie verstehe ich dich langsam... Ich mein, ich wusste was mit dir vorher war. "
 
