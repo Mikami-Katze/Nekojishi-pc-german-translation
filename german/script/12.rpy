@@ -2014,7 +2014,7 @@ translate german cg_cat_play_dancing_machine_908dbbd3:
 
     # avt "\"I don't know whether it's you or Shu-chi that's leaving. But no matter who it is, you won't be able to date me.\" "
 
-    avt ""
+    avt "\"Ich weiß nicht, ob es du bist oder Shu-chi, der geht. Aber egal wer es ist, ihr werdet nicht in der Lage sein, mit mir auszugehen.\""
 
 
 
@@ -2028,7 +2028,9 @@ translate german cg_cat_play_dancing_machine_76bf23a7:
 
     # avt "\"Senpai, I know you're smart enough to have thought this through...\" "
 
-    avt ""
+    avt "\"Du hast mich an einen Ort mitgenommen, der bei den Jungs im Tanzclub besonders beliebt ist, und dann eine Show gemacht, in der du einen deiner Bewunderer auf eine Weise rausgeschmissen hast, die {i}jeder{/i} \ missverstehen wird.\" "
+    
+    avt "\"Senpai, ich weiß, dass du schlau genug bist, um das durchdacht zu haben...\" "
 
 
 
@@ -2040,7 +2042,7 @@ translate german cg_cat_play_dancing_machine_f5ada393:
 
     # avt "\"If you really did this on purpose...\" "
 
-    avt ""
+    avt "\"Wenn du das wirklich mit Absicht getan hast...\" "
 
 
 
@@ -2052,7 +2054,7 @@ translate german cg_cat_play_dancing_machine_6768f5e6:
 
     # avt "\"Something must be up! Please tell me!\" " with vshake
 
-    avt "" with vshake
+    avt "\"Irgendwas muss los sein! Sag es mir bitte!\" " with vshake
 
 
 
@@ -2068,7 +2070,7 @@ translate german cg_cat_play_dancing_machine_8a1f18a5:
 
     voice voice_file.lpdcat(12,49)
 
-    lpdcat difficult ""
+    lpdcat difficult "\"Liao...\" "
 
 
 
@@ -2080,7 +2082,7 @@ translate german cg_cat_play_dancing_machine_f9afad63:
 
     # b "Senpai avoids my eyes. "
 
-    b ""
+    b "Senpai vermeidet meinen Blick. "
 
 
 
@@ -2094,8 +2096,9 @@ translate german cg_cat_play_dancing_machine_8febc97b:
 
     # avt "\"But you {i}lived{/i} \ in my home for over a month. I'd hope that we're at least close enough for you to tell me. If you are leaving, I'd like to know why...\" "
 
-    avt ""
+    avt "\"Ich habe keine Beziehung mit Senpai und ich kann nicht mit dir nach Miaoli gehen... Vielleicht habe ich also nicht das Recht, dich darum zu bitten...\" "
 
+    avt "\"Aber du {i}lebst{/i} \ bei mir zu Hause seit über einem Monat. Ich hoffe, wir sind wenigstens nah genug, damit du es mir sagen kannst. Wenn du gehst, würde ich gerne wissen warum...\" "
 
 
 # game/script/12.rpy:541
@@ -2110,7 +2113,7 @@ translate german cg_cat_play_dancing_machine_554e93ce:
 
     voice voice_file.lpdcat(12,50)
 
-    lpdcat difficult ""
+    lpdcat difficult "\"Ich— Entschuldigung, Liao. Es ist nicht so, dass ich es dir nicht sagen möchte. Nur...\" "
 
 
 
@@ -2126,7 +2129,7 @@ translate german cg_cat_play_dancing_machine_c4a1d29c:
 
     voice voice_file.lpdcat(12,51)
 
-    lpdcat difficult ""
+    lpdcat difficult "\"Ich will dich nicht zwingen, mit mir nach Miaoli zu gehen... ich kann mich um meine eigenen \nAngelegenheiten kümmern.\" "
 
 
 
@@ -2138,7 +2141,7 @@ translate german cg_cat_play_dancing_machine_b4029453:
 
     # avt "\"Still, I want to know.\" "
 
-    avt ""
+    avt "\"Dennoch, ich will es wissen.\" "
 
 
 
@@ -2154,7 +2157,7 @@ translate german cg_cat_play_dancing_machine_8a637f9f:
 
     voice voice_file.lpdcat(12,52)
 
-    lpdcat serious ""
+    lpdcat serious "\"Okay... ich werde es dir sagen. Versprich mir nur eines.\" "
 
 
 
@@ -2166,7 +2169,7 @@ translate german cg_cat_play_dancing_machine_8a16379d:
 
     # avt "\"Name it.\" "
 
-    avt ""
+    avt "\"Sag schon.\" "
 
 
 
@@ -2182,7 +2185,7 @@ translate german cg_cat_play_dancing_machine_3bcfbc99:
 
     voice voice_file.lpdcat(12,53)
 
-    lpdcat serious ""
+    lpdcat serious "\"Lass nicht zu, dass das, was ich dir sage, deine Entscheidung, mir zu helfen, ändert. Am besten vergisst du sofort, was ich sage, wenn du kannst. Ich weiß, dass es von deiner Familie zu Hause abhängt, ob du kommst oder nicht...\ " "
 
 
 
@@ -2194,7 +2197,7 @@ translate german cg_cat_play_dancing_machine_8ff96d9a:
 
     # avt "\"I'll work on it. No matter what, I want to know what's going on...\" "
 
-    avt ""
+    avt "\"Ich werde daran arbeiten. Egal was, ich will wissen, was los ist...\" "
 
 
 
@@ -2210,7 +2213,7 @@ translate german cg_cat_play_dancing_machine_a8e5a40f:
 
     voice voice_file.lpdcat(12,54)
 
-    lpdcat normal ""
+    lpdcat normal "\"Nun. Es ist keine große Sache.\" "
 
 
 
@@ -2226,7 +2229,7 @@ translate german cg_cat_play_dancing_machine_70df493b:
 
     voice voice_file.lpdcat(12,55)
 
-    lpdcat serious ""
+    lpdcat serious "\"Es wird nur nicht mehr lange dauern, bis mein Fudegong den letzten Rest seiner göttlichen Macht verliert. Ich möchte in seinen letzten Tagen bei ihm sein. Das ist alles.\" "
 
 
 
@@ -2236,9 +2239,9 @@ translate german cg_cat_play_dancing_machine_f51f0117:
 
 
 
-    # avt "\"...What's going to happen to him?\" "
+    # avt "\"Whats going to happen to him?\" "
 
-    avt ""
+    avt "\"Was wird mit ihm passieren?\" "
 
 
 
@@ -2258,7 +2261,11 @@ translate german cg_cat_play_dancing_machine_821c84a2:
 
     voice voice_file.lpdcat(12,56)
 
-    lpdcat difficult ""
+    lpdcat difficult "\"Er wird... ähm... vielleicht zu einem {font=tl/None/NotoSansCJKtc-Bold.otf}Erdgeist{/font} degradieren.\" "
+
+    lpdcat difficult "\"Er wird immer noch irgendwo sein, selbst wenn er seine Göttlichkeit verliert, er wird einfach nicht mehr {i}existieren{/i} \... Schließlich existiert ein Gott des Bodens nicht, wenn niemand an ihn glaubt.\" "
+
+    lpdcat difficult "\"Eines Tages könnte er sich jedoch erholen, wenn jemand ihn anbetet.\" "
 
 
 
@@ -2274,7 +2281,7 @@ translate german cg_cat_play_dancing_machine_a0229d08:
 
     voice voice_file.lpdcat(12,57)
 
-    lpdcat difficult ""
+    lpdcat difficult "\"Aber selbst wenn er zurückkommt, wird er wahrscheinlich all seine Erinnerungen verlieren...\" "
 
 
 
@@ -2286,7 +2293,7 @@ translate german cg_cat_play_dancing_machine_c6c6a398:
 
     # b "In other words, his Fudegong will have forgotten all about him? "
 
-    b ""
+    b "Mit anderen Worten, sein Fudegong wird ihn ganz vergessen haben? "
 
 
 
@@ -2298,7 +2305,7 @@ translate german cg_cat_play_dancing_machine_30dcc94e:
 
     # avt "\"What about you? What will happen to you?\" "
 
-    avt ""
+    avt "\"Was ist mit dir? Was wird mit dir passieren?\" "
 
 
 
@@ -2316,7 +2323,9 @@ translate german cg_cat_play_dancing_machine_e964a9d9:
 
     voice voice_file.lpdcat(12,58)
 
-    lpdcat normal ""
+    lpdcat normal "\"Ich werde wieder zu einem Yaoguai. Keine Sorge, es wird mich nicht ändern. Ich werde nur kein Wächtertiger mehr sein.\" "
+
+    lpdcat normal "\"Hmm... Es ist ein bisschen so, als würde ein Unternehmen pleitegehen, nicht wahr? Der Chef stürzt ab, während alle anderen getrennte Wege gehen.\" "
 
 
 
@@ -2328,7 +2337,7 @@ translate german cg_cat_play_dancing_machine_1ddcc1a3:
 
     # avt "\"If it'd take us years to restore the temple, then how come it's got this bad so rapidly?\" "
 
-    avt ""
+    avt "\"Wenn wir Jahre brauchen würden, um den Tempel zu restaurieren, wie kommt es dann, dass es so schnell so schlimm wurde?\" "
 
 
 
@@ -2344,7 +2353,7 @@ translate german cg_cat_play_dancing_machine_01be4d96:
 
     voice voice_file.lpdcat(12,59)
 
-    lpdcat serious ""
+    lpdcat serious "\"Ich würde sagen, es dauert ungefähr zwei Jahre, bis ein Tempel eine feste Anhängerschaft hat. Aber solange ein Priester sich um den Tempel kümmert, ist es nicht schwer, ihn zu erhalten.\" "
 
 
 
@@ -2360,7 +2369,7 @@ translate german cg_cat_play_dancing_machine_ec29959e:
 
     voice voice_file.lpdcat(12,60)
 
-    lpdcat serious ""
+    lpdcat serious "\"Schließlich gibt es einen großen Unterschied zwischen einem vernachlässigten und einem verlassenen Tempel. Die Leute denken darüber nach, ob sie beten wollen oder nicht. Wenn sie dort jemanden sehen, gehen sie davon aus, dass der Tempel einen aktiven Gott hat.\" "
 
 
 
@@ -2372,7 +2381,7 @@ translate german cg_cat_play_dancing_machine_0c5e9592:
 
     # avt "\"So as long as I'm there, the local God of Soil won't vanish?\" "
 
-    avt ""
+    avt "\"Solange ich also dort bin, wird der örtliche Gott des Bodens nicht verschwinden?\" "
 
 
 
@@ -2388,7 +2397,7 @@ translate german cg_cat_play_dancing_machine_ad91d9c4:
 
     voice voice_file.lpdcat(12,61)
 
-    lpdcat serious ""
+    lpdcat serious "\"Ja, ungefähr so.\" "
 
 
 
@@ -2400,7 +2409,7 @@ translate german cg_cat_play_dancing_machine_2ecb157d:
 
     # avt "\"...How much time do we have?\" "
 
-    avt ""
+    avt "\"...Wie viel Zeit haben wir?\" "
 
 
 
@@ -2416,7 +2425,7 @@ translate german cg_cat_play_dancing_machine_915d1c0c:
 
     voice voice_file.lpdcat(12,62)
 
-    lpdcat difficult ""
+    lpdcat difficult "\"Ich bin mir nicht sicher. Es wird... knapp. Wahrscheinlich höchstens einen Monat. Also ja, ich muss in den nächsten Tagen wieder hin...\" "
 
 
 
@@ -2432,7 +2441,7 @@ translate german cg_cat_play_dancing_machine_21765059:
 
     voice voice_file.lpdcat(12,63)
 
-    lpdcat serious ""
+    lpdcat serious "\"Ich weiß, du wolltest bis zur Sommerpause warten, aber das kann nicht passieren. Ich erwarte nicht, dass du deine Abschlussprüfung aufgibst, nur um mit mir zu kommen. Also... Es ist besser, wir hören hier auf.\" "
 
 
 
@@ -2444,7 +2453,7 @@ translate german cg_cat_play_dancing_machine_2501d905:
 
     # avt "\"Stop here?\" " with vshake
 
-    avt "" with vshake
+    avt "\"Hier aufhören?\" " with vshake
 
 
 
@@ -2460,7 +2469,7 @@ translate german cg_cat_play_dancing_machine_5df6a53c:
 
     voice voice_file.lpdcat(12,64)
 
-    lpdcat normal ""
+    lpdcat normal "\"Ich... habe dir nur Ärger bereitet, Liao. Sogar der alte Mann würde sich freuen, wenn ich gehen würde.\" "
 
 
 
@@ -2472,7 +2481,7 @@ translate german cg_cat_play_dancing_machine_954be41a:
 
     # avt "\"That's not true!\" " with vshake
 
-    avt "" with vshake
+    avt "\"Das stimmt nicht!\" " with vshake
 
 
 
@@ -2484,7 +2493,7 @@ translate german cg_cat_play_dancing_machine_87c350e9:
 
     # avt "\"You really have to go so soon? That's so sudden... Your God of Soil is almost gone. {i}Why{/i} \ did you keep this from me?\" "
 
-    avt ""
+    avt "\"Du musst wirklich so schnell gehen? Das kommt so plötzlich... Dein Gott des Bodens ist fast verschwunden. {i}Warum{/i} \ hast du mir das vorenthalten?\" "
 
 
 
