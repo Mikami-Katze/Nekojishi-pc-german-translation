@@ -552,6 +552,9 @@ translate german start_01c9ffc3:
 
     b "Seid ich für die Hochschule nach Taipei gezogen bin, habe ich alleine in diesem kleinen Apartment gelebt"
 
+    b "Ich bin ein Student, also ist es normal, dass ich mich nicht viel um mein Zimmer kümmere, ganz zu schweigen von {i}was{/i} \ Das tue ich..."
+
+    b "Wenn dieser Typ die ganze Zeit bei mir war..."
 
 
 # game/script/01.rpy:761
@@ -702,7 +705,7 @@ translate german start_ef462079:
 
     # avt "\"Yeah, of course I know I can't find those—\" "
 
-    avt "\"Ja, ich weiß natürlich das ich so einen nicht finden-\" "
+    avt "\"Ja, ich weiß natürlich das ich so einen nicht finden kann-\" "
 
 
 
@@ -1374,7 +1377,7 @@ translate german start_17f833be:
 
     # avt  "\"What?\" "
 
-    avt "\"What?\" "
+    avt "\"Was?\" "
 
 
 
@@ -1414,7 +1417,7 @@ translate german start_5b23d985:
 
     voice voice_file.lpd(1,6)
 
-    lpd normal "\"Nebelparder.\" "
+    lpd normal "\"Nebel-Leopard.\" "
 
 
 
@@ -1486,7 +1489,7 @@ translate german start_8c96b8a5:
 
     voice voice_file.lpd(1,9)
 
-    lpd normal "\"Nebelparder Geist. \" "
+    lpd normal "\"Nebel-Leopard Geist. \" "
 
 
 
@@ -1766,7 +1769,7 @@ translate german start_3341c5c3:
 
     # b "And I don't even know what he wants me for! Why should I even think about going with some spirit that just came knocking on my door?!"
 
-    b "AUnd ich weiß nicht einmal wofür genau er mich braucht! Warum sollte ich überhaupt darüber nachdenken mit irgend einem Geist mitzugehen, der grade eben erst an meine Tür geklopft hat?!"
+    b "Und ich weiß nicht einmal wofür genau er mich braucht! Warum sollte ich überhaupt darüber nachdenken mit irgend einem Geist mitzugehen, der grade eben erst an meine Tür geklopft hat?!"
 
 
 
@@ -2046,7 +2049,7 @@ translate german start_bd9bd4d9:
 
     # b "I figure there's no way they'll hurt me, right? But if they're really going to fight, what else can I do? "
 
-    b "I schätze sie würden mich auf keinen Fall verletzen, richtig? Aber wenn sie wirklich kämpfen werden, was kann ich noch tun?"
+    b "Ich schätze sie würden mich auf keinen Fall verletzen, richtig? Aber wenn sie wirklich kämpfen werden, was kann ich noch tun?"
 
 
 
@@ -2834,7 +2837,7 @@ translate german start_b0314b49:
 
     voice voice_file.lpd(1,19)
 
-    lpd normal "\"...Rukai Nebelparder.\" "
+    lpd normal "\"...Rukai Nebel-Leopard.\" "
 
 
 
@@ -3176,7 +3179,7 @@ translate german start_45ee8e63:
 
     voice voice_file.lpdcat(1,28)
 
-    lpdcat panic "\"wird für hunder JAhre niemand mehr mit deiner Fähigkeit auftauchen...\" "
+    lpdcat panic "\"wird für hunder Jahre niemand mehr mit deiner Fähigkeit auftauchen...\" "
 
     lpdcat panic "\"Schon gar nicht in der Zeit in der mein Tempel gerettet werden muss...\" "
 
@@ -3306,7 +3309,7 @@ translate german start_9a85909c:
 
     # b "All three of the big cats stopped, their eyes fixed on me. "
 
-    b "Die drei großen Kater hielten inne, die augen auf mich fixiert."
+    b "Die drei großen Kater hielten inne, die Augen auf mich fixiert."
 
 
 
@@ -3466,7 +3469,7 @@ translate german start_c25da48b:
 
     voice voice_file.tig(1,40)
 
-    tig angry "\"Du bist ein ganz schön stur...\" "
+    tig angry "\"Du bist ein ziemlicher Sturkopf...\" "
 
 
 
@@ -3846,7 +3849,7 @@ translate german start_bf18d98b:
 
     voice voice_file.lpdcat(1,36)
 
-    lpdcat pu "\"Also gut, da Liao mich onehin sehen wird, macht es keinen Unterschied wenn ich bleibe, richtig?\" "
+    lpdcat pu "\"Also gut, da Liao mich ohnehin sehen wird, macht es keinen Unterschied wenn ich bleibe, richtig?\" "
 
 
 
@@ -4018,7 +4021,7 @@ translate german start_09553e84:
 
     # avt "\"Umm, Mister Clouded Leopard, you... do you really have to stay? Could you please...\" "
 
-    avt "\"Umm, Herr Nebelparder, du... {w=0.5}musst du wirklich hier bleiben? Könntest du nicht bitte...\" "
+    avt "\"Umm, Herr Nebel-Leopard, du... {w=0.5}musst du wirklich hier bleiben? Könntest du nicht bitte...\" "
 
 
 
@@ -4114,7 +4117,7 @@ translate german start_a99d192a:
 
     # b "I can tell I'm blushing right now... "
 
-    b "I merke das ich erröte..."
+    b "Ich merke das ich erröte..."
 
 
 
@@ -4214,7 +4217,7 @@ translate german start_75839321:
 
     voice voice_file.tig(1,44)
 
-    tig frown "\"Ich werde auf gar keinen Fall {i}\"in\"{/i} \ in einem Schreibtisch bleibe. Ich bin schließlich ein Gott und habe meinen Stolz.\" "
+    tig frown "\"Ich werde auf gar keinen Fall {i}\"in\"{/i} \ einem Schreibtisch bleibe. Ich bin schließlich ein Gott und habe meinen Stolz.\" "
 
 
 
@@ -4360,7 +4363,7 @@ translate german start_ead5aeed:
 
     # b "What did I do to deserve all this! "
 
-    b "Was stimmt nicht mjit diesen Typen? Ich meine, Tiermenschen sind süß, aber das ein Haufen von ihnen einfach plötzlich auf einmal in meinem Leben auftauchen, ist beinahe etwas zuviel für mich. "
+    b "Was stimmt nicht mit diesen Typen? Ich meine, Tiermenschen sind süß, aber das ein Haufen von ihnen einfach plötzlich auf einmal in meinem Leben auftauchen, ist beinahe etwas zuviel für mich. "
 
     b "Was habe ich nur getan um das zu verdienen?"
 
@@ -4786,7 +4789,7 @@ translate german start_971b57c4:
 
     voice voice_file.lpdcat(1,51)
 
-    lpdcat"\"Was? Nö— Ich habe nur gemeint da du doch eh grade warten musst, warum denkst dui nicht nochmal übe—\" "
+    lpdcat"\"Was? Nö— Ich habe nur gemeint da du doch eh grade warten musst, warum denkst du nicht nochmal übe—\" "
 
 
 
@@ -4826,7 +4829,7 @@ translate german start_cb379000:
 
     # b "I stand around confused as the bathroom door opens suddenly, revealing Leopard holding a pair of my shorts. "
 
-    b "I stehe verwirrt da als sich die Badezimmertür plötzlich öffnet und Nebelparder enthüllt der ein Paar meiner Shorts hält."
+    b "Ich stehe verwirrt da als sich die Badezimmertür plötzlich öffnet und der Nebel-Leopard hält ein Paar meiner Shorts."
 
 
 
@@ -4838,7 +4841,7 @@ translate german start_62cf63c3:
 
     # b "What? I thought the door was locked! I hide behind it quickly, carefully taking the shorts from Leopard without exposing any of my bare skin to the three big cats in the other room." with hshake
 
-    b "Was? Ich dachte die Tür wäre abgeschlossen! Ich verstecke mich schnell dahinter und nehme vorsichtig die Shorts von Nebelparder ohne dabei meine nackte Haut vor den drei Katern im anderen Zimmer zu entblößen. " with hshake
+    b "Was? Ich dachte die Tür wäre abgeschlossen! Ich verstecke mich schnell dahinter und nehme vorsichtig die Shorts vom Nebel-Leopard ohne dabei meine nackte Haut vor den drei Katern im anderen Zimmer zu entblößen. " with hshake
 
 
 
@@ -4862,7 +4865,7 @@ translate german start_fad2f013:
 
     # b "After handing me my shorts, he leaves. I shut the door firmly behind him and slump against it, my heart pounding as I slide to the floor. "
 
-    b "Nachdem er mir die Shorts gegeben hatte ging er. Ischließe die Tür hinter ihm und lehne mich an sie an, mein Herz pochend während ich zu Boden sinke."
+    b "Nachdem er mir die Shorts gegeben hatte ging er. Ich schließe die Tür hinter ihm und lehne mich an sie an, mein Herz pocht während ich zu Boden sinke."
 
 
 
@@ -4878,11 +4881,11 @@ translate german start_4fe2e827:
 
     # b "...Seeing me didn't even faze him in the slightest. "
 
-    b "Hat er mich eben nicht nackt gesehen? {w=0.5}Wer würde einfch die Badezimmertür aufreisen um jemandem darin seine Sachen zu geben! "
+    b "Hat er mich eben nicht nackt gesehen? {w=0.5}Wer würde einfach die Badezimmertür aufreisen um jemandem darin seine Sachen zu geben! "
 
     b "Ist dann nicht die ganze\"bring mir bitte meine Sachen\" Frage überflüssig? "
 
-    b "...Mich zu sehen hat ihm nicht eine Regunbg entlockt. "
+    b "...Dass er mich sah, hat ihn nicht im Geringsten gestört. "
 
 
 
@@ -4910,7 +4913,7 @@ translate german start_3f273f59:
 
     # b "I look at my shorts haplessly. No shirt, but that will have to do. It's better than going out naked... I guess? "
 
-    b "I schaue meine Shorts hilflos an. Kein Shirt, aber es muss so gehen. Es ist besser als nackt rausgehen zu müssen...schätze ich?"
+    b "Ich schaue meine Shorts hilflos an. Kein Shirt, aber es muss so gehen. Es ist besser als nackt rausgehen zu müssen...schätze ich?"
 
 
 
@@ -5106,7 +5109,7 @@ translate german start_bafa61bd:
 
     voice voice_file.lpdcat(1,58)
 
-    lpdcat difficult "\"TDann Liao, warum schlafen wir nicht zusammen?\" "
+    lpdcat difficult "\"Dann Liao, warum schlafen wir nicht zusammen?\" "
 
 
 
@@ -5138,7 +5141,7 @@ translate german start_66488c8b:
 
     avt "\"Uhh— Senpai... {w=0.5}Ich weiß immernoch nicht was mit dir los ist.\" "
 
-    avt "\"Bevor ich aufgewacht bion warst du ein ganz gewöhnlicher Typ. Jetzt bist du plötzlich so...\" "
+    avt "\"Bevor ich aufgewacht bin warst du ein ganz gewöhnlicher Typ. Jetzt bist du plötzlich so...\" "
 
 
 
@@ -5154,7 +5157,7 @@ translate german start_c6a9b04b:
 
     voice voice_file.lpdcat(1,60)
 
-    lpdcat normal "\"Naja wie du schon sagtest, es ist durch deine Erweckung  geschehen. Schließlich besetze ich Yan Shu-Chi grade jetzt.\" "
+    lpdcat normal "\"Naja wie du schon sagtest, es ist durch deine Erweckung geschehen. Schließlich besetze ich Yan Shu-Chi grade jetzt.\" "
 
 
 
@@ -5274,7 +5277,7 @@ translate german start_5fdef0fd:
 
     # b "I can't help but bury my hand into my face. He couldn't have missed my point any further if he tried. "
 
-    b "Ich kann nicht anders als mein gesicht in den Händen zu vergraben. Er hätte meinen Punkt nicht mehr missverstehen können, wenn er es versucht hätte. "
+    b "Ich kann nicht anders als mein Gesicht in den Händen zu vergraben. Er hätte meinen Punkt nicht mehr missverstehen können, wenn er es versucht hätte. "
 
 
 
@@ -5330,7 +5333,7 @@ translate german start_db9b3888:
 
     voice voice_file.tig(1,47)
 
-    tig normal "\"Das wird nicht gehen. Liao und Ich schlafen normalerweise auf dem Bett, und ich werde das auf keinen Fall an dich abgeben. Du bist ein einfaches Kätzchen, im Flur sollte gung Platz zum schlafen für dich sein.\" "
+    tig normal "\"Das wird nicht gehen. Liao und Ich schlafen normalerweise auf dem Bett, und ich werde das auf keinen Fall an dich abgeben. Du bist ein einfaches Kätzchen, im Flur sollte genug Platz zum schlafen für dich sein.\" "
 
 
 
